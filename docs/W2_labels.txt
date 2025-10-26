@@ -1,0 +1,3678 @@
+===================================================
+Variable Labels and Value Labels for W2 
+Generated: 2025-10-26 08:32:09.788514 
+===================================================
+
+
+Variable: country 
+  Question: Country Code 
+  Value Labels:
+     1 = Japan 
+     2 = Hong Kong 
+     3 = Korea 
+     4 = Mainland China 
+     5 = Mongolia 
+     6 = Philippines 
+     7 = Taiwan 
+     8 = Thailand 
+     9 = Indonesia 
+     10 = Singapore 
+     11 = Vietnam 
+     12 = Cambodia 
+     13 = Malaysia 
+
+Variable: idnumber 
+  Question: Interview Numbers 
+
+Variable: level3 
+  Question: Urban-rural 
+  Value Labels:
+     1 = Urban 
+     2 = Rural 
+     3 = No registration 
+
+Variable: q1 
+  Question: How would you rate the overall economic condition of our country today? 
+  Value Labels:
+     1 = Very bad 
+     2 = Bad 
+     3 = So so (not good nor bad) 
+     4 = Good 
+     5 = Very good 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q2 
+  Question: How would you describe the change in the economic condition of our country over the last years? 
+  Value Labels:
+     1 = Much worse 
+     2 = A little worse 
+     3 = About the same 
+     4 = A little better 
+     5 = Much better 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q3 
+  Question: What do you think will be the state of our country's economic condition a few years from now? 
+  Value Labels:
+     1 = Much worse 
+     2 = A little worse 
+     3 = About the same 
+     4 = A little better 
+     5 = Much better 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q4 
+  Question: As for your own family, how do you rate your economic situation today? 
+  Value Labels:
+     1 = Very bad 
+     2 = Bad 
+     3 = So so (not good nor bad) 
+     4 = Good 
+     5 = Very good 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q5 
+  Question: How would you compare the current economic condition of your family with what it was a few years ago? 
+  Value Labels:
+     1 = Much worse now 
+     2 = A little worse now 
+     3 = About the same 
+     4 = A little better now 
+     5 = Much better now 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q6 
+  Question: What do you think the economic situation of your family will be a few years from now? 
+  Value Labels:
+     1 = Much worse 
+     2 = A little worse 
+     3 = About the same 
+     4 = A little better 
+     5 = Much better 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q7 
+  Question: Trust in Prime Minister or president 
+  Value Labels:
+     1 = None at all 
+     2 = Not Very Much Trust 
+     3 = Quite a Lot of Trust 
+     4 = A Great Deal of Trust 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q8 
+  Question: Trust in the Courts 
+  Value Labels:
+     1 = None at all 
+     2 = Not Very Much Trust 
+     3 = Quite a Lot of Trust 
+     4 = A Great Deal of Trust 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q9 
+  Question: Trust in the national government 
+  Value Labels:
+     1 = None at all 
+     2 = Not Very Much Trust 
+     3 = Quite a Lot of Trust 
+     4 = A Great Deal of Trust 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q10 
+  Question: Trust in Political parties 
+  Value Labels:
+     1 = None at all 
+     2 = Not Very Much Trust 
+     3 = Quite a Lot of Trust 
+     4 = A Great Deal of Trust 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q11 
+  Question: Trust in Parliament 
+  Value Labels:
+     1 = None at all 
+     2 = Not Very Much Trust 
+     3 = Quite a Lot of Trust 
+     4 = A Great Deal of Trust 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q12 
+  Question: Trust in Civil service 
+  Value Labels:
+     1 = None at all 
+     2 = Not Very Much Trust 
+     3 = Quite a Lot of Trust 
+     4 = A Great Deal of Trust 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q13 
+  Question: Trust in the military(or armed forces) 
+  Value Labels:
+     1 = None at all 
+     2 = Not Very Much Trust 
+     3 = Quite a Lot of Trust 
+     4 = A Great Deal of Trust 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q14 
+  Question: Trust in the police 
+  Value Labels:
+     1 = None at all 
+     2 = Not Very Much Trust 
+     3 = Quite a Lot of Trust 
+     4 = A Great Deal of Trust 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q15 
+  Question: Trust in local government 
+  Value Labels:
+     1 = None at all 
+     2 = Not Very Much Trust 
+     3 = Quite a Lot of Trust 
+     4 = A Great Deal of Trust 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q16 
+  Question: Trust in newspaper 
+  Value Labels:
+     1 = None at all 
+     2 = Not Very Much Trust 
+     3 = Quite a Lot of Trust 
+     4 = A Great Deal of Trust 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q17 
+  Question: Trust in television 
+  Value Labels:
+     1 = None at all 
+     2 = Not Very Much Trust 
+     3 = Quite a Lot of Trust 
+     4 = A Great Deal of Trust 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q18 
+  Question: Trust in the election commission(Singapore: International TV) 
+  Value Labels:
+     1 = None at all 
+     2 = Not Very Much Trust 
+     3 = Quite a Lot of Trust 
+     4 = A Great Deal of Trust 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q19 
+  Question: Trust in NGOs 
+  Value Labels:
+     1 = None at all 
+     2 = Not Very Much Trust 
+     3 = Quite a Lot of Trust 
+     4 = A Great Deal of Trust 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q20 
+  Question: Are you a member of any organization or formal groups? 
+  Value Labels:
+     1 = Yes 
+     2 = No 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: fgnum 
+  Question: Number of formal group 
+  Value Labels:
+     0 = None 
+     1 = One 
+     2 = Two 
+     3 = Three 
+     98 = Not applicable 
+
+Variable: q20_1 
+  Question: First organization 
+  Value Labels:
+     1 = Political parties 
+     2 = Residential & community associations 
+     3 = Religious groups 
+     4 = Sports/recreational clubs 
+     5 = Culture organizations 
+     6 = Charities 
+     7 = Public interest groups (exc.) 
+     8 = Labor unions 
+     9 = Farmer unions or agricultural associations 
+     10 = Professional organizations 
+     11 = Business association 
+     12 = Parent-Teacher Association or PTA 
+     13 = Producer cooperative 
+     14 = Consumer cooperative 
+     15 = Alumni association 
+     16 = Candidate support organization 
+     17 = Other occupational organizations (etc.) 
+     18 = Other volunteer organizations 
+     19 = Hometown associations(others) 
+     20 = Clan associations(others) 
+     90 = Not a member of any organization or group 
+     98 = Not applicable 
+     99 = No more answer 
+
+Variable: q20_2 
+  Question: Second organization 
+  Value Labels:
+     1 = Political parties 
+     2 = Residential & community associations 
+     3 = Religious groups 
+     4 = Sports/recreational clubs 
+     5 = Culture organizations 
+     6 = Charities 
+     7 = Public interest groups (exc.) 
+     8 = Labor unions 
+     9 = Farmer unions or agricultural associations 
+     10 = Professional organizations 
+     11 = Business association 
+     12 = Parent-Teacher Association or PTA 
+     13 = Producer cooperative 
+     14 = Consumer cooperative 
+     15 = Alumni association 
+     16 = Candidate support organization 
+     17 = Other occupational organizations (etc.) 
+     18 = Other volunteer organizations 
+     19 = Hometown associations(others) 
+     20 = Clan associations(others) 
+     90 = Not a member of any organization or group 
+     98 = Not applicable 
+     99 = No more answer 
+
+Variable: q20_3 
+  Question: Third organization 
+  Value Labels:
+     1 = Political parties 
+     2 = Residential & community associations 
+     3 = Religious groups 
+     4 = Sports/recreational clubs 
+     5 = Culture organizations 
+     6 = Charities 
+     7 = Public interest groups (exc.) 
+     8 = Labor unions 
+     9 = Farmer unions or agricultural associations 
+     10 = Professional organizations 
+     11 = Business association 
+     12 = Parent-Teacher Association or PTA 
+     13 = Producer cooperative 
+     14 = Consumer cooperative 
+     15 = Alumni association 
+     16 = Candidate support organization 
+     17 = Other occupational organizations (etc.) 
+     18 = Other volunteer organizations 
+     19 = Hometown associations(others) 
+     20 = Clan associations(others) 
+     90 = Not a member of any organization or group 
+     98 = Not applicable 
+     99 = No more answer 
+
+Variable: q23 
+  Question: General speaking, would you say "Most people can be trusted" or "that you must be very careful"? 
+  Value Labels:
+     1 = You must be very careful in dealing with people 
+     2 = Most people can be trusted 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q24 
+  Question: How much trust do you have in your relatives? 
+  Value Labels:
+     1 = None at all 
+     2 = Not Very Much Trust 
+     3 = Quite a Lot of Trust 
+     4 = A Great Deal of Trust 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q25 
+  Question: How much trust do you have in your neighbors? 
+  Value Labels:
+     1 = None at all 
+     2 = Not Very Much Trust 
+     3 = Quite a Lot of Trust 
+     4 = A Great Deal of Trust 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q26 
+  Question: How much trust do you have in other people you interact with? 
+  Value Labels:
+     1 = None at all 
+     2 = Not Very Much Trust 
+     3 = Quite a Lot of Trust 
+     4 = A Great Deal of Trust 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q27 
+  Question: On average, about how many people do you have contact with in a typical week day? 
+  Value Labels:
+     0 = Not applicable 
+     1 = 0-4 people 
+     2 = 5-9 people 
+     3 = 10-19 people 
+     4 = 20-49 people 
+     5 = 50 or more people 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q28 
+  Question: How often are you asked to help influence important decisions in other people's favor? 
+  Value Labels:
+     1 = Never 
+     2 = Seldom 
+     3 = Occasionally 
+     4 = Often 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q29 
+  Question: And are there people you could ask to help influence important decisions in your favor? 
+  Value Labels:
+     1 = No, nobody 
+     2 = Yes, a few 
+     3 = Yes, some 
+     4 = Yes, a lot 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q30 
+  Question: Do you agree or disagree with the following statement: By helping people in trouble today, someone else will help me when I am in trouble someday. 
+  Value Labels:
+     1 = Agree 
+     2 = Somewhat agree 
+     3 = Somewhat disagree 
+     4 = Disagree 
+     5 = Neither agree nor disagree 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q31 
+  Question: Would you have a hard time conversing with your friends or co-workers about politics if you had differing opinions? 
+  Value Labels:
+     1 = Very hard 
+     2 = A bit hard 
+     3 = Not too hard 
+     4 = Not hard at all 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Don't respond 
+
+Variable: q32 
+  Question: Generally speaking, how safe is living in this city/town/village? 
+  Value Labels:
+     1 = Very safe 
+     2 = Safe 
+     3 = Unsafe 
+     4 = Very unsafe 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q33 
+  Question: Compared to the situation in this city/town/village a few years ago, do you feel more safe, less safe or the same as before? 
+  Value Labels:
+     0 = Not applicable 
+     1 = More safe 
+     2 = Less safe 
+     3 = Same as before 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q34 
+  Question: Have you been a victim of car, motorcycle or bicycle theft? 
+  Value Labels:
+     0 = Do not own any kind of vehicle 
+     1 = No 
+     2 = Yes 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q35 
+  Question: Have you been a victim of pick-pocketing/robbery of personal property? 
+  Value Labels:
+     0 = Not applicable 
+     1 = No 
+     2 = Yes 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q36 
+  Question: Have you been a victim of break-in at your home? 
+  Value Labels:
+     0 = Not applicable 
+     1 = No 
+     2 = Yes 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q37 
+  Question: Have you been a victim of physical violence? 
+  Value Labels:
+     0 = Not applicable 
+     1 = No 
+     2 = Yes 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q38 
+  Question: Have you voted in the last election? 
+  Value Labels:
+     0 = Not applicable 
+     1 = No 
+     2 = Yes 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q39 
+  Question: Which parties (or candidates for president if it was presidential race) did you vote for? 
+  Value Labels:
+     90 = Not applicable 
+     94 = Secret 
+     95 = No answer 
+     96 = Forgot 
+     97 = Do not know 
+     98 = Cannot choose 
+     99 = Decline to answer 
+     101 = LDP 
+     102 = DPJ 
+     103 = Komeito(CGP) 
+     104 = SDP 
+     105 = JCP 
+     106 = other party 
+     107 = Independent 
+     110 = no information 
+     111 = voted in blank 
+     301 = The Uri Party(governing party) 
+     302 = The Grand National Party 
+     303 = The Democratic Party 
+     304 = The United Liberal Democrats 
+     305 = The Democratic Labor Party 
+     306 = Other Parties 
+     107 = Independent 
+     501 = N. Enhbayar 
+     502 = M. Enhsaikhan 
+     503 = B. Jargalsaikhan 
+     504 = B. Erdenebat 
+     601 = LACSON, PANFILO 
+     602 = MACAPAGAL-ARROYO, GLORIA 
+     603 = POE, FERNANDO JR. 
+     604 = ROCO, RAUL 
+     605 = VILLANUEVA, EDUARDO 
+     701 = Shui-bian Chen and Annette Lu 
+     702 = Chan Lien and James Soong 
+     801 = THAI RAK THAI 
+     802 = Other Party 
+     803 = Vote for no vote 
+     804 = Non-valid vote 
+     901 = Indonesian National Party Marhaenism 
+     902 = Social Democrat Labour Party 
+     903 = Crescent Star Party 
+     904 = Independent Party 
+     905 = United Development Party 
+     906 = United Democratic Nationhood Party 
+     907 = New Indonesia Union Party 
+     908 = Freedom Bull National Party 
+     909 = Democrat Party 
+     910 = Justice and Unity Party 
+     911 = Indonesian Democratic Vanguard Party 
+     912 = Indonesian United Renaissance People Party 
+     913 = National Mandate Party 
+     914 = Concern for thel Nation Functional Party 
+     915 = National Awakening Party 
+     916 = Prosperous and Justice Party 
+     917 = Reform Star Party 
+     918 = Indonesian Democratic Party-Struggle 
+     919 = Peace and Prosperous Party 
+     920 = Functional Group Party 
+     921 = Patriot Pancasila Party 
+     922 = Indonesian Association Party 
+     923 = United Regional Party 
+     924 = Vanguard Party 
+     1301 = BarisanNasional 
+     1302 = UMNO 
+     1303 = MCA 
+     1304 = MIC 
+     1305 = Gerakan 
+     1306 = PBS 
+     1307 = PBB 
+     1308 = SUPP 
+     1309 = Other BN party 
+     1310 = Opposition 
+     1311 = PAS 
+     1312 = DAP 
+     1313 = PKR 
+     1314 = Other 
+
+Variable: q39a 
+  Question: If the respondent voted for the winning camp or loosing camp? 
+  Value Labels:
+     0 = Not applicable 
+     1 = Voted for the winning camp(governing party) 
+     2 = Voted for the losing camp(opposition party) 
+     9 = Decline to answer 
+
+Variable: q40 
+  Question: Attend a campaign meeting or rally 
+  Value Labels:
+     0 = Not applicable 
+     1 = No 
+     2 = Yes 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q41 
+  Question: Try to persuade others to vote for a certain candidate or party 
+  Value Labels:
+     0 = Not applicable 
+     1 = No 
+     2 = Yes 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q42 
+  Question: Did you do anything else to help out or work for a party or candidate running in the election 
+  Value Labels:
+     0 = Not applicable 
+     1 = No 
+     2 = Yes 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q43 
+  Question: On the whole, how would you rate the freeness and fairness of the last national election? 
+  Value Labels:
+     0 = Not applicable 
+     1 = Completely free and fair 
+     2 = Free and fair, but with minor problems 
+     3 = Free and fair, with major problems 
+     4 = Not free or fair 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q44 
+  Question: How easy is it to obtain: An identity document 
+  Value Labels:
+     0 = Not applicable 
+     1 = Very Difficult 
+     2 = Difficult 
+     3 = Easy 
+     4 = Very Easy 
+     5 = Never Try 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q45 
+  Question: How easy is it to obtain: A place in public primary school for a child 
+  Value Labels:
+     0 = Not applicable 
+     1 = Very Difficult 
+     2 = Difficult 
+     3 = Easy 
+     4 = Very Easy 
+     5 = Never Try 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q46 
+  Question: How easy is it to obtain: Medical treatment at a nearby clinic 
+  Value Labels:
+     0 = Not applicable 
+     1 = Very Difficult 
+     2 = Difficult 
+     3 = Easy 
+     4 = Very Easy 
+     5 = Never Try 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q47 
+  Question: How easy is it to obtain: Help from the police when you need it 
+  Value Labels:
+     0 = Not applicable 
+     1 = Very Difficult 
+     2 = Difficult 
+     3 = Easy 
+     4 = Very Easy 
+     5 = Never Try 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q48 
+  Question: How would you describe the present political situation in our country 
+  Value Labels:
+     1 = Very good 
+     2 = Good 
+     3 = Average 
+     4 = Bad 
+     5 = Very bad 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q49 
+  Question: How interested would you say you are in politics 
+  Value Labels:
+     1 = Not at all interested 
+     2 = Not very interested 
+     3 = Somewhat interested 
+     4 = Very interested 
+     7 = No answer 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q50 
+  Question: How often do you follow news about politics and government 
+  Value Labels:
+     1 = Practically never 
+     2 = Not even once a week 
+     3 = Once or twice a week 
+     4 = Several times a week 
+     5 = Everyday 
+     6 = No Answer 
+     7 = No answer 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q51_1 
+  Question: Main source of information. Question 51.01 Television 
+  Value Labels:
+     0 = Not applicable 
+     1 = Yes 
+     2 = No 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q51_2 
+  Question: Question 51.02 Newspaper 
+  Value Labels:
+     0 = Not applicable 
+     1 = Yes 
+     2 = No 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q51_3 
+  Question: Question 51.03 Radio 
+  Value Labels:
+     0 = Not applicable 
+     1 = Yes 
+     2 = No 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q51_4 
+  Question: Question 51.04 Internet 
+  Value Labels:
+     0 = Not applicable 
+     1 = Yes 
+     2 = No 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q51_5 
+  Question: Question 51.05 Cell phone short message (SMS) 
+  Value Labels:
+     0 = Not applicable 
+     1 = Yes 
+     2 = No 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q51_6 
+  Question: Question 51.06 Personal contact 
+  Value Labels:
+     0 = Not applicable 
+     1 = Yes 
+     2 = No 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q51_7 
+  Question: Question 51.07 Other 
+  Value Labels:
+     0 = Not applicable 
+     1 = Yes 
+     2 = No 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q51_8 
+  Question: Magazine 
+  Value Labels:
+     0 = Not applicable 
+     1 = Yes 
+     2 = No 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q51a 
+  Question: From Q51 Which is most important 
+  Value Labels:
+     1 = Television 
+     2 = Newspaper 
+     3 = Radio 
+     4 = Internet 
+     5 = Cell phone short message (SMS) 
+     6 = Personal contact 
+     7 = Other(My: religious leader) 
+     8 = Magazine 
+     11 = International TV 
+     90 = Not applicable 
+     98 = Can't choose 
+     99 = Decline to answer 
+
+Variable: q52 
+  Question: When you get together with your family members or friends, how often do you discuss political matters? 
+  Value Labels:
+     1 = Frequently 
+     2 = Occasionally 
+     3 = Never 
+     7 = No answer 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q53 
+  Question: How much impact do you feel government politics have on your daily life? 
+  Value Labels:
+     1 = No impact at all 
+     2 = A little impact 
+     3 = Quite some impact 
+     4 = A great deal of impact 
+     7 = No answer 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q54 
+  Question: Among the political parties listed here, which party if any do you feel closest to? 
+  Value Labels:
+     95 = Cannot choose 
+     96 = Decline to answer 
+     97 = Do not know 
+     98 = No answer 
+     99 = Do not feel close to any political party 
+     101 = LDP 
+     102 = DPJ 
+     103 = Komeito(CGP) 
+     104 = SDP 
+     105 = JCP 
+     106 = other party 
+     201 = Democratic Party 
+     202 = DAB 
+     203 = Liberal Party 
+     204 = Civic Party 
+     205 = Frontier 
+     206 = ADPL 
+     207 = League of Social Democrats 
+     211 = The Hong Kong Federation of Trade Union 
+     212 = Neighbourhood & Worker's Service Centre 
+     213 = Pan-democratic 
+     214 = Right Wing 
+     301 = The Uri Party(governing party) 
+     302 = The Grand National Party 
+     303 = The Democratic Party 
+     304 = The Democratic Labor Party 
+     305 = The People First Party 
+     306 = Other Parties 
+     501 = MPRP 
+     502 = DP 
+     503 = CCP 
+     504 = MP 
+     505 = RP 
+     506 = PP 
+     507 = other 
+     601 = LABAN NG DEMOKRATIKONG PILIPINO 
+     602 = LAKAS-NUCD-UMDP 
+     603 = LIBERAL PARTY 
+     604 = NACIONALISTA PARTY 
+     605 = NATIONALIST PEOPLE'S COALITION 
+     606 = PARTIDO NG MASANG PILIPINO 
+     607 = PDP-LABAN 
+     608 = GABRIELA 
+     609 = KMP - KILUSAN NG MASANG PILIPINO (GRUPO NI FPJ) 
+     610 = GRUPO NI CORY AQUINO 
+     611 = PARTIDO NI LACSON 
+     612 = PARTIDO NI ROCO 
+     613 = ASIAN PACIFIC ELECTRONICS COOPERATIVES 
+     614 = PARTIDO NI EDDIE 
+     615 = PARTIDO NI VILLANUEVA 
+     616 = PARTIDO NI JOEY HIZON 
+     617 = PARTIDO NI MAYOR BELMONTE 
+     618 = BAYAN MUNA 
+     619 = PARTIDO NI ROILO GOLEZ 
+     620 = FILIPINO ALLIANCE MOVEMENT SUPPORT GROUP 
+     621 = MAYO UNO (LABOR UNION) 
+     622 = OPOSISYON 
+     623 = PARTIDO NI ESCUDERO 
+     624 = ANAK PAWIS 
+     625 = SANLAKAS 
+     626 = PARTIDO NI MAYOR OREA 
+     627 = MAYOR'S QUANO 
+     701 = KMT 
+     702 = DPP 
+     703 = New Party 
+     704 = PFP 
+     705 = TSU 
+     706 = Other 
+     801 = PRAJADHIPAT 
+     802 = THAI RAK THAI 
+     803 = CHART THAI 
+     804 = MAHACHON 
+     805 = Other Party 
+     901 = Indonesian National Party Marhaenism 
+     902 = Social Democrat Labour Party 
+     903 = Crescent Star Party 
+     904 = Independent Party 
+     905 = United Development Party 
+     906 = United Democratic Nationhood Party 
+     907 = New Indonesia Union Party 
+     908 = Freedom Bull National Party 
+     909 = Democrat Party 
+     910 = Justice and Unity Party 
+     911 = Indonesian Democratic Vanguard Party 
+     912 = Indonesian United Renaissance People Party 
+     913 = National Mandate Party 
+     914 = Concern for thel Nation Functional Party 
+     915 = National Awakening Party 
+     916 = Prosperous and Justice Party 
+     917 = Reform Star Party 
+     918 = Indonesian Democratic Party-Struggle 
+     919 = Peace and Prosperous Party 
+     920 = Functional Group Party 
+     921 = Patriot Pancasila Party 
+     922 = Indonesian Association Party 
+     923 = United Regional Party 
+     924 = Vanguard Party 
+     1101 = Vietnamese Communist Party 
+     1301 = BarisanNasional 
+     1302 = UMNO 
+     1303 = MCA 
+     1304 = MIC 
+     1305 = Gerakan 
+     1306 = PBS 
+     1307 = PBB 
+     1308 = SUPP 
+     1309 = Other BN party 
+     1310 = Opposition 
+     1311 = PAS 
+     1312 = DAP 
+     1313 = PKR 
+     706 = Other 
+
+Variable: q55 
+  Question: How close do you feel to the party(answer in Q54)? 
+  Value Labels:
+     0 = Not applicable 
+     1 = Just a little close 
+     2 = Somewhat close 
+     3 = Very close 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q56 
+  Question: Even if parents' demands are unreasonable, children still should do what they ask 
+  Value Labels:
+     1 = Strongly agree 
+     2 = Somewhat agree 
+     3 = Somewhat disagree 
+     4 = Strongly disagree 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q57 
+  Question: Being a student, one should not question the authority of their teacher 
+  Value Labels:
+     1 = Strongly agree 
+     2 = Somewhat agree 
+     3 = Somewhat disagree 
+     4 = Strongly disagree 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q58 
+  Question: When one has conflict with a neighbor, the best way to deal with it is to accommodate the other person 
+  Value Labels:
+     1 = Strongly agree 
+     2 = Somewhat agree 
+     3 = Somewhat disagree 
+     4 = Strongly disagree 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q59 
+  Question: A person should not insist on his own opinion if his co-workers disagree with him 
+  Value Labels:
+     1 = Strongly agree 
+     2 = Somewhat agree 
+     3 = Somewhat disagree 
+     4 = Strongly disagree 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q60 
+  Question: For the sake of the family, the individual should put his personal interests second 
+  Value Labels:
+     1 = Strongly agree 
+     2 = Somewhat agree 
+     3 = Somewhat disagree 
+     4 = Strongly disagree 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q61 
+  Question: Sometimes one has to follow one's own beliefs regardless of what other people think 
+  Value Labels:
+     1 = Strongly agree 
+     2 = Somewhat agree 
+     3 = Somewhat disagree 
+     4 = Strongly disagree 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q62 
+  Question: When dealing with others, securing one's immediate interests should be more important than developing a long-term 
+  Value Labels:
+     1 = Strongly agree 
+     2 = Somewhat agree 
+     3 = Somewhat disagree 
+     4 = Strongly disagree 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q63 
+  Question: Open quarrels (criticisms) among politicians are harmful to society 
+  Value Labels:
+     1 = Strongly agree 
+     2 = Somewhat agree 
+     3 = Somewhat disagree 
+     4 = Strongly disagree 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q64 
+  Question: The relationship between the government and the people should be like that between parents and children 
+  Value Labels:
+     1 = Strongly agree 
+     2 = Somewhat agree 
+     3 = Somewhat disagree 
+     4 = Strongly disagree 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q65 
+  Question: People should always support the decisions of their government even if they disagree with them 
+  Value Labels:
+     1 = Strongly agree 
+     2 = Somewhat agree 
+     3 = Somewhat disagree 
+     4 = Strongly disagree 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q66 
+  Question: How often do you use the internet? 
+  Value Labels:
+     0 = Not aware of Internet 
+     1 = Almost daily 
+     2 = At least once a week 
+     3 = At least once a month 
+     4 = Several times a year 
+     5 = Hardly ever 
+     6 = Never 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q67 
+  Question: How closely do you follow major events in foreign countries/the world? 
+  Value Labels:
+     1 = Very closely 
+     2 = Somewhat closely 
+     3 = Not too closely 
+     4 = Very little 
+     5 = Not at all 
+     7 = No answer 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q68 
+  Question: Have you traveled abroad before? If you have, how often do you travel abroad? 
+  Value Labels:
+     1 = A few times a year 
+     2 = Almost once a year 
+     3 = Just a few times in my whole life 
+     4 = Just once in my whole life 
+     5 = Never 
+     7 = No answer 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q69 
+  Question: How often do you have personal contact with foreigners? 
+  Value Labels:
+     1 = Almost daily 
+     2 = At least once a week 
+     3 = At least once a month 
+     4 = Several times a year 
+     5 = Hardly ever 
+     6 = Never 
+     7 = No answer 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q70 
+  Question: We should give up gains in the present for the possibility of larger gains in the future 
+  Value Labels:
+     1 = Strongly agree 
+     2 = Somewhat agree 
+     3 = Somewhat disagree 
+     4 = Strongly disagree 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q71 
+  Question: Conflict among political groups is not a bad thing for our country 
+  Value Labels:
+     1 = Strongly agree 
+     2 = Somewhat agree 
+     3 = Somewhat disagree 
+     4 = Strongly disagree 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q72 
+  Question: If a government policy serves the interests of the majority of people, I should support it 
+  Value Labels:
+     1 = Strongly agree 
+     2 = Somewhat agree 
+     3 = Somewhat disagree 
+     4 = Strongly disagree 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q73 
+  Question: The best way to deal with complicated political issues should be to leave them to the future 
+  Value Labels:
+     1 = Strongly agree 
+     2 = Somewhat agree 
+     3 = Somewhat disagree 
+     4 = Strongly disagree 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q74 
+  Question: Political reform should be introduced little-by-little instead of all-at-once 
+  Value Labels:
+     1 = Strongly agree 
+     2 = Somewhat agree 
+     3 = Somewhat disagree 
+     4 = Strongly disagree 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q75 
+  Question: Cruel criminals should be punished immediately without regard to time-consuming legal processes 
+  Value Labels:
+     1 = Strongly agree 
+     2 = Somewhat agree 
+     3 = Somewhat disagree 
+     4 = Strongly disagree 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q76 
+  Question: For the sake of the national community/society, the individual should be prepared to sacrifice 
+  Value Labels:
+     1 = Strongly agree 
+     2 = Somewhat agree 
+     3 = Somewhat disagree 
+     4 = Strongly disagree 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q77 
+  Question: The most important thing for political leaders is to accomplish their goals even if they have to ignore the established procedure 
+  Value Labels:
+     1 = Strongly agree 
+     2 = Somewhat agree 
+     3 = Somewhat disagree 
+     4 = Strongly disagree 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q78 
+  Question: If possible, I don't want to get involved in political matters 
+  Value Labels:
+     1 = Strongly agree 
+     2 = Somewhat agree 
+     3 = Somewhat disagree 
+     4 = Strongly disagree 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q79 
+  Question: Contacted government (administrative) official 
+  Value Labels:
+     1 = Once 
+     2 = More than once 
+     3 = Never 
+     7 = Not applicable 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q80 
+  Question: Contacted officials at higher level 
+  Value Labels:
+     1 = Once 
+     2 = More than once 
+     3 = Never 
+     7 = No answer 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q81 
+  Question: Contacted elected officials or legislative representatives at any level 
+  Value Labels:
+     1 = Once 
+     2 = More than once 
+     3 = Never 
+     7 = No answer 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q82 
+  Question: Contacted officials of political parties or other political organizations 
+  Value Labels:
+     1 = Once 
+     2 = More than once 
+     3 = Never 
+     7 = No answer 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q83 
+  Question: Contacted representative of non-government/civil society organizations 
+  Value Labels:
+     1 = Once 
+     2 = More than once 
+     3 = Never 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q84 
+  Question: Contacted traditional leaders/community leaders (IN: Mass media; TW/HK: Acquaintances in the government) 
+  Value Labels:
+     1 = Once 
+     2 = More than once 
+     3 = Never 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q85 
+  Question: Contacted other influential people 
+  Value Labels:
+     1 = Once 
+     2 = More than once 
+     3 = Never 
+     7 = Not applicable 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q86 
+  Question: Refused to pay taxes or fees to the government 
+  Value Labels:
+     1 = Once 
+     2 = More than once 
+     3 = Never 
+     7 = No answer 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q87 
+  Question: Got together with others to raise an issue or sign a petition 
+  Value Labels:
+     1 = Once 
+     2 = More than once 
+     3 = Never 
+     7 = No answer 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q88 
+  Question: Attended a demonstration or protest march 
+  Value Labels:
+     0 = Not applicable 
+     1 = Once 
+     2 = More than once 
+     3 = Never 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q89 
+  Question: Used force or violence for a political cause 
+  Value Labels:
+     1 = Once 
+     2 = More than once 
+     3 = Never 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q90 
+  Question: Thinking of whether you voted or not ever since you became eligible for voting, how would you describe yourself-have you voted 
+  Value Labels:
+     0 = Not applicable (eligible only once) 
+     1 = Voted in every election 
+     2 = Voted in most elections 
+     3 = Voted in some elections 
+     4 = Hardly ever voted 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q91_1 
+  Question: To you, what does "democracy" mean?  What else? 
+  Value Labels:
+     95 = Don't understand the question 
+     96 = Unclassifiable 
+     97 = No substance in answer 
+     98 = Don't know 
+     99 = No Response 
+     100 = Interpreting democracy in generic (populist) terms 
+     110 = Popular sovereignty 
+     111 = Government of the people 
+     120 = Government by the People 
+     121 = People as their own master 
+     122 = Power of the people 
+     130 = Government for the People 
+     131 = Putting people's interest first 
+     132 = Care for people 
+     133 = Responsive to people's need 
+     134 = Governing in the interest of general welfare 
+     140 = Absence of non-democratic arrangements 
+     141 = No dictator 
+     142 = No repression 
+     200 = Interpreting a democracy in terms of some key elements of li 
+     201 = Limited Government 
+     202 = Freedom and civil liberty 
+     203 = Freedom in general 
+     210 = Freedom of speech/press/expression 
+     211 = Freedom of association 
+     212 = Political liberty 
+     213 = Protection of individual/human rights 
+     214 = Freedom from government repression 
+     215 = Freedom of participation 
+     216 = Freedom of belief (and religion) 
+     217 = Freedom of individual choice 
+     218 = Freedom of information 
+     220 = Political Equality 
+     221 = One man one vote 
+     222 = Equality before the law/justice 
+     223 = Non discrimination 
+     230 = Democratic Institutions and Process 
+     231 = Election, popular vote or electoral choice 
+     232 = Electing leaders with integrity and capacity 
+     233 = Parliament 
+     234 = Separation of power or check-and-balance 
+     235 = Competitive party system 
+     236 = Power rotation 
+     237 = Rule of law 
+     238 = Independent judicial 
+     239 = Majority rule 
+     240 = Respect for minority rights 
+     241 = Political accountability 
+     250 = Participation and Citizen Empowerment 
+     251 = Ability to select or change government 
+     252 = Voting 
+     253 = Direct participation 
+     254 = Demonstration 
+     255 = Voice one's concern 
+     256 = Plebiscite (referendum) 
+     260 = Social Pluralism and Civil Society 
+     261 = Open society 
+     262 = Pluralist society 
+     263 = Responsible media 
+     300 = Interpreting democracy in terms of social and economic syste 
+     310 = Free Economy 
+     311 = Free market 
+     312 = Private properties/ownership 
+     313 = Free and fair competition 
+     314 = Personal economic opportunities 
+     315 = No central planning 
+     316 = Low tax 
+     317 = Privatization 
+     318 = Small government 
+     320 = Equality, Justice or Fraternity 
+     321 = Social equality 
+     322 = Social justice 
+     323 = Fraternity 
+     324 = Equality of opportunities 
+     325 = Social rights or social entitlements 
+     326 = Welfare state 
+     327 = Socialism 
+     328 = Worker participation 
+     329 = Gender equality 
+     330 = Socio-Economic Performance 
+     331 = Solve unemployment 
+     332 = Find anyone a job 
+     333 = Providing social welfare (or social safety net) 
+     334 = Taking good care of the weak 
+     335 = Taking care of people's economic well-being 
+     336 = Provision of happy and prosperous life 
+     337 = Improvement of people's welfare 
+     338 = Stable economy (economic stability) 
+     339 = Small income gap (small gap between the rich and the poor) 
+     340 = Economic development 
+     400 = Interpreting democracy in terms of good government 
+     410 = Good Governance 
+     411 = Honest government 
+     412 = Responsible (or rational) government 
+     413 = Openness or transparent government 
+     414 = Responsive government (listening to people, respecting publi 
+     415 = Fair treatment 
+     416 = Efficiency or can-do (can deliver) 
+     417 = No waste 
+     418 = No corruption 
+     419 = Law-biding government (rule by law) 
+     420 = Social stability 
+     421 = Law and order 
+     430 = Reform in General 
+     431 = Political reform 
+     432 = Economic reform 
+     440 = Leadership 
+     441 = Public-spirited (selfish-less) leaders 
+     442 = Visionary (long-term oriented) leaders 
+     443 = Ability to make necessary (and sometimes unpopular) decision 
+     444 = Political elite should decide for the mass 
+     445 = Government leaders should lead the people 
+     446 = More younger leaders to replace the old faces 
+     447 = Development of elite 
+     448 = Competent leadership 
+     451 = Policy making with public opionion 
+     452 = Good paternalistic government 
+     453 = Policy making by hearing people's opionion 
+     500 = Interpreting democracy in term of individual behaviors 
+     510 = Democratic Style 
+     511 = Communication 
+     512 = Compromise 
+     513 = Rational 
+     514 = Tolerance 
+     515 = Taking into account all parties concerned 
+     516 = Freedom within legal limits 
+     517 = Respect for others' rights 
+     518 = No extremism 
+     519 = Follow principles 
+     520 = Duties 
+     521 = Citizen duties 
+     522 = Action within the limits of law 
+     523 = Law-binding 
+     530 = Individualism 
+     531 = Respect for individual privacy 
+     532 = Independence 
+     533 = Self-reliance 
+     534 = Having one's own views 
+     535 = Self-responsibility 
+     536 = Responsibility for one's own action/decision 
+     537 = Fight for one's own interests 
+     538 = Self dignity (self-esteem) 
+     540 = Trust 
+     600 = Interpreting democracy in other broad and abstract terms 
+     610 = Political System 
+     611 = Governmental institution 
+     612 = Decentralization (local self-government) 
+     620 = Nationalism and Statism 
+     621 = Better country 
+     622 = Wealthy state 
+     623 = National independence 
+     624 = Individual less important than nation 
+     625 = Putting national interest above partisan interests 
+     626 = National Security 
+     630 = Stable and Cohesive Society 
+     631 = Good society 
+     632 = Patriotism 
+     633 = Solidarity 
+     634 = Harmony 
+     635 = No chaos, anarchy or disorder 
+     636 = Collective (group) interest is more important than individua 
+     640 = Other Lofty Elements 
+     641 = World peace 
+     642 = The commonwealth of the world 
+     650 = Ethnicity 
+     651 = Political indiginization (the native rule) 
+     652 = Ethnic cleavage (or tension) 
+     660 = Democratic Centralism 
+     700 = Conditions or Prerequisites for Democracy 
+     710 = Gradualism 
+     711 = Incremental 
+     712 = It takes time 
+     713 = No radicalism 
+     720 = Prerequisites 
+     721 = Democratic aptitude of citizens 
+     722 = Citizen's sophistication 
+     723 = Economic condition 
+     724 = Level of education 
+     725 = Fit our country's own conditions 
+     800 = Evaluation of Democracy or Democratic Regime 
+     810 = Positive Appraisal of Democracy in General 
+     811 = The best or the better 
+     812 = Progressive 
+     813 = Universal acceptance 
+     814 = Global trend 
+     820 = Negative Appraisal of Democracy in General 
+     821 = Corrupt 
+     822 = Inefficient 
+     823 = Unstable, chaotic, anarchy 
+     824 = Conflict 
+     825 = Lead to injustice 
+     826 = Obstruct economic development 
+     827 = Place too much on individual interests 
+     828 = The worst system 
+     829 = Does not exist 
+     830 = We cannot have democracy 
+     831 = Government ignore people’s need 
+     832 = Manipulation by politicians 
+     833 = Loss of freedom 
+     834 = Serve government's interest 
+     835 = The rich and the powerful dominate 
+     836 = Too much Freedom 
+     837 = Poverty is growing 
+     840 = Positive Appraisal of One's Own Country's Democracy 
+     850 = Negative Appraisal of One's Own Country's Democracy 
+     900 = Reference or Cognitive Association 
+     910 = Country reference 
+     911 = Like United States, United Kingdom, Japan, etc. 
+     912 = Not like North Korea, etc 
+     920 = Political figures (e.g., Sun Yet-sun, Lee Teng-hui, Abraham 
+     921 = Political parties or groups (e.g., DPP, KMT, etc) 
+     922 = Other associations (state, politics, society) 
+
+Variable: q91_2 
+  Question: Second Response 
+  Value Labels:
+     95 = Don't understand the question 
+     96 = Unclassifiable 
+     97 = No substance in answer 
+     98 = Don't know 
+     99 = No Response 
+     100 = Interpreting democracy in generic (populist) terms 
+     110 = Popular sovereignty 
+     111 = Government of the people 
+     120 = Government by the People 
+     121 = People as their own master 
+     122 = Power of the people 
+     130 = Government for the People 
+     131 = Putting people's interest first 
+     132 = Care for people 
+     133 = Responsive to people's need 
+     134 = Governing in the interest of general welfare 
+     140 = Absence of non-democratic arrangements 
+     141 = No dictator 
+     142 = No repression 
+     200 = Interpreting a democracy in terms of some key elements of li 
+     201 = Limited Government 
+     202 = Freedom and civil liberty 
+     203 = Freedom in general 
+     210 = Freedom of speech/press/expression 
+     211 = Freedom of association 
+     212 = Political liberty 
+     213 = Protection of individual/human rights 
+     214 = Freedom from government repression 
+     215 = Freedom of participation 
+     216 = Freedom of belief (and religion) 
+     217 = Freedom of individual choice 
+     218 = Freedom of information 
+     220 = Political Equality 
+     221 = One man one vote 
+     222 = Equality before the law/justice 
+     223 = Non discrimination 
+     230 = Democratic Institutions and Process 
+     231 = Election, popular vote or electoral choice 
+     232 = Electing leaders with integrity and capacity 
+     233 = Parliament 
+     234 = Separation of power or check-and-balance 
+     235 = Competitive party system 
+     236 = Power rotation 
+     237 = Rule of law 
+     238 = Independent judicial 
+     239 = Majority rule 
+     240 = Respect for minority rights 
+     241 = Political accountability 
+     250 = Participation and Citizen Empowerment 
+     251 = Ability to select or change government 
+     252 = Voting 
+     253 = Direct participation 
+     254 = Demonstration 
+     255 = Voice one's concern 
+     256 = Plebiscite (referendum) 
+     260 = Social Pluralism and Civil Society 
+     261 = Open society 
+     262 = Pluralist society 
+     263 = Responsible media 
+     300 = Interpreting democracy in terms of social and economic syste 
+     310 = Free Economy 
+     311 = Free market 
+     312 = Private properties/ownership 
+     313 = Free and fair competition 
+     314 = Personal economic opportunities 
+     315 = No central planning 
+     316 = Low tax 
+     317 = Privatization 
+     318 = Small government 
+     320 = Equality, Justice or Fraternity 
+     321 = Social equality 
+     322 = Social justice 
+     323 = Fraternity 
+     324 = Equality of opportunities 
+     325 = Social rights or social entitlements 
+     326 = Welfare state 
+     327 = Socialism 
+     328 = Worker participation 
+     329 = Gender equality 
+     330 = Socio-Economic Performance 
+     331 = Solve unemployment 
+     332 = Find anyone a job 
+     333 = Providing social welfare (or social safety net) 
+     334 = Taking good care of the weak 
+     335 = Taking care of people's economic well-being 
+     336 = Provision of happy and prosperous life 
+     337 = Improvement of people's welfare 
+     338 = Stable economy (economic stability) 
+     339 = Small income gap (small gap between the rich and the poor) 
+     340 = Economic development 
+     400 = Interpreting democracy in terms of good government 
+     410 = Good Governance 
+     411 = Honest government 
+     412 = Responsible (or rational) government 
+     413 = Openness or transparent government 
+     414 = Responsive government (listening to people, respecting publi 
+     415 = Fair treatment 
+     416 = Efficiency or can-do (can deliver) 
+     417 = No waste 
+     418 = No corruption 
+     419 = Law-biding government (rule by law) 
+     420 = Social stability 
+     421 = Law and order 
+     430 = Reform in General 
+     431 = Political reform 
+     432 = Economic reform 
+     440 = Leadership 
+     441 = Public-spirited (selfish-less) leaders 
+     442 = Visionary (long-term oriented) leaders 
+     443 = Ability to make necessary (and sometimes unpopular) decision 
+     444 = Political elite should decide for the mass 
+     445 = Government leaders should lead the people 
+     446 = More younger leaders to replace the old faces 
+     447 = Development of elite 
+     448 = Competent leadership 
+     451 = Policy making with public opionion 
+     452 = Good paternalistic government 
+     453 = Policy making by hearing people's opionion 
+     500 = Interpreting democracy in term of individual behaviors 
+     510 = Democratic Style 
+     511 = Communication 
+     512 = Compromise 
+     513 = Rational 
+     514 = Tolerance 
+     515 = Taking into account all parties concerned 
+     516 = Freedom within legal limits 
+     517 = Respect for others' rights 
+     518 = No extremism 
+     519 = Follow principles 
+     520 = Duties 
+     521 = Citizen duties 
+     522 = Action within the limits of law 
+     523 = Law-binding 
+     530 = Individualism 
+     531 = Respect for individual privacy 
+     532 = Independence 
+     533 = Self-reliance 
+     534 = Having one's own views 
+     535 = Self-responsibility 
+     536 = Responsibility for one's own action/decision 
+     537 = Fight for one's own interests 
+     538 = Self dignity (self-esteem) 
+     540 = Trust 
+     600 = Interpreting democracy in other broad and abstract terms 
+     610 = Political System 
+     611 = Governmental institution 
+     612 = Decentralization (local self-government) 
+     620 = Nationalism and Statism 
+     621 = Better country 
+     622 = Wealthy state 
+     623 = National independence 
+     624 = Individual less important than nation 
+     625 = Putting national interest above partisan interests 
+     626 = National Security 
+     630 = Stable and Cohesive Society 
+     631 = Good society 
+     632 = Patriotism 
+     633 = Solidarity 
+     634 = Harmony 
+     635 = No chaos, anarchy or disorder 
+     636 = Collective (group) interest is more important than individua 
+     640 = Other Lofty Elements 
+     641 = World peace 
+     642 = The commonwealth of the world 
+     650 = Ethnicity 
+     651 = Political indiginization (the native rule) 
+     652 = Ethnic cleavage (or tension) 
+     660 = Democratic Centralism 
+     700 = Conditions or Prerequisites for Democracy 
+     710 = Gradualism 
+     711 = Incremental 
+     712 = It takes time 
+     713 = No radicalism 
+     720 = Prerequisites 
+     721 = Democratic aptitude of citizens 
+     722 = Citizen's sophistication 
+     723 = Economic condition 
+     724 = Level of education 
+     725 = Fit our country's own conditions 
+     800 = Evaluation of Democracy or Democratic Regime 
+     810 = Positive Appraisal of Democracy in General 
+     811 = The best or the better 
+     812 = Progressive 
+     813 = Universal acceptance 
+     814 = Global trend 
+     820 = Negative Appraisal of Democracy in General 
+     821 = Corrupt 
+     822 = Inefficient 
+     823 = Unstable, chaotic, anarchy 
+     824 = Conflict 
+     825 = Lead to injustice 
+     826 = Obstruct economic development 
+     827 = Place too much on individual interests 
+     828 = The worst system 
+     829 = Does not exist 
+     830 = We cannot have democracy 
+     831 = Government ignore people’s need 
+     832 = Manipulation by politicians 
+     833 = Loss of freedom 
+     834 = Serve government's interest 
+     835 = The rich and the powerful dominate 
+     836 = Too much Freedom 
+     837 = Poverty is growing 
+     840 = Positive Appraisal of One's Own Country's Democracy 
+     850 = Negative Appraisal of One's Own Country's Democracy 
+     900 = Reference or Cognitive Association 
+     910 = Country reference 
+     911 = Like United States, United Kingdom, Japan, etc. 
+     912 = Not like North Korea, etc 
+     920 = Political figures (e.g., Sun Yet-sun, Lee Teng-hui, Abraham 
+     921 = Political parties or groups (e.g., DPP, KMT, etc) 
+     922 = Other associations (state, politics, society) 
+
+Variable: q91_3 
+  Question: Third Response 
+  Value Labels:
+     95 = Don't understand the question 
+     96 = Unclassifiable 
+     97 = No substance in answer 
+     98 = Don't know 
+     99 = No Response 
+     100 = Interpreting democracy in generic (populist) terms 
+     110 = Popular sovereignty 
+     111 = Government of the people 
+     120 = Government by the People 
+     121 = People as their own master 
+     122 = Power of the people 
+     130 = Government for the People 
+     131 = Putting people's interest first 
+     132 = Care for people 
+     133 = Responsive to people's need 
+     134 = Governing in the interest of general welfare 
+     140 = Absence of non-democratic arrangements 
+     141 = No dictator 
+     142 = No repression 
+     200 = Interpreting a democracy in terms of some key elements of li 
+     201 = Limited Government 
+     202 = Freedom and civil liberty 
+     203 = Freedom in general 
+     210 = Freedom of speech/press/expression 
+     211 = Freedom of association 
+     212 = Political liberty 
+     213 = Protection of individual/human rights 
+     214 = Freedom from government repression 
+     215 = Freedom of participation 
+     216 = Freedom of belief (and religion) 
+     217 = Freedom of individual choice 
+     218 = Freedom of information 
+     220 = Political Equality 
+     221 = One man one vote 
+     222 = Equality before the law/justice 
+     223 = Non discrimination 
+     230 = Democratic Institutions and Process 
+     231 = Election, popular vote or electoral choice 
+     232 = Electing leaders with integrity and capacity 
+     233 = Parliament 
+     234 = Separation of power or check-and-balance 
+     235 = Competitive party system 
+     236 = Power rotation 
+     237 = Rule of law 
+     238 = Independent judicial 
+     239 = Majority rule 
+     240 = Respect for minority rights 
+     241 = Political accountability 
+     250 = Participation and Citizen Empowerment 
+     251 = Ability to select or change government 
+     252 = Voting 
+     253 = Direct participation 
+     254 = Demonstration 
+     255 = Voice one's concern 
+     256 = Plebiscite (referendum) 
+     260 = Social Pluralism and Civil Society 
+     261 = Open society 
+     262 = Pluralist society 
+     263 = Responsible media 
+     300 = Interpreting democracy in terms of social and economic syste 
+     310 = Free Economy 
+     311 = Free market 
+     312 = Private properties/ownership 
+     313 = Free and fair competition 
+     314 = Personal economic opportunities 
+     315 = No central planning 
+     316 = Low tax 
+     317 = Privatization 
+     318 = Small government 
+     320 = Equality, Justice or Fraternity 
+     321 = Social equality 
+     322 = Social justice 
+     323 = Fraternity 
+     324 = Equality of opportunities 
+     325 = Social rights or social entitlements 
+     326 = Welfare state 
+     327 = Socialism 
+     328 = Worker participation 
+     329 = Gender equality 
+     330 = Socio-Economic Performance 
+     331 = Solve unemployment 
+     332 = Find anyone a job 
+     333 = Providing social welfare (or social safety net) 
+     334 = Taking good care of the weak 
+     335 = Taking care of people's economic well-being 
+     336 = Provision of happy and prosperous life 
+     337 = Improvement of people's welfare 
+     338 = Stable economy (economic stability) 
+     339 = Small income gap (small gap between the rich and the poor) 
+     340 = Economic development 
+     400 = Interpreting democracy in terms of good government 
+     410 = Good Governance 
+     411 = Honest government 
+     412 = Responsible (or rational) government 
+     413 = Openness or transparent government 
+     414 = Responsive government (listening to people, respecting publi 
+     415 = Fair treatment 
+     416 = Efficiency or can-do (can deliver) 
+     417 = No waste 
+     418 = No corruption 
+     419 = Law-biding government (rule by law) 
+     420 = Social stability 
+     421 = Law and order 
+     430 = Reform in General 
+     431 = Political reform 
+     432 = Economic reform 
+     440 = Leadership 
+     441 = Public-spirited (selfish-less) leaders 
+     442 = Visionary (long-term oriented) leaders 
+     443 = Ability to make necessary (and sometimes unpopular) decision 
+     444 = Political elite should decide for the mass 
+     445 = Government leaders should lead the people 
+     446 = More younger leaders to replace the old faces 
+     447 = Development of elite 
+     448 = Competent leadership 
+     451 = Policy making with public opionion 
+     452 = Good paternalistic government 
+     453 = Policy making by hearing people's opionion 
+     500 = Interpreting democracy in term of individual behaviors 
+     510 = Democratic Style 
+     511 = Communication 
+     512 = Compromise 
+     513 = Rational 
+     514 = Tolerance 
+     515 = Taking into account all parties concerned 
+     516 = Freedom within legal limits 
+     517 = Respect for others' rights 
+     518 = No extremism 
+     519 = Follow principles 
+     520 = Duties 
+     521 = Citizen duties 
+     522 = Action within the limits of law 
+     523 = Law-binding 
+     530 = Individualism 
+     531 = Respect for individual privacy 
+     532 = Independence 
+     533 = Self-reliance 
+     534 = Having one's own views 
+     535 = Self-responsibility 
+     536 = Responsibility for one's own action/decision 
+     537 = Fight for one's own interests 
+     538 = Self dignity (self-esteem) 
+     540 = Trust 
+     600 = Interpreting democracy in other broad and abstract terms 
+     610 = Political System 
+     611 = Governmental institution 
+     612 = Decentralization (local self-government) 
+     620 = Nationalism and Statism 
+     621 = Better country 
+     622 = Wealthy state 
+     623 = National independence 
+     624 = Individual less important than nation 
+     625 = Putting national interest above partisan interests 
+     626 = National Security 
+     630 = Stable and Cohesive Society 
+     631 = Good society 
+     632 = Patriotism 
+     633 = Solidarity 
+     634 = Harmony 
+     635 = No chaos, anarchy or disorder 
+     636 = Collective (group) interest is more important than individua 
+     640 = Other Lofty Elements 
+     641 = World peace 
+     642 = The commonwealth of the world 
+     650 = Ethnicity 
+     651 = Political indiginization (the native rule) 
+     652 = Ethnic cleavage (or tension) 
+     660 = Democratic Centralism 
+     700 = Conditions or Prerequisites for Democracy 
+     710 = Gradualism 
+     711 = Incremental 
+     712 = It takes time 
+     713 = No radicalism 
+     720 = Prerequisites 
+     721 = Democratic aptitude of citizens 
+     722 = Citizen's sophistication 
+     723 = Economic condition 
+     724 = Level of education 
+     725 = Fit our country's own conditions 
+     800 = Evaluation of Democracy or Democratic Regime 
+     810 = Positive Appraisal of Democracy in General 
+     811 = The best or the better 
+     812 = Progressive 
+     813 = Universal acceptance 
+     814 = Global trend 
+     820 = Negative Appraisal of Democracy in General 
+     821 = Corrupt 
+     822 = Inefficient 
+     823 = Unstable, chaotic, anarchy 
+     824 = Conflict 
+     825 = Lead to injustice 
+     826 = Obstruct economic development 
+     827 = Place too much on individual interests 
+     828 = The worst system 
+     829 = Does not exist 
+     830 = We cannot have democracy 
+     831 = Government ignore people’s need 
+     832 = Manipulation by politicians 
+     833 = Loss of freedom 
+     834 = Serve government's interest 
+     835 = The rich and the powerful dominate 
+     836 = Too much Freedom 
+     837 = Poverty is growing 
+     840 = Positive Appraisal of One's Own Country's Democracy 
+     850 = Negative Appraisal of One's Own Country's Democracy 
+     900 = Reference or Cognitive Association 
+     910 = Country reference 
+     911 = Like United States, United Kingdom, Japan, etc. 
+     912 = Not like North Korea, etc 
+     920 = Political figures (e.g., Sun Yet-sun, Lee Teng-hui, Abraham 
+     921 = Political parties or groups (e.g., DPP, KMT, etc) 
+     922 = Other associations (state, politics, society) 
+
+Variable: q92 
+  Question: People often differ in their views on the characteristic that is essential to democracy. If you have to choose only one of the things 
+  Value Labels:
+     0 = No answer 
+     1 = Opportunity to change the government through elections 
+     2 = Freedom to criticize those in power 
+     3 = A small income gap between rich and poor 
+     4 = Basic necessities like food, clothes and shelter etc. for ev 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q93 
+  Question: On the whole, how satisfied or dissatisfied are you with the way democracy works in [country]? 
+  Value Labels:
+     1 = Not at all satisfied 
+     2 = Not very satisfied 
+     3 = Fairly satisfied 
+     4 = Very satisfied 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q94 
+  Question: In your opinion how much of a democracy is [country]? 
+  Value Labels:
+     1 = A full democracy 
+     2 = A democracy, but with minor problems 
+     3 = A democracy, with major problems 
+     4 = Not a democracy 
+     7 = Don't understand question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q95 
+  Question: Where would you place our country during the period of [the name of the most recent government under authoritarian rule]? 
+  Value Labels:
+     1 = Complete Dictatorship 
+     2 = ... 
+     2 = ... 
+     2 = ... 
+     2 = ... 
+     2 = ... 
+     2 = ... 
+     2 = ... 
+     2 = ... 
+     10 = Complete Democracy 
+     97 = Do not understand the question 
+     98 = Can't choose 
+     99 = Decline to answer 
+
+Variable: q96 
+  Question: Where would you place our country under the present government? 
+  Value Labels:
+     1 = Complete Dictatorship 
+     2 = ... 
+     2 = ... 
+     2 = ... 
+     2 = ... 
+     2 = ... 
+     2 = ... 
+     2 = ... 
+     2 = ... 
+     10 = Complete Democracy 
+     97 = Do not understand the question 
+     98 = Can't choose 
+     99 = Decline to answer 
+
+Variable: q97 
+  Question: To what extent would you want our country to be democratic now? 
+  Value Labels:
+     1 = Complete Dictatorship 
+     2 = ... 
+     2 = ... 
+     2 = ... 
+     2 = ... 
+     2 = ... 
+     2 = ... 
+     2 = ... 
+     2 = ... 
+     10 = Complete Democracy 
+     97 = Do not understand the question 
+     98 = Can't choose 
+     99 = Decline to answer 
+
+Variable: q98 
+  Question: Which would you think democracy is suitable for our country? 
+  Value Labels:
+     1 = Democracy is completely unsuitable 
+     2 = ... 
+     2 = ... 
+     2 = ... 
+     2 = ... 
+     2 = ... 
+     2 = ... 
+     2 = ... 
+     2 = ... 
+     10 = Democracy is perfectly suitable 
+     97 = Do not understand the question 
+     98 = Can't choose 
+     99 = Decline to answer 
+
+Variable: q99 
+  Question: How satisfied or dissatisfied are you with the [name of present] government? 
+  Value Labels:
+     1 = Very satisfied 
+     2 = Somewhat satisfied 
+     3 = Somewhat dissatisfied 
+     4 = Very dissatisfied 
+     7 = No answer or can't understand 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q100 
+  Question: In your opinion, what are the most important questions facing the country that government should address? 
+  Value Labels:
+     0 = No answer 
+     100 = Economics 
+     110 = Management of the economy, economic development 
+     120 = Wages, incomes and salaries (or income gap) , pension 
+     130 = Unemployment 
+     140 = Poverty and destitution 
+     150 = Rates and taxes 
+     160 = Loans, credit, debt 
+     170 = Land privatization 
+     180 = Inflation 
+     190 = International Trade, globalization 
+     191 = Basic necessities (price of rice, fuel, spicy. etc) 
+     200 = Food / Agriculture / Environment 
+     210 = Farming/ agriculture/ fishing/ Animal husbandry 
+     220 = Food shortage/famine 
+     230 = Natural disaster (drought, flood, earthquake, hurricane, etc 
+     240 = Land 
+     250 = Environment 
+     260 = Natural resources 
+     300 = Infrastructure 
+     310 = Transportation 
+     320 = Communications 
+     330 = Infrastructure / roads 
+     400 = Government Services 
+     410 = Education, educational fee 
+     420 = Science and technology 
+     430 = Housing 
+     440 = Electricity 
+     450 = Water supply 
+     460 = Orphans/street children/homeless children 
+     470 = Social security, social welfare 
+     480 = Services (other) 
+     500 = Health 
+     510 = Health (medical care) 
+     520 = AIDS (and other transmissible diseases) 
+     530 = Sickness / Disease 
+     540 = Public health, hygiene 
+     550 = Food and drug safety 
+     600 = Governance 
+     610 = Crime and Security 
+     620 = Corruption 
+     630 = Political violence 
+     640 = Political instability/political divisions/ ethnic tensions 
+     650 = Discrimination/ inequality 
+     660 = Gender issues/women's rights, children's rights 
+     670 = Democracy/political rights, protection of rights 
+     680 = Malfunction of political institutions 
+     690 = Government efficiency 
+     691 = Constitution 
+     692 = Budget deficit 
+     693 = Judiciary 
+     694 = Administrative procedure 
+     695 = Public service independence from politics 
+     696 = Irresponsible leader/government 
+     700 = General Social and Political Conditions 
+     710 = Immigration 
+     720 = Social anomaly (suicide, divorce, moral breakdown) 
+     730 = Aging population, fewer children 
+     740 = Growth of population 
+     750 = Cultural problems under social change 
+     751 = Religion problem 
+     752 = Culture preservation 
+     760 = War (international) 
+     770 = Civil war 
+     780 = External relations (foreign relations) 
+     790 = Terrorism 
+     791 = National defense 
+     800 = Country-Specific Problems 
+     990 = Nothing/ no problems 
+     991 = No further reply 
+     995 = Other issues 
+     996 = Unclassifiable, inconceivable 
+     998 = Can't choose 
+     999 = Decline to answer 
+
+Variable: q101 
+  Question: Second Response 
+  Value Labels:
+     0 = No answer 
+     100 = Economics 
+     110 = Management of the economy, economic development 
+     120 = Wages, incomes and salaries (or income gap) , pension 
+     130 = Unemployment 
+     140 = Poverty and destitution 
+     150 = Rates and taxes 
+     160 = Loans, credit, debt 
+     170 = Land privatization 
+     180 = Inflation 
+     190 = International Trade, globalization 
+     191 = Basic necessities (price of rice, fuel, spicy. etc) 
+     200 = Food / Agriculture / Environment 
+     210 = Farming/ agriculture/ fishing/ Animal husbandry 
+     220 = Food shortage/famine 
+     230 = Natural disaster (drought, flood, earthquake, hurricane, etc 
+     240 = Land 
+     250 = Environment 
+     260 = Natural resources 
+     300 = Infrastructure 
+     310 = Transportation 
+     320 = Communications 
+     330 = Infrastructure / roads 
+     400 = Government Services 
+     410 = Education, educational fee 
+     420 = Science and technology 
+     430 = Housing 
+     440 = Electricity 
+     450 = Water supply 
+     460 = Orphans/street children/homeless children 
+     470 = Social security, social welfare 
+     480 = Services (other) 
+     500 = Health 
+     510 = Health (medical care) 
+     520 = AIDS (and other transmissible diseases) 
+     530 = Sickness / Disease 
+     540 = Public health, hygiene 
+     550 = Food and drug safety 
+     600 = Governance 
+     610 = Crime and Security 
+     620 = Corruption 
+     630 = Political violence 
+     640 = Political instability/political divisions/ ethnic tensions 
+     650 = Discrimination/ inequality 
+     660 = Gender issues/women's rights, children's rights 
+     670 = Democracy/political rights, protection of rights 
+     680 = Malfunction of political institutions 
+     690 = Government efficiency 
+     691 = Constitution 
+     692 = Budget deficit 
+     693 = Judiciary 
+     694 = Administrative procedure 
+     695 = Public service independence from politics 
+     696 = Irresponsible leader/government 
+     700 = General Social and Political Conditions 
+     710 = Immigration 
+     720 = Social anomaly (suicide, divorce, moral breakdown) 
+     730 = Aging population, fewer children 
+     740 = Growth of population 
+     750 = Cultural problems under social change 
+     751 = Religion problem 
+     752 = Culture preservation 
+     760 = War (international) 
+     770 = Civil war 
+     780 = External relations (foreign relations) 
+     790 = Terrorism 
+     791 = National defense 
+     800 = Country-Specific Problems 
+     990 = Nothing/ no problems 
+     991 = No further reply 
+     995 = Other issues 
+     996 = Unclassifiable, inconceivable 
+     998 = Can't choose 
+     999 = Decline to answer 
+
+Variable: q102 
+  Question: Third Response 
+  Value Labels:
+     0 = No answer 
+     100 = Economics 
+     110 = Management of the economy, economic development 
+     120 = Wages, incomes and salaries (or income gap) , pension 
+     130 = Unemployment 
+     140 = Poverty and destitution 
+     150 = Rates and taxes 
+     160 = Loans, credit, debt 
+     170 = Land privatization 
+     180 = Inflation 
+     190 = International Trade, globalization 
+     191 = Basic necessities (price of rice, fuel, spicy. etc) 
+     200 = Food / Agriculture / Environment 
+     210 = Farming/ agriculture/ fishing/ Animal husbandry 
+     220 = Food shortage/famine 
+     230 = Natural disaster (drought, flood, earthquake, hurricane, etc 
+     240 = Land 
+     250 = Environment 
+     260 = Natural resources 
+     300 = Infrastructure 
+     310 = Transportation 
+     320 = Communications 
+     330 = Infrastructure / roads 
+     400 = Government Services 
+     410 = Education, educational fee 
+     420 = Science and technology 
+     430 = Housing 
+     440 = Electricity 
+     450 = Water supply 
+     460 = Orphans/street children/homeless children 
+     470 = Social security, social welfare 
+     480 = Services (other) 
+     500 = Health 
+     510 = Health (medical care) 
+     520 = AIDS (and other transmissible diseases) 
+     530 = Sickness / Disease 
+     540 = Public health, hygiene 
+     550 = Food and drug safety 
+     600 = Governance 
+     610 = Crime and Security 
+     620 = Corruption 
+     630 = Political violence 
+     640 = Political instability/political divisions/ ethnic tensions 
+     650 = Discrimination/ inequality 
+     660 = Gender issues/women's rights, children's rights 
+     670 = Democracy/political rights, protection of rights 
+     680 = Malfunction of political institutions 
+     690 = Government efficiency 
+     691 = Constitution 
+     692 = Budget deficit 
+     693 = Judiciary 
+     694 = Administrative procedure 
+     695 = Public service independence from politics 
+     696 = Irresponsible leader/government 
+     700 = General Social and Political Conditions 
+     710 = Immigration 
+     720 = Social anomaly (suicide, divorce, moral breakdown) 
+     730 = Aging population, fewer children 
+     740 = Growth of population 
+     750 = Cultural problems under social change 
+     751 = Religion problem 
+     752 = Culture preservation 
+     760 = War (international) 
+     770 = Civil war 
+     780 = External relations (foreign relations) 
+     790 = Terrorism 
+     791 = National defense 
+     800 = Country-Specific Problems 
+     990 = Nothing/ no problems 
+     991 = No further reply 
+     995 = Other issues 
+     996 = Unclassifiable, inconceivable 
+     998 = Can't choose 
+     999 = Decline to answer 
+
+Variable: q102a 
+  Question: How likely is it that the government will solve the most important problem you identified? 
+  Value Labels:
+     0 = Not applicable 
+     1 = Very likely 
+     2 = Likely 
+     3 = Not very likely 
+     4 = Not at all likely 
+     7 = No answer 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q103 
+  Question: People have the power to change a government they don't like 
+  Value Labels:
+     1 = Strongly agree 
+     2 = Somewhat agree 
+     3 = Somewhat disagree 
+     4 = Strongly disagree 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q104 
+  Question: Our current courts always punish the guilty even if they are high-ranking officials 
+  Value Labels:
+     1 = Strongly agree 
+     2 = Somewhat agree 
+     3 = Somewhat disagree 
+     4 = Strongly disagree 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q105 
+  Question: Political parties or candidates in our country have equal access to the mass media during the election period 
+  Value Labels:
+     1 = Strongly agree 
+     2 = Somewhat agree 
+     3 = Somewhat disagree 
+     4 = Strongly disagree 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q106 
+  Question: Between elections, the people have no way of holding the government responsible for its actions 
+  Value Labels:
+     1 = Strongly agree 
+     2 = Somewhat agree 
+     3 = Somewhat disagree 
+     4 = Strongly disagree 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q107 
+  Question: When the government breaks the laws, there is nothing the legal system can do 
+  Value Labels:
+     1 = Strongly agree 
+     2 = Somewhat agree 
+     3 = Somewhat disagree 
+     4 = Strongly disagree 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q108 
+  Question: Everyone is treated equally by the government 
+  Value Labels:
+     1 = Strongly agree 
+     2 = Somewhat agree 
+     3 = Somewhat disagree 
+     4 = Strongly disagree 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q109 
+  Question: People have basic necessities like food, clothes, and shelter 
+  Value Labels:
+     1 = Strongly agree 
+     2 = Somewhat agree 
+     3 = Somewhat disagree 
+     4 = Strongly disagree 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q110 
+  Question: People are free to speak what they think without fear 
+  Value Labels:
+     1 = Strongly agree 
+     2 = Somewhat agree 
+     3 = Somewhat disagree 
+     4 = Strongly disagree 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q111 
+  Question: People can join any organization the like without fear 
+  Value Labels:
+     1 = Strongly agree 
+     2 = Somewhat agree 
+     3 = Somewhat disagree 
+     4 = Strongly disagree 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q112 
+  Question: How often do government officials withhold important information from the public view? 
+  Value Labels:
+     1 = Always 
+     2 = Most of the time 
+     3 = Occasionally 
+     4 = Rarely 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q113 
+  Question: How often do national government officials abide by the law? (HK: Hong Kong government) 
+  Value Labels:
+     1 = Always 
+     2 = Most of the time 
+     3 = Sometimes 
+     4 = Rarely 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q114 
+  Question: How often do your think our elections offer the voters a real choice between different parties/candidates? 
+  Value Labels:
+     1 = Always 
+     2 = Most of the time 
+     3 = Sometimes 
+     4 = Rarely 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q115 
+  Question: To what extent is the legislature capable of keeping the government in check? 
+  Value Labels:
+     1 = Very capable 
+     2 = Capable 
+     3 = Not capable 
+     4 = Not at all capable 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q116 
+  Question: How well do you think the government responds to what people want? 
+  Value Labels:
+     1 = Very responsive 
+     2 = Largely responsive 
+     3 = Not very responsive 
+     4 = Not responsive at all 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q117 
+  Question: How widespread do you think corruption and bribe-taking are in your local/municipal government? 
+  Value Labels:
+     1 = Almost everyone is corrupt 
+     2 = Most officials are corrupt 
+     3 = Not a lot of officials are corrupt 
+     4 = Hardly anyone is involved 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q118 
+  Question: How widespread do you think corruption and bribe-taking are in the national government? 
+  Value Labels:
+     1 = Almost everyone is corrupt 
+     2 = Most officials are corrupt 
+     3 = Not a lot of officials are corrupt 
+     4 = Hardly anyone is involved 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q119 
+  Question: Have you or anyone you know personally witnessed an act of corruption or bribe-taking by a politician or government official in the past year? 
+  Value Labels:
+     1 = Witnessed 
+     2 = Never witnessed 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q119_1 
+  Question: 119_1 Personally witnessed 
+  Value Labels:
+     0 = Not applicable 
+     1 = Yes 
+     2 = No 
+     7 = Do not understand 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q119_2 
+  Question: 119_2 Told about it by family member 
+  Value Labels:
+     0 = Not applicable 
+     1 = Yes 
+     2 = No 
+     7 = Do not understand 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q119_3 
+  Question: 119_3 Told about it by friend 
+  Value Labels:
+     0 = Not applicable 
+     1 = Yes 
+     2 = No 
+     7 = Do not understand 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q120 
+  Question: In your opinion, is the government working to crackdown corruption and root out bribes? 
+  Value Labels:
+     0 = It is doing this quite effectively 
+     1 = It is doing its best 
+     2 = It is doing something 
+     3 = It is not doing much 
+     4 = Doing nothing 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q121 
+  Question: Which of the following statements comes closest to your own opinion? 
+  Value Labels:
+     1 = For people like me, it does not matter whether we have a democratic or a nondemocratic regime 
+     2 = Under some circumstances, an authoritarian government can be peferable to a democratic one 
+     3 = Democracy is always preferable to any other kind of government 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q122 
+  Question: Which of the following statements comes closer to your own view? 
+  Value Labels:
+     1 = Democracy can not solve our society's problems 
+     2 = Democracy is capable of solving the problems of our society 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q123 
+  Question: If you had to choose between democracy and economic development, which would you say is more important? 
+  Value Labels:
+     1 = Economic development is definitely more important 
+     2 = Economic development is somewhat more important 
+     3 = Democracy is somewhat more important 
+     4 = Democracy is definitely more important 
+     5 = They are both equally important 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q124 
+  Question: We should get rid of parliament and elections and have a strong leader decide things 
+  Value Labels:
+     1 = Strongly approve 
+     2 = Approve 
+     3 = Disapprove 
+     4 = Strongly Disapprove 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q125 
+  Question: Only one political party is allowed to stand for election and hold office 
+  Value Labels:
+     1 = Strongly approve 
+     2 = Approve 
+     3 = Disapprove 
+     4 = Strongly Disapprove 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q126 
+  Question: The army should come in to govern the country 
+  Value Labels:
+     1 = Strongly approve 
+     2 = Approve 
+     3 = Disapprove 
+     4 = Strongly Disapprove 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q127 
+  Question: I think I have the ability to participate in politics 
+  Value Labels:
+     1 = Strongly agree 
+     2 = Somewhat agree 
+     3 = Somewhat disagree 
+     4 = Strongly disagree 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q128 
+  Question: Sometimes politics and government seems so complicated that a person like me can't really understand what is going on 
+  Value Labels:
+     1 = Strongly agree 
+     2 = Somewhat agree 
+     3 = Somewhat disagree 
+     4 = Strongly disagree 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q129 
+  Question: Whatever its faults may be, our form of government is still the best for us 
+  Value Labels:
+     1 = Strongly agree 
+     2 = Somewhat agree 
+     3 = Somewhat disagree 
+     4 = Strongly disagree 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q130 
+  Question: You can generally trust the people who run our government to do what is right (HK: Hong Kong government) 
+  Value Labels:
+     1 = Strongly agree 
+     2 = Somewhat agree 
+     3 = Somewhat disagree 
+     4 = Strongly disagree 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q131 
+  Question: Generally speaking, we can trust the local government officials to do the right things 
+  Value Labels:
+     1 = Strongly agree 
+     2 = Somewhat agree 
+     3 = Somewhat disagree 
+     4 = Strongly disagree 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q132 
+  Question: Which of these two statements comes closer to your own view 
+  Value Labels:
+     1 = It is essential that the (country) remains one nation 
+     2 = Part of the (country) should be allowed to become fully separate states if they choose to 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q133 
+  Question: People with little or no education should have as much say in politics as highly-educated people 
+  Value Labels:
+     1 = Strongly agree 
+     2 = Somewhat agree 
+     3 = Somewhat disagree 
+     4 = Strongly disagree 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q134 
+  Question: Government leaders are like the head of a family; we should all follow their decisions 
+  Value Labels:
+     1 = Strongly agree 
+     2 = Somewhat agree 
+     3 = Somewhat disagree 
+     4 = Strongly disagree 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q135 
+  Question: The government should decide whether certain ideas should be allowed to be discussed in society 
+  Value Labels:
+     1 = Strongly agree 
+     2 = Somewhat agree 
+     3 = Somewhat disagree 
+     4 = Strongly disagree 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q136 
+  Question: Harmony of the community will be disrupted if people organize lots of groups 
+  Value Labels:
+     1 = Strongly agree 
+     2 = Somewhat agree 
+     3 = Somewhat disagree 
+     4 = Strongly disagree 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q137 
+  Question: When judges decide important cases, they should accept the view of the executive branch 
+  Value Labels:
+     1 = Strongly agree 
+     2 = Somewhat agree 
+     3 = Somewhat disagree 
+     4 = Strongly disagree 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q138 
+  Question: If the government is constantly checked by the legislature, it cannot possibly accomplish great things 
+  Value Labels:
+     1 = Strongly agree 
+     2 = Somewhat agree 
+     3 = Somewhat disagree 
+     4 = Strongly disagree 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q139 
+  Question: If we have political leaders who are morally upright, we can let them decide everything 
+  Value Labels:
+     1 = Strongly agree 
+     2 = Somewhat agree 
+     3 = Somewhat disagree 
+     4 = Strongly disagree 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q140 
+  Question: If people have too many different ways of thinking, society will be chaotic 
+  Value Labels:
+     1 = Strongly agree 
+     2 = Somewhat agree 
+     3 = Somewhat disagree 
+     4 = Strongly disagree 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q141 
+  Question: When the country is facing a difficult situation, it is ok for the government to disregard the law in order to deal with the situation 
+  Value Labels:
+     1 = Strongly agree 
+     2 = Somewhat agree 
+     3 = Somewhat disagree 
+     4 = Strongly disagree 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q142 
+  Question: The government should maintain ownership of major state-owned enterprises 
+  Value Labels:
+     1 = Strongly agree 
+     2 = Somewhat agree 
+     3 = Somewhat disagree 
+     4 = Strongly disagree 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q143 
+  Question: The local government should have more authority over local decisions than it does now 
+  Value Labels:
+     1 = Strongly agree 
+     2 = Somewhat agree 
+     3 = Somewhat disagree 
+     4 = Strongly disagree 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q144 
+  Question: Our country should defend our way of life instead of becoming more and more like other countries 
+  Value Labels:
+     1 = Strongly agree 
+     2 = Somewhat agree 
+     3 = Somewhat disagree 
+     4 = Strongly disagree 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q145 
+  Question: In order to preserve social justice, the government should prevent the gap between rich and poor from growing any larger 
+  Value Labels:
+     1 = Strongly agree 
+     2 = Somewhat agree 
+     3 = Somewhat disagree 
+     4 = Strongly disagree 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q146 
+  Question: Our country should become more self-sufficient and less reliant on trade with other countries 
+  Value Labels:
+     1 = Strongly agree 
+     2 = Somewhat agree 
+     3 = Somewhat disagree 
+     4 = Strongly disagree 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q147 
+  Question: Let us suppose that you had to choose between being a..... which of these do you feel most strongly attached to 
+  Value Labels:
+     1 = R"s Citizenship 
+     2 = R"s ethnic/regional group 
+     3 = R"S another identity 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q148 
+  Question: These people should have the equal right to do whatever they want to do as other citizens 
+  Value Labels:
+     1 = Strongly agree 
+     2 = Somewhat agree 
+     3 = Somewhat disagree 
+     4 = Strongly disagree 
+     5 = Not agree nor disagree 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q149 
+  Question: They should enjoy the same right as other citizens to vote in the election of the top leader 
+  Value Labels:
+     1 = Strongly agree 
+     2 = Somewhat agree 
+     3 = Somewhat disagree 
+     4 = Strongly disagree 
+     5 = Not agree nor disagree 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q150 
+  Question: Their basic well-being should be taken care of by the government to the same extent as other citizens 
+  Value Labels:
+     1 = Strongly agree 
+     2 = Somewhat agree 
+     3 = Somewhat disagree 
+     4 = Strongly disagree 
+     5 = Not agree nor disagree 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q151 
+  Question: A citizen who does not actively participate in the affairs of his local and national community is not performing his duties 
+  Value Labels:
+     1 = Strongly agree 
+     2 = Somewhat agree 
+     3 = Somewhat disagree 
+     4 = Strongly disagree 
+     5 = Not agree nor disagree 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q152 
+  Question: Citizens should always obey laws and regulations, even if they disagree with them 
+  Value Labels:
+     1 = Strongly agree 
+     2 = Somewhat agree 
+     3 = Somewhat disagree 
+     4 = Strongly disagree 
+     5 = Not agree nor disagree 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q153 
+  Question: Do you agree or disagree with the following statement: "A citizen should always remain loyal only to his country, no matter how imperfect 
+  Value Labels:
+     1 = Strongly agree 
+     2 = Somewhat agree 
+     3 = Somewhat disagree 
+     4 = Strongly disagree 
+     5 = Not agree nor disagree 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q154 
+  Question: How proud are you to be a citizen of [Country] 
+  Value Labels:
+     1 = Very proud 
+     2 = Somewhat proud 
+     3 = Not very proud 
+     4 = Not proud at all 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q155 
+  Question: Given the chance, how willing would you be to go and live in another country? 
+  Value Labels:
+     1 = Very willing 
+     2 = Willing 
+     3 = Not willing 
+     4 = Not willing at all 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: q156 
+  Question: Relation: The European Community or European Union 
+  Value Labels:
+     1 = Yes 
+     2 = No 
+     9 = Decline to answer 
+
+Variable: q157 
+  Question: Relation: The United Nations or UN 
+  Value Labels:
+     1 = Yes 
+     2 = No 
+     9 = Decline to answer 
+
+Variable: q158 
+  Question: Relation: International Monetary Fund or IMF 
+  Value Labels:
+     1 = Yes 
+     2 = No 
+     9 = Decline to answer 
+
+Variable: q159 
+  Question: Relation: World Bank 
+  Value Labels:
+     1 = Yes 
+     2 = No 
+     9 = Decline to answer 
+
+Variable: q160 
+  Question: Impression: The European Community or European Union 
+  Value Labels:
+     1 = Very Bad 
+     2 = ... 
+     2 = ... 
+     2 = ... 
+     2 = ... 
+     2 = ... 
+     2 = ... 
+     2 = ... 
+     2 = ... 
+     10 = Very Good 
+     90 = Not applicable 
+     97 = Do not understand the question 
+     98 = Can't choose 
+     99 = Decline to answer 
+
+Variable: q161 
+  Question: Impression: The United Nations or UN 
+  Value Labels:
+     1 = Very Bad 
+     2 = ... 
+     2 = ... 
+     2 = ... 
+     2 = ... 
+     2 = ... 
+     2 = ... 
+     2 = ... 
+     2 = ... 
+     10 = Very Good 
+     90 = Not applicable 
+     97 = Do not understand the question 
+     98 = Can't choose 
+     99 = Decline to answer 
+
+Variable: q162 
+  Question: Impression: International Monetary Fund or IMF 
+  Value Labels:
+     1 = Very Bad 
+     2 = ... 
+     2 = ... 
+     2 = ... 
+     2 = ... 
+     2 = ... 
+     2 = ... 
+     2 = ... 
+     2 = ... 
+     10 = Very Good 
+     90 = Not applicable 
+     97 = Do not understand the question 
+     98 = Can't choose 
+     99 = Decline to answer 
+
+Variable: q163 
+  Question: Impression: World Bank 
+  Value Labels:
+     1 = Very Bad 
+     2 = ... 
+     2 = ... 
+     2 = ... 
+     2 = ... 
+     2 = ... 
+     2 = ... 
+     2 = ... 
+     2 = ... 
+     10 = Very Good 
+     90 = Not applicable 
+     97 = Do not understand the question 
+     98 = Can't choose 
+     99 = Decline to answer 
+
+Variable: q164 
+  Question: Impression: United States 
+  Value Labels:
+     1 = Very Bad 
+     2 = ... 
+     2 = ... 
+     2 = ... 
+     2 = ... 
+     2 = ... 
+     2 = ... 
+     2 = ... 
+     2 = ... 
+     10 = Very Good 
+     90 = Not applicable 
+     97 = Do not understand the question 
+     98 = Can't choose 
+     99 = Decline to answer 
+
+Variable: q165 
+  Question: Impression: China 
+  Value Labels:
+     1 = Very Bad 
+     2 = ... 
+     2 = ... 
+     2 = ... 
+     2 = ... 
+     2 = ... 
+     2 = ... 
+     2 = ... 
+     2 = ... 
+     10 = Very Good 
+     90 = Not applicable 
+     97 = Do not understand the question 
+     98 = Can't choose 
+     99 = Decline to answer 
+
+Variable: q166 
+  Question: Impression: Japan 
+  Value Labels:
+     1 = Very Bad 
+     2 = ... 
+     2 = ... 
+     2 = ... 
+     2 = ... 
+     2 = ... 
+     2 = ... 
+     2 = ... 
+     2 = ... 
+     10 = Very Good 
+     90 = Not applicable 
+     97 = Do not understand the question 
+     98 = Can't choose 
+     99 = Decline to answer 
+
+Variable: se2 
+  Question: Gender 
+  Value Labels:
+     1 = Male 
+     2 = Female 
+
+Variable: se3a 
+  Question: Age 
+  Value Labels:
+     97 = NO ANSWER 
+     98 = DON'T KNOW 
+     99 = REFUSED 
+
+Variable: se4 
+  Question: Marital Status 
+  Value Labels:
+     1 = Single/Never married 
+     2 = Married 
+     3 = Living-in as married 
+     4 = Widowed 
+     5 = Separated/Married but separated/not living with legal spouse 
+     6 = Divorced 
+     9 = Decline to answer 
+
+Variable: se5 
+  Question: Education 
+  Value Labels:
+     1 = No formal education 
+     2 = Incomplete primary/elementary 
+     3 = Complete primary/elementary 
+     4 = Incomplete secondary/high school: technical/vocational type 
+     5 = Complete secondary/high school: technical/vocational type 
+     6 = Incomplete secondary/high school 
+     7 = Complete secondary/high school 
+     8 = Some university education 
+     9 = University education completed 
+     10 = Post-graduate degree 
+     11 = Other 
+     99 = Decline to answer 
+
+Variable: se5a 
+  Question: Years of formal education 
+  Value Labels:
+     90 = Not applicable 
+     97 = No answer 
+     98 = Cannot choose 
+     99 = Decline to answer 
+
+Variable: se6 
+  Question: Religion 
+  Value Labels:
+     1 = Traditional folk religion (Shenism) 
+     10 = Roman Catholic 
+     20 = Protestant 
+     21 = Seventh Day Adventist 
+     22 = Baptist 
+     23 = Pentecostal 
+     24 = Evangelical 
+     25 = Epescopal 
+     26 = Methodist 
+     27 = Grace Gospel of Church 
+     30 = Jews 
+     40 = Islam 
+     41 = Shia 
+     42 = Sunni 
+     50 = Hindu 
+     60 = Buddhist 
+     70 = Other Asian religions 
+     71 = Sikhism 
+     72 = Iglesia Ni Cristo 
+     73 = Aglipayan 
+     74 = Born Again 
+     75 = Shinto 
+     76 = Taoism 
+     77 = I-Kuan Tao 
+     78 = Confucianism 
+     79 = Tiruray 
+     80 = Other 
+     81 = Jehovah Witness 
+     82 = Mormons 
+     83 = Dating Daan 
+     84 = Anglican 
+     85 = Baha'i 
+     86 = Animism 
+     90 = None 
+     98 = Cannot choose 
+     99 = Decline to answer 
+
+Variable: se7 
+  Question: Religiosity 
+  Value Labels:
+     1 = Several times a day 
+     2 = Once a day 
+     3 = Several times a week 
+     4 = Once a week 
+     5 = Several times a month 
+     6 = Once a month 
+     7 = Only during festivals (or several times a year) 
+     8 = Once a year 
+     9 = Less often 
+     10 = Practically never 
+     11 = No religion 
+     98 = Cannot choose 
+     99 = Decline to answer 
+
+Variable: se7a 
+  Question: Would you describe yourself as very religious? 
+  Value Labels:
+     1 = Very religious 
+     2 = Moderately religious 
+     3 = Lightly religious 
+     4 = Not religious at all 
+     7 = Don't Understand 
+     8 = Don't know(Can't choose) 
+     9 = Decline to answer 
+
+Variable: se8a 
+  Question: How many people live in this household? 
+  Value Labels:
+     98 = Can't choose 
+     99 = Decline to answer 
+
+Variable: se8b 
+  Question: How many generations of family members live in this household? 
+  Value Labels:
+     1 = One generation 
+     2 = Two generations 
+     3 = Three generations 
+     4 = More than three generations 
+     8 = Don't know 
+     9 = Decline to answer 
+
+Variable: se9 
+  Question: Monthly Household Income 
+  Value Labels:
+     1 = lowest quintile 
+     2 = 2nd quintile 
+     3 = 3rd quintile 
+     4 = 4th quintile 
+     5 = top quintile 
+     98 = Can't choose 
+     99 = Decline to answer 
+
+Variable: se9a 
+  Question: Does the total income of your household allow you to satisfactorily cover your needs? 
+  Value Labels:
+     0 = Not applicable 
+     1 = Covers the needs well, we can save 
+     2 = Covers the needs all right, without much difficulty 
+     3 = Does not cover the needs, there are difficulties 
+     4 = Does not cover the needs, there are great difficulties 
+     7 = Do not understand the question 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: se10a 
+  Question: SE 10.1 Car/Jeep/Van 
+  Value Labels:
+     1 = Yes 
+     2 = No 
+
+Variable: se10b 
+  Question: SE 10.2 Tractor 
+  Value Labels:
+     1 = Yes 
+     2 = No 
+
+Variable: se10c 
+  Question: SE 10.3 Color or B/W Television 
+  Value Labels:
+     1 = Yes 
+     2 = No 
+
+Variable: se10d 
+  Question: SE 10.4 Cable Television 
+  Value Labels:
+     1 = Yes 
+     2 = No 
+
+Variable: se10e 
+  Question: SE 10.5 Scooter/Motorcycle/Moped 
+  Value Labels:
+     1 = Yes 
+     2 = No 
+
+Variable: se10f 
+  Question: SE 10.6 Telephone 
+  Value Labels:
+     1 = Yes 
+     2 = No 
+
+Variable: se10g 
+  Question: SE 10.7 Mobile Phone 
+  Value Labels:
+     1 = Yes 
+     2 = No 
+
+Variable: se10h 
+  Question: SE 10.8 Electric Fan/Cooler 
+  Value Labels:
+     1 = Yes 
+     2 = No 
+
+Variable: se10i 
+  Question: SE 10.9 Bicycle 
+  Value Labels:
+     1 = Yes 
+     2 = No 
+     9 = Decline to answer 
+
+Variable: se10j 
+  Question: SE 10.10 Radio/Transistor 
+  Value Labels:
+     1 = Yes 
+     2 = No 
+
+Variable: se10k 
+  Question: SE 10.11 Pumping Set 
+  Value Labels:
+     1 = Yes 
+     2 = No 
+
+Variable: se10l 
+  Question: SE 10.12 Fridge 
+  Value Labels:
+     1 = Yes 
+     2 = No 
+
+Variable: se10m 
+  Question: SE 10.13 Camera 
+  Value Labels:
+     1 = Yes 
+     2 = No 
+
+Variable: se10n 
+  Question: SE 10.14 Goats/Sheep 
+  Value Labels:
+     1 = Yes 
+     2 = No 
+
+Variable: se10o 
+  Question: SE 10.15 Cows/Buffalo 
+  Value Labels:
+     1 = Yes 
+     2 = No 
+
+Variable: se11 
+  Question: What language do you speak the most in the Home? 
+  Value Labels:
+     1 = Only local language 
+     2 = Mostly local language 
+     3 = A mixture of local and official language 
+     4 = Mostly official language 
+     5 = Only official language 
+     6 = Others 
+     8 = Can't choose 
+     9 = Decline to answer 
+
+Variable: se12a 
+  Question: Main Occupation 
+  Value Labels:
+     1 = Hired Workers (Excluding unpaid family workers) 
+     2 = Employers and Self-Employed 
+     3 = Purely Property Owner 
+     4 = Unpaid family workers 
+     5 = Presently unemployed but LOOKING for Work 
+     6 = Presently unemployed and NOT LOOKING for Work 
+     7 = Never worked before 
+     8 = No answer 
+     9 = Decline to answer 
+     10 = Others 
+     80 = Respondent is also the Chief Wage Earner 
+
+Variable: se12b 
+  Question: Respondent is also the chief wage earner? 
+  Value Labels:
+     1 = Yes 
+     2 = No 
+     9 = Decline to answer 
+
+Variable: se13 
+  Question: Subjective Social Status 
+  Value Labels:
+     1 = Lowest status 
+     2 = ... 
+     2 = ... 
+     2 = ... 
+     2 = ... 
+     2 = ... 
+     2 = ... 
+     2 = ... 
+     2 = ... 
+     10 = Highest status 
+     97 = Don't understand 
+     98 = Can't choose 
+     99 = Decline to answer 
+
+Variable: ir2 
+  Question: Is this the first questionnaire interviewers have completed? 
+  Value Labels:
+     1 = Yes 
+     2 = No 
+     8 = Not the first interviewer 
+
+Variable: ir2a 
+  Question: Interviewer's gender 
+  Value Labels:
+     0 = Not applicable/Not the first interview 
+     1 = Male 
+     2 = Female 
+
+Variable: ir2b 
+  Question: Interviewer's age 
+  Value Labels:
+     90 = Not applicable/Not the first interview 
+     99 = Decline to answer 
+
+Variable: ir3 
+  Question: In the interview, other than the respondents, were others present? 
+  Value Labels:
+     0 = Can't determine 
+     1 = Yes 
+     2 = No 
+
+Variable: ir3a_1 
+  Question: Spouse 
+  Value Labels:
+     0 = Not applicable 
+     1 = Yes 
+     2 = No 
+
+Variable: ir3a_2 
+  Question: Children 
+  Value Labels:
+     0 = Not applicable 
+     1 = Yes 
+     2 = No 
+
+Variable: ir3a_3 
+  Question: Parents or parents in law 
+  Value Labels:
+     0 = Not applicable 
+     1 = Yes 
+     2 = No 
+
+Variable: ir3a_4 
+  Question: Neighbors/Passers by 
+  Value Labels:
+     0 = Not applicable 
+     1 = Yes 
+     2 = No 
+
+Variable: ir3a_5 
+  Question: Party/Government Official 
+  Value Labels:
+     0 = Not applicable 
+     1 = Yes 
+     2 = No 
+
+Variable: ir3a_6 
+  Question: Others 
+  Value Labels:
+     0 = Not applicable 
+     1 = Yes 
+     2 = No 
+
+Variable: ir4 
+  Question: Has the respondent ever refused to be interviewed during the whole process? 
+  Value Labels:
+     0 = Can't determine 
+     1 = Yes. Right at the beginning of the interview 
+     2 = Yes. In the middle of the interview 
+     3 = Yes. Towards the end of the interview 
+     4 = Never 
+
+Variable: ir5 
+  Question: Has the respondent ever felt impatient during the interview? 
+  Value Labels:
+     0 = Can't determine 
+     1 = Never 
+     2 = Occasionally 
+     3 = Sometimes 
+     4 = Always 
+
+Variable: ir6 
+  Question: How cooperative was the respondent during the interview? 
+  Value Labels:
+     0 = Can't determine 
+     1 = Highly cooperative 
+     2 = Fairly cooperative 
+     3 = Not very cooperative 
+
+Variable: ir7 
+  Question: How sincere was the respondent when answering sensitive questions? 
+  Value Labels:
+     0 = Can't determine 
+     1 = Highly sincerely 
+     2 = Fairly sincere 
+     3 = Not very sincere 
+     4 = HIghly insincerely 
+
+Variable: ir8 
+  Question: What proportion of the questions do you feel the respondent had difficulty answering? 
+  Value Labels:
+     0 = Can't determine 
+     1 = All 
+     2 = Most 
+     3 = Some 
+     4 = Few 
+     5 = None 
+
+Variable: ir9_1 
+  Question: Date of interview: month 
+  Value Labels:
+     1 = January 
+     2 = February 
+     3 = March 
+     4 = April 
+     5 = May 
+     6 = June 
+     7 = July 
+     8 = August 
+     9 = September 
+     10 = October 
+     11 = November 
+     12 = December 
+
+Variable: ir9_2 
+  Question: Date of interview: day 
+
+Variable: ir9_3 
+  Question: Date of interview: year 
+
+Variable: ir10a 
+  Question: Was the interview conducted with the assistance of an interpreter? 
+  Value Labels:
+     0 = Can't determine 
+     1 = Yes 
+     2 = No 
+
+Variable: ir12a 
+  Question: What is the condition of the road leading to the interviewee's residence? 
+  Value Labels:
+     1 = Wide enough for car and paved with asphalt, cement or man-made materials 
+     2 = Not wide enough for car, but paved with asphalt 
+     3 = Paved with stone 
+     4 = Unpaved/dirt road 
+     5 = Muddy 
+     6 = Others 
+
+Variable: ir12b 
+  Question: Is tap water the main source of drinking water? 
+  Value Labels:
+     0 = Can't determine 
+     1 = Yes 
+     2 = No 
+
+Variable: ir12c 
+  Question: Is electricity the main source of lighting? 
+  Value Labels:
+     0 = Can't determine 
+     1 = Yes 
+     2 = No 
+
+Variable: ir12d 
+  Question: How far is it between the nearest public transportation stop and the respondent's house? 
+  Value Labels:
+     0 = Can't determine 
+     1 = Less than 10 minutes by walking 
+     2 = Less than 20 minutes 
+     3 = Less than 40 minutes 
+     4 = Less than an hour 
+     5 = Less than two hours 
+     6 = Less than three hours 
+     7 = Less than four hours 
+     8 = More than four hours 
+     9 = No stop 
+
+Variable: ir13a 
+  Question: A.  Post-office 
+  Value Labels:
+     0 = No 
+     1 = Yes 
+     3 = Not sure 
+     7 = Not applicable 
+     9 = Can't determine 
+
+Variable: ir13b 
+  Question: B.  School 
+  Value Labels:
+     0 = No 
+     1 = Yes 
+     3 = Not sure 
+     7 = Not applicable 
+     9 = Can't determine 
+
+Variable: irII13c 
+  Question: C.  Police station 
+  Value Labels:
+     0 = No 
+     1 = Yes 
+     3 = Not sure 
+     7 = Not applicable 
+     9 = Can't determine 
+
+Variable: ir13d 
+  Question: D.  Sewerage system that most houses could access 
+  Value Labels:
+     0 = No 
+     1 = Yes 
+     3 = Not sure 
+     7 = Not applicable 
+     9 = Can't determine 
+
+Variable: ir13e 
+  Question: E.  Health clinic 
+  Value Labels:
+     0 = No 
+     1 = Yes 
+     3 = Not sure 
+     7 = Not applicable 
+     9 = Can't determine 
+
+Variable: ir13f 
+  Question: F.  Signal for cellular phone 
+  Value Labels:
+     0 = No 
+     1 = Yes 
+     3 = Not sure 
+     7 = Not applicable 
+     9 = Can't determine 
+
+Variable: ir13g 
+  Question: G.  Recreational facilities, e.g., a sports field 
+  Value Labels:
+     0 = No 
+     1 = Yes 
+     3 = Not sure 
+     7 = Not applicable 
+     9 = Can't determine 
+
+Variable: ir13h 
+  Question: H.  Any churches, mosques, temples or other public places of worship 
+  Value Labels:
+     0 = No 
+     1 = Yes 
+     3 = Not sure 
+     7 = Not applicable 
+     9 = Can't determine 
+
+Variable: ir13i 
+  Question: I.  Any town halls or community buildings that can be used for meetings 
+  Value Labels:
+     0 = No 
+     1 = Yes 
+     3 = Not sure 
+     7 = Not applicable 
+     9 = Can't determine 
+
+Variable: ir13k 
+  Question: K.  Market stalls (selling groceries and/or clothing) 
+  Value Labels:
+     0 = No 
+     1 = Yes 
+     3 = Not sure 
+     7 = Not applicable 
+     9 = Can't determine 
+
+Variable: ir14 
+  Question: Which of the following levels within the country the respondent live? 
+  Value Labels:
+     1 = Capital or Megacity 
+     2 = Regional center or Other major cities 
+     3 = Small city or town 
+     4 = Village or countryside 
+     5 = Suburb 
+     6 = Remote area 
+     7 = Cannot choose 
+
+Variable: w_all 
+  Question: N/A 
