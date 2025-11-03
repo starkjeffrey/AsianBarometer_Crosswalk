@@ -1,0 +1,165 @@
+---
+title: "ABS Cambodia — Trust Explorer"
+format:
+  html:
+    theme: cosmo
+    toc: true
+execute:
+  echo: false
+  warning: false
+  message: false
+  engine: knitr
+---
+
+```{r}
+# ---- Setup ----
+# Install once if needed:
+# install.packages(c("tidyverse","plotly","DT","crosstalk","janitor","forcats"))
+
+library(tidyverse)
+library(plotly)
+library(DT)
+library(crosstalk)
+library(janitor)
+library(forcats)
+library(haven)
+
+# ---- Load data ----
+file_path <- "data/processed/cambodia_all_waves_harmonized.rds"
+if (!file.exists(file_path)) {
+  stop("File not found: ", file_path,
+       "\n(Check working directory or adjust the path.)")
+}
+abs <- readRDS(file_path)
+
+# Detect trust_* variables (concept-level columns from your harmonizer)
+trust_vars <- grep("^trust_", names(abs), value = TRUE)
+
+# If you still carry raw harmonized suffixes like *_harm, drop those
+trust_vars <- setdiff(trust_vars, grep("_harm$", trust_vars, value = TRUE))
+
+# --- Diagnostics so you can see what's happening ---
+list(
+  n_rows = nrow(abs),
+  n_trust_vars = length(trust_vars),
+  sample_trust_vars = head(trust_vars, 12)
+)
+# ---- Guard rails ----
+if (!length(trust_vars)) {
+  stop("No columns matching ^trust_ found in the dataset.\n",
+       "Columns available include: ", paste(head(names(abs), 50), collapse = ", "))
+}
+
+# If 'wave' is missing, create a placeholder so plotting still works
+if (!("wave" %in% names(abs))) {
+  abs <- abs %>% mutate(wave = "Unknown")
+}
+
+# ---- Long form for plotting ----
+# Convert haven_labelled columns to numeric first to avoid attribute conflicts
+# Use haven::zap_labels() to strip SPSS labels before pivoting
+trust_long <- abs %>%
+  select(wave, all_of(trust_vars)) %>%
+  mutate(across(all_of(trust_vars), ~as.numeric(haven::zap_labels(.)))) %>%
+  pivot_longer(
+    cols = all_of(trust_vars),
+    names_to = "institution",
+    values_to = "trust"
+  ) %>%
+  mutate(
+    wave = as.factor(wave),
+    institution = as.factor(institution)
+  ) %>%
+  filter(!is.na(trust))
+
+# Pretty labels
+pretty_inst <- function(x) x %>% str_replace_all("_"," ") %>% str_to_title()
+trust_long <- trust_long %>%
+  mutate(inst_pretty = pretty_inst(as.character(institution)))
+
+# Make shared data for client-side filters (no server needed)
+sd <- SharedData$new(trust_long, key = ~paste(inst_pretty, wave, trust), group = "trustgrp")
+
+# Show a quick sanity table so you know there is data
+trust_long %>% count(inst_pretty, wave) %>% arrange(desc(n)) %>% head(15)
+```
+
+## Interactive Filters
+
+```{r}
+#| label: filters
+bscols(
+  widths = c(6, 6),
+  filter_select(id = "f_inst", label = "Institution", sharedData = sd, group = ~inst_pretty),
+  filter_select(id = "f_wave", label = "Wave",        sharedData = sd, group = ~wave)
+)
+```
+
+## Trust Distribution
+
+```{r}
+#| label: hist
+# If you have both 4-pt and 6-pt inputs harmonized to "higher = more trust",
+# a simple histogram is still informative. Adjust nbinsx as needed.
+plot_ly(sd, x = ~trust, color = ~wave, type = "histogram",
+        nbinsx = 6, opacity = 0.7) %>%
+  layout(barmode = "overlay",
+         xaxis = list(title = "Trust (higher = more trust)"),
+         yaxis = list(title = "Count"),
+         legend = list(orientation = "h"))
+```
+
+## Trust Spread by Wave
+
+```{r}
+#| label: spread
+subplot(
+  plot_ly(sd, y = ~trust, x = ~wave, color = ~wave, type = "box") %>%
+    layout(yaxis = list(title = "Trust"), xaxis = list(title = "Wave")),
+  plot_ly(sd, y = ~trust, x = ~wave, color = ~wave, type = "violin",
+          box = list(visible = TRUE)) %>%
+    layout(yaxis = list(title = "Trust"), xaxis = list(title = "Wave")),
+  nrows = 1, shareY = TRUE
+)
+```
+
+## Mean Trust Heatmap
+
+```{r}
+#| label: heatmap
+heat_df <- trust_long %>%
+  group_by(inst_pretty, wave) %>%
+  summarise(mean_trust = mean(trust, na.rm = TRUE), .groups = "drop") %>%
+  mutate(inst_pretty = fct_reorder(inst_pretty, mean_trust, .fun = mean, .desc = TRUE)) %>%
+  arrange(inst_pretty, wave)
+
+plot_ly(heat_df, x = ~wave, y = ~inst_pretty, z = ~mean_trust,
+        type = "heatmap", colorscale = "Blues") %>%
+  colorbar(title = "Mean trust") %>%
+  layout(xaxis = list(title = "Wave"), yaxis = list(title = "Institution"))
+```
+
+## Summary Statistics Table
+
+```{r}
+#| label: table
+sumtab <- trust_long %>%
+  group_by(inst_pretty, wave) %>%
+  summarise(
+    n = n(),
+    mean = round(mean(trust, na.rm = TRUE), 3),
+    sd   = round(sd(trust,  na.rm = TRUE), 3),
+    p25  = round(quantile(trust, 0.25, na.rm = TRUE), 3),
+    med  = round(median(trust, na.rm = TRUE), 3),
+    p75  = round(quantile(trust, 0.75, na.rm = TRUE), 3)
+  ) %>%
+  arrange(inst_pretty, wave) %>%
+  ungroup()
+
+DT::datatable(
+  sumtab,
+  rownames = FALSE,
+  filter = "top",
+  options = list(pageLength = 15, autoWidth = TRUE)
+)
+```
