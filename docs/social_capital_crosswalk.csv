@@ -1,0 +1,18 @@
+Concept,W1,W2,W3,W4,W5,W6,Suggested_Variable_Name,Notes
+Organization belong to - First,NA,NA,q20,q20,q18,q18,org_import_1,W3+ only
+Organization belong to - Second,NA,NA,q21,q21,q19,q19,org_import_2,W3+ only
+Organization belong to - Third,NA,NA,q22,q22,q20,q20,org_import_3,W3+ only
+Most active organization,NA,NA,NA,NA,q21,q21,org_most_active,W5+ only
+Most people can be trusted,q024 (3opt),q23 (binary),q23 (binary),q23 (binary),q22 (3opt),q22 (3opt),trust_general_binary,W1/W5/W6 have 3-option with 'it depends'
+Most people are trustworthy,NA,NA,q49 (4pt),q24 (4pt),q23 (4pt),q23 (4pt),trust_general_scale,W3+ only; agree/disagree scale
+Take advantage vs fair,NA,NA,NA,q25 (binary),NA,NA,trust_fairness,W4 only
+Trust relatives,NA,q24 (4pt),q25 (4pt),q26 (4pt),q24 (6pt),q24 (6pt),trust_relatives,W2+; scale change at W5
+Trust neighbors,NA,q25 (4pt),q26 (4pt),q27 (4pt),q25 (6pt),q25 (6pt),trust_neighbors,W2+; scale change at W5
+Trust others you interact with,NA,q26 (4pt),q27 (4pt),q28 (4pt),q26 (6pt),q26 (6pt),trust_others_interact,W2+; scale change at W5
+Trust first-time contacts,NA,NA,NA,NA,q27 (6pt),q27 (6pt),trust_first_time,W5+ only
+Daily contact frequency,NA,q27,q28,q29,q28,q28,social_network_size,W2+; 5-category scale
+Social status of contacts,NA,NA,NA,NA,q29,q29,social_network_status,W5+ only
+Political views of contacts,NA,NA,NA,NA,q30,q30,social_network_political,W5+ only
+Can ask for help,NA,NA,q29 (4pt),q30 (4pt),q31 (4pt),q31 (4pt),social_support_receive,W3+ only
+Others ask you for help,NA,NA,NA,q31 (4pt),NA,NA,social_support_give,W4 only
+Political conversation difficulty,NA,q31 (4pt),q31 (4pt),q32 (4pt),q32 (4pt),q32 (4pt),political_tolerance,W2+; reverse code higher=more tolerant
