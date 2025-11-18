@@ -1,0 +1,200 @@
+  Question: Country code 
+  Question: Interview year 
+  Question: Interview month 
+  Question: case number 
+  Question: Region 
+  Question: Rural or urban 
+Variable: q1 
+  Question: 1 How would you rate the overall economic condition of our country today? 
+Variable: q2 
+  Question: 2 How would you describe the change in the economic condition of our country over the last few years? 
+Variable: q3 
+  Question: 3 What do you think will be the state of our country's economic condition a few years from now? 
+Variable: q4 
+  Question: 4 As for your own family, how do you rate the economic situation of your family today? 
+Variable: q5 
+  Question: 5 How would you compare the current economic condition of your family with what it was a few years ago? 
+Variable: q6 
+  Question: 6 What do you think the economic situation of your family will be a few years from now? 
+Variable: q7 
+  Question: 7 Trust in the excutive office (president or prime minister) 
+Variable: q8 
+  Question: 8 The courts 
+Variable: q9 
+  Question: 9 National government in the capital city 
+Variable: q10 
+  Question: 10 Political parties [not any specific party] 
+Variable: q11 
+  Question: 11 Parliament 
+Variable: q12 
+  Question: 12 Civil Service 
+Variable: q13 
+  Question: 13 The military or armed forces 
+Variable: q14 
+  Question: 14 The police 
+Variable: q15 
+  Question: 15 Local government 
+Variable: q16 
+  Question: 16 The election commission 
+Variable: q17 
+  Question: 17 Non-government organizations or NGOs 
+Variable: q18 
+  Question: 18 Name of the organization you belong to. First 
+Variable: q18_other 
+  Question: 18 Other specify responses 
+Variable: q19 
+  Question: 19 Name of the organization you belong to. Second 
+Variable: q19_other 
+  Question: 19 Other specify responses 
+Variable: q20 
+  Question: 20 Name of the organization that you belong to. Third 
+Variable: q20_other 
+  Question: 20 Other specify responses 
+Variable: q21 
+  Question: 21 Which organization you participate most actively in the last 12 months?' 
+Variable: q21_other 
+  Question: 21 Other specify responses 
+Variable: q22 
+  Question: 22 Would you say that 'Most people can be trusted' or 'that you must be very careful in dealing with people'? 
+Variable: q23 
+  Question: 23 Do you agree with the statement that 'most people are trustworthy?' 
+Variable: q24 
+  Question: 24 How much trust do you have in each of the following types of people? Your relatives 
+Variable: q25 
+  Question: 25 Trust in your neighbors 
+Variable: q26 
+  Question: 26 Trust in other people you interact with 
+Variable: q27 
+  Question: 27 Trust in people you meet for the first time 
+Variable: q28 
+  Question: 28 How many people do you have contact with in a typical week day? 
+Variable: q29 
+  Question: 29 Which of the following best describes your relations with most of your social contacts? 
+Variable: q30 
+  Question: 30 Among these people you have frequent contacts, which of the following best describes the political views of these people? 
+Variable: q31 
+  Question: 31 If you have a difficult problem to manage, are there people outside your household you can ask for help? 
+Variable: q32 
+  Question: 32 If you had friends or co-workers whose opinions on politics differed from yours, would you have a hard time conversing with them? 
+Variable: q33 
+  Question: 33 Did you vote in the national election? 
+Variable: q34 
+  Question: 34 Which parties or candidates did you vote for? 
+Variable: q34other 
+  Question: 34. Other specify responses 
+Variable: q34a 
+  Question: 34a Did the respondent vote for the winning or losing camp? 
+Variable: q35 
+  Question: 35 Did you attend a campaign meeting or rally in the last national election? 
+Variable: q36 
+  Question: 36 Try to persuade others to vote for a certain candidate or party? 
+Variable: q37 
+  Question: 37 Did you do anything else to help out or work for a party or candidate running in the last national election? 
+Variable: q38 
+  Question: 38 On the whole, how free and fair would you say the last national election was? 
+Variable: q39 
+  Question: 39 How easy or difficult to obtain the roads in good condition 
+Variable: q40 
+  Question: 40 How easy or difficult to obtain running water 
+Variable: q41 
+  Question: 41 How easy or difficult to obtain public transportation 
+Variable: q42 
+  Question: 42 How easy or difficult to obtain healthcare 
+Variable: q43 
+  Question: 43 How easy or difficult to obtain help from the police when you need it 
+Variable: q44 
+  Question: 44 How easy or difficult to obtain access to the Internet 
+Variable: q45 
+  Question: 45 How easy or difficult to obtain childcare 
+Variable: q46 
+  Question: 46 Generally speaking, how safe is living in this city/town/village? 
+Variable: q47 
+  Question: 47 How interested would you say you are in politics? 
+Variable: q48 
+  Question: 48 How often do you follow news about politics and government? 
+Variable: q49 
+  Question: 49 When you get together with your family members or friends, how often do you discuss political matters? 
+Variable: q50 
+  Question: 50 How often do you use the internet, either through computer, tablet or smartphone? 
+Variable: q51a_Facebook 
+  Question: 51a Which social media and text messaging services do you actively use? Facebook 
+Variable: q51b_Twitter 
+  Question: 51b Twitter 
+Variable: q51c_Instagram 
+  Question: 51c Instagram 
+Variable: q51d_Youtube 
+  Question: 51d Youtube 
+Variable: q51e_Tiktok 
+  Question: 51e Tiktok 
+Variable: q51f_Messenger 
+  Question: q51f Messenger 
+Variable: q51g_Telegram 
+  Question: q51g Telegram 
+Variable: q51h_Line 
+  Question: q51h Line 
+Variable: q51i_Whatsapp 
+  Question: q51i Whatsapp 
+Variable: q51j_Snapchat 
+  Question: q51j Snapchat 
+Variable: q51k_Vchat 
+  Question: q51k Vchat 
+Variable: q51l_Tumblr 
+  Question: q51l Tumblr 
+Variable: q52a 
+  Question: 52a How often do you use social media to talk to or to connect with other people? 
+Variable: q52b 
+  Question: 52b How often do you use social media to express my opinion on political issues? 
+Variable: q52c 
+  Question: 52c How often do you use social media to share news or information? 
+Variable: q52d 
+  Question: 52d How often do you use social media to organize to influence politics? 
+Variable: q53 
+  Question: 53 Which one is the most important channel for you to find information about politics and government? 
+Variable: q53other 
+  Question: 53. Other specify responses 
+Variable: q54 
+  Question: 54 Among the political parties listed here, which party if any do you feel closest to? 
+Variable: q54other 
+  Question: 54. Other specify responses 
+Variable: q55 
+  Question: 55 How close do you feel to (answer in Q54)? Is it very close, somewhat close, or just a little close? 
+Variable: q56 
+  Question: 56 For the sake of the family, the individual should put his personal interests second. 
+Variable: q57 
+  Question: 57 In a group, we should sacrifice our individual interest for the sake of the group's collective interest. 
+Variable: q58 
+  Question: 58 For the sake of national interest, individual interest could be sacrificed. 
+Variable: q59 
+  Question: 59 When dealing with others, developing a long-term relationship is more important than securing one's immediate interest. 
+Variable: q60 
+  Question: 60 Even if parents' demands are unreasonable, children still should do what they ask. 
+Variable: q61 
+  Question: 61 When a mother-in-law and a daughter-in-law come into conflict, even if the mother-in-law is in the wrong, the husband should still persuade his wife to obey his mother. 
+Variable: q62 
+  Question: 62 Being a student, one should not question the authority of their teacher. 
+Variable: q63 
+  Question: 63 In a group, we should avoid open quarrel to preserve the harmony of the group. 
+Variable: q64 
+  Question: 64 Even if there is some disagreement with others, one should avoid the conflict. 
+Variable: q65 
+  Question: 65 A person should not insist on his own opinion if his co-workers disagree with him. 
+Variable: q66 
+  Question: 66 Wealth and poverty, success and failure are all determined by fate. 
+Variable: q67 
+  Question: 67 If one could have only one child, it is more preferable to have a boy than a girl. 
+Variable: q68 
+  Question: 68 In the past three years, have you ever contacted elected officials or legislative representatives at any level? 
+Variable: q69 
+  Question: 69  Contacted civil servants or officials 
+Variable: q70 
+  Question: 70  Contacted other influential people outside the government, such as traditional leaders/community leaders 
+Variable: q71 
+  Question: 71  Contacted news media 
+Variable: q72 
+  Question: 72  Signed a paper or online petition? 
+Variable: q73 
+  Question: 73  Used the Internet including Social Media Networks to express opinions about politics 
+Variable: q74 
+  Question: 74  Joined a group to activiely support a cause [including online] 
+Variable: q75 
+  Question: 75  Got together with others face-to face to try to resolve local problems 

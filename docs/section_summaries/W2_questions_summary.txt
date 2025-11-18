@@ -1,0 +1,200 @@
+  Question: Country Code 
+  Question: Interview Numbers 
+  Question: Urban-rural 
+Variable: q1 
+  Question: How would you rate the overall economic condition of our country today? 
+Variable: q2 
+  Question: How would you describe the change in the economic condition of our country over the last years? 
+Variable: q3 
+  Question: What do you think will be the state of our country's economic condition a few years from now? 
+Variable: q4 
+  Question: As for your own family, how do you rate your economic situation today? 
+Variable: q5 
+  Question: How would you compare the current economic condition of your family with what it was a few years ago? 
+Variable: q6 
+  Question: What do you think the economic situation of your family will be a few years from now? 
+Variable: q7 
+  Question: Trust in Prime Minister or president 
+Variable: q8 
+  Question: Trust in the Courts 
+Variable: q9 
+  Question: Trust in the national government 
+Variable: q10 
+  Question: Trust in Political parties 
+Variable: q11 
+  Question: Trust in Parliament 
+Variable: q12 
+  Question: Trust in Civil service 
+Variable: q13 
+  Question: Trust in the military(or armed forces) 
+Variable: q14 
+  Question: Trust in the police 
+Variable: q15 
+  Question: Trust in local government 
+Variable: q16 
+  Question: Trust in newspaper 
+Variable: q17 
+  Question: Trust in television 
+Variable: q18 
+  Question: Trust in the election commission(Singapore: International TV) 
+Variable: q19 
+  Question: Trust in NGOs 
+Variable: q20 
+  Question: Are you a member of any organization or formal groups? 
+  Question: Number of formal group 
+Variable: q20_1 
+  Question: First organization 
+Variable: q20_2 
+  Question: Second organization 
+Variable: q20_3 
+  Question: Third organization 
+Variable: q23 
+  Question: General speaking, would you say "Most people can be trusted" or "that you must be very careful"? 
+Variable: q24 
+  Question: How much trust do you have in your relatives? 
+Variable: q25 
+  Question: How much trust do you have in your neighbors? 
+Variable: q26 
+  Question: How much trust do you have in other people you interact with? 
+Variable: q27 
+  Question: On average, about how many people do you have contact with in a typical week day? 
+Variable: q28 
+  Question: How often are you asked to help influence important decisions in other people's favor? 
+Variable: q29 
+  Question: And are there people you could ask to help influence important decisions in your favor? 
+Variable: q30 
+  Question: Do you agree or disagree with the following statement: By helping people in trouble today, someone else will help me when I am in trouble someday. 
+Variable: q31 
+  Question: Would you have a hard time conversing with your friends or co-workers about politics if you had differing opinions? 
+Variable: q32 
+  Question: Generally speaking, how safe is living in this city/town/village? 
+Variable: q33 
+  Question: Compared to the situation in this city/town/village a few years ago, do you feel more safe, less safe or the same as before? 
+Variable: q34 
+  Question: Have you been a victim of car, motorcycle or bicycle theft? 
+Variable: q35 
+  Question: Have you been a victim of pick-pocketing/robbery of personal property? 
+Variable: q36 
+  Question: Have you been a victim of break-in at your home? 
+Variable: q37 
+  Question: Have you been a victim of physical violence? 
+Variable: q38 
+  Question: Have you voted in the last election? 
+Variable: q39 
+  Question: Which parties (or candidates for president if it was presidential race) did you vote for? 
+Variable: q39a 
+  Question: If the respondent voted for the winning camp or loosing camp? 
+Variable: q40 
+  Question: Attend a campaign meeting or rally 
+Variable: q41 
+  Question: Try to persuade others to vote for a certain candidate or party 
+Variable: q42 
+  Question: Did you do anything else to help out or work for a party or candidate running in the election 
+Variable: q43 
+  Question: On the whole, how would you rate the freeness and fairness of the last national election? 
+Variable: q44 
+  Question: How easy is it to obtain: An identity document 
+Variable: q45 
+  Question: How easy is it to obtain: A place in public primary school for a child 
+Variable: q46 
+  Question: How easy is it to obtain: Medical treatment at a nearby clinic 
+Variable: q47 
+  Question: How easy is it to obtain: Help from the police when you need it 
+Variable: q48 
+  Question: How would you describe the present political situation in our country 
+Variable: q49 
+  Question: How interested would you say you are in politics 
+Variable: q50 
+  Question: How often do you follow news about politics and government 
+Variable: q51_1 
+  Question: Main source of information. Question 51.01 Television 
+Variable: q51_2 
+  Question: Question 51.02 Newspaper 
+Variable: q51_3 
+  Question: Question 51.03 Radio 
+Variable: q51_4 
+  Question: Question 51.04 Internet 
+Variable: q51_5 
+  Question: Question 51.05 Cell phone short message (SMS) 
+Variable: q51_6 
+  Question: Question 51.06 Personal contact 
+Variable: q51_7 
+  Question: Question 51.07 Other 
+Variable: q51_8 
+  Question: Magazine 
+Variable: q51a 
+  Question: From Q51 Which is most important 
+Variable: q52 
+  Question: When you get together with your family members or friends, how often do you discuss political matters? 
+Variable: q53 
+  Question: How much impact do you feel government politics have on your daily life? 
+Variable: q54 
+  Question: Among the political parties listed here, which party if any do you feel closest to? 
+Variable: q55 
+  Question: How close do you feel to the party(answer in Q54)? 
+Variable: q56 
+  Question: Even if parents' demands are unreasonable, children still should do what they ask 
+Variable: q57 
+  Question: Being a student, one should not question the authority of their teacher 
+Variable: q58 
+  Question: When one has conflict with a neighbor, the best way to deal with it is to accommodate the other person 
+Variable: q59 
+  Question: A person should not insist on his own opinion if his co-workers disagree with him 
+Variable: q60 
+  Question: For the sake of the family, the individual should put his personal interests second 
+Variable: q61 
+  Question: Sometimes one has to follow one's own beliefs regardless of what other people think 
+Variable: q62 
+  Question: When dealing with others, securing one's immediate interests should be more important than developing a long-term 
+Variable: q63 
+  Question: Open quarrels (criticisms) among politicians are harmful to society 
+Variable: q64 
+  Question: The relationship between the government and the people should be like that between parents and children 
+Variable: q65 
+  Question: People should always support the decisions of their government even if they disagree with them 
+Variable: q66 
+  Question: How often do you use the internet? 
+Variable: q67 
+  Question: How closely do you follow major events in foreign countries/the world? 
+Variable: q68 
+  Question: Have you traveled abroad before? If you have, how often do you travel abroad? 
+Variable: q69 
+  Question: How often do you have personal contact with foreigners? 
+Variable: q70 
+  Question: We should give up gains in the present for the possibility of larger gains in the future 
+Variable: q71 
+  Question: Conflict among political groups is not a bad thing for our country 
+Variable: q72 
+  Question: If a government policy serves the interests of the majority of people, I should support it 
+Variable: q73 
+  Question: The best way to deal with complicated political issues should be to leave them to the future 
+Variable: q74 
+  Question: Political reform should be introduced little-by-little instead of all-at-once 
+Variable: q75 
+  Question: Cruel criminals should be punished immediately without regard to time-consuming legal processes 
+Variable: q76 
+  Question: For the sake of the national community/society, the individual should be prepared to sacrifice 
+Variable: q77 
+  Question: The most important thing for political leaders is to accomplish their goals even if they have to ignore the established procedure 
+Variable: q78 
+  Question: If possible, I don't want to get involved in political matters 
+Variable: q79 
+  Question: Contacted government (administrative) official 
+Variable: q80 
+  Question: Contacted officials at higher level 
+Variable: q81 
+  Question: Contacted elected officials or legislative representatives at any level 
+Variable: q82 
+  Question: Contacted officials of political parties or other political organizations 
+Variable: q83 
+  Question: Contacted representative of non-government/civil society organizations 
+Variable: q84 
+  Question: Contacted traditional leaders/community leaders (IN: Mass media; TW/HK: Acquaintances in the government) 
+Variable: q85 
+  Question: Contacted other influential people 
+Variable: q86 
+  Question: Refused to pay taxes or fees to the government 
+Variable: q87 
+  Question: Got together with others to raise an issue or sign a petition 
+Variable: q88 
+  Question: Attended a demonstration or protest march 

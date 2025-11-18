@@ -1,0 +1,200 @@
+  Question: Country 
+  Question: idnumber 
+  Question: urban-rural 
+  Question: survey year 
+  Question: gender 
+  Question: age group 
+  Question: actual age 
+  Question: marital status 
+  Question: Marital Status(Y/N) 
+  Question: education 
+  Question: education by year 
+  Question: education(four categories) 
+  Question: religion 
+  Question: relgiosity 
+  Question: n of household members 
+  Question: household generations 
+  Question: annual income: national quintiles 
+  Question: Main Occupation 
+  Question: main occupation(orginal) 
+  Question: OCCUPATION(original) 
+  Question: Occupation(original) 
+  Question: OCCUPATION 
+  Question: employment 
+  Question: occupation (verbatim) 
+  Question: (Respondent has a job) What is respondent's current occupation? 
+  Question: Primary occupation of respondent 
+  Question: language 
+  Question: ethnicity 
+  Question: subjective social status 
+  Question: Religion 
+  Question: number of formal group 
+  Question: number of private group 
+Variable: q001 
+  Question: How would you rate the overall economic condition of our country today? 
+Variable: q002 
+  Question: How would you describe the change in the economic condition of our country over the past five years? 
+Variable: q003 
+  Question: What do you think will be the state of our country's economic condition five years from now? 
+Variable: q004 
+  Question: As for your own family, how do you rate your economic situation today? 
+Variable: q005 
+  Question: How would you compare the current economic condition of your family with what it was five years ago? 
+Variable: q006 
+  Question: What do you think the economic situation of your family will be five years from now? 
+Variable: q007 
+  Question: How much trust do you have in the courts? 
+Variable: q008 
+  Question: How much trust do you have in the national government? 
+Variable: q009 
+  Question: How much trust do you have in political parties? 
+Variable: q010 
+  Question: How much trust do you have in Parliament? 
+Variable: q011 
+  Question: How much trust do you have in civil service? 
+Variable: q012 
+  Question: How much trust do you have in the military? 
+Variable: q013 
+  Question: How much trust do you have in the police? 
+Variable: q014 
+  Question: How much trust do you have in local government? 
+Variable: q015 
+  Question: How much trust do you have in newspapers? 
+Variable: q016 
+  Question: How much trust do you have in television? 
+Variable: q017 
+  Question: How much trust do you have in the election commission? 
+Variable: q018 
+  Question: How much trust do you have in non-governmental organizations? 
+Variable: q018_1 
+  Question: TRUST POLICE STATION 
+Variable: q018_2 
+  Question: TRUST STATE OWNED ENTERPRISES 
+Variable: q018_3 
+  Question: TRUST PRIVATE ENTERPRISES 
+Variable: q018_4 
+  Question: TRUST FOREIGN ENTERPRISES 
+Variable: q018_5 
+  Question: TRUST OUR COUNTRY 
+Variable: q018_6 
+  Question: how much trust in radio? 
+Variable: q018_7 
+  Question: Local MP(q18_1) 
+Variable: q018_8 
+  Question: The Constitution Court(q18_2) 
+Variable: q018_9 
+  Question: The Corruption Commission(q18_3) 
+Variable: q022 
+  Question: How frequently do you participate? 
+Variable: q023 
+  Question: How often do you discuss politics? 
+Variable: q024 
+  Question: most people can be trusted?? 
+Variable: q025 
+  Question: I have enough friends and connections so that I can get help if I need it 
+Variable: q026 
+  Question: I have some friends with influence, so I don't have to worry too much if I get into a tight spot 
+Variable: q027 
+  Question: Have you participated in last election? 
+Variable: q028 
+  Question: Which party did you vote for? 
+Variable: q029 
+  Question: Did you attend a campaign meeting or rally? 
+Variable: q030 
+  Question: Did you try to persuade others to vote for a certain candidate or party? 
+Variable: q031 
+  Question: Did you do anything else to help or show your support for a party or candidate running in the election? 
+Variable: q032 
+  Question: Asked to vote for a particular candidate?_FAMILY MEMBER/RELATIVE 
+Variable: q033 
+  Question: Asked following personally ask you to vote for a particular candidate?_SENIORS IN A CLAN OR EXTENDED FAMILY 
+Variable: q034 
+  Question: Asked to vote for a particular candidate?_NEIGHBOR/FRIEND 
+Variable: q035 
+  Question: Asked to vote for a particular candidate?_COMMUNITY LEADERS 
+Variable: q036 
+  Question: Asked to vote for a particular candidate?_SUPERIOR AT WORK/SCHOOL 
+Variable: q037 
+  Question: Asked to vote for a particular candidate?_OWNERS OF THE FIRM/UNIT THAT YOU WORK FOR 
+Variable: q038 
+  Question: Asked to vote for a particularcandidate?_MEMBER/OFFICIAL OF ORGANIZATION THAT YOU BELONG TO 
+Variable: q039 
+  Question: Asked to vote for a particular candidate?_GOVERNMENT OFFICIAL WHOM YOU KNOW PERSONALLY 
+Variable: q040 
+  Question: Asked to vote for a particular candidate?_GOVERNMENT OFFICIAL WHOM YOU DON'T KNOW 
+Variable: q041 
+  Question: Asked to vote for a particular candidate?_CANDIDATE/PARTY ACTIVIST WHOM YOU KNOW PERSONALLY 
+Variable: q042 
+  Question: Asked to vote for a particular candidate?_CANDIDATE/PARTY ACTIVIST WHOM YOU DONT KNOW 
+Variable: q043 
+  Question: Asked to vote for a particular candidate?_OTHERS 
+Variable: q044 
+  Question: Influential_FAMILY MEMBER/RELATIVE 
+Variable: q045 
+  Question: Influential_SENIORS IN A CLAN OR EXTENDED FAMILY 
+Variable: q046 
+  Question: Influential_NEIGHBOR/FRIEND 
+Variable: q047 
+  Question: Influential_COMMUNITY LEADERS 
+Variable: q048 
+  Question: Influential_SUPERIOR AT WORK/SCHOOL 
+Variable: q049 
+  Question: Influential_OWNERS OF THE FIRM/UNIT THAT YOU WORK FOR 
+Variable: q050 
+  Question: Influential_MEMBER/OFFICIAL OF ORGANIZATION THAT YOU BELONG TO 
+Variable: q051 
+  Question: Influential_GOVERNMENT OFFICIAL WHOM YOU KNOW PERSONALLY 
+Variable: q052 
+  Question: Influential_GOVERNMENT OFFICIAL WHOM YOU DON'T KNOW 
+Variable: q053 
+  Question: Influential_CANDIDATE/PARTY ACTIVIST WHOM YOU KNOW PERSONALLY 
+Variable: q054 
+  Question: Influential_CANDIDATE/PARTY ACTIVIST WHOM YOU DON'T KNOW 
+Variable: q055 
+  Question: Influential_OTHERS 
+Variable: q056 
+  Question: How interested would you say you are interested in politics? 
+Variable: q057 
+  Question: How often do you follow news about politics? 
+Variable: q057a 
+  Question: How often do you follow news about politics in the daily newspaper, television, and radio? 
+Variable: q058 
+  Question: How often do you follow news about politics in the daily newspaper? 
+Variable: q059 
+  Question: How often do you follow news about politics on television? 
+Variable: q060 
+  Question: How often do you follow news about politics on the radio? 
+Variable: q061 
+  Question: How much impact do you feel government policies have on your daily life? 
+Variable: q062 
+  Question: party feel closest to 
+Variable: q063 
+  Question: closeness 
+Variable: q064 
+  Question: Even if parents' demands are unreasonable, children still should do what they ask? 
+Variable: q065 
+  Question: When hiring someone, even if a stranger is more qualified, the opportunity should still be given to relatives and friend 
+Variable: q066 
+  Question: When one has a conflict with a neighbor, the best way to deal with it is to accommodate the other person? 
+Variable: q067 
+  Question: Wealth and poverty, success and failure are all determined by fate? 
+Variable: q068 
+  Question: A person should not insist on his own opinion if his co-workers disagree with him? 
+Variable: q069 
+  Question: For the sake of the family, the individual should put his personal interests second? 
+Variable: q070 
+  Question: A man will lose face if he works under a female supervisor? 
+Variable: q071 
+  Question: If there is a quarrel, we should ask an elder to resolve the dispute? 
+Variable: q072 
+  Question: When a mother-in-law and a daughter-in-law come into conflict, even if the mother-in-law is in the wrong, the husband sh 
+Variable: q073 
+  Question: Contacted any government official to express your opinions? 
+Variable: q074 
+  Question: Contacted officials to express your opinions at higher level? 
+Variable: q075 
+  Question: contacted elected legislative representatives at any level? 
+Variable: q076 
+  Question: Contacted political parties or other political organizations? 
+Variable: q077 
+  Question: Contacted non-government/civil society organizations? 

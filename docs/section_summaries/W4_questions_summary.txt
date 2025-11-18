@@ -1,0 +1,200 @@
+  Question: Country code 
+  Question: Interview year 
+  Question: Interview month 
+  Question: case number 
+  Question: Region 
+  Question: Rural or urban 
+Variable: q1 
+  Question: 1. How would you rate the overll economic condition of our country today? 
+Variable: q2 
+  Question: 2. How would you dsecribe the change in the economic condition of our country over the last few years? 
+Variable: q3 
+  Question: 3. What do you think will be the state of our country's economic condition a few years from now? 
+Variable: q4 
+  Question: 4. As for your own family, how do you rate the economic situation of your family today? 
+Variable: q5 
+  Question: 5. How would you compare the current economic condition of your family with what it was a few years ago? 
+Variable: q6 
+  Question: 6. What do you think the economic situation of your family will be a few years from now? 
+Variable: q7 
+  Question: 7 Trust in the excutive office (president or prime minister) 
+Variable: q8 
+  Question: 8 The courts 
+Variable: q9 
+  Question: 9 National government in the capital city 
+Variable: q10 
+  Question: 10 Political parties 
+Variable: q11 
+  Question: 11 Parliament 
+Variable: q12 
+  Question: 12 Civil service 
+Variable: q13 
+  Question: 13 The military 
+Variable: q14 
+  Question: 14 The police 
+Variable: q15 
+  Question: 15 Local government 
+Variable: q16 
+  Question: 16 Newspaper 
+Variable: q17 
+  Question: 17 Television 
+Variable: q18 
+  Question: 18 The election commission 
+Variable: q19 
+  Question: 19 Non-government organizations or NGOs 
+  Question: fg. Whether the respondent is a member of formal organization 
+Variable: q20 
+  Question: 20. Name of the organization you belong to. First 
+Variable: q21 
+  Question: 21. Name of the organization you belong to. Second 
+Variable: q22 
+  Question: 22. Name of the organization that you belong to. Third 
+Variable: q23 
+  Question: 23 Would you say that "Most people can be trusted" or "that you must be very careful in dealing with people"? 
+Variable: q24 
+  Question: 24. Do you ageee with the statement 'Most people are trustworthy' 
+Variable: q25 
+  Question: 25 Do you think most people would try to take advantage of you if they got a chance, or would they try to be fair? 
+Variable: q26 
+  Question: 26. How much do you trust your relatives? 
+Variable: q27 
+  Question: 27. Trust your neighbors 
+Variable: q28 
+  Question: 28. Trust other people you interact with 
+Variable: q29 
+  Question: 29. How many people do you have contact within a typical week day? 
+Variable: q30 
+  Question: 30. If you have a difficult problem to manage, are there people outside your household you can ask for help? 
+Variable: q31 
+  Question: 31. When people outside your household have problems, do they come to you for help? 
+Variable: q32 
+  Question: 32 If you had friends or co-workers whose opinions on politics differed from yours, would you have a hard time conversing with them? 
+Variable: q33 
+  Question: 33 Did you vote in the last national election? 
+Variable: q34 
+  Question: 34 Which parties or candidates did you vote for? 
+Variable: q34a 
+  Question: 34a Did the respondent vote for the winning or losing camp? 
+Variable: q35 
+  Question: 35. Did you attend a campaign meeting or rally? 
+Variable: q36 
+  Question: 36. Try to persudae others to vote for a certain candidate or party? 
+Variable: q37 
+  Question: 37. Did you do anything else to help out or work for a party or candidate running in the last national election? 
+Variable: q38 
+  Question: 38.On the whole, how free and fair would you say the last national election was? 
+Variable: q39 
+  Question: 39. How easy or difficult to obtain an identity document service 
+Variable: q40 
+  Question: 40. How easy or difficult to obtain a place in a public primirary school for a child 
+Variable: q41 
+  Question: 41. How easy or difficult to obtain medical treatment at nearby clinic 
+Variable: q42 
+  Question: 42. How easy or difficult to obtain help from the police when you need it 
+Variable: q43 
+  Question: 43. How safe is living in this city/ town/ village 
+Variable: q44 
+  Question: 44. How interested would you say you are in politics? 
+Variable: q45 
+  Question: 45. How often do you follow news about politics and government? 
+Variable: q46 
+  Question: 46. When you get together with your family members or friends, how often do you discuss political matters 
+Variable: q47 
+  Question: 47. Do you have Internet access at home? 
+Variable: q48 
+  Question: 48. Do you have Internet access on a mobile phone? 
+Variable: q49 
+  Question: 49. How often do you use the internet? 
+Variable: q50 
+  Question: 50. Do you currently use any of the following social media networks? 
+Variable: q51 
+  Question: 51. How often do you use the Internet or social media networks to find information about politics and government? 
+Variable: q52 
+  Question: 52. How often do you use the Internet or social media networks to express your opinion about politics and government? 
+Variable: q53 
+  Question: 53.Among the political parties listed here, which party if any do you feel closest to? 
+Variable: q54 
+  Question: 54. How close do you feel to (answer in q53)? 
+Variable: q55 
+  Question: 55 For the sake of the family, the individual should put his personal interests second. 
+Variable: q56 
+  Question: 56. In a group, we should sacrifice our individual interest for the sake of the group's collective interest. 
+Variable: q57 
+  Question: 57. For the sake of national interest, individual interest could be sacrificed. 
+Variable: q58 
+  Question: 58. When dealing with others, developing a long-term relationship is more important than securing one's immediate interest. 
+Variable: q59 
+  Question: 59. When dealing with others, one should not only focus on immediate interest but also plan for future. 
+Variable: q60 
+  Question: 60. Even if parents' demands are unreasonable, children still should do what they ask. 
+Variable: q61 
+  Question: 61. When a mother-in-law and a daughter-in-law come into conflict, even if the mother-in-law is in the wrong, the husband should still persuade his wife to obey his mother. 
+Variable: q62 
+  Question: 62. Being a student, one should not question the authority of their teacher. 
+Variable: q63 
+  Question: 63. In a group, we should avoid open quarrel to preserve the harmony of the group. 
+Variable: q64 
+  Question: 64. Even if there is some disagreement with others, one should avoid the conflict. 
+Variable: q65 
+  Question: 65. A person should not insist on his own opinion if his co-workers disagree with him. 
+Variable: q66 
+  Question: 66. Wealth and poverty, success and failure are all determined by fate. 
+Variable: q67 
+  Question: 67. If one could have only one child, it is more preferable to have a boy than a girl. 
+Variable: q68 
+  Question: 68. When dealing with others, one should not be preoccupied with temporary gains and losses. 
+Variable: q69 
+  Question: 69 In the past three years, have you ever contacted elected officials or legislative representatives at any level-3 categories 
+Variable: q69a 
+  Question: 69a In the past three years, have you ever contacted elected officials or legislative representatives at any level-4 categories 
+Variable: q70 
+  Question: 70  Contacted officials at higher level-3 categories. 
+Variable: q70a 
+  Question: 70a  Contacted officials at higher level--4 categories. 
+Variable: q71 
+  Question: 71 Contacted traditional leaders/community leaders-3 categories 
+Variable: q71a 
+  Question: 71a Contacted traditional leaders/community leaders-4 categories 
+Variable: q72 
+  Question: 72  Contacted other influential people outside the government-3 categories. 
+Variable: q72a 
+  Question: 72a  Contacted other influential people outside the government-4 categories. 
+Variable: q73 
+  Question: 73  Contacted news media-3 categories 
+Variable: q73a 
+  Question: 73a  Contacted news media-4 categories 
+Variable: q74 
+  Question: 74 Whether you personally have ever got together with others to try to resolve local problems-3 categories 
+Variable: q74a 
+  Question: 74a Whether you personally have ever got together with others to try to resolve local problems-4 categories 
+Variable: q75 
+  Question: 75 Got together with others to raise an issue or sign a petition-3 categories 
+Variable: q75a 
+  Question: 75a Got together with others to raise an issue or sign a petition-4 categories 
+Variable: q76 
+  Question: 76 Attended a demonstration or protest march-3 categories 
+Variable: q76a 
+  Question: 76a Attended a demonstration or protest march-4 categories 
+Variable: q77 
+  Question: 77 Used force or violence for a political cause-3 categories 
+Variable: q77a 
+  Question: 77a Used force or violence for a political cause-4 categories 
+Variable: q78 
+  Question: 78 Thinking of whether you voted or not ever since you became eligible for voting, how would you describe yourself? 
+Variable: q79 
+  Question: 79. Which of the following statements do you agree with most? 
+Variable: q79a 
+  Question: 79a. Do you strongly agree or just agree with the chosen statement? 
+Variable: q80 
+  Question: 80. which of the following statements do you agree with most? 
+Variable: q80a 
+  Question: 80a. Do you strongly agree or just agree with the chosen statement? 
+Variable: q81 
+  Question: 81. which of the following statements do you agree with most? 
+Variable: q81a 
+  Question: 81a. Do you strongly agree or just agree with the chosen statement? 
+Variable: q82 
+  Question: 82. which of the following statements do you agree with most? 
+Variable: q82a 
+  Question: 82a. Do you strongly agree or just agree with the chosen statement? 
+Variable: q83 

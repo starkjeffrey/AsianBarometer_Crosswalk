@@ -1,0 +1,200 @@
+  Question: Country code 
+  Question: Interview year 
+  Question: Interview month 
+  Question: case number 
+  Question: Region 
+  Question: Rural or urban 
+Variable: q1 
+  Question: 1. How would you rate the overall economic condition of our country today? 
+Variable: q2 
+  Question: 2. How would you dsecribe the change in the economic condition of our country over the last few years? 
+Variable: q3 
+  Question: 3. What do you think will be the state of our country's economic condition a few years from now? 
+Variable: q4 
+  Question: 4. As for your own family, how do you rate the economic situation of your family today? 
+Variable: q5 
+  Question: 5. How would you compare the current economic condition of your family with what it was a few years ago? 
+Variable: q6 
+  Question: 6. What do you think the economic situation of your family will be a few years from now? 
+Variable: q7 
+  Question: 7 Trust in the excutive office (president or prime minister) 
+Variable: q8 
+  Question: 8 The courts 
+Variable: q9 
+  Question: 9 National government in the capital city 
+Variable: q10 
+  Question: 10 Political parties[not any specific party] 
+Variable: q11 
+  Question: 11 Parliament 
+Variable: q12 
+  Question: 12 Civil service 
+Variable: q13 
+  Question: 13 The military or armed force 
+Variable: q14 
+  Question: 14 The police 
+Variable: q15 
+  Question: 15 Local government 
+Variable: q16 
+  Question: 16 The election commission 
+Variable: q17 
+  Question: 17 Non-government organizations or NGOs 
+Variable: q18 
+  Question: 18. Name of the organization you belong to. First 
+Variable: q19 
+  Question: 19. Name of the organization you belong to. Second 
+Variable: q20 
+  Question: 20. Name of the organization that you belong to. Third 
+Variable: q21 
+  Question: 21  Which organization you participate most actively in the last 12 months? 
+Variable: q22 
+  Question: 22 Would you say that "Most people can be trusted" or "that you must be very careful in dealing with people"? 
+Variable: q23 
+  Question: 23 Do you agree with the statement that 'most people are trustworthy?' 
+Variable: q24 
+  Question: 24 How much trust do you have in each of the following types of people? Your relatives 
+Variable: q25 
+  Question: 25 Trust in your neighbors 
+Variable: q26 
+  Question: 26 Trust in other people you interact with 
+Variable: q27 
+  Question: 27 Trust in people you meet for the first time 
+Variable: q28 
+  Question: 28 How many people do you have contact within a typical week day? 
+Variable: q29 
+  Question: 29 Which of the following best describes your relations with most of your social contacts? 
+Variable: q30 
+  Question: 30 Among these people you have frequent contacts, which of the following best describes the political views of these people? 
+Variable: q31 
+  Question: 31 If you have a difficult problem to manage, are there people outside your household you can ask for help? 
+Variable: q32 
+  Question: 32 If you had friends or co-workers whose opinions on politics differed from yours, would you have a hard time conversing with them? 
+Variable: q33 
+  Question: 33 Did you vote in the last national election? 
+Variable: q34 
+  Question: 34 Which parties or candidates did you vote for? 
+Variable: q34a 
+  Question: 34a Did the respondent vote for the winning or losing camp? 
+Variable: q35 
+  Question: 35. Did you attend a campaign meeting or rally in the last national election? 
+Variable: q36 
+  Question: 36. Try to persudae others to vote for a certain candidate or party? 
+Variable: q37 
+  Question: 37. Did you do anything else to help out or work for a party or candidate running in the last national election? 
+Variable: q38 
+  Question: 38 On the whole, how free and fair would you say the last national election was? 
+Variable: q39 
+  Question: 39 How easy or difficult to obtain roads in good condition 
+Variable: q40 
+  Question: 40 How easy or difficult to obtain running water 
+Variable: q41 
+  Question: 41 How easy or difficult to obtain public transportation 
+Variable: q42 
+  Question: 42 How easy or difficult to obtain healthcare 
+Variable: q43 
+  Question: 43 How easy or difficult to obtain help from the pollice when you need it 
+Variable: q44 
+  Question: 44 How easy or difficult to obtain access to the internet 
+Variable: q45 
+  Question: 45 Generally speaking, how safe is living in this city/town/village? 
+Variable: q46 
+  Question: 46 How interested would you say you are in politics? 
+Variable: q47 
+  Question: 47 How often do you follow news about politics and government? 
+Variable: q48 
+  Question: 48 When you get together with your family members or friends, how often do you discuss political matters? 
+Variable: q49 
+  Question: 49 How often do you use the internet, either through computer, tablet or smartphone? 
+Variable: q50 
+  Question: 50 Do you currently use any of the following social media networks?(E.g. facebook, twitter, telegram, whatsapp, youtube, tumblr, instagram, snapchat, etc.) 
+Variable: q51a 
+  Question: 51a You use social media primarily to connect with other people 
+Variable: q51b 
+  Question: 51b You use social media primarily to expresss my opinion on political issues 
+Variable: q51c 
+  Question: 51c You use social media primarily to share news or information 
+Variable: q51d 
+  Question: 51d You use social media primarily for work 
+Variable: q52 
+  Question: 52 Which one is the most important channel for you to find information about politics and government? 
+Variable: q53 
+  Question: 53 How much trust do you have in each of the following types of media?Television 
+Variable: q54 
+  Question: 54 How much trust do you have in each of the following types of media?Newspaper 
+Variable: q55 
+  Question: 55 How much trust do you have in each of the following types of media? News on the internet 
+Variable: q56 
+  Question: 56 Among the political parties listed here, which party if any do you feel closest to? 
+Variable: q57 
+  Question: 57 How close do you feel to (answer in Q56)? Is it very close, somewhat close, or just a little close? 
+Variable: q58 
+  Question: 58 For the sake of the family, the individual should put his personal interests second. 
+Variable: q59 
+  Question: 59 In a group, we should sacrifice our individual interest for the sake of the groups collective interest. 
+Variable: q60 
+  Question: 60 For the sake of national interest, individual interest could be sacrificed. 
+Variable: q61 
+  Question: 61 When dealing with others, developing a long-term relationship is more important than securing one's immediate interest. 
+Variable: q62 
+  Question: 62 Even if parents' demands are unreasonable, children still should do what they ask. 
+Variable: q63 
+  Question: 63 When a mother-in-law and a daughter-in-law come into conflict, even if the mother-in-law is in the wrong, the husband should still persuade his wife to obey his mother. 
+Variable: q64 
+  Question: 64 Being a student, one should not question the authority of their teacher. 
+Variable: q65 
+  Question: 65 In a group, we should avoid open quarrel to preserve the harmony of the group. 
+Variable: q66 
+  Question: 66 Even if there is some disagreement with others, one should avoid the conflict. 
+Variable: q67 
+  Question: 67 A person should not insist on his own opinion if his co-workers disagree with him. 
+Variable: q68 
+  Question: 68 Wealth and poverty, success and failure are all determined by fate. 
+Variable: q69 
+  Question: 69 If one could have only one child, it is more preferable to have a boy than a girl. 
+Variable: q70 
+  Question: 70 In the past three years, have you ever contacted elected officials or legislative representatives at any level 
+Variable: q71 
+  Question: 71 Contacted civil servants or officials 
+Variable: q72 
+  Question: 72 Contacted other influential people outside the government, such as traditional leaders/community leaders. 
+Variable: q73 
+  Question: 73 Contacted news media 
+Variable: q74 
+  Question: 74 Signed a paper petition 
+Variable: q75 
+  Question: 75 Signed an online petition 
+Variable: q76 
+  Question: 76 Used the internet including social media networks to express opinions about politics and government 
+Variable: q77 
+  Question: 77 Joined a group to actively support a cause(including online) 
+Variable: q78 
+  Question: 78 Got together with others face-to-face to try to resolve local problems 
+Variable: q79 
+  Question: 79 Attended a demonstration or protest march 
+Variable: q80 
+  Question: 80 Taken an action or done something for a political cause that put you in a risk of getting injured 
+Variable: q81 
+  Question: 81 Thinking of whether you voted or not ever since you became eligible for voting, how would you describe yourself-have you voted in every election, voted in most elections, voted in some elections or hardly ever voted? 
+Variable: q82 
+  Question: 82 which of the following statements do you agree with most?government leaders vs.their citizens 
+Variable: q82a 
+  Question: 82a Do you strongly agree or just agree with the chosen statement? 
+Variable: q83 
+  Question: 83 Which of the following statements do you agree with most? the problem of accountability 
+Variable: q83a 
+  Question: 83a Do you strongly agree or just agree with the chosen statement? 
+Variable: q84 
+  Question: 84 Which of the following statements do you agree with most? freedom of the press 
+Variable: q84a 
+  Question: 84a Do you strongly agree or just agree with the chosen statement? 
+Variable: q85 
+  Question: 85 Which of the following statements do you agree with most? political leader 
+Variable: q85a 
+  Question: 85a Do you strongly agree or just agree with the chosen statement? 
+Variable: q86 
+  Question: 86 Over the long run, our system of government is capable of solving the problems our country face 
+Variable: q87 
+  Question: 87 Thinking in general, I am proud of our system of government 
+Variable: q88 
+  Question: 88 A system like ours, even if it runs into problems, deserves the people's support 
+Variable: q89 
+  Question: 89 I would rather live under our system of government than any other that I can think of. 
