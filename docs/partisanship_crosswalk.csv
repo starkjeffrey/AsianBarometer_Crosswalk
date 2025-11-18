@@ -1,0 +1,2 @@
+concept,domain,description,w1_var,w1_scale,w2_var,w2_scale,w3_var,w3_scale,w4_var,w4_scale,w5_var,w5_scale,w6_var,w6_scale,harmonized_name,harmonize_to,reverse_waves,notes,source
+party_closeness,partisanship,Which party do you feel closest to,q062,categorical,q54,categorical,q47,categorical,q53,categorical,q56,categorical,q54,categorical,party_id,categorical,none,All waves. Categorical variable with country-specific party codes. 90/99=no party. Codes vary by country - not directly comparable across countries but consistent concept,manual
