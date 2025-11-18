@@ -1,0 +1,1626 @@
+variable,label,Wave1,Wave2,Wave3,Wave4,Wave5,Wave6
+ACTUAL_COUNT_EXCLUDE,"ACTUAL COUNT (EXCLUDE servants, transients/boarders)",,,,,,✓
+ACTUAL_COUNT_INCLUDE,"ACTUAL COUNT (INCLUDE servants, transients/boarders)",,,,,,✓
+COUNTRY,Country code,,,,,✓,✓
+IDNUMBER,case number,,,,,,✓
+IDnumber,case number,,,,,✓,
+IR1,IR1 Interviewer's number__________ (a three-digit code),,,,,,✓
+IR10,ir10 Language in which interview was conducted,,,,,✓,
+IR10,IR10 Language in which interview was conducted,,,,,,✓
+IR10a,ir10a Was the interview conducted with the assistance of an interpreter?,,,,,✓,
+IR10a,IR10a Was the interview conducted with the assistance of an interpreter?,,,,,,✓
+IR11E,"ir11e In terms of walking distance, how far is it between the nearest public transportation stop (bus, train, ferry, tram, etc.) and the respondent's house?",,,,,✓,
+IR11a,ir11a What is the condition of the road leading to interviewee's residence?,,,,,✓,
+IR11a,"IR11a Based on your observation, what is the condition of the road leading to interviewee's residence?",,,,,,✓
+IR11b,ir11b  Please identify the main source of drinking water in the household?,,,,,✓,
+IR11b,IR11b Please identify the main source of drinking water in the household?,,,,,,✓
+IR11c,ir11c Is electricity the main source of lighting in the house?,,,,,✓,
+IR11c,IR11c Is electricity the main source of lighting in the house?,,,,,,✓
+IR11d,ir11d Is this neighborhood coverd by mobile phone network(signals)?,,,,,✓,
+IR11d,IR11d Is this neighborhood covered by mobile network?,,,,,,✓
+IR11e,"IR11e In terms of walking distance, how far is it between the nearest public transportation stop (bus, train, ferry, tram, etc.) and the respondent's house?",,,,,,✓
+IR12,"ir12 Were the following services present within the neighborhood,estimate the distance of services by",,,,,✓,
+IR12,"IR12 Were the following services present within the neighborhood (i.e., within walking or easy driving distance)",,,,,,✓
+IR12A,ir12a. Post-office,,,,,✓,
+IR12B,ir12b. School,,,,,✓,
+IR12C,ir12c. Police station,,,,,✓,
+IR12D,ir12d. Sewerage system that most houses could access,,,,,✓,
+IR12E,ir12e. Health clinic,,,,,✓,
+IR12F,ir12f. Signal for cellular phone,,,,,✓,
+IR12G,"ir12g. Recreational facilities, e.g., a sports field",,,,,✓,
+IR12H,"ir12h. Any churches, mosques, temples or other public places of worship",,,,,✓,
+IR12I,ir12i. Any town halls or community buildings that can be used for meetings,,,,,✓,
+IR12K,ir12K. Market stalls (selling groceries and/or clothing),,,,,✓,
+IR12a,IR12a Post-office,,,,,,✓
+IR12b,IR12b School,,,,,,✓
+IR12c,IR12c Police station,,,,,,✓
+IR12d,IR12d Sewerage system that most houses could access,,,,,,✓
+IR12e,IR12e Health clinic,,,,,,✓
+IR12f,IR12f Signal for cellular phone,,,,,,✓
+IR12g,"IR12g Recreational facilities, e.g., a sports field",,,,,,✓
+IR12h,"IR12h Any churches, mosques, temples or other public places of worship",,,,,,✓
+IR12i,IR12i Any town halls or community buildings that can be used for meetings,,,,,,✓
+IR12k,IR12k Market stalls (selling groceries and/or clothing),,,,,,✓
+IR13,ir13 Which of the following levels within the country the respondent live?,,,,,✓,
+IR13,IR13 Which of the following levels within the country the respondent live?,,,,,,✓
+IR2,IR2 Is this the first questionnaire you have completed?,,,,,,✓
+IR2a,IR2a Interviewer's gender,,,,,,✓
+IR2b,IR2b Interviewer's Age____,,,,,,✓
+IR2c,ir2c What kind of language do you normally use at home?,,,,,✓,
+IR2c,IR2c What kind of language do you normally use at home?,,,,,,✓
+IR2c_other,IR2c_other,,,,,,✓
+IR3,"ir3 In the interview, other than the respondent, were others present?",,,,,✓,
+IR3,"IR3 In the interview, other than the respondent, were others present?",,,,,,✓
+IR3a_1,ir3a_1 Respondent's spouse,,,,,✓,
+IR3a_1,IR3a_1 Respondent's spouse,,,,,,✓
+IR3a_2,ir3a_2 Children,,,,,✓,
+IR3a_2,IR3a_2 Children,,,,,,✓
+IR3a_3,ir3a_3 Parents or parents-in-law,,,,,✓,
+IR3a_3,IR3a_3 Parents or parents-in-law,,,,,,✓
+IR3a_4,ir3a_4 Neighbors/passers by,,,,,✓,
+IR3a_4,IR3a_4 Neighbors/passers by,,,,,,✓
+IR3a_5,ir3a_5 Party/government official,,,,,✓,
+IR3a_5,IR3a_5 Party/government official,,,,,,✓
+IR3a_6,ir3a_6 Others,,,,,✓,
+IR3a_6_other,IR3a_6_other,,,,,,✓
+IR3a_6_other_clarify,IR3a_other_clarify,,,,,,✓
+IR4,ir4 Has the respondent ever refused to be interviewed during the whole process?,,,,,✓,
+IR4,IR4 Has the respondent ever refused to be interviewed during the whole process?,,,,,,✓
+IR5,ir5 Has the respondent ever felt impatient during the interview?,,,,,✓,
+IR5,IR5 Has the respondent ever felt impatient during the interview?,,,,,,✓
+IR6,ir6 How cooperative was the respondent during the interview?,,,,,✓,
+IR6,IR6 How cooperative was the respondent during the interview?,,,,,,✓
+IR7,ir7 How sincere was the respondent when answering sensitive questions?,,,,,✓,
+IR7,IR7 How sincere was the respondent when answering sensitive questions?,,,,,,✓
+IR8,ir8 What proportion of the questions do you feel the respondent had difficulty answering?,,,,,✓,
+IR8,IR8 What proportion of the questions do you feel the respondent had difficulty answering?,,,,,,✓
+Ir1,ir1 Interviewer's number,,,,,✓,
+Ir2,ir2 Is this the first questionnaire you have completed?,,,,,✓,
+Ir2A,ir2a Interviewer's gender,,,,,✓,
+Ir2B,ir2b Interviewer's Age,,,,,✓,
+LEVEL,Rural or urban,,,,,,✓
+Level,Rural or urban,,,,,✓,
+MONTH,Interview month,,,,,,✓
+Month,Interview month,,,,,✓,
+Q106c,"106c:(India only) In your opinion, what are the most important problems facing this country that government should address? (1st response)",,,,,✓,
+Q106d,"106d:(India only) In your opinion, what are the most important problems facing this country that government should address? (2nd response)",,,,,✓,
+Q106e,"106e:(India only) In your opinion, what are the most important problems facing this country that government should address? (3rd response)",,,,,✓,
+REGION,Region,,,,,,✓
+Region,Region,,,,,✓,
+SE10,se10 Are you the main earner in your household?,,,,,✓,
+SE10,SE10 Are you the main earner in your household?,,,,,,✓
+SE10A,"se10a Is he or she curently self-employed, working in family business or working for an outside employer?",,,,,✓,
+SE10B,se10b How many people does his or her business employ?,,,,,✓,
+SE10C,se10c What is his/her job title (ISCO code),,,,,✓,
+SE10D,se10d Is he or she currently seeking employment?,,,,,✓,
+SE10E,se10e What is his or her current status?,,,,,✓,
+SE10_1,se10_1 Is the main earner in your household currently employed?,,,,,✓,
+SE10_1,SE10_1 Is the main earner in your household currently employed?,,,,,,✓
+SE10a,"SE10a Is he or she currently self-employed, working in a family business, or working for an outside employer?",,,,,,✓
+SE10b,SE10b How many people do his or her business employ?,,,,,,✓
+SE10c,SE10c Here is a list of different types of jobs. Which type of job does he/she have now?,,,,,,✓
+SE10d,SE10d Is he or she currently seeking employment?,,,,,,✓
+SE10e,SE10e What is his or her current status?,,,,,,✓
+SE10eother,SE10eother,,,,,,✓
+SE11,SE11 What language do you speak the most in the home?,,,,,,✓
+SE11a,SE11a What is your racial or ethnic background?,,,,,,✓
+SE11aother,SE11aother,,,,,,✓
+SE12,se12 Where would you place your family on the following scale?,,,,,✓,
+SE12,SE12 SUBJECTIVE SOCIAL STATUS,,,,,,✓
+SE13A,se13a Where would you put yourself on this staircase?,,,,,✓,
+SE13B,se13b Where would you put your parents on this staircase?,,,,,✓,
+SE13C,se13c Where do you think your children will be on this staircase?,,,,,✓,
+SE13a,SE13a Where would you put yourself on the staircase?,,,,,,✓
+SE13b,SE13b Where would you put your parents on the staircase?,,,,,,✓
+SE13c,SE13c Where do you think your children will be?,,,,,,✓
+SE14,se14 What group your household income on average is?,,,,,✓,
+SE14,SE14 Monthly household income,,,,,,✓
+SE14A,se14a Does the total income of your household allow you to satisactorily cover your needs?,,,,,✓,
+SE14a,SE14a Does the total income of your household allow you to satisfactorily cover your needs?,,,,,,✓
+SE15A,Se15a Do you or your fmaily own the following?Car/Jeep/Van,,,,,✓,
+SE15B,Se15b Tractor,,,,,✓,
+SE15C,Se15c Color or B/W Television,,,,,✓,
+SE15D,Se15d Cable Televsion,,,,,✓,
+SE15E,Se15e Scooter/Motorcycle/Moped,,,,,✓,
+SE15F,Se15f Telephone,,,,,✓,
+SE15G,Se15g Mobile Telephone,,,,,✓,
+SE15H,Se15h Electric fan/cooler,,,,,✓,
+SE15I,Se15i Bicycle,,,,,✓,
+SE15J,Se15j Radio/transistor,,,,,✓,
+SE15K,Se15k Pumping set,,,,,✓,
+SE15L,Se15l Fridge,,,,,✓,
+SE15M,Se15m Camera,,,,,✓,
+SE15N,Se15n Goats/Sheep,,,,,✓,
+SE15O,Se15o Cows/Buffalo,,,,,✓,
+SE15a,SE15a Do you or your family own the following: Car/Jeep/Van?<optional>,,,,,,✓
+SE15a_1,SE15a_1 How many?<optional>,,,,,,✓
+SE15b,SE15b Tractor<optional>,,,,,,✓
+SE15c,SE15c Color or B/W Television (Non-Cable)<optional>,,,,,,✓
+SE15d,SE15d Cable Television<optional>,,,,,,✓
+SE15e,SE15e Scooter/Motorcycle/Moped<optional>,,,,,,✓
+SE15f,SE15f Telephone (Landline)<optional>,,,,,,✓
+SE15g,SE15g Mobile Telephone<optional>,,,,,,✓
+SE15h,SE15h Electric Fan/Cooler<optional>,,,,,,✓
+SE15i,SE15i Bicycle<optional>,,,,,,✓
+SE15j,SE15j Radio/Transistor<optional>,,,,,,✓
+SE15k,SE15k Pumping Set<optional>,,,,,,✓
+SE15l,SE15l Fridge<optional>,,,,,,✓
+SE15m,SE15m Camera<optional>,,,,,,✓
+SE15n,SE15n Goats/Sheep<optional>,,,,,,✓
+SE15n_1,SE15n_1 How many?<optional>,,,,,,✓
+SE15o,SE15o Cows/Buffalo<optional>,,,,,,✓
+SE15o_1,SE15o_1 How many?<optional>,,,,,,✓
+SE15p,SE15p Internet Connection at home<optional>,,,,,,✓
+SE15q,SE15q Boat<optional>,,,,,,✓
+SE15q_1,SE15q_1 How many?<optional>,,,,,,✓
+SE2,se2 Gender,,,,,✓,
+SE2,SE2 Gender,,,,,,✓
+SE3,se3 Birth year,,,,,✓,
+SE3,SE3 Birth year,,,,,,✓
+SE3_1,se3_1 Actual age,,,,,✓,
+SE3_1,SE3_1 Actual age,,,,,,✓
+SE4,se4 Marital status,,,,,✓,
+SE4,SE4 MARITAL STATUS,,,,,,✓
+SE5,se5 Education,,,,,✓,
+SE5,SE5 EDUCATION,,,,,,✓
+SE5A,se5a How many year of formal education you have received?,,,,,✓,
+SE5a,SE5a How many years of formal education you have received?,,,,,,✓
+SE6,se6 Religion,,,,,✓,
+SE6,SE6 Religion,,,,,,✓
+SE6other,SE6. Other specify responses,,,,,,✓
+SE7,se7 Religiosity,,,,,✓,
+SE7,SE7 RELIGIOSITY: About how often do you practice religious services or rituals these days?,,,,,,✓
+SE7A,"se7a Would you describe yourself as very religious, moderately religious, lightly religious, not religious at all?",,,,,✓,
+SE7a,SE7a How would you describe yourself?,,,,,,✓
+SE8A,se8a How many people live in this household?,,,,,✓,
+SE8B,se8b How many generations of family members live in this household?,,,,,✓,
+SE8a,SE8a How many people live in this household?,,,,,,✓
+SE8b,SE8b How many generations of family members live in this household?,,,,,,✓
+SE9,se9 Are you current employed?,,,,,✓,
+SE9,SE9 Are you currently employed?,,,,,,✓
+SE9A,"se9a Are you current self-employed, working in a family business or an outside employer?",,,,,✓,
+SE9B,se9b How many people does your business employ?,,,,,✓,
+SE9C,se9c What is your job title (ISCO code),,,,,✓,
+SE9D,se9d Are you currently seeking employment?,,,,,✓,
+SE9E,se9e What is your current status?,,,,,✓,
+SE9a,SE9a Are you currently self-employed?,,,,,,✓
+SE9b,SE9b How many people does your business employ?,,,,,,✓
+SE9c,SE9c Here is a list of different types of jobs. Which type of job do you have now?,,,,,,✓
+SE9d,SE9d Are you currently seeking employment?,,,,,,✓
+SE9e,SE9e What is your current status?,,,,,,✓
+SE9eother,SE9e. Other specify responses,,,,,,✓
+Se10c_2,se10c_2 What is his/her job title (EGP class),,,,,✓,
+Se10c_3,se10c_3 Extended application. Elite vs. Mass,,,,,✓,
+Se10c_3,SE10c_3 Extended application. Elite vs. Mass,,,,,,✓
+Se10c_4,se10c_4 Extended application. White vs. blue collar,,,,,✓,
+Se10c_4,SE10c_4 Extended application. White vs. blue collar,,,,,,✓
+Se11,se11 What language do you speak the most in the home?,,,,,✓,
+Se11a,se11a What is your racial or ethnic background?,,,,,✓,
+Se9c_2,se9c_2 What is your job title (EGP class),,,,,✓,
+Se9c_3,se9c_3 Extended application. Elite vs. Mass,,,,,✓,
+Se9c_3,SE9c_3 Extended application. Elite vs. Mass,,,,,,✓
+Se9c_4,se9c_4 Extended application. White vs. blue collar,,,,,✓,
+Se9c_4,SE9c_4 Extended application. White vs. blue collar,,,,,,✓
+W,weight_factor,,,,,,✓
+YEAR,Interview year,,,,,,✓
+Year,Interview year,,,,,✓,
+allweight,individual country weight,,,✓,,,
+country,Country,✓,,,,,
+country,Country Code,,✓,✓,,,
+country,Country code,,,,✓,,
+couweight,cross-country weight,,,✓,,,
+fg,fg. Whether the respondent is a member of formal organization,,,,✓,,
+fgnum,number of formal group,✓,,,,,
+fgnum,Number of formal group,,✓,,,,
+idnumber,idnumber,✓,,,,,
+idnumber,Interview Numbers,,✓,,,,
+idnumber,case number,,,✓,✓,,
+ir001,Interviewer_s number,✓,,,,,
+ir002,Is this the first questionnaire the interviewer have completed?,✓,,,,,
+ir002a,Interviewer_s gender,✓,,,,,
+ir002b,Interviewer_s age,✓,,,,,
+ir003,Presence of others other than the respondent while interviewing,✓,,,,,
+ir004,Has the respondent ever refused to be interviewed during the whole process?,✓,,,,,
+ir005,Has the respondent ever felt impatient during the interview?,✓,,,,,
+ir006,How cooperative was the respondent during the interview?,✓,,,,,
+ir007_1,date of interview: month,✓,,,,,
+ir007_2,date of interview: day,✓,,,,,
+ir007_3,date of interview: year,✓,,,,,
+ir009,Was the interview conducted with the assisance of an interpreter,✓,,,,,
+ir010a,What is the condition of the road leading to interview's residence,✓,,,,,
+ir010b,How do rate the sanitary condition in the public area in the interviewee's nearby neighborhood,✓,,,,,
+ir010c,Tell us whetherthe interviewee's residence has public water supply,✓,,,,,
+ir010d,Tell us whetherthe interviewee's residence has electricity,✓,,,,,
+ir010e,Walking distance between the nearest public transportation stop and the respondent's house,✓,,,,,
+ir1,IR1. Interviewer's number,,,✓,,,
+ir1,ir1 Interviewer's number,,,,✓,,
+ir10,IR10. Language in which interview was conducted,,,✓,,,
+ir10,ir10 Language in which interview was conducted,,,,✓,,
+ir10a,Was the interview conducted with the assistance of an interpreter?,,✓,,,,
+ir10a,IR10a. Was the interview conducted with the assistance of an interpreter?,,,✓,,,
+ir10a,ir10a Was the interview conducted with the assistance of an interpreter?,,,,✓,,
+ir11a,IR11a. What is the condition of the road leading to interviewee's residence?,,,✓,,,
+ir11a,ir11a What is the condition of the road leading to interviewee's residence?,,,,✓,,
+ir11b,IR11b. Please identify the main source of drinking water in the household?,,,✓,,,
+ir11b,ir11b Is there tape water in the household?,,,,✓,,
+ir11b_2,ir11b_2 Please identify the main source of drinking water in the household?,,,,✓,,
+ir11c,IR11c. Is electricity the main source of lighting in the house?,,,✓,,,
+ir11c,ir11c Is electricity the main source of lighting in the house?,,,,✓,,
+ir11d,"IR11d. In terms of walking distance, how far is it between the nearest public transportation stop (bus, train, ferry, tram, etc) and the respondent's house?",,,✓,,,
+ir11d,ir11d Is this neighborhood covered by mobil phone network?,,,,✓,,
+ir11e,"ir11e In terms of walking distance, how far is it between the nearest public transportation stop (bus, train, ferry, tram, etc.) and the respondent's house?",,,,✓,,
+ir12,"IR12. Were the following services present within the neighborhood (i.e., within walking or easy driving distance).Estimate the distance of these services by:",,,✓,,,
+ir12,"ir12 Were the following services present within the neighborhood, estimate the distance of services by ..",,,,✓,,
+ir12a,What is the condition of the road leading to the interviewee's residence?,,✓,,,,
+ir12a,IR12a. Post-office,,,✓,,,
+ir12a,ir12a. Post-office,,,,✓,,
+ir12b,Is tap water the main source of drinking water?,,✓,,,,
+ir12b,IR12b. School,,,✓,,,
+ir12b,ir12b. School,,,,✓,,
+ir12c,Is electricity the main source of lighting?,,✓,,,,
+ir12c,IR12c. Police station,,,✓,,,
+ir12c,ir12c. Police station,,,,✓,,
+ir12d,How far is it between the nearest public transportation stop and the respondent's house?,,✓,,,,
+ir12d,IR12d. Sewerage system that most houses could access,,,✓,,,
+ir12d,ir12d. Sewerage system that most houses could access,,,,✓,,
+ir12e,IR12e. Health clinic,,,✓,,,
+ir12e,ir12e. Health clinic,,,,✓,,
+ir12f,IR12f. Signal for cellular phone,,,✓,,,
+ir12f,ir12f. Signal for cellular phone,,,,✓,,
+ir12g,"IR12g. Recreational facilities, e.g., a sports field",,,✓,,,
+ir12g,"ir12g. Recreational facilities, e.g., a sports field",,,,✓,,
+ir12h,"IR12h. Any churches, mosques, temples or other public places of worship",,,✓,,,
+ir12h,"ir12h. Any churches, mosques, temples or other public places of worship",,,,✓,,
+ir12i,IR12i. Any town halls or community buildings that can be used for meetings,,,✓,,,
+ir12i,ir12i. Any town halls or community buildings that can be used for meetings,,,,✓,,
+ir12j,ir12j. Market stalls (selling groceries and/or clothing),,,,✓,,
+ir12k,IR12k. Market stalls (selling groceries and/or clothing),,,✓,,,
+ir13,IR13. Which of the following levels within the country the respondent live?,,,✓,,,
+ir13,ir13 Which of the following levels within the country the respondent live?,,,,✓,,
+ir13a,A.  Post-office,,✓,,,,
+ir13b,B.  School,,✓,,,,
+ir13d,D.  Sewerage system that most houses could access,,✓,,,,
+ir13e,E.  Health clinic,,✓,,,,
+ir13f,F.  Signal for cellular phone,,✓,,,,
+ir13g,"G.  Recreational facilities, e.g., a sports field",,✓,,,,
+ir13h,"H.  Any churches, mosques, temples or other public places of worship",,✓,,,,
+ir13i,I.  Any town halls or community buildings that can be used for meetings,,✓,,,,
+ir13k,K.  Market stalls (selling groceries and/or clothing),,✓,,,,
+ir14,Which of the following levels within the country the respondent live?,,✓,,,,
+ir2,Is this the first questionnaire interviewers have completed?,,✓,,,,
+ir2,IR2. Is this the first questionnaire you have completed?,,,✓,,,
+ir2,ir2 Is this the first questionnaire you have completed?,,,,✓,,
+ir2a,Interviewer's gender,,✓,,,,
+ir2a,IR2a. Interviewer's gender,,,✓,,,
+ir2a,ir2a Interviewer's gender,,,,✓,,
+ir2b,Interviewer's age,,✓,,,,
+ir2b,IR2b. Interviewer's Age,,,✓,,,
+ir2b,ir2b Interviewer's Age,,,,✓,,
+ir2c,IR2c. What kind of language do you normally use at home?[Country-specific],,,✓,,,
+ir2c,ir2c What kind of language do you normally use at home?,,,,✓,,
+ir3,"In the interview, other than the respondents, were others present?",,✓,,,,
+ir3,"IR3. In the interview, other than the respondent, were others present?",,,✓,,,
+ir3,"ir3 In the interview, other than the respondent, were others present?",,,,✓,,
+ir3a,Who were they? (Multiple answers allowed),,,✓,,,
+ir3a,ir3a Who were they?,,,,✓,,
+ir3a_1,Spouse,,✓,,,,
+ir3a_1HK,	Respondent’s spouse,,,✓,,,
+ir3a_2,Children,,✓,,,,
+ir3a_2HK,	Children,,,✓,,,
+ir3a_3,Parents or parents in law,,✓,,,,
+ir3a_3HK,	Parents or parents-in-law,,,✓,,,
+ir3a_4,Neighbors/Passers by,,✓,,,,
+ir3a_4HK,	Neighbors/Passers by,,,✓,,,
+ir3a_5,Party/Government Official,,✓,,,,
+ir3a_5HK,	Party/Government Official,,,✓,,,
+ir3a_6,Others,,✓,,,,
+ir4,Has the respondent ever refused to be interviewed during the whole process?,,✓,,,,
+ir4,IR4. Has the respondent ever refused to be interviewed during the whole process?,,,✓,,,
+ir4,ir4 Has the respondent ever refused to be interviewed during the whole process?,,,,✓,,
+ir5,Has the respondent ever felt impatient during the interview?,,✓,,,,
+ir5,IR5. Has the respondent ever felt impatient during the interview?,,,✓,,,
+ir5,ir5 Has the respondent ever felt impatient during the interview?,,,,✓,,
+ir6,How cooperative was the respondent during the interview?,,✓,,,,
+ir6,IR6. How cooperative was the respondent during the interview?,,,✓,,,
+ir6,ir6 How cooperative was the respondent during the interview?,,,,✓,,
+ir7,How sincere was the respondent when answering sensitive questions?,,✓,,,,
+ir7,IR7. How sincere was the respondent when answering sensitive questions?,,,✓,,,
+ir7,ir7 How sincere was the respondent when answering sensitive questions?,,,,✓,,
+ir8,What proportion of the questions do you feel the respondent had difficulty answering?,,✓,,,,
+ir8,IR8. What proportion of the questions do you feel the respondent had difficulty answering?,,,✓,,,
+ir8,ir8 What proportion of the questions do you feel the respondent had the difficulty answering?,,,,✓,,
+ir9,Date of Interview____(month)____(date)_2010_(year),,,✓,,,
+ir9_1,Date of interview: month,,✓,,,,
+ir9_2,Date of interview: day,,✓,,,,
+ir9_3,Date of interview: year,,✓,,,,
+irII13c,C.  Police station,,✓,,,,
+level,Rural or urban,,,,✓,,
+level3,urban-rural,✓,,✓,,,
+level3,Urban-rural,,✓,,,,
+month,Interview month,,,,✓,,
+pgnum,number of private group,✓,,,,,
+q001,How would you rate the overall economic condition of our country today?,✓,,,,,
+q002,How would you describe the change in the economic condition of our country over the past five years?,✓,,,,,
+q003,What do you think will be the state of our country's economic condition five years from now?,✓,,,,,
+q004,"As for your own family, how do you rate your economic situation today?",✓,,,,,
+q005,How would you compare the current economic condition of your family with what it was five years ago?,✓,,,,,
+q006,What do you think the economic situation of your family will be five years from now?,✓,,,,,
+q007,How much trust do you have in the courts?,✓,,,,,
+q008,How much trust do you have in the national government?,✓,,,,,
+q009,How much trust do you have in political parties?,✓,,,,,
+q010,How much trust do you have in Parliament?,✓,,,,,
+q011,How much trust do you have in civil service?,✓,,,,,
+q012,How much trust do you have in the military?,✓,,,,,
+q013,How much trust do you have in the police?,✓,,,,,
+q014,How much trust do you have in local government?,✓,,,,,
+q015,How much trust do you have in newspapers?,✓,,,,,
+q016,How much trust do you have in television?,✓,,,,,
+q017,How much trust do you have in the election commission?,✓,,,,,
+q018,How much trust do you have in non-governmental organizations?,✓,,,,,
+q018_1,TRUST POLICE STATION,✓,,,,,
+q018_2,TRUST STATE OWNED ENTERPRISES,✓,,,,,
+q018_3,TRUST PRIVATE ENTERPRISES,✓,,,,,
+q018_4,TRUST FOREIGN ENTERPRISES,✓,,,,,
+q018_5,TRUST OUR COUNTRY,✓,,,,,
+q018_6,how much trust in radio?,✓,,,,,
+q018_7,Local MP(q18_1),✓,,,,,
+q018_8,The Constitution Court(q18_2),✓,,,,,
+q018_9,The Corruption Commission(q18_3),✓,,,,,
+q022,How frequently do you participate?,✓,,,,,
+q023,How often do you discuss politics?,✓,,,,,
+q024,most people can be trusted??,✓,,,,,
+q025,I have enough friends and connections so that I can get help if I need it,✓,,,,,
+q026,"I have some friends with influence, so I don't have to worry too much if I get into a tight spot",✓,,,,,
+q027,Have you participated in last election?,✓,,,,,
+q028,Which party did you vote for?,✓,,,,,
+q029,Did you attend a campaign meeting or rally?,✓,,,,,
+q030,Did you try to persuade others to vote for a certain candidate or party?,✓,,,,,
+q031,Did you do anything else to help or show your support for a party or candidate running in the election?,✓,,,,,
+q032,Asked to vote for a particular candidate?_FAMILY MEMBER/RELATIVE,✓,,,,,
+q033,Asked following personally ask you to vote for a particular candidate?_SENIORS IN A CLAN OR EXTENDED FAMILY,✓,,,,,
+q034,Asked to vote for a particular candidate?_NEIGHBOR/FRIEND,✓,,,,,
+q035,Asked to vote for a particular candidate?_COMMUNITY LEADERS,✓,,,,,
+q036,Asked to vote for a particular candidate?_SUPERIOR AT WORK/SCHOOL,✓,,,,,
+q037,Asked to vote for a particular candidate?_OWNERS OF THE FIRM/UNIT THAT YOU WORK FOR,✓,,,,,
+q038,Asked to vote for a particularcandidate?_MEMBER/OFFICIAL OF ORGANIZATION THAT YOU BELONG TO,✓,,,,,
+q039,Asked to vote for a particular candidate?_GOVERNMENT OFFICIAL WHOM YOU KNOW PERSONALLY,✓,,,,,
+q040,Asked to vote for a particular candidate?_GOVERNMENT OFFICIAL WHOM YOU DON'T KNOW,✓,,,,,
+q041,Asked to vote for a particular candidate?_CANDIDATE/PARTY ACTIVIST WHOM YOU KNOW PERSONALLY,✓,,,,,
+q042,Asked to vote for a particular candidate?_CANDIDATE/PARTY ACTIVIST WHOM YOU DONT KNOW,✓,,,,,
+q043,Asked to vote for a particular candidate?_OTHERS,✓,,,,,
+q044,Influential_FAMILY MEMBER/RELATIVE,✓,,,,,
+q045,Influential_SENIORS IN A CLAN OR EXTENDED FAMILY,✓,,,,,
+q046,Influential_NEIGHBOR/FRIEND,✓,,,,,
+q047,Influential_COMMUNITY LEADERS,✓,,,,,
+q048,Influential_SUPERIOR AT WORK/SCHOOL,✓,,,,,
+q049,Influential_OWNERS OF THE FIRM/UNIT THAT YOU WORK FOR,✓,,,,,
+q050,Influential_MEMBER/OFFICIAL OF ORGANIZATION THAT YOU BELONG TO,✓,,,,,
+q051,Influential_GOVERNMENT OFFICIAL WHOM YOU KNOW PERSONALLY,✓,,,,,
+q052,Influential_GOVERNMENT OFFICIAL WHOM YOU DON'T KNOW,✓,,,,,
+q053,Influential_CANDIDATE/PARTY ACTIVIST WHOM YOU KNOW PERSONALLY,✓,,,,,
+q054,Influential_CANDIDATE/PARTY ACTIVIST WHOM YOU DON'T KNOW,✓,,,,,
+q055,Influential_OTHERS,✓,,,,,
+q056,How interested would you say you are interested in politics?,✓,,,,,
+q057,How often do you follow news about politics?,✓,,,,,
+q057a,"How often do you follow news about politics in the daily newspaper, television, and radio?",✓,,,,,
+q058,How often do you follow news about politics in the daily newspaper?,✓,,,,,
+q059,How often do you follow news about politics on television?,✓,,,,,
+q060,How often do you follow news about politics on the radio?,✓,,,,,
+q061,How much impact do you feel government policies have on your daily life?,✓,,,,,
+q062,party feel closest to,✓,,,,,
+q063,closeness,✓,,,,,
+q064,"Even if parents' demands are unreasonable, children still should do what they ask?",✓,,,,,
+q065,"When hiring someone, even if a stranger is more qualified, the opportunity should still be given to relatives and friend",✓,,,,,
+q066,"When one has a conflict with a neighbor, the best way to deal with it is to accommodate the other person?",✓,,,,,
+q067,"Wealth and poverty, success and failure are all determined by fate?",✓,,,,,
+q068,A person should not insist on his own opinion if his co-workers disagree with him?,✓,,,,,
+q069,"For the sake of the family, the individual should put his personal interests second?",✓,,,,,
+q070,A man will lose face if he works under a female supervisor?,✓,,,,,
+q071,"If there is a quarrel, we should ask an elder to resolve the dispute?",✓,,,,,
+q072,"When a mother-in-law and a daughter-in-law come into conflict, even if the mother-in-law is in the wrong, the husband sh",✓,,,,,
+q073,Contacted any government official to express your opinions?,✓,,,,,
+q074,Contacted officials to express your opinions at higher level?,✓,,,,,
+q075,contacted elected legislative representatives at any level?,✓,,,,,
+q076,Contacted political parties or other political organizations?,✓,,,,,
+q077,Contacted non-government/civil society organizations?,✓,,,,,
+q078,Contacted media to comment on something?,✓,,,,,
+q079,"Demonstrated, striken, or sat-in for something?",✓,,,,,
+q080,Contacted other people?,✓,,,,,
+q081,Did you do this alone or with others?_contacted government official,✓,,,,,
+q082,Did you do this alone or with others?_contacted officials at higher level,✓,,,,,
+q083,Did you do this alone or with others?_contacted elected legislative representatives at any level,✓,,,,,
+q084,Did you do this alone or with others?_contacted political parties or other political organizations,✓,,,,,
+q085,Did you do this alone or with others?_ contacted non-government/civil society organizations,✓,,,,,
+q086,Did you do this alone or with others?_contacted media,✓,,,,,
+q087,"Did you do this alone or with others?_demonstration, strike, sit-in",✓,,,,,
+q088,Did you do this alone or with others?_contacted other people,✓,,,,,
+q089,Gift or dinner_contacted government,✓,,,,,
+q090,Gift or dinner_contacted officials at highter level,✓,,,,,
+q091,Gift or dinner_contacted elected legislative representatives,✓,,,,,
+q092,Gift or dinner_contacted political parties or other political organizations,✓,,,,,
+q093,Gift or dinner_contacted non-goverment/civil society organizations,✓,,,,,
+q094,Gift or dinner_contacted media,✓,,,,,
+q095,"Gift or dinner_demonstration, strike, sit-in",✓,,,,,
+q096,Gift or dinner_contacted other people,✓,,,,,
+q097_1,MEANING OF DEMOCRACY FIRST,✓,,,,,
+q097_2,MEANING OF DEMOCRACY SECOND,✓,,,,,
+q097_3,MEANING OF DEMOCRACY THIRD,✓,,,,,
+q098,Satisfaction with the way democracy works in our country?,✓,,,,,
+q099,Where would you place our country on this scale during the period of [name of the most recent government under authoritarian rule]?,✓,,,,,
+q1,How would you rate the overall economic condition of our country today?,,✓,,,,
+q1,q1. How would you rate the overall economic condition of our country today?  Is it …,,,✓,,,
+q1,1. How would you rate the overll economic condition of our country today?,,,,✓,,
+q1,1. How would you rate the overall economic condition of our country today?,,,,,✓,
+q1,1 How would you rate the overall economic condition of our country today?,,,,,,✓
+q10,Trust in Political parties,,✓,,,,
+q10,q10. Political parties [not any specific party],,,✓,,,
+q10,10 Political parties,,,,✓,,
+q10,10 Political parties[not any specific party],,,,,✓,
+q10,10 Political parties [not any specific party],,,,,,✓
+q100,Where would you place our country under the present government?,✓,,,,,
+q100,"In your opinion, what are the most important questions facing the country that government should address?",,✓,,,,
+q100,"q100. Between elections, the people have no way of holding the government responsible for its actions.",,,✓,,,
+q100,100. How likely is it that the government will solve the most important problem you identified within the next five years?,,,,✓,,
+q100,100 In your opinion how much of a democracy is our country?,,,,,✓,
+q100,"100  In our country, parties and candidates not in power have opportunities to be elected into government.",,,,,,✓
+q101,To what extent would you want our country to be democratic now?,✓,,,,,
+q101,Second Response,,✓,,,,
+q101,"q101. When government leaders break the laws, there is nothing the court can do.",,,✓,,,
+q101,101. People have the power to change a government they don't like,,,,✓,,
+q101,101 Where would you place our country under the present government?,,,,,✓,
+q101,"101  Between elections, the people have no way of holding the government responsible for its actions.",,,,,,✓
+q102,Where do you expect our country to be in five years?,✓,,,,,
+q102,Third Response,,✓,,,,
+q102,q102. Most citizens in our country don't make much effort to influence government decisions.,,,✓,,,
+q102,102. Political parties or candidates in our country have equal access to the mass media during the election period.,,,,✓,,
+q102,102 Where would you place our country ten years ago?,,,,,✓,
+q102,"102  When government leaders break the laws, there is nothing the court can do.",,,,,,✓
+q102a,How likely is it that the government will solve the most important problem you identified?,,✓,,,,
+q103,Do you think democracy is suitable for our country?,✓,,,,,
+q103,People have the power to change a government they don't like,,✓,,,,
+q103,q103. All citizens from different ethnic communities in Country X are treated equally by the government.,,,✓,,,
+q103,"103. Between elections, the people have no way of holding the government responsible for its actions.",,,,✓,,
+q103,103 Where would you expect our country to be ten years from now?,,,,,✓,
+q103,103  All citizens from different ethnic communities in the [Country X] are treated equally by the government.,,,,,,✓
+q104,How satisfied or dissatisfied are you with the current government?,✓,,,,,
+q104,Our current courts always punish the guilty even if they are high-ranking officials,,✓,,,,
+q104,q104. Rich and poor people are treated equally by the government.,,,✓,,,
+q104,"104. When government leaders break the laws, there is nothing the court can do.",,,,✓,,
+q104,104 Where would you place our country today? Democracy is suitable or not,,,,,✓,
+q104,104  Rich and poor people are treated equally by the government.,,,,,,✓
+q105,Everyone is free to say what they think- is better than before?,✓,,,,,
+q105,Political parties or candidates in our country have equal access to the mass media during the election period,,✓,,,,
+q105,"q105. People have basic necessities like food, clothes, and shelter.",,,✓,,,
+q105,105. All citizens from different ethnic communities in the country are treated equally by the government.,,,,✓,,
+q105,105 How satisfied or dissatisfied are you with the current president/government?,,,,,✓,
+q105,"105  People have basic necessities like food, clothes, and shelter.",,,,,,✓
+q106,Everyone is treated equally by the government- is better than before?,✓,,,,,
+q106,"Between elections, the people have no way of holding the government responsible for its actions",,✓,,,,
+q106,q106. People are free to speak what they think without fear.,,,✓,,,
+q106,106 Rich and poor people are treated equally by the government,,,,✓,,
+q106,106 What are the first most important problems facing this country that government should address(1st response)?,,,,,✓,
+q106,106  People are free to speak what they think without fear.,,,,,,✓
+q106a,106a What are the most important problems facing this country that government should address(2nd response)?,,,,,✓,
+q106b,106b What are the most important problems facing this country that government should address(3rd response)?,,,,,✓,
+q107,People like me can have an influence on government- is better than before?,✓,,,,,
+q107,"When the government breaks the laws, there is nothing the legal system can do",,✓,,,,
+q107,q107. People can join any organization they like without fear.,,,✓,,,
+q107,"107. People have basic necessities like food, clothes, and shelter",,,,✓,,
+q107,107 How likely is it that the government will solve the most important problem you identified within the next five years?,,,,,✓,
+q107,107  People can join any organization they like without fear.,,,,,,✓
+q108,Corruption in politics and government is under control- is better than before?,✓,,,,,
+q108,Everyone is treated equally by the government,,✓,,,,
+q108,q108. Do officials who commit crimes go unpunished?,,,✓,,,
+q108,108. People are free to speak what they think without fear.,,,,✓,,
+q108,108 Citizens are able to remove a government they don't like through elections,,,,,✓,
+q108,108 How often do government officials withhold important information from the public?,,,,,,✓
+q109,The gap between the rich and the poor have narrowed- is better than before?,✓,,,,,
+q109,"People have basic necessities like food, clothes, and shelter",,✓,,,,
+q109,q109. How often do government officials withhold important information from the public view?,,,✓,,,
+q109,109 People can join any organization they like without fear.,,,,✓,,
+q109,"109 In our country, parties and candidates not in power have opportunities to be elected into government",,,,,✓,
+q109,109 How often do you think government leaders break the law or abuse their power?,,,,,,✓
+q11,Trust in Parliament,,✓,,,,
+q11,q11. Parliament,,,✓,,,
+q11,11 Parliament,,,,✓,✓,✓
+q110,Preventing crime and maintaining order- is better than before?,✓,,,,,
+q110,People are free to speak what they think without fear,,✓,,,,
+q110,q110. How often do you think government leaders break the law or abuse their power?,,,✓,,,
+q110,110 Do officials who commit crimes go unpunished?,,,,✓,,
+q110,"110 Between elections, the people have no way of holding the government responsible for its actions",,,,,✓,
+q110,110 How often do you think our elections offer the voters a real choice between different parties/candidates?,,,,,,✓
+q111,Economic development- is better than before?,✓,,,,,
+q111,People can join any organization the like without fear,,✓,,,,
+q111,q111.  How often do you think our elections offer the voters a real choice between different parties/candidates?,,,✓,,,
+q111,111 How often do government officials withhold important information from the public view?,,,,✓,,
+q111,"111 When government leaders break the laws, there is nothing the court can do",,,,,✓,
+q111,111 To what extent is the legislature capable of keeping government leaders in check?,,,,,,✓
+q112,Judges and courts are free from political interference- is better than before?,✓,,,,,
+q112,How often do government officials withhold important information from the public view?,,✓,,,,
+q112,q112. To what extent is the legislature capable of keeping government leaders in check?,,,✓,,,
+q112,112 How often do you think government leaders break the law or abuse their power?,,,,✓,,
+q112,112 All citizens from different ethnic communities in the country are treated equally by the government.,,,,,✓,
+q112,112 How well do you think the government responds to what people want?,,,,,,✓
+q113,You can join any organization you like- is better than before?,✓,,,,,
+q113,How often do national government officials abide by the law? (HK: Hong Kong government),,✓,,,,
+q113,q113. How well do you think the government responds to what people want?,,,✓,,,
+q113,113 How often do you think our elections offer the voters a real choice between different parties/candidates?,,,,✓,,
+q113,113 Rich and poor people are treated equally by the government,,,,,✓,
+q113,113 How much do you feel that having elections make the government more responsive to people's needs?,,,,,,✓
+q114,How widespread corruption in your local/municipal government?,✓,,,,,
+q114,How often do your think our elections offer the voters a real choice between different parties/candidates?,,✓,,,,
+q114,"q114. In your neighborhood or community, do people voice their interests and concerns in local affairs?",,,✓,,,
+q114,114 To what extent is the legislature capable of keeping government leaders in check?,,,,✓,,
+q114,"114 People have basic necessities like food, clothes, and shelter",,,,,✓,
+q114,114 How capable is the government of enforcing laws and implementing policies?,,,,,,✓
+q115,How widespread corruption in the national government?,✓,,,,,
+q115,To what extent is the legislature capable of keeping the government in check?,,✓,,,,
+q115,q115. How much do you feel that having elections makes the government pay attention to what the people think?,,,✓,,,
+q115,115 How well do you think the government responds to what people want?,,,,✓,,
+q115,115 People are free to speak what they think without fear,,,,,✓,
+q115,115 How widespread do you think corruption and bribe-taking are in your local/municipal government?,,,,,,✓
+q116,anyone you know personally witnessed an act of corruption?,✓,,,,,
+q116,How well do you think the government responds to what people want?,,✓,,,,
+q116,q116. How widespread do you think corruption and bribe-taking are in your local/municipal government?  Would you say …?,,,✓,,,
+q116,116 How much do you feel that having elections makes the government pay attention to what the people think?,,,,✓,,
+q116,116 People can join any organization they like without fear,,,,,✓,
+q116,116 How widespread do you think corruption and bribe-taking are in the national government?,,,,,,✓
+q116e,anyone you know personally witnessed ?,✓,,,,,
+q117,Which comes closest to your own opinion?,✓,,,,,
+q117,How widespread do you think corruption and bribe-taking are in your local/municipal government?,,✓,,,,
+q117,q117. How widespread do you think corruption and bribe-taking are in the national government [in capital city]?  Would you say …?,,,✓,,,
+q117,117 How widespread do you think corruption and bribe-taking are in your local/municipal government?,,,,✓,,
+q117,117 How often do government officials withhold important information from the public?,,,,,✓,
+q117,117 How effective is the government in cracking down on corruption?,,,,,,✓
+q118,Which comes closer to your own view?,✓,,,,,
+q118,How widespread do you think corruption and bribe-taking are in the national government?,,✓,,,,
+q118,"q118. In your opinion, is the government working to crack down on corruption and root out bribery?",,,✓,,,
+q118,118 How widespread do you think corruption and bribe-taking are in the national government?,,,,✓,,
+q118,118 How often do you think government leaders break the law or abuse their power?,,,,,✓,
+q118,118 Have you or anyone you know personally witnessed an act of corruption or bribe-taking by a politician or government official in the past year?,,,,,,✓
+q119,choose between democracy and economic development?,✓,,,,,
+q119,Have you or anyone you know personally witnessed an act of corruption or bribe-taking by a politician or government official in the past year?,,✓,,,,
+q119,q119. Have you or anyone you know personally witnessed an act of corruption or bribe-taking by a politician or government official in the past year? IF WITNESSED: Did you personally witness it or were you told about it by a family member or friend who per,,,✓,,,
+q119,"119 In your opinion, is the government working to crack down on corruption and root out bribery?",,,,✓,,
+q119,119 How often do you think our elections offer the voters a real choice between different parties/candidates?,,,,,✓,
+q119_1,119_1 Personally witnessed,,✓,✓,,,
+q119_2,119_2 Told about it by family member,,✓,✓,,,
+q119_3,119_3 Told about it by friend,,✓,✓,,,
+q119a,119a Did you personally witness it or were you told about it by a family member or friend who personally witnessed? Personally witnessed,,,,,,✓
+q119b,119b Did you personally witness it or were you told about it by a family member or friend who personally witnessed? Told about it by a family member who personally witnessed,,,,,,✓
+q119c,119c Did you personally witness it or were you told about it by a family member or friend who personally witnessed? Told about it by a friend who personally witnessed,,,,,,✓
+q12,Trust in Civil service,,✓,,,,
+q12,q12. Civil service,,,✓,,,
+q12,12 Civil service,,,,✓,✓,
+q12,12 Civil Service,,,,,,✓
+q120,Which comes closer to your own view?,✓,,,,,
+q120,"In your opinion, is the government working to crackdown corruption and root out bribes?",,✓,,,,
+q120,q120. Remember the scale that we used before: 1 means completely undemocratic and 10 means completely democratic. Where would you place China today on this scale?,,,✓,,,
+q120,120 Have you or anyone you know personally witnessed an act of corruption or bribe-taking by a politician or government official in the past year?,,,,✓,,
+q120,120 To what extent is the legislature capable of keeping government leaders in check?,,,,,✓,
+q120,120 Where would you place China today on this scale?,,,,,,✓
+q121,We should get rid of parliament and elections and have a strong leader decide things,✓,,,,,
+q121,Which of the following statements comes closest to your own opinion?,,✓,,,,
+q121,q121. Where would you place the United States today on this scale?,,,✓,,,
+q121,121 Where would you place China today on this scale?,,,,✓,,
+q121,121 How well do you think the government responds to what people want?,,,,,✓,
+q121,121 Where would you place the United States of America today on this scale?,,,,,,✓
+q122,No opposition party should be allowed to compete for power,✓,,,,,
+q122,Which of the following statements comes closer to your own view?,,✓,,,,
+q122,q122. Where would you place Japan today on this scale?,,,✓,,,
+q122,122 Where would you place the United States today on this scale?,,,,✓,,
+q122,122 How much do you feel that having elections makes the government more responsive to people's needs,,,,,✓,
+q122,122 Where would you place Japan today on this scale?,,,,,,✓
+q123,The military should come in to govern the country,✓,,,,,
+q123,"If you had to choose between democracy and economic development, which would you say is more important?",,✓,,,,
+q123,q123. Where would you place India today on this scale?,,,✓,,,
+q123,123 Where would you place Japan on this scale?,,,,✓,,
+q123,123 How capable is the government of enforcing laws and implementing policies?,,,,,✓,
+q123,123 Where would you place India today on this scale?,,,,,,✓
+q124,We should get rid of parliament and elections and have the experts decide everything,✓,,,,,
+q124,We should get rid of parliament and elections and have a strong leader decide things,,✓,,,,
+q124,q124. Which of the following statements comes closest to your own opinion?,,,✓,,,
+q124,124 Where would you place India on this scale?,,,,✓,,
+q124,124 How widespread do you think corruption and bribe-taking are in your local/municipal government?,,,,,✓,
+q124,124 Which of the following statements comes closest to your own opinion?,,,,,,✓
+q125,"It is ok for the government to disregard the law in order to deal with the situation, when the country is facing a diffi",✓,,,,,
+q125,Only one political party is allowed to stand for election and hold office,,✓,,,,
+q125,q125. Which of the following statements comes closer to your own view?,,,✓,,,
+q125,125 Which of the following statements comes closest to your own opinion?,,,,✓,,
+q125,125 How widespread do you think corruption and bribe-taking are in the national government?,,,,,✓,
+q125,125 Which of the following statements comes closer to your own view?,,,,,,✓
+q126,I have the ability to participate in politics,✓,,,,,
+q126,The army should come in to govern the country,,✓,,,,
+q126,"q126. If you had to choose between democracy and economic development, which would you say is more important?",,,✓,,,
+q126,126 Which of the following statements comes closer to your own view?,,,,✓,,
+q126,126 How effective is the government in cracking down on corruption?,,,,,✓,
+q126,"126 If you had to choose between democracy and economic development, which would you say is more important?",,,,,,✓
+q127,Politics and government seems so complicated that a person like me can't really understand what is going on,✓,,,,,
+q127,I think I have the ability to participate in politics,,✓,,,,
+q127,"q127. If you had to choose between reducing economic inequality and protecting political freedom, which would you say is more important?",,,✓,,,
+q127,"127 If you had to choose between democracy and economic development, which would you say is more important?",,,,✓,,
+q127,127 Have you or anyone you know personally witnessed an act of corruption or bribe-taking by a politician or government official in the past year?,,,,,✓,
+q127,"127 If you had to choose between reducing economic inequality and protecting political freedom, which would you say is more important?",,,,,,✓
+q127a_1,127a_1 Did you personally witness it or were you told about it by a family member or friend who personally witnessed? personally witnessed,,,,,✓,
+q127a_2,127a_2  Did you personally witness it or were you told about it by a family member or friend who personally witnessed? told about it by a family member who personally witnessed,,,,,✓,
+q127a_3,127a_3  Did you personally witness it or were you told about it by a family member or friend who personally witnessed? told about it by a friend who personally witnessed,,,,,✓,
+q128,The nation is run by a powerful few and ordinary citizens cannot do much about it,✓,,,,,
+q128,Sometimes politics and government seems so complicated that a person like me can't really understand what is going on,,✓,,,,
+q128,"q128. Do you agree or disagree with the following statement: ""Democracy may have its problems, but it is still the best form of government.""",,,✓,,,
+q128,"128 If you had to choose between reducing economic inequality and protecting political freedom, which would you say is more important?",,,,✓,,
+q128,128 Where would you place China today on this scale?,,,,,✓,
+q128,"128 Do you agree or disagree with the following statement: 'Democracy may have its problems, but it is still the best form of government's?",,,,,,✓
+q129,People like me don't have any influence over what the government does,✓,,,,,
+q129,"Whatever its faults may be, our form of government is still the best for us",,✓,,,,
+q129,"q129. There are many ways to govern a country. Would you disapprove or approve of the following alternatives? For each statement, would you say you strongly approve, approve, disapprove, or strongly disapprove? We should get rid of parliament and election",,,✓,,,
+q129,"129 Do you agree or disagree with the following statement: ""Democracy may have its problems, but it is still the best form of government"".",,,,✓,,
+q129,129 Where would you place the United States today on this scale?,,,,,✓,
+q129,129 We should get rid of parliament and elections and have a strong leader to decide things.,,,,,,✓
+q129a,strong leader,,,✓,,,
+q129a_q131a,sum of Q129a_q131a(reject all authoritarian options),,,✓,,,
+q13,Trust in the military(or armed forces),,✓,,,,
+q13,q13. The military(or armed forces),,,✓,,,
+q13,13 The military,,,,✓,,
+q13,13 The military or armed force,,,,,✓,
+q13,13 The military or armed forces,,,,,,✓
+q130,Our form of government is still the best for us,✓,,,,,
+q130,You can generally trust the people who run our government to do what is right (HK: Hong Kong government),,✓,,,,
+q130,q130. Only one political party should be allowed to stand for election and hold office.,,,✓,,,
+q130,130 We should get rid of parliament and elections and have a strong leader decide things.,,,,✓,,
+q130,130 Where would you place Japan today on this scale?,,,,,✓,
+q130,130 Only one political party is allowed to stand for election and hold office.,,,,,,✓
+q130a,one poltical party,,,✓,,,
+q131,You can generally trust the people who run our government to do what is right,✓,,,,,
+q131,"Generally speaking, we can trust the local government officials to do the right things",,✓,,,,
+q131,q131. The army (military) should come in to govern the country.,,,✓,,,
+q131,131 Only one political party should be allowed to stand for election and hold office.,,,,✓,,
+q131,131 Where would you place India today on this scale?,,,,,✓,
+q131,131 The army (military) should come in to govern the country.,,,,,,✓
+q131a,army,,,✓,,,
+q132,People with little or no education should have as much say in politics as highly-educated people,✓,,,,,
+q132,Which of these two statements comes closer to your own view,,✓,,,,
+q132,q132. We should get rid of elections and parliaments and have experts make decisions on behalf of the people.,,,✓,,,
+q132,132 The army (military) should come in to govern the country.,,,,✓,,
+q132,132 Which of the following statements comes closest to your own opinion?,,,,,✓,
+q132,132 We should get rid of elections and parliaments and have experts make decisions on behalf of the people.,,,,,,✓
+q133,Government leaders are like the head of a family; we should all follow their decisions,✓,,,,,
+q133,People with little or no education should have as much say in politics as highly-educated people,,✓,,,,
+q133,"q133. I have here some statements. For each statement, would you say you strongly agree, somewhat agree, somewhat disagree, or strongly disagree? I think I have the ability to participate in politics.",,,✓,,,
+q133,133 We should get rid of elections and parliaments and have experts make decisions on behalf of the people.,,,,✓,,
+q133,133 Which of the following statements comes closer to your own view?,,,,,✓,
+q133,133 I think I have the ability to participate in politics.,,,,,,✓
+q134,The government should decide whether certain ideas should be allowed to be discussed in society,✓,,,,,
+q134,Government leaders are like the head of a family; we should all follow their decisions,,✓,,,,
+q134,q134. Sometimes politics and government seems so complicated that a person like me can't really understand what is going on.,,,✓,,,
+q134,134 I think I have the ability to participate in politics.,,,,✓,,
+q134,"134 If you had to choose between democracy and economic development, which would you say is more important?",,,,,✓,
+q134,134 Sometimes politics and government seems so complicated that a person like me can't really understand what is going on.,,,,,,✓
+q135,Harmony of the community will be disrupted if people organize lots of groups,✓,,,,,
+q135,The government should decide whether certain ideas should be allowed to be discussed in society,,✓,,,,
+q135,q135. People like me don't have any influence over what the government does.,,,✓,,,
+q135,135 Sometimes politics and government seems so complicated that a person like me can't really understand what is going on.,,,,✓,,
+q135,"135 If you had to choose between reducing economic inequality and protecting political freedom, which would you say is more important?",,,,,✓,
+q135,135 People like me don't have any influence over what the government does.,,,,,,✓
+q136,"When judges decide important cases, they should accept the view of the executive branch",✓,,,,,
+q136,Harmony of the community will be disrupted if people organize lots of groups,,✓,,,,
+q136,q136. You can generally trust the people who run our government to do what is right.,,,✓,,,
+q136,136 People like me don't have any influence over what the government does.,,,,✓,,
+q136,"136 Do you agree or disagree with the following statement: ""Democracy may have its problems, but it is still the best form of government"".",,,,,✓,
+q136,136 You can generally trust the people who run our government to do what is right.,,,,,,✓
+q137,"If the government is constantly checked by the legislature, it cannot possibly accomplish great things",✓,,,,,
+q137,"When judges decide important cases, they should accept the view of the executive branch",,✓,,,,
+q137,"q137. A citizen should always remain loyal only to his country, no matter how imperfect it is or what wrong it has done.",,,✓,,,
+q137,137 You can generally trust the people who run our government to do what is right.,,,,✓,,
+q137,137 We should get rid of parliament and elections and have a strong leader decide things.,,,,,✓,
+q137,"137 A citizen should always remain loyal only to his country, no matter how imperfect it is or what wrong it has done.",,,,,,✓
+q138,"If we have political leaders who are morally upright, we can let them decide everything",✓,,,,,
+q138,"If the government is constantly checked by the legislature, it cannot possibly accomplish great things",,✓,,,,
+q138,"q138. I have here other statements. For each statement, would you say you strongly agree, somewhat agree, somewhat disagree, or strongly disagree? The government should consult religious authorities when interpreting the laws.",,,✓,,,
+q138,"138 A citizen should always remain loyal only to his country, no matter how imperfect it is or what wrong it has done.",,,,✓,,
+q138,138 Only one political party should be allowed to stand for election and hold office,,,,,✓,
+q138,138 Have you or your family members previously contracted the Covid-19 virus?,,,,,,✓
+q139,"If people have too many different ways of thinking, society will be chaotic",✓,,,,,
+q139,"If we have political leaders who are morally upright, we can let them decide everything",,✓,,,,
+q139,q139. Women should not be involved in politics as much as men.,,,✓,,,
+q139,139 Women should not be involved in politics as much as men,,,,✓,,
+q139,139 The army (military) should come in to govern the country,,,,,✓,
+q139a,139a Did you or a member of your family suffer from serious illness or death?,,,,,,✓
+q139b,139b Did you or a member of your family suffer from loss of job,,,,,,✓
+q139c,139c Did you or a member of your family suffer from loss of household income?,,,,,,✓
+q139d,139d Did you or a member of your family suffer from disruption of my kids' education?,,,,,,✓
+q14,Trust in the police,,✓,,,,
+q14,q14. The police,,,✓,,,
+q14,14 The police,,,,✓,✓,✓
+q140,The government should maintain ownership of major state-owned enterprises,✓,,,,,
+q140,"If people have too many different ways of thinking, society will be chaotic",,✓,,,,
+q140,q140. People with little or no education should have as much say in politics as highly-educated people.,,,✓,,,
+q140,140 The government should consult religious authorities when interpreting the laws,,,,✓,,
+q140,140 We should get rid of elections and parliaments and have experts make decisions on behalf of the people.,,,,,✓,
+q140,"140 Thinking of the negative impact of Covid-19 on your family's livelihood, how serious it is in your view?",,,,,,✓
+q141,The national government should have more authority over local decisions than it does now,✓,,,,,
+q141,"When the country is facing a difficult situation, it is ok for the government to disregard the law in order to deal with the situation",,✓,,,,
+q141,q141. Government leaders are like the head of a family; we should all follow their decisions.,,,✓,,,
+q141,141 People with little or no education should have as much say in politics as highly-educated people,,,,✓,,
+q141,141 I think I have the ability to participate in politics,,,,,✓,
+q141,141 How much do you trust the Covid-19 related information provided by the government?,,,,,,✓
+q141a,government leader,,,✓,,,
+q141a_q147a,average rejection of authoritarian values,,,✓,,,
+q142,Our country should defend our way of life instead of becoming more and more like other countries,✓,,,,,
+q142,The government should maintain ownership of major state-owned enterprises,,✓,,,,
+q142,q142. The government should decide whether certain ideas should be allowed to be discussed in society.,,,✓,,,
+q142,142 Government leaders are like the head of a family; we should all follow their decisions,,,,✓,,
+q142,142 Sometimes politics and government seems so complicated that a person like me can't really understand what is going on,,,,,✓,
+q142,142 How well or badly do you think the government handled the pandemic?,,,,,,✓
+q142a,certain ideas,,,✓,,,
+q143,"For the sake of the national community/society, the individual should be prepared to sacrifice his personal interest",✓,,,,,
+q143,The local government should have more authority over local decisions than it does now,,✓,,,,
+q143,q143. Harmony of the community will be disrupted if people organize lots of groups.,,,✓,,,
+q143,143 The government should decide whether certain ideas should be allowed to be discussed in society,,,,✓,,
+q143,143 People like me don`t have any influence over what the government does,,,,,✓,
+q143a,Harmony of the community,,,✓,,,
+q143a,"143aWhen there is a public health challenge like the coronavirus, is it justifiable for the government to postpone elections?",,,,,,✓
+q143b,143b To limit freedom of speech or assembly,,,,,,✓
+q143c,143c To censor the media,,,,,,✓
+q143d,143d To track citizens’ locations at all times,,,,,,✓
+q143e,143e To impose a lockdown for a long time,,,,,,✓
+q144,"The state is like a big machine and the individual is but a small cog, with no independent status",✓,,,,,
+q144,Our country should defend our way of life instead of becoming more and more like other countries,,✓,,,,
+q144,"q144. When judges decide important cases, they should accept the view of the executive branch.",,,✓,,,
+q144,144 Harmony of the community will be disrupted if people organize lots of groups,,,,✓,,
+q144,144 You can generally trust the people who run our government to do what is right,,,,,✓,
+q144,144 Have you been vaccinated against Covid-19?,,,,,,✓
+q144a,judges,,,✓,,,
+q145,The most important thing for a political leader is to accomplish his goals even if he has to ignore the established proc,✓,,,,,
+q145,"In order to preserve social justice, the government should prevent the gap between rich and poor from growing any larger",,✓,,,,
+q145,"q145. If the government is constantly checked [i.e. monitored and supervised] by the legislature, it cannot possibly accomplish great things.",,,✓,,,
+q145,"145 When judges decide important cases, they should accept the view of the executive branch",,,,✓,,
+q145,"145 A citizen should always remain loyal only to his country, no matter how imperfect it is or what wrong it has done.",,,,,✓,
+q145,145 Why do you prefer not to be vaccinated against Covid-19?,,,,,,✓
+q145a,checked by the legislature,,,✓,,,
+q145other,145. Other specify responses,,,,,,✓
+q146,"If a political leader really believes in his position, he should refuse to compromise regardless of how many people disa",✓,,,,,
+q146,Our country should become more self-sufficient and less reliant on trade with other countries,,✓,,,,
+q146,"q146. If we have political leaders who are morally upright, we can let them decide everything.",,,✓,,,
+q146,"146 If the government is constantly checked [i.e. monitored and supervised] by the legislature, it cannot possibly accomplish great things",,,,✓,,
+q146,146 Women should not be involved in politics as much as men,,,,,✓,
+q146,146 I have here other statements: Women should not be involved in politics as much as men,,,,,,✓
+q146a,political leaders,,,✓,,,
+q147,A political leader should tolerate the views of those who challenge his political ideals,✓,,,,,
+q147,Let us suppose that you had to choose between being a..... which of these do you feel most strongly attached to,,✓,,,,
+q147,"q147. If people have too many different ways of thinking, society will be chaotic.",,,✓,,,
+q147,"147 If we have political leaders who are morally upright, we can let them decide everything",,,,✓,,
+q147,147 The government should consult religious authorities when interpreting the laws,,,,,✓,
+q147,147 The government should consult religious authorities when interpreting the laws.,,,,,,✓
+q147a,A political leader should not tolerate the views of those who challenge his political ideals,✓,,,,,
+q147a,chaotic,,,✓,,,
+q148,"As long as a political leader enjoys majority support, he should implement his own agenda and disregard the view of the",✓,,,,,
+q148,These people should have the equal right to do whatever they want to do as other citizens,,✓,,,,
+q148,"q148. When the country is facing a difficult situation, it is ok for the government to disregard the law in order to deal with the situation.",,,✓,,,
+q148,"148 If people have too many different ways of thinking, society will be chaotic",,,,✓,,
+q148,148 People with little or no education should have as much say in politics as highly-educated people,,,,,✓,
+q148,148 People with little or no education should have as much say in politics as highly-educated people.,,,,,,✓
+q149,They should enjoy the same right as other citizens to vote in the election of the top leader,,✓,,,,
+q149,q149. How closely do you follow major events in foreign countries / the world?,,,✓,,,
+q149,"149 When the country is facing a difficult situation, it is ok for the government to disregard the law in order to deal with the situation",,,,✓,,
+q149,149 Government leaders are like the head of a family; we should all follow their decisions,,,,,✓,
+q149,149 Government leaders are like the head of a family; we should all follow their decisions.,,,,,,✓
+q15,Trust in local government,,✓,,,,
+q15,q15. Local government,,,✓,,,
+q15,15 Local government,,,,✓,✓,✓
+q150,Their basic well-being should be taken care of by the government to the same extent as other citizens,,✓,,,,
+q150,"q150. How often do you watch or listen to foreign programs (television, DVDs, movies, radio)?",,,✓,,,
+q150,150 How closely do you follow major events in foreign countries/ the world?,,,,✓,,
+q150,150 The government should decide whether certain ideas should be allowed to be discussed in society,,,,,✓,
+q150,150 The government should decide whether certain ideas should be allowed to be discussed in society.,,,,,,✓
+q151,A citizen who does not actively participate in the affairs of his local and national community is not performing his duties,,✓,,,,
+q151,q151. Our country should defend our way of life instead of becoming more and more like other countries.,,,✓,,,
+q151,151 Our country should defend our way of life instead of becoming more and more like other countries.,,,,✓,,
+q151,151 Harmony of the community will be disrupted if people organize lots of groups,,,,,✓,
+q151,151 Harmony of the community will be disrupted if people organize lots of groups.,,,,,,✓
+q152,"Citizens should always obey laws and regulations, even if they disagree with them",,✓,,,,
+q152,"q152. Do you agree or disagree with the following statement: ""We should protect our farmers and workers by limiting the import of foreign goods.""",,,✓,,,
+q152,"152 Do you agree or disagree with the following statement: ""We should protect our farmers and workers by limiting the import of foreign goods.""",,,,✓,,
+q152,"152 When judges decide important cases, they should accept the view of the executive branch",,,,,✓,
+q152,"152 When judges decide important cases, they should accept the view of the executive branch.",,,,,,✓
+q153,"Do you agree or disagree with the following statement: ""A citizen should always remain loyal only to his country, no matter how imperfect",,✓,,,,
+q153,"q153. Do you agree or disagree with the following statement: ""Foreign goods are hurting the local community.""",,,✓,,,
+q153,153 Do you think the government should increase or decrease the inflow of foreign immigrants into the country?,,,,✓,,
+q153,"153 If the government is constantly checked [i.e. monitored and supervised] by the legislature, it cannot possibly accomplish great things",,,,,✓,
+q153,"153 If the government is constantly checked by the legislature, it cannot possibly accomplish great things.",,,,,,✓
+q154,How proud are you to be a citizen of [Country],,✓,,,,
+q154,q154. How proud are you to be a citizen of (COUNTRY)?,,,✓,,,
+q154,154 Which of these statements comes closer to your view?,,,,✓,,
+q154,"154 If we have political leaders who are morally upright, we can let them decide everything",,,,,✓,
+q154,"154 If we have political leaders who are morally upright, we can let them decide everything.",,,,,,✓
+q155,"Given the chance, how willing would you be to go and live in another country?",,✓,,,,
+q155,"q155. Given the chance, how willing would you be to go and live in another country?",,,✓,,,
+q155,155 How fair do you think income distribution is in the country?,,,,✓,,
+q155,"155 If people have too many different ways of thinking, society will be chaotic",,,,,✓,
+q155,"155 If people have too many different ways of thinking, society will be chaotic.",,,,,,✓
+q156,Relation: The European Community or European Union,,✓,,,,
+q156,q156. Which country has the most influence in Asia?,,,✓,,,
+q156,156 It is the responsibility of the government to reduce the differences between people with high income and those with low incomes.,,,,✓,,
+q156,156 Which of the following statements do you agree with the most? distinct way of life vs. learning from other countries,,,,,✓,
+q156,156 Choose one statement.,,,,,,✓
+q156_1,156_1 Our country should do more to learn from other countries(q156+q156a),,,,,✓,✓
+q156a,156a Do you strongly agree or just agree with the chosen statement?,,,,,✓,✓
+q157,Relation: The United Nations or UN,,✓,,,,
+q157,"q157. Does (answer in Q156) do more good or harm to the region? Ask Q157a if the answer in Q156 is not China, otherwise skip to Q158",,,✓,,,
+q157,157 How concerned are you about the loss of your major source of income within the next 12 months?,,,,✓,,
+q157,157 Which of the following statements do you agree with the most? limit or import of foreign goods,,,,,✓,
+q157,157 Choose one statement.,,,,,,✓
+q157_1,157_1 Our country should do more trade with other countries(q157+q157a),,,,,✓,✓
+q157a,q157a. Does China do more good or harm to the region?,,,✓,,,
+q157a,157a Do you strongly agree or just agree with the chosen statement?,,,,,✓,✓
+q157b,q157b. Does China do more good or harm to the region? (Whether the most influence country is China or not.),,,✓,,,
+q158,Relation: International Monetary Fund or IMF,,✓,,,,
+q158,"q158. In ten years, which country will have the most influence in Asia?",,,✓,,,
+q158,"158 The following is a hypothetical question: If you were unfortunate enough to lose your main source of income, how serious would it be for you and your family?",,,,✓,,
+q158,158 Do you think the government should increase or decrease the inflow of foreigners who come to work in our country?,,,,,✓,
+q158,158 Do you think the government should increase or decrease the inflow of foreign immigrants into the country.,,,,,,✓
+q159,Relation: World Bank,,✓,,,,
+q159,q159. Which country should be a model for our own country's future development?,,,✓,,,
+q159,"159 Considering all the effort that you and your family members have made in the past, do you think the income that your family currently receives is fair or not fair-4 categories?",,,,✓,,
+q159,159 How fair do you think income distribution is in the country?,,,,,✓,
+q159,159 How fair do you think income distribution in Mongolia,,,,,,✓
+q159a,"159a Considering all the effort that you and your family members have made in the past, do you think the income that your family currently receives is fair or not fair-6 categories?",,,,✓,,
+q16,Trust in newspaper,,✓,,,,
+q16,q16. Newspapers,,,✓,,,
+q16,16 Newspaper,,,,✓,,
+q16,16 The election commission,,,,,✓,✓
+q160,Impression: The European Community or European Union,,✓,,,,
+q160,q160. How much influence does China have on our country?,,,✓,,,
+q160,"160 As compared to my parent's generation, my generation has more or fewer opportunities to improve one's standard of living or social status?",,,,✓,,
+q160a,160a It is the responsibility of the government to narrow the gap between the rich and the poor,,,,,✓,
+q160a,160a Narrow the gap between the rich and the poor,,,,,,✓
+q160b,160b It is the responsibility of the government to make sure that everyone has affordable housing,,,,,✓,
+q160b,160b Make sure that everyone has affordable housing,,,,,,✓
+q160c,160c It is the responsibility of the government to make sure that everyone has access to basic medical care,,,,,✓,
+q160c,160c Make sure that everyone has access to basic medical care,,,,,,✓
+q160d,160d It is the responsibility of the government to make sure that basic necessitities such as food and shelters are provided for everyone,,,,,✓,
+q160d,160d Make sure that basic necessities such as food and shelters are provided for everyone,,,,,,✓
+q161,Impression: The United Nations or UN,,✓,,,,
+q161,"q161. General speaking, the influence China has on our country is?",,,✓,,,
+q161,161 How proud are you to be a citizen of the country? Are you?,,,,✓,,
+q161,161 How worried are you that your family might lose its major source of income within the next 12 months?,,,,,✓,✓
+q162,Impression: International Monetary Fund or IMF,,✓,,,,
+q162,"162 Given the chance, how willing would you be to go and live in another country",,,,✓,,
+q162,"162 The following is a hypothetical question: If your family were unfortunate enough to lose its main source of income, how serious would it be for your family?",,,,,✓,
+q162,"162 The following is a hypothetical question: If you were unfortunate enough to lose your main source of income, how serious would it be for you and your family?",,,,,,✓
+q163,Impression: World Bank,,✓,,,,
+q163,163 Which country has the most influence in Asia?,,,,✓,,
+q163,"163 Considering all the effort that you and your family members have made in the past, do you think the income that your family currently receives is fair or not fair?",,,,,✓,✓
+q164,Impression: United States,,✓,,,,
+q164,164 Does the United States do more good or harm to the region?,,,,✓,,
+q164,"164 As compared to my parent's generation, my generation has more or fewer opportunities to improve one's standard of living or social status?",,,,,✓,
+q164,"164 As compared to my parent's generation, my generation has more or fewer opportunities to improve the standard of living or   social status?",,,,,,✓
+q165,Impression: China,,✓,,,,
+q165,165 Does China do more good or harm to the region?,,,,✓,,
+q165,165 Will the next generation have had a better or worse life than our generation?,,,,,✓,✓
+q166,Impression: Japan,,✓,,,,
+q166,"166 In ten years, which country will have the most influence in Asia?",,,,✓,,
+q166,166 How proud are you to be a citizen of the country?,,,,,✓,
+q166,166 How proud are you to be a citizen of (COUNTRY)? Are you...,,,,,,✓
+q167,167 Which country should be a model for our own country's future development?,,,,✓,,
+q167,"167 Given the chance, how willing would you be to go and live in another country?",,,,,✓,✓
+q168,168 How much influence does China have on our country?,,,,✓,,
+q168,"168 Under a democratic system, the country endures poor economic performance",,,,,✓,
+q168,"168 In order to solve the country’s urgent problems, a leader can govern the country by decrees and disregard the parliament if necessary",,,,,,✓
+q169,"169 General speaking, the influence China has on our country is?",,,,✓,,
+q169,169 Democratic regimes are indecisive and full of problems,,,,,✓,
+q169,"169 As long as a government can solve our country’s economic problem, it does not matter if the government holds regular elections or not",,,,,,✓
+q17,Trust in television,,✓,,,,
+q17,q17. Television,,,✓,,,
+q17,17 Television,,,,✓,,
+q17,17 Non-government organizations or NGOs,,,,,✓,✓
+q170,170 How much influence does the United States have on our country?,,,,✓,,
+q170,170 Democratic systems are not effective at maintaining order and stability,,,,,✓,
+q170,170This country needs a leader who can break the rules if necessary to get things done,,,,,,✓
+q171,"171 General speaking, the influence the United States has on our country is?",,,,✓,,
+q171,171 The citizens in our country are not prepared for a democratic system,,,,,✓,
+q171,"171 As long as the government can maintain order and stability in the country, it does not matter whether it is democratic or undemocratic",,,,,,✓
+q172,172 How close do you feel to ASEAN? (ASEAN countries only),,,,✓,,
+q172,172 Democracy negatively affects social and ethical values in our country,,,,,✓,
+q172a,172a Which circumstance would justify the governments's use of emergency powers to costrain rights and freedom: A public health crisis like the Covid-19 pandemic,,,,,,✓
+q172b,172b An economic crisis that has caused the loss of many jobs,,,,,,✓
+q172c,172c Widespread corruption that the president [PM] claims can only be reduced by increasing executive power,,,,,,✓
+q172d,172d A security crisis due to social unrest or terrorism,,,,,,✓
+q172e,172e The country is at war,,,,,,✓
+q173,"173 As long as a government can solve our country's economic problem, it does not matter if it is democratic or not democratic",,,,,✓,
+q173,173 Which country has the most influence in Asia?,,,,,,✓
+q173other,173. Other specify responses,,,,,,✓
+q174,174 Which country has the most influence in Asia?,,,,,✓,
+q174,174 Does USA do more good or harm to the Asia?,,,,,,✓
+q175,175 Does the United States do more good or harm to Asia?,,,,,✓,
+q175,"175 Generally speaking, the influence the United States today has on world affairs is?",,,,,,✓
+q176,176 The influence of the U.S. on world affairs today is negative or positive?,,,,,✓,
+q176,176 Does China do more good or harm to the Asia?,,,,,,✓
+q177,177  Does China do more good or harm to Asia?,,,,,✓,
+q177,"177 Generally speaking, the influence China today has on world affairs is?",,,,,,✓
+q178,178 The infulece of China on world affairs today is negative or positive?,,,,,✓,
+q178,"178 Generally speaking, the influence the E.U. today has on world affairs is?",,,,,,✓
+q179,"179 In ten years, which country will have the most influence in Asia?",,,,,✓,
+q179,"179  In ten years, which country will have the most influence in Asia?",,,,,,✓
+q179other,179. Other specify responses,,,,,,✓
+q18,Trust in the election commission(Singapore: International TV),,✓,,,,
+q18,q18. The election commission [specify institution by name] <Optional>,,,✓,,,
+q18,18 The election commission,,,,✓,,
+q18,18. Name of the organization you belong to. First,,,,,✓,
+q18,18 Name of the organization you belong to. First,,,,,,✓
+q180,180 Which country should be a model for our own country's future development?,,,,,✓,✓
+q180other,180. Other sepcify responses,,,,,,✓
+q181,181 How much influence does China have on our country?,,,,,✓,✓
+q182,"182 General speaking, the influence China has on our country is?",,,,,✓,
+q182,"182 Generally speaking, the influence China has on our country is?",,,,,,✓
+q183,183 How much influence does the United States have on our country?,,,,,✓,
+q183,183 How much influence does USA have on our country?,,,,,,✓
+q184,"184 General speaking, the influence the United States has on our country is?",,,,,✓,
+q184,"184 General speaking, the influence USA has on our country is?",,,,,,✓
+q185,185 Which aspect about the Asian power's influence and impact you have in mind when answering the above questions?,,,,,✓,
+q185,185 Which aspect of the major power’s influence and impact you have in mind when answering the above questions?,,,,,,✓
+q185Other,185. Other specify responses,,,,,,✓
+q186,186 How close do you feel to ASEAN?(ASEAN countries only)?,,,,,✓,
+q186,186 How close do you feel to ASEAN? (ASEAN countries only),,,,,,✓
+q18_other,18 Other specify responses,,,,,,✓
+q19,Trust in NGOs,,✓,,,,
+q19,q19. Non-governmental organizations or NGOs <Optional>,,,✓,,,
+q19,19 Non-government organizations or NGOs,,,,✓,,
+q19,19. Name of the organization you belong to. Second,,,,,✓,
+q19,19 Name of the organization you belong to. Second,,,,,,✓
+q19_other,19 Other specify responses,,,,,,✓
+q2,How would you describe the change in the economic condition of our country over the last years?,,✓,,,,
+q2,q2. How would you describe the change in the economic condition of our country over the last few years,,,✓,,,
+q2,2. How would you dsecribe the change in the economic condition of our country over the last few years?,,,,✓,✓,
+q2,2 How would you describe the change in the economic condition of our country over the last few years?,,,,,,✓
+q20,Are you a member of any organization or formal groups?,,✓,,,,
+q20,q20. Could you identity the three most important organizations or formal groups you belong to. First Organization,,,✓,,,
+q20,20. Name of the organization you belong to. First,,,,✓,,
+q20,20. Name of the organization that you belong to. Third,,,,,✓,
+q20,20 Name of the organization that you belong to. Third,,,,,,✓
+q20_1,First organization,,✓,,,,
+q20_2,Second organization,,✓,,,,
+q20_3,Third organization,,✓,,,,
+q20_other,20 Other specify responses,,,,,,✓
+q21,q21. Second Organization,,,✓,,,
+q21,21. Name of the organization you belong to. Second,,,,✓,,
+q21,21  Which organization you participate most actively in the last 12 months?,,,,,✓,
+q21,21 Which organization you participate most actively in the last 12 months?',,,,,,✓
+q21_other,21 Other specify responses,,,,,,✓
+q22,q22. Third Organization,,,✓,,,
+q22,22. Name of the organization that you belong to. Third,,,,✓,,
+q22,"22 Would you say that ""Most people can be trusted"" or ""that you must be very careful in dealing with people""?",,,,,✓,
+q22,22 Would you say that 'Most people can be trusted' or 'that you must be very careful in dealing with people'?,,,,,,✓
+q23,"General speaking, would you say ""Most people can be trusted"" or ""that you must be very careful""?",,✓,,,,
+q23,"q23. General speaking, would you say that ""Most people can be trusted"" or ""that you must be very careful in dealing with people""?",,,✓,,,
+q23,"23 Would you say that ""Most people can be trusted"" or ""that you must be very careful in dealing with people""?",,,,✓,,
+q23,23 Do you agree with the statement that 'most people are trustworthy?',,,,,✓,✓
+q24,How much trust do you have in your relatives?,,✓,,,,
+q24,"q24. Do you think most people would try to take advantage of you if they got a chance, or would they try to be fair? (NEW)",,,✓,,,
+q24,24. Do you ageee with the statement 'Most people are trustworthy',,,,✓,,
+q24,24 How much trust do you have in each of the following types of people? Your relatives,,,,,✓,✓
+q25,How much trust do you have in your neighbors?,,✓,,,,
+q25,q25. How much trust do you have in each of the following types of people?   Your relatives,,,✓,,,
+q25,"25 Do you think most people would try to take advantage of you if they got a chance, or would they try to be fair?",,,,✓,,
+q25,25 Trust in your neighbors,,,,,✓,✓
+q26,How much trust do you have in other people you interact with?,,✓,,,,
+q26,q26. Your neighbors,,,✓,,,
+q26,26. How much do you trust your relatives?,,,,✓,,
+q26,26 Trust in other people you interact with,,,,,✓,✓
+q27,"On average, about how many people do you have contact with in a typical week day?",,✓,,,,
+q27,q27. Other people you interact with,,,✓,,,
+q27,27. Trust your neighbors,,,,✓,,
+q27,27 Trust in people you meet for the first time,,,,,✓,✓
+q28,How often are you asked to help influence important decisions in other people's favor?,,✓,,,,
+q28,"q28. On average, about how many people do you have contact with in a typical week day?  We are interested in contact on a one-on-one basis, including everyone with whom you chat, talk, or discuss matters.  This can be face to face, by telephone, by mail,",,,✓,,,
+q28,28. Trust other people you interact with,,,,✓,,
+q28,28 How many people do you have contact within a typical week day?,,,,,✓,
+q28,28 How many people do you have contact with in a typical week day?,,,,,,✓
+q29,And are there people you could ask to help influence important decisions in your favor?,,✓,,,,
+q29,"q29. If you have a difficult problem to manage, are there people outside your household you can ask for help? (NEW)",,,✓,,,
+q29,29. How many people do you have contact within a typical week day?,,,,✓,,
+q29,29 Which of the following best describes your relations with most of your social contacts?,,,,,✓,✓
+q3,What do you think will be the state of our country's economic condition a few years from now?,,✓,,,,
+q3,q3. What do you think will be the state of our country's economic condition a few years from now? Will it be …,,,✓,,,
+q3,3. What do you think will be the state of our country's economic condition a few years from now?,,,,✓,✓,
+q3,3 What do you think will be the state of our country's economic condition a few years from now?,,,,,,✓
+q30,"Do you agree or disagree with the following statement: By helping people in trouble today, someone else will help me when I am in trouble someday.",,✓,,,,
+q30,"q30. When people outside your household have problems, do they come to you for help? (NEW)",,,✓,,,
+q30,"30. If you have a difficult problem to manage, are there people outside your household you can ask for help?",,,,✓,,
+q30,"30 Among these people you have frequent contacts, which of the following best describes the political views of these people?",,,,,✓,✓
+q31,Would you have a hard time conversing with your friends or co-workers about politics if you had differing opinions?,,✓,,,,
+q31,"q31. If you had friends or co-workers whose opinions on politics differed from yours, would you have a hard time conversing with them? (NEW)",,,✓,,,
+q31,"31. When people outside your household have problems, do they come to you for help?",,,,✓,,
+q31,"31 If you have a difficult problem to manage, are there people outside your household you can ask for help?",,,,,✓,✓
+q32,"Generally speaking, how safe is living in this city/town/village?",,✓,,,,
+q32,"q32. In talking to people about elections, we often find that a lot of people were not able to vote because they were away from home, they were sick or they just didn't have time. How about you? Did you vote in the election [the most recent national elect",,,✓,,,
+q32,"32 If you had friends or co-workers whose opinions on politics differed from yours, would you have a hard time conversing with them?",,,,✓,✓,✓
+q33,"Compared to the situation in this city/town/village a few years ago, do you feel more safe, less safe or the same as before?",,✓,,,,
+q33,q33. Which parties (or candidates for president if it was presidential race) did you vote for? [country-specific response grid],,,✓,,,
+q33,33 Did you vote in the last national election?,,,,✓,✓,
+q33,33 Did you vote in the national election?,,,,,,✓
+q33a,"q33a. Based on the answer to Q33, please construct a new variable indicating if the respondent voted for the winning camp or losing camp.",,,✓,,,
+q34,"Have you been a victim of car, motorcycle or bicycle theft?",,✓,,,,
+q34,"q34. Thinking about the national election in [year], did you attend a campaign meeting or rally?",,,✓,,,
+q34,34 Which parties or candidates did you vote for?,,,,✓,✓,✓
+q34a,34a Did the respondent vote for the winning or losing camp?,,,,✓,✓,✓
+q34other,34. Other specify responses,,,,,,✓
+q35,Have you been a victim of pick-pocketing/robbery of personal property?,,✓,,,,
+q35,q35. try to persuade others to vote for a certain candidate or party?,,,✓,,,
+q35,35. Did you attend a campaign meeting or rally?,,,,✓,,
+q35,35. Did you attend a campaign meeting or rally in the last national election?,,,,,✓,
+q35,35 Did you attend a campaign meeting or rally in the last national election?,,,,,,✓
+q36,Have you been a victim of break-in at your home?,,✓,,,,
+q36,q36. Did you do anything else to help out or work for a party or candidate running in the election?,,,✓,,,
+q36,36. Try to persudae others to vote for a certain candidate or party?,,,,✓,✓,
+q36,36 Try to persuade others to vote for a certain candidate or party?,,,,,,✓
+q37,Have you been a victim of physical violence?,,✓,,,,
+q37,"q37. On the whole, how free and fair would you say the last national election was? (NEW)",,,✓,,,
+q37,37. Did you do anything else to help out or work for a party or candidate running in the last national election?,,,,✓,✓,
+q37,37 Did you do anything else to help out or work for a party or candidate running in the last national election?,,,,,,✓
+q38,Have you voted in the last election?,,✓,,,,
+q38,"q38. Based on your experience, how easy or difficult is it to obtain the following services?  Or have you never tried to get these services from government?  An identity document (such as a birth certificate or passport)",,,✓,,,
+q38,"38.On the whole, how free and fair would you say the last national election was?",,,,✓,,
+q38,"38 On the whole, how free and fair would you say the last national election was?",,,,,✓,✓
+q39,Which parties (or candidates for president if it was presidential race) did you vote for?,,✓,,,,
+q39,q39. A place in a public primary school for a child,,,✓,,,
+q39,39. How easy or difficult to obtain an identity document service,,,,✓,,
+q39,39 How easy or difficult to obtain roads in good condition,,,,,✓,
+q39,39 How easy or difficult to obtain the roads in good condition,,,,,,✓
+q39a,If the respondent voted for the winning camp or loosing camp?,,✓,,,,
+q4,"As for your own family, how do you rate your economic situation today?",,✓,,,,
+q4,"q4. As for your own family, how do you rate the economic situation of your family today?  Is it …",,,✓,,,
+q4,"4. As for your own family, how do you rate the economic situation of your family today?",,,,✓,✓,
+q4,"4 As for your own family, how do you rate the economic situation of your family today?",,,,,,✓
+q40,Attend a campaign meeting or rally,,✓,,,,
+q40,q40. Medical treatment at a nearby clinic,,,✓,,,
+q40,40. How easy or difficult to obtain a place in a public primirary school for a child,,,,✓,,
+q40,40 How easy or difficult to obtain running water,,,,,✓,✓
+q41,Try to persuade others to vote for a certain candidate or party,,✓,,,,
+q41,q41. Help from the police when you need it,,,✓,,,
+q41,41. How easy or difficult to obtain medical treatment at nearby clinic,,,,✓,,
+q41,41 How easy or difficult to obtain public transportation,,,,,✓,✓
+q42,Did you do anything else to help out or work for a party or candidate running in the election,,✓,,,,
+q42,"q42. Generally speaking, how safe is living in this city/ town/ village - very safe, safe, unsafe or very unsafe?",,,✓,,,
+q42,42. How easy or difficult to obtain help from the police when you need it,,,,✓,,
+q42,42 How easy or difficult to obtain healthcare,,,,,✓,✓
+q43,"On the whole, how would you rate the freeness and fairness of the last national election?",,✓,,,,
+q43,q43. How interested would you say you are in politics?,,,✓,,,
+q43,43. How safe is living in this city/ town/ village,,,,✓,,
+q43,43 How easy or difficult to obtain help from the pollice when you need it,,,,,✓,
+q43,43 How easy or difficult to obtain help from the police when you need it,,,,,,✓
+q44,How easy is it to obtain: An identity document,,✓,,,,
+q44,q44. How often do you follow news about politics and government?,,,✓,,,
+q44,44. How interested would you say you are in politics?,,,,✓,,
+q44,44 How easy or difficult to obtain access to the internet,,,,,✓,
+q44,44 How easy or difficult to obtain access to the Internet,,,,,,✓
+q45,How easy is it to obtain: A place in public primary school for a child,,✓,,,,
+q45,q45. How often do you use the internet?,,,✓,,,
+q45,45. How often do you follow news about politics and government?,,,,✓,,
+q45,"45 Generally speaking, how safe is living in this city/town/village?",,,,,✓,
+q45,45 How easy or difficult to obtain childcare,,,,,,✓
+q46,How easy is it to obtain: Medical treatment at a nearby clinic,,✓,,,,
+q46,"q46. When you get together with your family members or friends, how often do you discuss political matters?",,,✓,,,
+q46,"46. When you get together with your family members or friends, how often do you discuss political matters",,,,✓,,
+q46,46 How interested would you say you are in politics?,,,,,✓,
+q46,"46 Generally speaking, how safe is living in this city/town/village?",,,,,,✓
+q47,How easy is it to obtain: Help from the police when you need it,,✓,,,,
+q47,"q47. Among the political parties listed here, which party if any do you feel closest to?",,,✓,,,
+q47,47. Do you have Internet access at home?,,,,✓,,
+q47,47 How often do you follow news about politics and government?,,,,,✓,
+q47,47 How interested would you say you are in politics?,,,,,,✓
+q48,How would you describe the present political situation in our country,,✓,,,,
+q48,"q48. How close do you feel to (answer in Q47)? Is it very close, somewhat close, or just a little close?",,,✓,,,
+q48,48. Do you have Internet access on a mobile phone?,,,,✓,,
+q48,"48 When you get together with your family members or friends, how often do you discuss political matters?",,,,,✓,
+q48,48 How often do you follow news about politics and government?,,,,,,✓
+q49,How interested would you say you are in politics,,✓,,,,
+q49,"q49. Please tell me how you feel about the following statements. Would you say you strongly agree, somewhat agree, somewhat disagree, or strongly disagree? Most people are trustworthy?",,,✓,,,
+q49,49. How often do you use the internet?,,,,✓,,
+q49,"49 How often do you use the internet, either through computer, tablet or smartphone?",,,,,✓,
+q49,"49 When you get together with your family members or friends, how often do you discuss political matters?",,,,,,✓
+q5,How would you compare the current economic condition of your family with what it was a few years ago?,,✓,,,,
+q5,q5. How would you compare the current economic condition of your family with what it was a few years ago? Is it …,,,✓,,,
+q5,5. How would you compare the current economic condition of your family with what it was a few years ago?,,,,✓,✓,
+q5,5 How would you compare the current economic condition of your family with what it was a few years ago?,,,,,,✓
+q50,How often do you follow news about politics and government,,✓,,,,
+q50,"q50. For the sake of the family, the individual should put his personal interests second",,,✓,,,
+q50,50. Do you currently use any of the following social media networks?,,,,✓,,
+q50,"50 Do you currently use any of the following social media networks?(E.g. facebook, twitter, telegram, whatsapp, youtube, tumblr, instagram, snapchat, etc.)",,,,,✓,
+q50,"50 How often do you use the internet, either through computer, tablet or smartphone?",,,,,,✓
+q51,"q51. In a group, we should sacrifice our individual interest for the sake of the group's collective interest.",,,✓,,,
+q51,51. How often do you use the Internet or social media networks to find information about politics and government?,,,,✓,,
+q51_1,Main source of information. Question 51.01 Television,,✓,,,,
+q51_2,Question 51.02 Newspaper,,✓,,,,
+q51_3,Question 51.03 Radio,,✓,,,,
+q51_4,Question 51.04 Internet,,✓,,,,
+q51_5,Question 51.05 Cell phone short message (SMS),,✓,,,,
+q51_6,Question 51.06 Personal contact,,✓,,,,
+q51_7,Question 51.07 Other,,✓,,,,
+q51_8,Magazine,,✓,,,,
+q51a,From Q51 Which is most important,,✓,,,,
+q51a,51a You use social media primarily to connect with other people,,,,,✓,
+q51a_Facebook,51a Which social media and text messaging services do you actively use? Facebook,,,,,,✓
+q51b,51b You use social media primarily to expresss my opinion on political issues,,,,,✓,
+q51b_Twitter,51b Twitter,,,,,,✓
+q51c,51c You use social media primarily to share news or information,,,,,✓,
+q51c_Instagram,51c Instagram,,,,,,✓
+q51d,51d You use social media primarily for work,,,,,✓,
+q51d_Youtube,51d Youtube,,,,,,✓
+q51e_Tiktok,51e Tiktok,,,,,,✓
+q51f_Messenger,q51f Messenger,,,,,,✓
+q51g_Telegram,q51g Telegram,,,,,,✓
+q51h_Line,q51h Line,,,,,,✓
+q51i_Whatsapp,q51i Whatsapp,,,,,,✓
+q51j_Snapchat,q51j Snapchat,,,,,,✓
+q51k_Vchat,q51k Vchat,,,,,,✓
+q51l_Tumblr,q51l Tumblr,,,,,,✓
+q52,"When you get together with your family members or friends, how often do you discuss political matters?",,✓,,,,
+q52,"q52. For the sake of national interest, individual interest could be sacrificed.",,,✓,,,
+q52,52. How often do you use the Internet or social media networks to express your opinion about politics and government?,,,,✓,,
+q52,52 Which one is the most important channel for you to find information about politics and government?,,,,,✓,
+q52a,52a How often do you use social media to talk to or to connect with other people?,,,,,,✓
+q52b,52b How often do you use social media to express my opinion on political issues?,,,,,,✓
+q52c,52c How often do you use social media to share news or information?,,,,,,✓
+q52d,52d How often do you use social media to organize to influence politics?,,,,,,✓
+q53,How much impact do you feel government politics have on your daily life?,,✓,,,,
+q53,"q53. When dealing with others, developing a long-term relationship is more important than securing one's immediate interest.",,,✓,,,
+q53,"53.Among the political parties listed here, which party if any do you feel closest to?",,,,✓,,
+q53,53 How much trust do you have in each of the following types of media?Television,,,,,✓,
+q53,53 Which one is the most important channel for you to find information about politics and government?,,,,,,✓
+q53other,53. Other specify responses,,,,,,✓
+q54,"Among the political parties listed here, which party if any do you feel closest to?",,✓,,,,
+q54,"q54. When dealing with others, one should not only focus on immediate interest but also plan for future.",,,✓,,,
+q54,54. How close do you feel to (answer in q53)?,,,,✓,,
+q54,54 How much trust do you have in each of the following types of media?Newspaper,,,,,✓,
+q54,"54 Among the political parties listed here, which party if any do you feel closest to?",,,,,,✓
+q54other,54. Other specify responses,,,,,,✓
+q55,How close do you feel to the party(answer in Q54)?,,✓,,,,
+q55,"q55. Even if parents' demands are unreasonable, children still should do what they ask.",,,✓,,,
+q55,"55 For the sake of the family, the individual should put his personal interests second.",,,,✓,,
+q55,55 How much trust do you have in each of the following types of media? News on the internet,,,,,✓,
+q55,"55 How close do you feel to (answer in Q54)? Is it very close, somewhat close, or just a little close?",,,,,,✓
+q56,"Even if parents' demands are unreasonable, children still should do what they ask",,✓,,,,
+q56,"q56. When a mother-in-law and a daughter-in-law come into conflict, even if the mother-in-law is in the wrong, the husband should still persuade his wife to obey his mother.",,,✓,,,
+q56,"56. In a group, we should sacrifice our individual interest for the sake of the group's collective interest.",,,,✓,,
+q56,"56 Among the political parties listed here, which party if any do you feel closest to?",,,,,✓,
+q56,"56 For the sake of the family, the individual should put his personal interests second.",,,,,,✓
+q57,"Being a student, one should not question the authority of their teacher",,✓,,,,
+q57,"q57. Being a student, one should not question the authority of their teacher.",,,✓,,,
+q57,"57. For the sake of national interest, individual interest could be sacrificed.",,,,✓,,
+q57,"57 How close do you feel to (answer in Q56)? Is it very close, somewhat close, or just a little close?",,,,,✓,
+q57,"57 In a group, we should sacrifice our individual interest for the sake of the group's collective interest.",,,,,,✓
+q58,"When one has conflict with a neighbor, the best way to deal with it is to accommodate the other person",,✓,,,,
+q58,"q58. In a group, we should avoid open quarrel to preserve the harmony of the group",,,✓,,,
+q58,"58. When dealing with others, developing a long-term relationship is more important than securing one's immediate interest.",,,,✓,,
+q58,"58 For the sake of the family, the individual should put his personal interests second.",,,,,✓,
+q58,"58 For the sake of national interest, individual interest could be sacrificed.",,,,,,✓
+q59,A person should not insist on his own opinion if his co-workers disagree with him,,✓,,,,
+q59,"q59. Even if there is some disagreement with others, one should avoid the conflict",,,✓,,,
+q59,"59. When dealing with others, one should not only focus on immediate interest but also plan for future.",,,,✓,,
+q59,"59 In a group, we should sacrifice our individual interest for the sake of the groups collective interest.",,,,,✓,
+q59,"59 When dealing with others, developing a long-term relationship is more important than securing one's immediate interest.",,,,,,✓
+q6,What do you think the economic situation of your family will be a few years from now?,,✓,,,,
+q6,q6. What do you think the economic situation of your family will be a few years from now? Will it be …,,,✓,,,
+q6,6. What do you think the economic situation of your family will be a few years from now?,,,,✓,✓,
+q6,6 What do you think the economic situation of your family will be a few years from now?,,,,,,✓
+q60,"For the sake of the family, the individual should put his personal interests second",,✓,,,,
+q60,q60. A person should not insist on his own opinion if his co-workers disagree with him,,,✓,,,
+q60,"60. Even if parents' demands are unreasonable, children still should do what they ask.",,,,✓,,
+q60,"60 For the sake of national interest, individual interest could be sacrificed.",,,,,✓,
+q60,"60 Even if parents' demands are unreasonable, children still should do what they ask.",,,,,,✓
+q61,Sometimes one has to follow one's own beliefs regardless of what other people think,,✓,,,,
+q61,"q61. Wealth and poverty, success and failure are all determined by fate.",,,✓,,,
+q61,"61. When a mother-in-law and a daughter-in-law come into conflict, even if the mother-in-law is in the wrong, the husband should still persuade his wife to obey his mother.",,,,✓,,
+q61,"61 When dealing with others, developing a long-term relationship is more important than securing one's immediate interest.",,,,,✓,
+q61,"61 When a mother-in-law and a daughter-in-law come into conflict, even if the mother-in-law is in the wrong, the husband should still persuade his wife to obey his mother.",,,,,,✓
+q62,"When dealing with others, securing one's immediate interests should be more important than developing a long-term",,✓,,,,
+q62,"q62. If one could have only one child, it is more preferable to have a boy than a girl.",,,✓,,,
+q62,"62. Being a student, one should not question the authority of their teacher.",,,,✓,,
+q62,"62 Even if parents' demands are unreasonable, children still should do what they ask.",,,,,✓,
+q62,"62 Being a student, one should not question the authority of their teacher.",,,,,,✓
+q63,Open quarrels (criticisms) among politicians are harmful to society,,✓,,,,
+q63,"q63. When dealing with others, one should not be preoccupied with temporary gains and losses.",,,✓,,,
+q63,"63. In a group, we should avoid open quarrel to preserve the harmony of the group.",,,,✓,,
+q63,"63 When a mother-in-law and a daughter-in-law come into conflict, even if the mother-in-law is in the wrong, the husband should still persuade his wife to obey his mother.",,,,,✓,
+q63,"63 In a group, we should avoid open quarrel to preserve the harmony of the group.",,,,,,✓
+q64,The relationship between the government and the people should be like that between parents and children,,✓,,,,
+q64,"q64. In the past three (3) years, have you never, once, or more than once done the following because of personal, family, or neighborhood problems, or problems with government officials and policies?Contacted elected officials or legislative representativ",,,✓,,,
+q64,"64. Even if there is some disagreement with others, one should avoid the conflict.",,,,✓,,
+q64,"64 Being a student, one should not question the authority of their teacher.",,,,,✓,
+q64,"64 Even if there is some disagreement with others, one should avoid the conflict.",,,,,,✓
+q65,People should always support the decisions of their government even if they disagree with them,,✓,,,,
+q65,q65. Contacted officials at higher level.,,,✓,,,
+q65,65. A person should not insist on his own opinion if his co-workers disagree with him.,,,,✓,,
+q65,"65 In a group, we should avoid open quarrel to preserve the harmony of the group.",,,,,✓,
+q65,65 A person should not insist on his own opinion if his co-workers disagree with him.,,,,,,✓
+q66,How often do you use the internet?,,✓,,,,
+q66,q66. Contacted traditional leaders/community leaders.,,,✓,,,
+q66,"66. Wealth and poverty, success and failure are all determined by fate.",,,,✓,,
+q66,"66 Even if there is some disagreement with others, one should avoid the conflict.",,,,,✓,
+q66,"66 Wealth and poverty, success and failure are all determined by fate.",,,,,,✓
+q67,How closely do you follow major events in foreign countries/the world?,,✓,,,,
+q67,q67. Contacted other influential people outside the government,,,✓,,,
+q67,"67. If one could have only one child, it is more preferable to have a boy than a girl.",,,,✓,,
+q67,67 A person should not insist on his own opinion if his co-workers disagree with him.,,,,,✓,
+q67,"67 If one could have only one child, it is more preferable to have a boy than a girl.",,,,,,✓
+q68,"Have you traveled abroad before? If you have, how often do you travel abroad?",,✓,,,,
+q68,q68. Contacted news media,,,✓,,,
+q68,"68. When dealing with others, one should not be preoccupied with temporary gains and losses.",,,,✓,,
+q68,"68 Wealth and poverty, success and failure are all determined by fate.",,,,,✓,
+q68,"68 In the past three years, have you ever contacted elected officials or legislative representatives at any level?",,,,,,✓
+q69,How often do you have personal contact with foreigners?,,✓,,,,
+q69,"q69. Here is a list of actions that people sometimes take as citizens. For each of these, please tell me whether you, personally, have never, once, or more than once done any of these things during the past three years.   Got together with others to try t",,,✓,,,
+q69,"69 In the past three years, have you ever contacted elected officials or legislative representatives at any level-3 categories",,,,✓,,
+q69,"69 If one could have only one child, it is more preferable to have a boy than a girl.",,,,,✓,
+q69,69  Contacted civil servants or officials,,,,,,✓
+q69a,"69a In the past three years, have you ever contacted elected officials or legislative representatives at any level-4 categories",,,,✓,,
+q7,Trust in Prime Minister or president,,✓,,,,
+q7,"q7. I'm going to name a number of institutions. For each one, please tell me how much trust do you have in them? The president",,,✓,,,
+q7,7 Trust in the excutive office (president or prime minister),,,,✓,✓,✓
+q70,We should give up gains in the present for the possibility of larger gains in the future,,✓,,,,
+q70,q70. Got together with others to raise an issue or sign a petition,,,✓,,,
+q70,70  Contacted officials at higher level-3 categories.,,,,✓,,
+q70,"70 In the past three years, have you ever contacted elected officials or legislative representatives at any level",,,,,✓,
+q70,"70  Contacted other influential people outside the government, such as traditional leaders/community leaders",,,,,,✓
+q70a,70a  Contacted officials at higher level--4 categories.,,,,✓,,
+q71,Conflict among political groups is not a bad thing for our country,,✓,,,,
+q71,q71. Attended a demonstration or protest march,,,✓,,,
+q71,71 Contacted traditional leaders/community leaders-3 categories,,,,✓,,
+q71,71 Contacted civil servants or officials,,,,,✓,
+q71,71  Contacted news media,,,,,,✓
+q71a,71a Contacted traditional leaders/community leaders-4 categories,,,,✓,,
+q72,"If a government policy serves the interests of the majority of people, I should support it",,✓,,,,
+q72,q72. Used force or violence for a political cause,,,✓,,,
+q72,72  Contacted other influential people outside the government-3 categories.,,,,✓,,
+q72,"72 Contacted other influential people outside the government, such as traditional leaders/community leaders.",,,,,✓,
+q72,72  Signed a paper or online petition?,,,,,,✓
+q72a,72a  Contacted other influential people outside the government-4 categories.,,,,✓,,
+q73,The best way to deal with complicated political issues should be to leave them to the future,,✓,,,,
+q73,"q73. Thinking of whether you voted or not ever since you became eligible for voting, how would you describe yourself -have you voted in every election, voted in most elections, voted in some elections or hardly ever voted?",,,✓,,,
+q73,73  Contacted news media-3 categories,,,,✓,,
+q73,73 Contacted news media,,,,,✓,
+q73,73  Used the Internet including Social Media Networks to express opinions about politics,,,,,,✓
+q73a,73a  Contacted news media-4 categories,,,,✓,,
+q74,Political reform should be introduced little-by-little instead of all-at-once,,✓,,,,
+q74,"q74. Let's talk for a moment about the kind of government you would like to have in this country, which of the followings statements do you agree with most? Choose the first or the second statement. [Interviewer: Probe whether respondent strongly agrees o",,,✓,,,
+q74,74 Whether you personally have ever got together with others to try to resolve local problems-3 categories,,,,✓,,
+q74,74 Signed a paper petition,,,,,✓,
+q74,74  Joined a group to activiely support a cause [including online],,,,,,✓
+q74a,q74a. Do you strongly agree or just agree with the chosen statement?,,,✓,,,
+q74a,74a Whether you personally have ever got together with others to try to resolve local problems-4 categories,,,,✓,,
+q75,Cruel criminals should be punished immediately without regard to time-consuming legal processes,,✓,,,,
+q75,"q75. Let's talk for a moment about the kind of government you would like to have in this country, which of the followings statements do you agree with most? Choose the first or the second statement. [Interviewer: Probe whether respondent strongly agrees o",,,✓,,,
+q75,75 Got together with others to raise an issue or sign a petition-3 categories,,,,✓,,
+q75,75 Signed an online petition,,,,,✓,
+q75,75  Got together with others face-to face to try to resolve local problems,,,,,,✓
+q75a,q75a. Do you strongly agree or just agree with the chosen statement?,,,✓,,,
+q75a,75a Got together with others to raise an issue or sign a petition-4 categories,,,,✓,,
+q76,"For the sake of the national community/society, the individual should be prepared to sacrifice",,✓,,,,
+q76,"q76. Let's talk for a moment about the kind of government you would like to have in this country, which of the followings statements do you agree with most? Choose the first or the second statement. [Interviewer: Probe whether respondent strongly agrees o",,,✓,,,
+q76,76 Attended a demonstration or protest march-3 categories,,,,✓,,
+q76,76 Used the internet including social media networks to express opinions about politics and government,,,,,✓,
+q76,76  Attended a demonstration or protest march,,,,,,✓
+q76a,q76a. Do you strongly agree or just agree with the chosen statement?,,,✓,,,
+q76a,76a Attended a demonstration or protest march-4 categories,,,,✓,,
+q77,The most important thing for political leaders is to accomplish their goals even if they have to ignore the established procedure,,✓,,,,
+q77,"q77. Let's talk for a moment about the kind of government you would like to have in this country, which of the followings statements do you agree with most? Choose the first or the second statement. [Interviewer: Probe whether respondent strongly agrees o",,,✓,,,
+q77,77 Used force or violence for a political cause-3 categories,,,,✓,,
+q77,77 Joined a group to actively support a cause(including online),,,,,✓,
+q77,77  Taken an action or done something for a political cause that put you in risk of getting injured,,,,,,✓
+q77a,q77a. Do you strongly agree or just agree with the chosen statement?,,,✓,,,
+q77a,77a Used force or violence for a political cause-4 categories,,,,✓,,
+q78,"If possible, I don't want to get involved in political matters",,✓,,,,
+q78,"q78. Let's talk for a moment about the kind of government you would like to have in this country, which of the followings statements do you agree with most? Choose the first or the second statement. [Interviewer: Probe whether respondent strongly agrees o",,,✓,,,
+q78,"78 Thinking of whether you voted or not ever since you became eligible for voting, how would you describe yourself?",,,,✓,,
+q78,78 Got together with others face-to-face to try to resolve local problems,,,,,✓,
+q78,"78 Thinking of whether you voted or not ever since you became eligible for voting, how would you describe yourself-have you voted in every election, voted in most elections, voted in some elections or hardly ever voted?",,,,,,✓
+q78a,q78a. Do you strongly agree or just agree with the chosen statement?,,,✓,,,
+q79,Contacted government (administrative) official,,✓,,,,
+q79,"q79. Let's talk for a moment about the kind of government you would like to have in this country, which of the followings statements do you agree with most? Choose the first or the second statement. [Interviewer: Probe whether respondent strongly agrees o",,,✓,,,
+q79,79. Which of the following statements do you agree with most?,,,,✓,,
+q79,79 Attended a demonstration or protest march,,,,,✓,
+q79,"79 In recent years and thinking about election campaigns, has a candidate or someone from a political party or campaign team offered you something, like food, cash, a gift, or a job in return for your vote or support?",,,,,,✓
+q79a,q79a. Do you strongly agree or just agree with the chosen statement?,,,✓,,,
+q79a,79a. Do you strongly agree or just agree with the chosen statement?,,,,✓,,
+q8,Trust in the Courts,,✓,,,,
+q8,q8. The courts,,,✓,,,
+q8,8 The courts,,,,✓,✓,✓
+q80,Contacted officials at higher level,,✓,,,,
+q80,"q80. Over the long run, our system of government is capable of solving the problems our country faces.",,,✓,,,
+q80,80. which of the following statements do you agree with most?,,,,✓,,
+q80,80 Taken an action or done something for a political cause that put you in a risk of getting injured,,,,,✓,
+q80,"80  Over the long run, our system of government is capable of solving the problems our country faces.",,,,,,✓
+q80a,80a. Do you strongly agree or just agree with the chosen statement?,,,,✓,,
+q81,Contacted elected officials or legislative representatives at any level,,✓,,,,
+q81,"q81. Thinking in general, I am proud of our system of government.",,,✓,,,
+q81,81. which of the following statements do you agree with most?,,,,✓,,
+q81,"81 Thinking of whether you voted or not ever since you became eligible for voting, how would you describe yourself-have you voted in every election, voted in most elections, voted in some elections or hardly ever voted?",,,,,✓,
+q81,"81  Thinking in general, I am proud of our system of government.",,,,,,✓
+q81a,81a. Do you strongly agree or just agree with the chosen statement?,,,,✓,,
+q82,Contacted officials of political parties or other political organizations,,✓,,,,
+q82,"q82. A system like ours, even if it runs into problems, deserves the people's support.",,,✓,,,
+q82,82. which of the following statements do you agree with most?,,,,✓,,
+q82,82 which of the following statements do you agree with most?government leaders vs.their citizens,,,,,✓,
+q82,"82  A system like ours, even if it runs into problems, deserves the people's support.",,,,,,✓
+q82a,82a. Do you strongly agree or just agree with the chosen statement?,,,,✓,,
+q82a,82a Do you strongly agree or just agree with the chosen statement?,,,,,✓,
+q83,Contacted representative of non-government/civil society organizations,,✓,,,,
+q83,q83. I would rather live under our system of government than any other that I can think of.,,,✓,,,
+q83,"83. Over the long run, our system of government is capable of solving the problems our country faces",,,,✓,,
+q83,83 Which of the following statements do you agree with most? the problem of accountability,,,,,✓,
+q83,83  I would rather live under our system of government than any other that I can think of.,,,,,,✓
+q83a,83a Do you strongly agree or just agree with the chosen statement?,,,,,✓,
+q84,Contacted traditional leaders/community leaders (IN: Mass media; TW/HK: Acquaintances in the government),,✓,,,,
+q84,"q84. Compared with other systems in the world, would you say our system of government works fine as it is, needs minor change, needs major change, or should be replaced?",,,✓,,,
+q84,"84. Thinking in general, I am proud of our system of government",,,,✓,,
+q84,84 Which of the following statements do you agree with most? freedom of the press,,,,,✓,
+q84,"84 Would you say our system of government works fine as it is, needs minor change, needs major change, or should be replaced?",,,,,,✓
+q84a,84a Do you strongly agree or just agree with the chosen statement?,,,,,✓,
+q85,Contacted other influential people,,✓,,,,
+q85,"q85. Many things may be desirable, but not all of them are essential characteristics of democracy. If you have to choose only one from each four sets of statements that I am going to read, which one would you choose as the most essential characteristics o",,,✓,,,
+q85,"85 A system like ours, even if it runs into problems, deserves the people's support",,,,✓,,
+q85,85 Which of the following statements do you agree with most? political leader,,,,,✓,
+q85,85 Which one would you choose as the most essential characteristics of a democracy: Set 1?,,,,,,✓
+q85a,85a Do you strongly agree or just agree with the chosen statement?,,,,,✓,
+q86,Refused to pay taxes or fees to the government,,✓,,,,
+q86,"q86. If you have to choose only one from each four sets of statements that I am going to read, which one would you choose as the most essential characteristics of a democracy?",,,✓,,,
+q86,86. I would rather live under our system of government than any other that I can think of,,,,✓,,
+q86,"86 Over the long run, our system of government is capable of solving the problems our country face",,,,,✓,
+q86,86 Which one would you choose as the most essential characteristics of a democracy: Set 2?,,,,,,✓
+q87,Got together with others to raise an issue or sign a petition,,✓,,,,
+q87,"q87. If you have to choose only one from each four sets of statements that I am going to read, which one would you choose as the most essential characteristics of a democracy?",,,✓,,,
+q87,"87. would you say our system of government works fine as it is, needs minor change, needs major change, or should be replaced?",,,,✓,,
+q87,"87 Thinking in general, I am proud of our system of government",,,,,✓,
+q87,87 Which one would you choose as the most essential characteristics of a democracy: Set 3?,,,,,,✓
+q88,Attended a demonstration or protest march,,✓,,,,
+q88,"q88. If you have to choose only one from each four sets of statements that I am going to read, which one would you choose as the most essential characteristics of a democracy?",,,✓,,,
+q88,88  which one would you choose as the most essential characteristics of a democracy?,,,,✓,,
+q88,"88 A system like ours, even if it runs into problems, deserves the people's support",,,,,✓,
+q88,88 Which one would you choose as the most essential characteristics of a democracy: Set 4?,,,,,,✓
+q89,Used force or violence for a political cause,,✓,,,,
+q89,"q89. On the whole, how satisfied or dissatisfied are you with the way democracy works in [Country].  Are you …?",,,✓,,,
+q89,89. which one would you choose as the most essential characteristics of a democracy?,,,,✓,,
+q89,89 I would rather live under our system of government than any other that I can think of.,,,,,✓,
+q89,"89 To you, what does “democracy” mean? (open-ended) <optional>",,,,,,✓
+q9,Trust in the national government,,✓,,,,
+q9,q9. The national government [in capital city],,,✓,,,
+q9,9 National government in the capital city,,,,✓,✓,✓
+q90,"Thinking of whether you voted or not ever since you became eligible for voting, how would you describe yourself-have you voted",,✓,,,,
+q90,q90. In your opinion how much of a democracy is [Country Name] ?,,,✓,,,
+q90,90. which one would you choose as the most essential characteristics of a democracy?,,,,✓,,
+q90,"90 Would you say our system of government works fine as it is, needs minor change, needs major change, or should be replaced?",,,,,✓,
+q90,"90 On the whole, how satisfied or dissatisfied are you with the way democracy works in the country?",,,,,,✓
+q91,q91. Here is a scale: 1 means completely undemocratic and 10 means completely democratic. Where would you place our country under the present government?,,,✓,,,
+q91,91. which one would you choose as the most essential characteristics of a democracy?,,,,✓,,
+q91,91 The courts protects the ordinary people from the abuse of government power,,,,,✓,
+q91,91 In your opinion how much of a democracy is our country?,,,,,,✓
+q91_1,"To you, what does ""democracy"" mean?  What else?",,✓,,,,
+q91_2,Second Response,,✓,,,,
+q91_3,Third Response,,✓,,,,
+q92,People often differ in their views on the characteristic that is essential to democracy. If you have to choose only one of the things,,✓,,,,
+q92,q92. Where would you place our country ten years ago?,,,✓,,,
+q92,"92 On the whole, how satisfied or dissatisfied are you with the way democracy works in the country?",,,,✓,,
+q92,92 Politics is clean and free of corruption,,,,,✓,
+q92,92 Where would you place our country under the present government?,,,,,,✓
+q93,"On the whole, how satisfied or dissatisfied are you with the way democracy works in [country]?",,✓,,,,
+q93,q93. Where would you want our country to be in the future?,,,✓,,,
+q93,93. In your opinion how much of a democracy is the country?,,,,✓,,
+q93,93 People have the freedom to take part in protests and demonstrations,,,,,✓,
+q93,93 Where would you place our country ten years ago?,,,,,,✓
+q94,In your opinion how much of a democracy is [country]?,,✓,,,,
+q94,"q94. Here is a similar scale of 1 to 10 measuring the extent to which people think democracy is suitable for our country. If ""1"" means that democracy is completely unsuitable for [name of country] today and ""10"" means that it is completely suitable, where",,,✓,,,
+q94,94 Where would you place our country under the present government?,,,,✓,,
+q94,"94 When making laws, the government seek advice from religious authorities",,,,,✓,
+q94,94 Where would you expect our country to be ten years from now?,,,,,,✓
+q95,Where would you place our country during the period of [the name of the most recent government under authoritarian rule]?,,✓,,,,
+q95,"q95. How satisfied or dissatisfied are you with the [name of president, etc. ruling current] government?  Are you …?",,,✓,,,
+q95,95 Where would you place our country ten years ago?,,,,✓,,
+q95,95 Political leaders rule by following their own wisdom rathan than people's preferences to ensure a society's collective welfare,,,,,✓,
+q95,95 Where would you place our country today? Democracy is suitable or not,,,,,,✓
+q96,Where would you place our country under the present government?,,✓,,,,
+q96,"q96. In your opinion, what are the most important problems facing this country that government should address?",,,✓,,,
+q96,96 Where would you expect our country to be ten years from now?,,,,✓,,
+q96,96 Rule by one party that represents the interests of all classes,,,,,✓,
+q96,96 How satisfied or dissatisfied are you with the current president/government?,,,,,,✓
+q97,To what extent would you want our country to be democratic now?,,✓,,,,
+q97,q97. How likely is it that the government will solve the most important problem you identified within the next five years? [Read out options],,,✓,,,
+q97,97 Whether you think democracy is suitable for our country,,,,✓,,
+q97,97 Qualified candidates are pre-selected by religious leaders,,,,,✓,
+q97,97 What are the most important problems facing this country that government should address? First,,,,,,✓
+q97a,97a What are the most important problems facing this country that government should address? Second,,,,,,✓
+q97aother,97a. Other specify responses,,,,,,✓
+q97b,97b What are the most important problems facing this country that government should address? Third,,,,,,✓
+q97bother,97b. Other specify responses,,,,,,✓
+q97other,97. Other specify responses,,,,,,✓
+q98,Which would you think democracy is suitable for our country?,,✓,,,,
+q98,"q98. Now I am going to read to you a list of statements that describe how people often feel about the state of affairs in [country name]. Please tell me whether you strongly agree, somewhat agree, somewhat disagree, or strongly disagree with each of these",,,✓,,,
+q98,98 How satisfied or dissatisfied are you with the current government?,,,,✓,,
+q98,"98 If you have to choose only one, which of the following you think is the most essential element of a democracy?",,,,,✓,
+q98,98 How likely is it that the government will solve the most important problem you identified within the next five years?,,,,,,✓
+q99,How satisfied or dissatisfied are you with the [name of present] government?,,✓,,,,
+q99,q99. Political parties or candidates in our country have equal access to the mass media during the election period.,,,✓,,,
+q99,99 What are the first most important problems facing this country? 1st,,,,✓,,
+q99,"99 On the whole, how satisfied or dissatisfied are you with the way democracy works in our country?",,,,,✓,
+q99,99 Citizens are able to remove a government they don't like through elections.,,,,,,✓
+q99a,99a. What are the second most important problems facing this country? 2nd,,,,✓,,
+q99b,99b. What are the third most important problems facing this country? 3rd,,,,✓,,
+region,Region,,,,✓,,
+relig1,Religion,✓,,,,,
+se002,gender,✓,,,,,
+se003,age group,✓,,,,,
+se003a,actual age,✓,,,,,
+se004,marital status,✓,,,,,
+se004a,Marital Status(Y/N),✓,,,,,
+se005,education,✓,,,,,
+se005a,education by year,✓,,,,,
+se005b,education(four categories),✓,,,,,
+se006,religion,✓,,,,,
+se007,relgiosity,✓,,,,,
+se008a,n of household members,✓,,,,,
+se008b,household generations,✓,,,,,
+se009,annual income: national quintiles,✓,,,,,
+se012a,Main Occupation,✓,,,,,
+se012bcn,OCCUPATION,✓,,,,,
+se012bhk,OCCUPATION(original),✓,,,,,
+se012bjp,main occupation(orginal),✓,,,,,
+se012bkr,Occupation(original),✓,,,,,
+se012bmo,employment,✓,,,,,
+se012bph,occupation (verbatim),✓,,,,,
+se012bth,Primary occupation of respondent,✓,,,,,
+se012btw,(Respondent has a job) What is respondent's current occupation?,✓,,,,,
+se014,language,✓,,,,,
+se016,ethnicity,✓,,,,,
+se017,subjective social status,✓,,,,,
+se10,SE10. Are you the main earner in your household?(Chief wage earner)<Optional>,,,✓,,,
+se10,se10.  Are you the main earner in your household?,,,,✓,,
+se10_1,SE10_1. Is the main earner in your household currently employed?,,,✓,,,
+se10_1,se10_1 Is the main earner in your household currently employed?,,,,✓,,
+se10a,SE 10.1 Car/Jeep/Van,,✓,,,,
+se10a,"SE10a. Is he or she currently self-employed (including business owners), working in a family business, or working for an outsid",,,✓,,,
+se10a,"se10a Is he or she curently self-employed, working in family business or working for an outside employer?",,,,✓,,
+se10b,SE 10.2 Tractor,,✓,,,,
+se10b,SE10b. How many people do his or her business employ?,,,✓,,,
+se10b,se10b How many people does his or her business employ?,,,,✓,,
+se10c,SE 10.3 Color or B/W Television,,✓,,,,
+se10c,SE10c. What is his or her job title and job description?<The code number of ISCO>,,,✓,,,
+se10c,se10c What is his/her job title (ISCO code),,,,✓,,
+se10c_2,se10c_2 What is his/her job title (EGP class),,,,✓,,
+se10c_3,se10c_3 Extended application. Elite vs. Mass,,,,✓,,
+se10c_4,se10c_4 Extended applicable. White vs. blue collar,,,,✓,,
+se10d,SE 10.4 Cable Television,,✓,,,,
+se10d,SE10d. Is he or she currently seeking employment?,,,✓,,,
+se10d,se10d Is he or she currently seeking employment?,,,,✓,,
+se10e,SE 10.5 Scooter/Motorcycle/Moped,,✓,,,,
+se10e,SE10e. What is his or her current status?,,,✓,,,
+se10e,se10e What is his or her current status?,,,,✓,,
+se10f,SE 10.6 Telephone,,✓,,,,
+se10g,SE 10.7 Mobile Phone,,✓,,,,
+se10h,SE 10.8 Electric Fan/Cooler,,✓,,,,
+se10i,SE 10.9 Bicycle,,✓,,,,
+se10j,SE 10.10 Radio/Transistor,,✓,,,,
+se10k,SE 10.11 Pumping Set,,✓,,,,
+se10l,SE 10.12 Fridge,,✓,,,,
+se10m,SE 10.13 Camera,,✓,,,,
+se10n,SE 10.14 Goats/Sheep,,✓,,,,
+se10o,SE 10.15 Cows/Buffalo,,✓,,,,
+se11,What language do you speak the most in the Home?,,✓,,,,
+se11,SE11. LANGUAGE: What language do you speak the most in the home?,,,✓,,,
+se11,se11 What language do you speak the most in the home?,,,,✓,,
+se11a,se11a What is your racial or ethnic background,,,,✓,,
+se12,SE12. SUBJECTIVE SOCIAL STATUS,,,✓,,,
+se12,se12 Where would you place your family on the following scale? -10 scales,,,,✓,,
+se12a,Main Occupation,,✓,,,,
+se12a,se12 Where would you place your family on the following scale? -5 scales,,,,✓,,
+se12b,Respondent is also the chief wage earner?,,✓,,,,
+se13,Subjective Social Status,,✓,,,,
+se13,SE13. HOUSEHOLD INCOME,,,✓,,,
+se13a,SE13a. Does the total income of your household allow you to satisfactorily cover your needs?,,,✓,,,
+se13a,se13a Where would you put yourself on this staircase?,,,,✓,,
+se13b,se13b Where would you put your parents on this staircase?,,,,✓,,
+se13c,se13c Where would you put your children on this staircase?,,,,✓,,
+se14,se14 Annual or monthly household income,,,,✓,,
+se14a,SE14a. Car/Jeep/Van,,,✓,,,
+se14a,se14a Does the total income of your household allow you to satisfactorily cover your needs?,,,,✓,,
+se14b,SE14b. Tractor,,,✓,,,
+se14c,SE14c. Television,,,✓,,,
+se14d,SE14d. Cable Television,,,✓,,,
+se14e,SE14e. Motorcycle,,,✓,,,
+se14f,SE14f. Telephone,,,✓,,,
+se14g,SE14g. Mobile Phone,,,✓,,,
+se14h,SE14h. Electric Fan,,,✓,,,
+se14i,SE14i. Bicycle,,,✓,,,
+se14j,SE14j. Radio,,,✓,,,
+se14k,SE14k. Pumping Set,,,✓,,,
+se14l,SE14l. Fridge,,,✓,,,
+se14m,SE14m. Camera,,,✓,,,
+se14n,SE14n. Goats/Sheep,,,✓,,,
+se14o,SE14o. Cow/Buffalo,,,✓,,,
+se15a,se15a Do your family own the following? Car/Jeep,,,,✓,,
+se15a_1,se15a_1 How many?,,,,✓,,
+se15a_1,Se15a_1 How many?,,,,,✓,
+se15b,se15b Tractor,,,,✓,,
+se15c,se15c Color or B/W television,,,,✓,,
+se15d,se15d Cable TV,,,,✓,,
+se15e,se15e Scooter/motorcycle/moped,,,,✓,,
+se15f,se15f Telephone,,,,✓,,
+se15g,se15g Mobile phone,,,,✓,,
+se15h,se15h Electric fan/cooler,,,,✓,,
+se15i,se15i Bicycle,,,,✓,,
+se15j,se15j Radio/transistor,,,,✓,,
+se15k,se15k pumping set,,,,✓,,
+se15l,se15l Fridge,,,,✓,,
+se15m,se15m Camera,,,,✓,,
+se15n,se15n Goats/sheep,,,,✓,,
+se15n_1,se15n_1 How many,,,,✓,,
+se15n_1,Se15n_1 How many?,,,,,✓,
+se15o,se15o Cows/Buffalo,,,,✓,,
+se15o_1,se15o_1 How many?,,,,✓,,
+se15o_1,Se15o_1 How many?,,,,,✓,
+se2,Gender,,✓,,,,
+se2,SE2. GENDER,,,✓,,,
+se2,se2 Gender,,,,✓,,
+se3,SE3. BIRTH YEAR,,,✓,,,
+se3_1,se3_1 Birth year,,,,✓,,
+se3_2,se3_2 Actual age,,,,✓,,
+se3a,Age,,✓,,,,
+se3a,SE3a.ACTUAL AGE,,,✓,,,
+se3a_1a,age group,,,✓,,,
+se4,Marital Status,,✓,,,,
+se4,SE4. MARITAL STATUS,,,✓,,,
+se4,se4 Marital Status,,,,✓,,
+se5,Education,,✓,,,,
+se5,SE5. EDUCATION,,,✓,,,
+se5,se5 Education,,,,✓,,
+se5a,Years of formal education,,✓,,,,
+se5a,SE5a. How many years of formal education you have received?,,,✓,,,
+se5a,se5a How many year of formal education have you received,,,,✓,,
+se6,Religion,,✓,,,,
+se6,SE6. RELIGION,,,✓,,,
+se6,se6 Religion,,,,✓,,
+se7,Religiosity,,✓,,,,
+se7,SE7. RELIGIOSITY: About how often do you practice religious services or rituals these days?,,,✓,,,
+se7,se7 Religiosity,,,,✓,,
+se7a,Would you describe yourself as very religious?,,✓,,,,
+se7a,"SE7a. Would you describe yourself as very religious, moderately religious, lightly religious, not religious at all?",,,✓,,,
+se7a,"se7a Would you describe yourself as very religious, moderately religious, lightly religious, not religious at all?",,,,✓,,
+se8a,How many people live in this household?,,✓,,,,
+se8a,SE8a. How many people live in this household?,,,✓,,,
+se8a,se8a How many people live in this household?,,,,✓,,
+se8b,How many generations of family members live in this household?,,✓,,,,
+se8b,SE8b. How many generations of family members live in this household?,,,✓,,,
+se8b,se8b How many generations of family members live in this household?,,,,✓,,
+se8c,"Actual count(INCLUDE servants, transients/boarders)",,,✓,,,
+se8c,"se8c INCLUDE servants, transients/boarders",,,,✓,,
+se8d,"Actual count(EXCLUDE servants, transients/boarders)",,,✓,,,
+se8d,"se8d EXCLUDE servants, transients/boarders",,,,✓,,
+se9,Monthly Household Income,,✓,,,,
+se9,SE9. Are you currently employed?(respondent),,,✓,,,
+se9,se9 Are you current employed?,,,,✓,,
+se9a,Does the total income of your household allow you to satisfactorily cover your needs?,,✓,,,,
+se9a,"SE9a. Are you currently self-employed (including business owners), working in a family business, or working for an outside emp",,,✓,,,
+se9a,"se9a Are you current self-employed, working in a family business or an outside employer?",,,,✓,,
+se9b,SE9b. How many people does your business employ?,,,✓,,,
+se9b,se9b How many people does your business employ?,,,,✓,,
+se9c,SE9c. What is your job title and job description?<The code number of ISCO>,,,✓,,,
+se9c,se9c What is your job title (ISCO code),,,,✓,,
+se9c_2,se9c_2 What is your job title (EGP class),,,,✓,,
+se9c_3,se9c_3 Extended application. Elite vs. Mass,,,,✓,,
+se9c_4,se9c_4 Extended applicable. White vs. blue collar,,,,✓,,
+se9d,SE9d. Are you currently seeking employment?,,,✓,,,
+se9d,se9d Are you currently seeking employment?,,,,✓,,
+se9e,SE9e. What is your current status?,,,✓,,,
+se9e,se9e What is your current status?,,,,✓,,
+w,Individual country weight,,,,✓,,
+w,Weight factor,,,,,✓,
+w_all,NA,✓,✓,,,,
+w_cn,NA,✓,,,,,
+w_cross,cross 'Cross-country weight',,,,✓,,
+w_hk,weight for age (recommended),✓,,,,,
+w_jp,weight,✓,,,,,
+w_kr,weight,✓,,,,,
+w_mo,"weight for sex, age, region",✓,,,,,
+w_ph,weight,✓,,,,,
+w_th,weight,✓,,,,,
+w_tw,weight,✓,,,,,
+year,Interview year,,,,✓,,
+yrsurvey,survey year,✓,,,,,

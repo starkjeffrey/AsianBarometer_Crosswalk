@@ -1,0 +1,799 @@
+variable,n_waves,waves_present,labels
+q100,6,"Wave1, Wave2, Wave3, Wave4, Wave5, Wave6","Where would you place our country under the present government? | In your opinion, what are the most important questions facing the country that government should address? | q100. Between elections, the people have no way of holding the government responsible for its actions. | 100. How likely is it that the government will solve the most important problem you identified within the next five years? | 100 In your opinion how much of a democracy is our country? | 100  In our country, parties and candidates not in power have opportunities to be elected into government."
+q101,6,"Wave1, Wave2, Wave3, Wave4, Wave5, Wave6","To what extent would you want our country to be democratic now? | Second Response | q101. When government leaders break the laws, there is nothing the court can do. | 101. People have the power to change a government they don't like | 101 Where would you place our country under the present government? | 101  Between elections, the people have no way of holding the government responsible for its actions."
+q102,6,"Wave1, Wave2, Wave3, Wave4, Wave5, Wave6","Where do you expect our country to be in five years? | Third Response | q102. Most citizens in our country don't make much effort to influence government decisions. | 102. Political parties or candidates in our country have equal access to the mass media during the election period. | 102 Where would you place our country ten years ago? | 102  When government leaders break the laws, there is nothing the court can do."
+q103,6,"Wave1, Wave2, Wave3, Wave4, Wave5, Wave6","Do you think democracy is suitable for our country? | People have the power to change a government they don't like | q103. All citizens from different ethnic communities in Country X are treated equally by the government. | 103. Between elections, the people have no way of holding the government responsible for its actions. | 103 Where would you expect our country to be ten years from now? | 103  All citizens from different ethnic communities in the [Country X] are treated equally by the government."
+q104,6,"Wave1, Wave2, Wave3, Wave4, Wave5, Wave6","How satisfied or dissatisfied are you with the current government? | Our current courts always punish the guilty even if they are high-ranking officials | q104. Rich and poor people are treated equally by the government. | 104. When government leaders break the laws, there is nothing the court can do. | 104 Where would you place our country today? Democracy is suitable or not | 104  Rich and poor people are treated equally by the government."
+q105,6,"Wave1, Wave2, Wave3, Wave4, Wave5, Wave6","Everyone is free to say what they think- is better than before? | Political parties or candidates in our country have equal access to the mass media during the election period | q105. People have basic necessities like food, clothes, and shelter. | 105. All citizens from different ethnic communities in the country are treated equally by the government. | 105 How satisfied or dissatisfied are you with the current president/government? | 105  People have basic necessities like food, clothes, and shelter."
+q106,6,"Wave1, Wave2, Wave3, Wave4, Wave5, Wave6","Everyone is treated equally by the government- is better than before? | Between elections, the people have no way of holding the government responsible for its actions | q106. People are free to speak what they think without fear. | 106 Rich and poor people are treated equally by the government | 106 What are the first most important problems facing this country that government should address(1st response)? | 106  People are free to speak what they think without fear."
+q107,6,"Wave1, Wave2, Wave3, Wave4, Wave5, Wave6","People like me can have an influence on government- is better than before? | When the government breaks the laws, there is nothing the legal system can do | q107. People can join any organization they like without fear. | 107. People have basic necessities like food, clothes, and shelter | 107 How likely is it that the government will solve the most important problem you identified within the next five years? | 107  People can join any organization they like without fear."
+q108,6,"Wave1, Wave2, Wave3, Wave4, Wave5, Wave6",Corruption in politics and government is under control- is better than before? | Everyone is treated equally by the government | q108. Do officials who commit crimes go unpunished? | 108. People are free to speak what they think without fear. | 108 Citizens are able to remove a government they don't like through elections | 108 How often do government officials withhold important information from the public?
+q109,6,"Wave1, Wave2, Wave3, Wave4, Wave5, Wave6","The gap between the rich and the poor have narrowed- is better than before? | People have basic necessities like food, clothes, and shelter | q109. How often do government officials withhold important information from the public view? | 109 People can join any organization they like without fear. | 109 In our country, parties and candidates not in power have opportunities to be elected into government | 109 How often do you think government leaders break the law or abuse their power?"
+q110,6,"Wave1, Wave2, Wave3, Wave4, Wave5, Wave6","Preventing crime and maintaining order- is better than before? | People are free to speak what they think without fear | q110. How often do you think government leaders break the law or abuse their power? | 110 Do officials who commit crimes go unpunished? | 110 Between elections, the people have no way of holding the government responsible for its actions | 110 How often do you think our elections offer the voters a real choice between different parties/candidates?"
+q111,6,"Wave1, Wave2, Wave3, Wave4, Wave5, Wave6","Economic development- is better than before? | People can join any organization the like without fear | q111.  How often do you think our elections offer the voters a real choice between different parties/candidates? | 111 How often do government officials withhold important information from the public view? | 111 When government leaders break the laws, there is nothing the court can do | 111 To what extent is the legislature capable of keeping government leaders in check?"
+q112,6,"Wave1, Wave2, Wave3, Wave4, Wave5, Wave6",Judges and courts are free from political interference- is better than before? | How often do government officials withhold important information from the public view? | q112. To what extent is the legislature capable of keeping government leaders in check? | 112 How often do you think government leaders break the law or abuse their power? | 112 All citizens from different ethnic communities in the country are treated equally by the government. | 112 How well do you think the government responds to what people want?
+q113,6,"Wave1, Wave2, Wave3, Wave4, Wave5, Wave6",You can join any organization you like- is better than before? | How often do national government officials abide by the law? (HK: Hong Kong government) | q113. How well do you think the government responds to what people want? | 113 How often do you think our elections offer the voters a real choice between different parties/candidates? | 113 Rich and poor people are treated equally by the government | 113 How much do you feel that having elections make the government more responsive to people's needs?
+q114,6,"Wave1, Wave2, Wave3, Wave4, Wave5, Wave6","How widespread corruption in your local/municipal government? | How often do your think our elections offer the voters a real choice between different parties/candidates? | q114. In your neighborhood or community, do people voice their interests and concerns in local affairs? | 114 To what extent is the legislature capable of keeping government leaders in check? | 114 People have basic necessities like food, clothes, and shelter | 114 How capable is the government of enforcing laws and implementing policies?"
+q115,6,"Wave1, Wave2, Wave3, Wave4, Wave5, Wave6",How widespread corruption in the national government? | To what extent is the legislature capable of keeping the government in check? | q115. How much do you feel that having elections makes the government pay attention to what the people think? | 115 How well do you think the government responds to what people want? | 115 People are free to speak what they think without fear | 115 How widespread do you think corruption and bribe-taking are in your local/municipal government?
+q116,6,"Wave1, Wave2, Wave3, Wave4, Wave5, Wave6",anyone you know personally witnessed an act of corruption? | How well do you think the government responds to what people want? | q116. How widespread do you think corruption and bribe-taking are in your local/municipal government?  Would you say …? | 116 How much do you feel that having elections makes the government pay attention to what the people think? | 116 People can join any organization they like without fear | 116 How widespread do you think corruption and bribe-taking are in the national government?
+q117,6,"Wave1, Wave2, Wave3, Wave4, Wave5, Wave6",Which comes closest to your own opinion? | How widespread do you think corruption and bribe-taking are in your local/municipal government? | q117. How widespread do you think corruption and bribe-taking are in the national government [in capital city]?  Would you say …? | 117 How widespread do you think corruption and bribe-taking are in your local/municipal government? | 117 How often do government officials withhold important information from the public? | 117 How effective is the government in cracking down on corruption?
+q118,6,"Wave1, Wave2, Wave3, Wave4, Wave5, Wave6","Which comes closer to your own view? | How widespread do you think corruption and bribe-taking are in the national government? | q118. In your opinion, is the government working to crack down on corruption and root out bribery? | 118 How widespread do you think corruption and bribe-taking are in the national government? | 118 How often do you think government leaders break the law or abuse their power? | 118 Have you or anyone you know personally witnessed an act of corruption or bribe-taking by a politician or government official in the past year?"
+q120,6,"Wave1, Wave2, Wave3, Wave4, Wave5, Wave6","Which comes closer to your own view? | In your opinion, is the government working to crackdown corruption and root out bribes? | q120. Remember the scale that we used before: 1 means completely undemocratic and 10 means completely democratic. Where would you place China today on this scale? | 120 Have you or anyone you know personally witnessed an act of corruption or bribe-taking by a politician or government official in the past year? | 120 To what extent is the legislature capable of keeping government leaders in check? | 120 Where would you place China today on this scale?"
+q121,6,"Wave1, Wave2, Wave3, Wave4, Wave5, Wave6",We should get rid of parliament and elections and have a strong leader decide things | Which of the following statements comes closest to your own opinion? | q121. Where would you place the United States today on this scale? | 121 Where would you place China today on this scale? | 121 How well do you think the government responds to what people want? | 121 Where would you place the United States of America today on this scale?
+q122,6,"Wave1, Wave2, Wave3, Wave4, Wave5, Wave6",No opposition party should be allowed to compete for power | Which of the following statements comes closer to your own view? | q122. Where would you place Japan today on this scale? | 122 Where would you place the United States today on this scale? | 122 How much do you feel that having elections makes the government more responsive to people's needs | 122 Where would you place Japan today on this scale?
+q123,6,"Wave1, Wave2, Wave3, Wave4, Wave5, Wave6","The military should come in to govern the country | If you had to choose between democracy and economic development, which would you say is more important? | q123. Where would you place India today on this scale? | 123 Where would you place Japan on this scale? | 123 How capable is the government of enforcing laws and implementing policies? | 123 Where would you place India today on this scale?"
+q124,6,"Wave1, Wave2, Wave3, Wave4, Wave5, Wave6",We should get rid of parliament and elections and have the experts decide everything | We should get rid of parliament and elections and have a strong leader decide things | q124. Which of the following statements comes closest to your own opinion? | 124 Where would you place India on this scale? | 124 How widespread do you think corruption and bribe-taking are in your local/municipal government? | 124 Which of the following statements comes closest to your own opinion?
+q125,6,"Wave1, Wave2, Wave3, Wave4, Wave5, Wave6","It is ok for the government to disregard the law in order to deal with the situation, when the country is facing a diffi | Only one political party is allowed to stand for election and hold office | q125. Which of the following statements comes closer to your own view? | 125 Which of the following statements comes closest to your own opinion? | 125 How widespread do you think corruption and bribe-taking are in the national government? | 125 Which of the following statements comes closer to your own view?"
+q126,6,"Wave1, Wave2, Wave3, Wave4, Wave5, Wave6","I have the ability to participate in politics | The army should come in to govern the country | q126. If you had to choose between democracy and economic development, which would you say is more important? | 126 Which of the following statements comes closer to your own view? | 126 How effective is the government in cracking down on corruption? | 126 If you had to choose between democracy and economic development, which would you say is more important?"
+q127,6,"Wave1, Wave2, Wave3, Wave4, Wave5, Wave6","Politics and government seems so complicated that a person like me can't really understand what is going on | I think I have the ability to participate in politics | q127. If you had to choose between reducing economic inequality and protecting political freedom, which would you say is more important? | 127 If you had to choose between democracy and economic development, which would you say is more important? | 127 Have you or anyone you know personally witnessed an act of corruption or bribe-taking by a politician or government official in the past year? | 127 If you had to choose between reducing economic inequality and protecting political freedom, which would you say is more important?"
+q128,6,"Wave1, Wave2, Wave3, Wave4, Wave5, Wave6","The nation is run by a powerful few and ordinary citizens cannot do much about it | Sometimes politics and government seems so complicated that a person like me can't really understand what is going on | q128. Do you agree or disagree with the following statement: ""Democracy may have its problems, but it is still the best form of government."" | 128 If you had to choose between reducing economic inequality and protecting political freedom, which would you say is more important? | 128 Where would you place China today on this scale? | 128 Do you agree or disagree with the following statement: 'Democracy may have its problems, but it is still the best form of government's?"
+q129,6,"Wave1, Wave2, Wave3, Wave4, Wave5, Wave6","People like me don't have any influence over what the government does | Whatever its faults may be, our form of government is still the best for us | q129. There are many ways to govern a country. Would you disapprove or approve of the following alternatives? For each statement, would you say you strongly approve, approve, disapprove, or strongly disapprove? We should get rid of parliament and election | 129 Do you agree or disagree with the following statement: ""Democracy may have its problems, but it is still the best form of government"". | 129 Where would you place the United States today on this scale? | 129 We should get rid of parliament and elections and have a strong leader to decide things."
+q130,6,"Wave1, Wave2, Wave3, Wave4, Wave5, Wave6",Our form of government is still the best for us | You can generally trust the people who run our government to do what is right (HK: Hong Kong government) | q130. Only one political party should be allowed to stand for election and hold office. | 130 We should get rid of parliament and elections and have a strong leader decide things. | 130 Where would you place Japan today on this scale? | 130 Only one political party is allowed to stand for election and hold office.
+q131,6,"Wave1, Wave2, Wave3, Wave4, Wave5, Wave6","You can generally trust the people who run our government to do what is right | Generally speaking, we can trust the local government officials to do the right things | q131. The army (military) should come in to govern the country. | 131 Only one political party should be allowed to stand for election and hold office. | 131 Where would you place India today on this scale? | 131 The army (military) should come in to govern the country."
+q132,6,"Wave1, Wave2, Wave3, Wave4, Wave5, Wave6",People with little or no education should have as much say in politics as highly-educated people | Which of these two statements comes closer to your own view | q132. We should get rid of elections and parliaments and have experts make decisions on behalf of the people. | 132 The army (military) should come in to govern the country. | 132 Which of the following statements comes closest to your own opinion? | 132 We should get rid of elections and parliaments and have experts make decisions on behalf of the people.
+q133,6,"Wave1, Wave2, Wave3, Wave4, Wave5, Wave6","Government leaders are like the head of a family; we should all follow their decisions | People with little or no education should have as much say in politics as highly-educated people | q133. I have here some statements. For each statement, would you say you strongly agree, somewhat agree, somewhat disagree, or strongly disagree? I think I have the ability to participate in politics. | 133 We should get rid of elections and parliaments and have experts make decisions on behalf of the people. | 133 Which of the following statements comes closer to your own view? | 133 I think I have the ability to participate in politics."
+q134,6,"Wave1, Wave2, Wave3, Wave4, Wave5, Wave6","The government should decide whether certain ideas should be allowed to be discussed in society | Government leaders are like the head of a family; we should all follow their decisions | q134. Sometimes politics and government seems so complicated that a person like me can't really understand what is going on. | 134 I think I have the ability to participate in politics. | 134 If you had to choose between democracy and economic development, which would you say is more important? | 134 Sometimes politics and government seems so complicated that a person like me can't really understand what is going on."
+q135,6,"Wave1, Wave2, Wave3, Wave4, Wave5, Wave6","Harmony of the community will be disrupted if people organize lots of groups | The government should decide whether certain ideas should be allowed to be discussed in society | q135. People like me don't have any influence over what the government does. | 135 Sometimes politics and government seems so complicated that a person like me can't really understand what is going on. | 135 If you had to choose between reducing economic inequality and protecting political freedom, which would you say is more important? | 135 People like me don't have any influence over what the government does."
+q136,6,"Wave1, Wave2, Wave3, Wave4, Wave5, Wave6","When judges decide important cases, they should accept the view of the executive branch | Harmony of the community will be disrupted if people organize lots of groups | q136. You can generally trust the people who run our government to do what is right. | 136 People like me don't have any influence over what the government does. | 136 Do you agree or disagree with the following statement: ""Democracy may have its problems, but it is still the best form of government"". | 136 You can generally trust the people who run our government to do what is right."
+q137,6,"Wave1, Wave2, Wave3, Wave4, Wave5, Wave6","If the government is constantly checked by the legislature, it cannot possibly accomplish great things | When judges decide important cases, they should accept the view of the executive branch | q137. A citizen should always remain loyal only to his country, no matter how imperfect it is or what wrong it has done. | 137 You can generally trust the people who run our government to do what is right. | 137 We should get rid of parliament and elections and have a strong leader decide things. | 137 A citizen should always remain loyal only to his country, no matter how imperfect it is or what wrong it has done."
+q138,6,"Wave1, Wave2, Wave3, Wave4, Wave5, Wave6","If we have political leaders who are morally upright, we can let them decide everything | If the government is constantly checked by the legislature, it cannot possibly accomplish great things | q138. I have here other statements. For each statement, would you say you strongly agree, somewhat agree, somewhat disagree, or strongly disagree? The government should consult religious authorities when interpreting the laws. | 138 A citizen should always remain loyal only to his country, no matter how imperfect it is or what wrong it has done. | 138 Only one political party should be allowed to stand for election and hold office | 138 Have you or your family members previously contracted the Covid-19 virus?"
+q140,6,"Wave1, Wave2, Wave3, Wave4, Wave5, Wave6","The government should maintain ownership of major state-owned enterprises | If people have too many different ways of thinking, society will be chaotic | q140. People with little or no education should have as much say in politics as highly-educated people. | 140 The government should consult religious authorities when interpreting the laws | 140 We should get rid of elections and parliaments and have experts make decisions on behalf of the people. | 140 Thinking of the negative impact of Covid-19 on your family's livelihood, how serious it is in your view?"
+q141,6,"Wave1, Wave2, Wave3, Wave4, Wave5, Wave6","The national government should have more authority over local decisions than it does now | When the country is facing a difficult situation, it is ok for the government to disregard the law in order to deal with the situation | q141. Government leaders are like the head of a family; we should all follow their decisions. | 141 People with little or no education should have as much say in politics as highly-educated people | 141 I think I have the ability to participate in politics | 141 How much do you trust the Covid-19 related information provided by the government?"
+q142,6,"Wave1, Wave2, Wave3, Wave4, Wave5, Wave6",Our country should defend our way of life instead of becoming more and more like other countries | The government should maintain ownership of major state-owned enterprises | q142. The government should decide whether certain ideas should be allowed to be discussed in society. | 142 Government leaders are like the head of a family; we should all follow their decisions | 142 Sometimes politics and government seems so complicated that a person like me can't really understand what is going on | 142 How well or badly do you think the government handled the pandemic?
+q144,6,"Wave1, Wave2, Wave3, Wave4, Wave5, Wave6","The state is like a big machine and the individual is but a small cog, with no independent status | Our country should defend our way of life instead of becoming more and more like other countries | q144. When judges decide important cases, they should accept the view of the executive branch. | 144 Harmony of the community will be disrupted if people organize lots of groups | 144 You can generally trust the people who run our government to do what is right | 144 Have you been vaccinated against Covid-19?"
+q145,6,"Wave1, Wave2, Wave3, Wave4, Wave5, Wave6","The most important thing for a political leader is to accomplish his goals even if he has to ignore the established proc | In order to preserve social justice, the government should prevent the gap between rich and poor from growing any larger | q145. If the government is constantly checked [i.e. monitored and supervised] by the legislature, it cannot possibly accomplish great things. | 145 When judges decide important cases, they should accept the view of the executive branch | 145 A citizen should always remain loyal only to his country, no matter how imperfect it is or what wrong it has done. | 145 Why do you prefer not to be vaccinated against Covid-19?"
+q146,6,"Wave1, Wave2, Wave3, Wave4, Wave5, Wave6","If a political leader really believes in his position, he should refuse to compromise regardless of how many people disa | Our country should become more self-sufficient and less reliant on trade with other countries | q146. If we have political leaders who are morally upright, we can let them decide everything. | 146 If the government is constantly checked [i.e. monitored and supervised] by the legislature, it cannot possibly accomplish great things | 146 Women should not be involved in politics as much as men | 146 I have here other statements: Women should not be involved in politics as much as men"
+q147,6,"Wave1, Wave2, Wave3, Wave4, Wave5, Wave6","A political leader should tolerate the views of those who challenge his political ideals | Let us suppose that you had to choose between being a..... which of these do you feel most strongly attached to | q147. If people have too many different ways of thinking, society will be chaotic. | 147 If we have political leaders who are morally upright, we can let them decide everything | 147 The government should consult religious authorities when interpreting the laws | 147 The government should consult religious authorities when interpreting the laws."
+q148,6,"Wave1, Wave2, Wave3, Wave4, Wave5, Wave6","As long as a political leader enjoys majority support, he should implement his own agenda and disregard the view of the | These people should have the equal right to do whatever they want to do as other citizens | q148. When the country is facing a difficult situation, it is ok for the government to disregard the law in order to deal with the situation. | 148 If people have too many different ways of thinking, society will be chaotic | 148 People with little or no education should have as much say in politics as highly-educated people | 148 People with little or no education should have as much say in politics as highly-educated people."
+q1,5,"Wave2, Wave3, Wave4, Wave5, Wave6",How would you rate the overall economic condition of our country today? | q1. How would you rate the overall economic condition of our country today?  Is it … | 1. How would you rate the overll economic condition of our country today? | 1. How would you rate the overall economic condition of our country today? | 1 How would you rate the overall economic condition of our country today?
+q10,5,"Wave2, Wave3, Wave4, Wave5, Wave6",Trust in Political parties | q10. Political parties [not any specific party] | 10 Political parties | 10 Political parties[not any specific party] | 10 Political parties [not any specific party]
+q11,5,"Wave2, Wave3, Wave4, Wave5, Wave6",Trust in Parliament | q11. Parliament | 11 Parliament
+q119,5,"Wave1, Wave2, Wave3, Wave4, Wave5","choose between democracy and economic development? | Have you or anyone you know personally witnessed an act of corruption or bribe-taking by a politician or government official in the past year? | q119. Have you or anyone you know personally witnessed an act of corruption or bribe-taking by a politician or government official in the past year? IF WITNESSED: Did you personally witness it or were you told about it by a family member or friend who per | 119 In your opinion, is the government working to crack down on corruption and root out bribery? | 119 How often do you think our elections offer the voters a real choice between different parties/candidates?"
+q12,5,"Wave2, Wave3, Wave4, Wave5, Wave6",Trust in Civil service | q12. Civil service | 12 Civil service | 12 Civil Service
+q13,5,"Wave2, Wave3, Wave4, Wave5, Wave6",Trust in the military(or armed forces) | q13. The military(or armed forces) | 13 The military | 13 The military or armed force | 13 The military or armed forces
+q139,5,"Wave1, Wave2, Wave3, Wave4, Wave5","If people have too many different ways of thinking, society will be chaotic | If we have political leaders who are morally upright, we can let them decide everything | q139. Women should not be involved in politics as much as men. | 139 Women should not be involved in politics as much as men | 139 The army (military) should come in to govern the country"
+q14,5,"Wave2, Wave3, Wave4, Wave5, Wave6",Trust in the police | q14. The police | 14 The police
+q143,5,"Wave1, Wave2, Wave3, Wave4, Wave5","For the sake of the national community/society, the individual should be prepared to sacrifice his personal interest | The local government should have more authority over local decisions than it does now | q143. Harmony of the community will be disrupted if people organize lots of groups. | 143 The government should decide whether certain ideas should be allowed to be discussed in society | 143 People like me don`t have any influence over what the government does"
+q149,5,"Wave2, Wave3, Wave4, Wave5, Wave6","They should enjoy the same right as other citizens to vote in the election of the top leader | q149. How closely do you follow major events in foreign countries / the world? | 149 When the country is facing a difficult situation, it is ok for the government to disregard the law in order to deal with the situation | 149 Government leaders are like the head of a family; we should all follow their decisions | 149 Government leaders are like the head of a family; we should all follow their decisions."
+q15,5,"Wave2, Wave3, Wave4, Wave5, Wave6",Trust in local government | q15. Local government | 15 Local government
+q150,5,"Wave2, Wave3, Wave4, Wave5, Wave6","Their basic well-being should be taken care of by the government to the same extent as other citizens | q150. How often do you watch or listen to foreign programs (television, DVDs, movies, radio)? | 150 How closely do you follow major events in foreign countries/ the world? | 150 The government should decide whether certain ideas should be allowed to be discussed in society | 150 The government should decide whether certain ideas should be allowed to be discussed in society."
+q151,5,"Wave2, Wave3, Wave4, Wave5, Wave6",A citizen who does not actively participate in the affairs of his local and national community is not performing his duties | q151. Our country should defend our way of life instead of becoming more and more like other countries. | 151 Our country should defend our way of life instead of becoming more and more like other countries. | 151 Harmony of the community will be disrupted if people organize lots of groups | 151 Harmony of the community will be disrupted if people organize lots of groups.
+q152,5,"Wave2, Wave3, Wave4, Wave5, Wave6","Citizens should always obey laws and regulations, even if they disagree with them | q152. Do you agree or disagree with the following statement: ""We should protect our farmers and workers by limiting the import of foreign goods."" | 152 Do you agree or disagree with the following statement: ""We should protect our farmers and workers by limiting the import of foreign goods."" | 152 When judges decide important cases, they should accept the view of the executive branch | 152 When judges decide important cases, they should accept the view of the executive branch."
+q153,5,"Wave2, Wave3, Wave4, Wave5, Wave6","Do you agree or disagree with the following statement: ""A citizen should always remain loyal only to his country, no matter how imperfect | q153. Do you agree or disagree with the following statement: ""Foreign goods are hurting the local community."" | 153 Do you think the government should increase or decrease the inflow of foreign immigrants into the country? | 153 If the government is constantly checked [i.e. monitored and supervised] by the legislature, it cannot possibly accomplish great things | 153 If the government is constantly checked by the legislature, it cannot possibly accomplish great things."
+q154,5,"Wave2, Wave3, Wave4, Wave5, Wave6","How proud are you to be a citizen of [Country] | q154. How proud are you to be a citizen of (COUNTRY)? | 154 Which of these statements comes closer to your view? | 154 If we have political leaders who are morally upright, we can let them decide everything | 154 If we have political leaders who are morally upright, we can let them decide everything."
+q155,5,"Wave2, Wave3, Wave4, Wave5, Wave6","Given the chance, how willing would you be to go and live in another country? | q155. Given the chance, how willing would you be to go and live in another country? | 155 How fair do you think income distribution is in the country? | 155 If people have too many different ways of thinking, society will be chaotic | 155 If people have too many different ways of thinking, society will be chaotic."
+q156,5,"Wave2, Wave3, Wave4, Wave5, Wave6",Relation: The European Community or European Union | q156. Which country has the most influence in Asia? | 156 It is the responsibility of the government to reduce the differences between people with high income and those with low incomes. | 156 Which of the following statements do you agree with the most? distinct way of life vs. learning from other countries | 156 Choose one statement.
+q157,5,"Wave2, Wave3, Wave4, Wave5, Wave6","Relation: The United Nations or UN | q157. Does (answer in Q156) do more good or harm to the region? Ask Q157a if the answer in Q156 is not China, otherwise skip to Q158 | 157 How concerned are you about the loss of your major source of income within the next 12 months? | 157 Which of the following statements do you agree with the most? limit or import of foreign goods | 157 Choose one statement."
+q158,5,"Wave2, Wave3, Wave4, Wave5, Wave6","Relation: International Monetary Fund or IMF | q158. In ten years, which country will have the most influence in Asia? | 158 The following is a hypothetical question: If you were unfortunate enough to lose your main source of income, how serious would it be for you and your family? | 158 Do you think the government should increase or decrease the inflow of foreigners who come to work in our country? | 158 Do you think the government should increase or decrease the inflow of foreign immigrants into the country."
+q159,5,"Wave2, Wave3, Wave4, Wave5, Wave6","Relation: World Bank | q159. Which country should be a model for our own country's future development? | 159 Considering all the effort that you and your family members have made in the past, do you think the income that your family currently receives is fair or not fair-4 categories? | 159 How fair do you think income distribution is in the country? | 159 How fair do you think income distribution in Mongolia"
+q16,5,"Wave2, Wave3, Wave4, Wave5, Wave6",Trust in newspaper | q16. Newspapers | 16 Newspaper | 16 The election commission
+q161,5,"Wave2, Wave3, Wave4, Wave5, Wave6","Impression: The United Nations or UN | q161. General speaking, the influence China has on our country is? | 161 How proud are you to be a citizen of the country? Are you? | 161 How worried are you that your family might lose its major source of income within the next 12 months?"
+q17,5,"Wave2, Wave3, Wave4, Wave5, Wave6",Trust in television | q17. Television | 17 Television | 17 Non-government organizations or NGOs
+q18,5,"Wave2, Wave3, Wave4, Wave5, Wave6",Trust in the election commission(Singapore: International TV) | q18. The election commission [specify institution by name] <Optional> | 18 The election commission | 18. Name of the organization you belong to. First | 18 Name of the organization you belong to. First
+q19,5,"Wave2, Wave3, Wave4, Wave5, Wave6",Trust in NGOs | q19. Non-governmental organizations or NGOs <Optional> | 19 Non-government organizations or NGOs | 19. Name of the organization you belong to. Second | 19 Name of the organization you belong to. Second
+q2,5,"Wave2, Wave3, Wave4, Wave5, Wave6",How would you describe the change in the economic condition of our country over the last years? | q2. How would you describe the change in the economic condition of our country over the last few years | 2. How would you dsecribe the change in the economic condition of our country over the last few years? | 2 How would you describe the change in the economic condition of our country over the last few years?
+q20,5,"Wave2, Wave3, Wave4, Wave5, Wave6",Are you a member of any organization or formal groups? | q20. Could you identity the three most important organizations or formal groups you belong to. First Organization | 20. Name of the organization you belong to. First | 20. Name of the organization that you belong to. Third | 20 Name of the organization that you belong to. Third
+q23,5,"Wave2, Wave3, Wave4, Wave5, Wave6","General speaking, would you say ""Most people can be trusted"" or ""that you must be very careful""? | q23. General speaking, would you say that ""Most people can be trusted"" or ""that you must be very careful in dealing with people""? | 23 Would you say that ""Most people can be trusted"" or ""that you must be very careful in dealing with people""? | 23 Do you agree with the statement that 'most people are trustworthy?'"
+q24,5,"Wave2, Wave3, Wave4, Wave5, Wave6","How much trust do you have in your relatives? | q24. Do you think most people would try to take advantage of you if they got a chance, or would they try to be fair? (NEW) | 24. Do you ageee with the statement 'Most people are trustworthy' | 24 How much trust do you have in each of the following types of people? Your relatives"
+q25,5,"Wave2, Wave3, Wave4, Wave5, Wave6","How much trust do you have in your neighbors? | q25. How much trust do you have in each of the following types of people?   Your relatives | 25 Do you think most people would try to take advantage of you if they got a chance, or would they try to be fair? | 25 Trust in your neighbors"
+q26,5,"Wave2, Wave3, Wave4, Wave5, Wave6",How much trust do you have in other people you interact with? | q26. Your neighbors | 26. How much do you trust your relatives? | 26 Trust in other people you interact with
+q27,5,"Wave2, Wave3, Wave4, Wave5, Wave6","On average, about how many people do you have contact with in a typical week day? | q27. Other people you interact with | 27. Trust your neighbors | 27 Trust in people you meet for the first time"
+q28,5,"Wave2, Wave3, Wave4, Wave5, Wave6","How often are you asked to help influence important decisions in other people's favor? | q28. On average, about how many people do you have contact with in a typical week day?  We are interested in contact on a one-on-one basis, including everyone with whom you chat, talk, or discuss matters.  This can be face to face, by telephone, by mail, | 28. Trust other people you interact with | 28 How many people do you have contact within a typical week day? | 28 How many people do you have contact with in a typical week day?"
+q29,5,"Wave2, Wave3, Wave4, Wave5, Wave6","And are there people you could ask to help influence important decisions in your favor? | q29. If you have a difficult problem to manage, are there people outside your household you can ask for help? (NEW) | 29. How many people do you have contact within a typical week day? | 29 Which of the following best describes your relations with most of your social contacts?"
+q3,5,"Wave2, Wave3, Wave4, Wave5, Wave6",What do you think will be the state of our country's economic condition a few years from now? | q3. What do you think will be the state of our country's economic condition a few years from now? Will it be … | 3. What do you think will be the state of our country's economic condition a few years from now? | 3 What do you think will be the state of our country's economic condition a few years from now?
+q30,5,"Wave2, Wave3, Wave4, Wave5, Wave6","Do you agree or disagree with the following statement: By helping people in trouble today, someone else will help me when I am in trouble someday. | q30. When people outside your household have problems, do they come to you for help? (NEW) | 30. If you have a difficult problem to manage, are there people outside your household you can ask for help? | 30 Among these people you have frequent contacts, which of the following best describes the political views of these people?"
+q31,5,"Wave2, Wave3, Wave4, Wave5, Wave6","Would you have a hard time conversing with your friends or co-workers about politics if you had differing opinions? | q31. If you had friends or co-workers whose opinions on politics differed from yours, would you have a hard time conversing with them? (NEW) | 31. When people outside your household have problems, do they come to you for help? | 31 If you have a difficult problem to manage, are there people outside your household you can ask for help?"
+q32,5,"Wave2, Wave3, Wave4, Wave5, Wave6","Generally speaking, how safe is living in this city/town/village? | q32. In talking to people about elections, we often find that a lot of people were not able to vote because they were away from home, they were sick or they just didn't have time. How about you? Did you vote in the election [the most recent national elect | 32 If you had friends or co-workers whose opinions on politics differed from yours, would you have a hard time conversing with them?"
+q33,5,"Wave2, Wave3, Wave4, Wave5, Wave6","Compared to the situation in this city/town/village a few years ago, do you feel more safe, less safe or the same as before? | q33. Which parties (or candidates for president if it was presidential race) did you vote for? [country-specific response grid] | 33 Did you vote in the last national election? | 33 Did you vote in the national election?"
+q34,5,"Wave2, Wave3, Wave4, Wave5, Wave6","Have you been a victim of car, motorcycle or bicycle theft? | q34. Thinking about the national election in [year], did you attend a campaign meeting or rally? | 34 Which parties or candidates did you vote for?"
+q35,5,"Wave2, Wave3, Wave4, Wave5, Wave6",Have you been a victim of pick-pocketing/robbery of personal property? | q35. try to persuade others to vote for a certain candidate or party? | 35. Did you attend a campaign meeting or rally? | 35. Did you attend a campaign meeting or rally in the last national election? | 35 Did you attend a campaign meeting or rally in the last national election?
+q36,5,"Wave2, Wave3, Wave4, Wave5, Wave6",Have you been a victim of break-in at your home? | q36. Did you do anything else to help out or work for a party or candidate running in the election? | 36. Try to persudae others to vote for a certain candidate or party? | 36 Try to persuade others to vote for a certain candidate or party?
+q37,5,"Wave2, Wave3, Wave4, Wave5, Wave6","Have you been a victim of physical violence? | q37. On the whole, how free and fair would you say the last national election was? (NEW) | 37. Did you do anything else to help out or work for a party or candidate running in the last national election? | 37 Did you do anything else to help out or work for a party or candidate running in the last national election?"
+q38,5,"Wave2, Wave3, Wave4, Wave5, Wave6","Have you voted in the last election? | q38. Based on your experience, how easy or difficult is it to obtain the following services?  Or have you never tried to get these services from government?  An identity document (such as a birth certificate or passport) | 38.On the whole, how free and fair would you say the last national election was? | 38 On the whole, how free and fair would you say the last national election was?"
+q39,5,"Wave2, Wave3, Wave4, Wave5, Wave6",Which parties (or candidates for president if it was presidential race) did you vote for? | q39. A place in a public primary school for a child | 39. How easy or difficult to obtain an identity document service | 39 How easy or difficult to obtain roads in good condition | 39 How easy or difficult to obtain the roads in good condition
+q4,5,"Wave2, Wave3, Wave4, Wave5, Wave6","As for your own family, how do you rate your economic situation today? | q4. As for your own family, how do you rate the economic situation of your family today?  Is it … | 4. As for your own family, how do you rate the economic situation of your family today? | 4 As for your own family, how do you rate the economic situation of your family today?"
+q40,5,"Wave2, Wave3, Wave4, Wave5, Wave6",Attend a campaign meeting or rally | q40. Medical treatment at a nearby clinic | 40. How easy or difficult to obtain a place in a public primirary school for a child | 40 How easy or difficult to obtain running water
+q41,5,"Wave2, Wave3, Wave4, Wave5, Wave6",Try to persuade others to vote for a certain candidate or party | q41. Help from the police when you need it | 41. How easy or difficult to obtain medical treatment at nearby clinic | 41 How easy or difficult to obtain public transportation
+q42,5,"Wave2, Wave3, Wave4, Wave5, Wave6","Did you do anything else to help out or work for a party or candidate running in the election | q42. Generally speaking, how safe is living in this city/ town/ village - very safe, safe, unsafe or very unsafe? | 42. How easy or difficult to obtain help from the police when you need it | 42 How easy or difficult to obtain healthcare"
+q43,5,"Wave2, Wave3, Wave4, Wave5, Wave6","On the whole, how would you rate the freeness and fairness of the last national election? | q43. How interested would you say you are in politics? | 43. How safe is living in this city/ town/ village | 43 How easy or difficult to obtain help from the pollice when you need it | 43 How easy or difficult to obtain help from the police when you need it"
+q44,5,"Wave2, Wave3, Wave4, Wave5, Wave6",How easy is it to obtain: An identity document | q44. How often do you follow news about politics and government? | 44. How interested would you say you are in politics? | 44 How easy or difficult to obtain access to the internet | 44 How easy or difficult to obtain access to the Internet
+q45,5,"Wave2, Wave3, Wave4, Wave5, Wave6","How easy is it to obtain: A place in public primary school for a child | q45. How often do you use the internet? | 45. How often do you follow news about politics and government? | 45 Generally speaking, how safe is living in this city/town/village? | 45 How easy or difficult to obtain childcare"
+q46,5,"Wave2, Wave3, Wave4, Wave5, Wave6","How easy is it to obtain: Medical treatment at a nearby clinic | q46. When you get together with your family members or friends, how often do you discuss political matters? | 46. When you get together with your family members or friends, how often do you discuss political matters | 46 How interested would you say you are in politics? | 46 Generally speaking, how safe is living in this city/town/village?"
+q47,5,"Wave2, Wave3, Wave4, Wave5, Wave6","How easy is it to obtain: Help from the police when you need it | q47. Among the political parties listed here, which party if any do you feel closest to? | 47. Do you have Internet access at home? | 47 How often do you follow news about politics and government? | 47 How interested would you say you are in politics?"
+q48,5,"Wave2, Wave3, Wave4, Wave5, Wave6","How would you describe the present political situation in our country | q48. How close do you feel to (answer in Q47)? Is it very close, somewhat close, or just a little close? | 48. Do you have Internet access on a mobile phone? | 48 When you get together with your family members or friends, how often do you discuss political matters? | 48 How often do you follow news about politics and government?"
+q49,5,"Wave2, Wave3, Wave4, Wave5, Wave6","How interested would you say you are in politics | q49. Please tell me how you feel about the following statements. Would you say you strongly agree, somewhat agree, somewhat disagree, or strongly disagree? Most people are trustworthy? | 49. How often do you use the internet? | 49 How often do you use the internet, either through computer, tablet or smartphone? | 49 When you get together with your family members or friends, how often do you discuss political matters?"
+q5,5,"Wave2, Wave3, Wave4, Wave5, Wave6",How would you compare the current economic condition of your family with what it was a few years ago? | q5. How would you compare the current economic condition of your family with what it was a few years ago? Is it … | 5. How would you compare the current economic condition of your family with what it was a few years ago? | 5 How would you compare the current economic condition of your family with what it was a few years ago?
+q50,5,"Wave2, Wave3, Wave4, Wave5, Wave6","How often do you follow news about politics and government | q50. For the sake of the family, the individual should put his personal interests second | 50. Do you currently use any of the following social media networks? | 50 Do you currently use any of the following social media networks?(E.g. facebook, twitter, telegram, whatsapp, youtube, tumblr, instagram, snapchat, etc.) | 50 How often do you use the internet, either through computer, tablet or smartphone?"
+q53,5,"Wave2, Wave3, Wave4, Wave5, Wave6","How much impact do you feel government politics have on your daily life? | q53. When dealing with others, developing a long-term relationship is more important than securing one's immediate interest. | 53.Among the political parties listed here, which party if any do you feel closest to? | 53 How much trust do you have in each of the following types of media?Television | 53 Which one is the most important channel for you to find information about politics and government?"
+q54,5,"Wave2, Wave3, Wave4, Wave5, Wave6","Among the political parties listed here, which party if any do you feel closest to? | q54. When dealing with others, one should not only focus on immediate interest but also plan for future. | 54. How close do you feel to (answer in q53)? | 54 How much trust do you have in each of the following types of media?Newspaper | 54 Among the political parties listed here, which party if any do you feel closest to?"
+q55,5,"Wave2, Wave3, Wave4, Wave5, Wave6","How close do you feel to the party(answer in Q54)? | q55. Even if parents' demands are unreasonable, children still should do what they ask. | 55 For the sake of the family, the individual should put his personal interests second. | 55 How much trust do you have in each of the following types of media? News on the internet | 55 How close do you feel to (answer in Q54)? Is it very close, somewhat close, or just a little close?"
+q56,5,"Wave2, Wave3, Wave4, Wave5, Wave6","Even if parents' demands are unreasonable, children still should do what they ask | q56. When a mother-in-law and a daughter-in-law come into conflict, even if the mother-in-law is in the wrong, the husband should still persuade his wife to obey his mother. | 56. In a group, we should sacrifice our individual interest for the sake of the group's collective interest. | 56 Among the political parties listed here, which party if any do you feel closest to? | 56 For the sake of the family, the individual should put his personal interests second."
+q57,5,"Wave2, Wave3, Wave4, Wave5, Wave6","Being a student, one should not question the authority of their teacher | q57. Being a student, one should not question the authority of their teacher. | 57. For the sake of national interest, individual interest could be sacrificed. | 57 How close do you feel to (answer in Q56)? Is it very close, somewhat close, or just a little close? | 57 In a group, we should sacrifice our individual interest for the sake of the group's collective interest."
+q58,5,"Wave2, Wave3, Wave4, Wave5, Wave6","When one has conflict with a neighbor, the best way to deal with it is to accommodate the other person | q58. In a group, we should avoid open quarrel to preserve the harmony of the group | 58. When dealing with others, developing a long-term relationship is more important than securing one's immediate interest. | 58 For the sake of the family, the individual should put his personal interests second. | 58 For the sake of national interest, individual interest could be sacrificed."
+q59,5,"Wave2, Wave3, Wave4, Wave5, Wave6","A person should not insist on his own opinion if his co-workers disagree with him | q59. Even if there is some disagreement with others, one should avoid the conflict | 59. When dealing with others, one should not only focus on immediate interest but also plan for future. | 59 In a group, we should sacrifice our individual interest for the sake of the groups collective interest. | 59 When dealing with others, developing a long-term relationship is more important than securing one's immediate interest."
+q6,5,"Wave2, Wave3, Wave4, Wave5, Wave6",What do you think the economic situation of your family will be a few years from now? | q6. What do you think the economic situation of your family will be a few years from now? Will it be … | 6. What do you think the economic situation of your family will be a few years from now? | 6 What do you think the economic situation of your family will be a few years from now?
+q60,5,"Wave2, Wave3, Wave4, Wave5, Wave6","For the sake of the family, the individual should put his personal interests second | q60. A person should not insist on his own opinion if his co-workers disagree with him | 60. Even if parents' demands are unreasonable, children still should do what they ask. | 60 For the sake of national interest, individual interest could be sacrificed. | 60 Even if parents' demands are unreasonable, children still should do what they ask."
+q61,5,"Wave2, Wave3, Wave4, Wave5, Wave6","Sometimes one has to follow one's own beliefs regardless of what other people think | q61. Wealth and poverty, success and failure are all determined by fate. | 61. When a mother-in-law and a daughter-in-law come into conflict, even if the mother-in-law is in the wrong, the husband should still persuade his wife to obey his mother. | 61 When dealing with others, developing a long-term relationship is more important than securing one's immediate interest. | 61 When a mother-in-law and a daughter-in-law come into conflict, even if the mother-in-law is in the wrong, the husband should still persuade his wife to obey his mother."
+q62,5,"Wave2, Wave3, Wave4, Wave5, Wave6","When dealing with others, securing one's immediate interests should be more important than developing a long-term | q62. If one could have only one child, it is more preferable to have a boy than a girl. | 62. Being a student, one should not question the authority of their teacher. | 62 Even if parents' demands are unreasonable, children still should do what they ask. | 62 Being a student, one should not question the authority of their teacher."
+q63,5,"Wave2, Wave3, Wave4, Wave5, Wave6","Open quarrels (criticisms) among politicians are harmful to society | q63. When dealing with others, one should not be preoccupied with temporary gains and losses. | 63. In a group, we should avoid open quarrel to preserve the harmony of the group. | 63 When a mother-in-law and a daughter-in-law come into conflict, even if the mother-in-law is in the wrong, the husband should still persuade his wife to obey his mother. | 63 In a group, we should avoid open quarrel to preserve the harmony of the group."
+q64,5,"Wave2, Wave3, Wave4, Wave5, Wave6","The relationship between the government and the people should be like that between parents and children | q64. In the past three (3) years, have you never, once, or more than once done the following because of personal, family, or neighborhood problems, or problems with government officials and policies?Contacted elected officials or legislative representativ | 64. Even if there is some disagreement with others, one should avoid the conflict. | 64 Being a student, one should not question the authority of their teacher. | 64 Even if there is some disagreement with others, one should avoid the conflict."
+q65,5,"Wave2, Wave3, Wave4, Wave5, Wave6","People should always support the decisions of their government even if they disagree with them | q65. Contacted officials at higher level. | 65. A person should not insist on his own opinion if his co-workers disagree with him. | 65 In a group, we should avoid open quarrel to preserve the harmony of the group. | 65 A person should not insist on his own opinion if his co-workers disagree with him."
+q66,5,"Wave2, Wave3, Wave4, Wave5, Wave6","How often do you use the internet? | q66. Contacted traditional leaders/community leaders. | 66. Wealth and poverty, success and failure are all determined by fate. | 66 Even if there is some disagreement with others, one should avoid the conflict. | 66 Wealth and poverty, success and failure are all determined by fate."
+q67,5,"Wave2, Wave3, Wave4, Wave5, Wave6","How closely do you follow major events in foreign countries/the world? | q67. Contacted other influential people outside the government | 67. If one could have only one child, it is more preferable to have a boy than a girl. | 67 A person should not insist on his own opinion if his co-workers disagree with him. | 67 If one could have only one child, it is more preferable to have a boy than a girl."
+q68,5,"Wave2, Wave3, Wave4, Wave5, Wave6","Have you traveled abroad before? If you have, how often do you travel abroad? | q68. Contacted news media | 68. When dealing with others, one should not be preoccupied with temporary gains and losses. | 68 Wealth and poverty, success and failure are all determined by fate. | 68 In the past three years, have you ever contacted elected officials or legislative representatives at any level?"
+q69,5,"Wave2, Wave3, Wave4, Wave5, Wave6","How often do you have personal contact with foreigners? | q69. Here is a list of actions that people sometimes take as citizens. For each of these, please tell me whether you, personally, have never, once, or more than once done any of these things during the past three years.   Got together with others to try t | 69 In the past three years, have you ever contacted elected officials or legislative representatives at any level-3 categories | 69 If one could have only one child, it is more preferable to have a boy than a girl. | 69  Contacted civil servants or officials"
+q7,5,"Wave2, Wave3, Wave4, Wave5, Wave6","Trust in Prime Minister or president | q7. I'm going to name a number of institutions. For each one, please tell me how much trust do you have in them? The president | 7 Trust in the excutive office (president or prime minister)"
+q70,5,"Wave2, Wave3, Wave4, Wave5, Wave6","We should give up gains in the present for the possibility of larger gains in the future | q70. Got together with others to raise an issue or sign a petition | 70  Contacted officials at higher level-3 categories. | 70 In the past three years, have you ever contacted elected officials or legislative representatives at any level | 70  Contacted other influential people outside the government, such as traditional leaders/community leaders"
+q71,5,"Wave2, Wave3, Wave4, Wave5, Wave6",Conflict among political groups is not a bad thing for our country | q71. Attended a demonstration or protest march | 71 Contacted traditional leaders/community leaders-3 categories | 71 Contacted civil servants or officials | 71  Contacted news media
+q72,5,"Wave2, Wave3, Wave4, Wave5, Wave6","If a government policy serves the interests of the majority of people, I should support it | q72. Used force or violence for a political cause | 72  Contacted other influential people outside the government-3 categories. | 72 Contacted other influential people outside the government, such as traditional leaders/community leaders. | 72  Signed a paper or online petition?"
+q73,5,"Wave2, Wave3, Wave4, Wave5, Wave6","The best way to deal with complicated political issues should be to leave them to the future | q73. Thinking of whether you voted or not ever since you became eligible for voting, how would you describe yourself -have you voted in every election, voted in most elections, voted in some elections or hardly ever voted? | 73  Contacted news media-3 categories | 73 Contacted news media | 73  Used the Internet including Social Media Networks to express opinions about politics"
+q74,5,"Wave2, Wave3, Wave4, Wave5, Wave6","Political reform should be introduced little-by-little instead of all-at-once | q74. Let's talk for a moment about the kind of government you would like to have in this country, which of the followings statements do you agree with most? Choose the first or the second statement. [Interviewer: Probe whether respondent strongly agrees o | 74 Whether you personally have ever got together with others to try to resolve local problems-3 categories | 74 Signed a paper petition | 74  Joined a group to activiely support a cause [including online]"
+q75,5,"Wave2, Wave3, Wave4, Wave5, Wave6","Cruel criminals should be punished immediately without regard to time-consuming legal processes | q75. Let's talk for a moment about the kind of government you would like to have in this country, which of the followings statements do you agree with most? Choose the first or the second statement. [Interviewer: Probe whether respondent strongly agrees o | 75 Got together with others to raise an issue or sign a petition-3 categories | 75 Signed an online petition | 75  Got together with others face-to face to try to resolve local problems"
+q76,5,"Wave2, Wave3, Wave4, Wave5, Wave6","For the sake of the national community/society, the individual should be prepared to sacrifice | q76. Let's talk for a moment about the kind of government you would like to have in this country, which of the followings statements do you agree with most? Choose the first or the second statement. [Interviewer: Probe whether respondent strongly agrees o | 76 Attended a demonstration or protest march-3 categories | 76 Used the internet including social media networks to express opinions about politics and government | 76  Attended a demonstration or protest march"
+q77,5,"Wave2, Wave3, Wave4, Wave5, Wave6","The most important thing for political leaders is to accomplish their goals even if they have to ignore the established procedure | q77. Let's talk for a moment about the kind of government you would like to have in this country, which of the followings statements do you agree with most? Choose the first or the second statement. [Interviewer: Probe whether respondent strongly agrees o | 77 Used force or violence for a political cause-3 categories | 77 Joined a group to actively support a cause(including online) | 77  Taken an action or done something for a political cause that put you in risk of getting injured"
+q78,5,"Wave2, Wave3, Wave4, Wave5, Wave6","If possible, I don't want to get involved in political matters | q78. Let's talk for a moment about the kind of government you would like to have in this country, which of the followings statements do you agree with most? Choose the first or the second statement. [Interviewer: Probe whether respondent strongly agrees o | 78 Thinking of whether you voted or not ever since you became eligible for voting, how would you describe yourself? | 78 Got together with others face-to-face to try to resolve local problems | 78 Thinking of whether you voted or not ever since you became eligible for voting, how would you describe yourself-have you voted in every election, voted in most elections, voted in some elections or hardly ever voted?"
+q79,5,"Wave2, Wave3, Wave4, Wave5, Wave6","Contacted government (administrative) official | q79. Let's talk for a moment about the kind of government you would like to have in this country, which of the followings statements do you agree with most? Choose the first or the second statement. [Interviewer: Probe whether respondent strongly agrees o | 79. Which of the following statements do you agree with most? | 79 Attended a demonstration or protest march | 79 In recent years and thinking about election campaigns, has a candidate or someone from a political party or campaign team offered you something, like food, cash, a gift, or a job in return for your vote or support?"
+q8,5,"Wave2, Wave3, Wave4, Wave5, Wave6",Trust in the Courts | q8. The courts | 8 The courts
+q80,5,"Wave2, Wave3, Wave4, Wave5, Wave6","Contacted officials at higher level | q80. Over the long run, our system of government is capable of solving the problems our country faces. | 80. which of the following statements do you agree with most? | 80 Taken an action or done something for a political cause that put you in a risk of getting injured | 80  Over the long run, our system of government is capable of solving the problems our country faces."
+q81,5,"Wave2, Wave3, Wave4, Wave5, Wave6","Contacted elected officials or legislative representatives at any level | q81. Thinking in general, I am proud of our system of government. | 81. which of the following statements do you agree with most? | 81 Thinking of whether you voted or not ever since you became eligible for voting, how would you describe yourself-have you voted in every election, voted in most elections, voted in some elections or hardly ever voted? | 81  Thinking in general, I am proud of our system of government."
+q82,5,"Wave2, Wave3, Wave4, Wave5, Wave6","Contacted officials of political parties or other political organizations | q82. A system like ours, even if it runs into problems, deserves the people's support. | 82. which of the following statements do you agree with most? | 82 which of the following statements do you agree with most?government leaders vs.their citizens | 82  A system like ours, even if it runs into problems, deserves the people's support."
+q83,5,"Wave2, Wave3, Wave4, Wave5, Wave6","Contacted representative of non-government/civil society organizations | q83. I would rather live under our system of government than any other that I can think of. | 83. Over the long run, our system of government is capable of solving the problems our country faces | 83 Which of the following statements do you agree with most? the problem of accountability | 83  I would rather live under our system of government than any other that I can think of."
+q84,5,"Wave2, Wave3, Wave4, Wave5, Wave6","Contacted traditional leaders/community leaders (IN: Mass media; TW/HK: Acquaintances in the government) | q84. Compared with other systems in the world, would you say our system of government works fine as it is, needs minor change, needs major change, or should be replaced? | 84. Thinking in general, I am proud of our system of government | 84 Which of the following statements do you agree with most? freedom of the press | 84 Would you say our system of government works fine as it is, needs minor change, needs major change, or should be replaced?"
+q85,5,"Wave2, Wave3, Wave4, Wave5, Wave6","Contacted other influential people | q85. Many things may be desirable, but not all of them are essential characteristics of democracy. If you have to choose only one from each four sets of statements that I am going to read, which one would you choose as the most essential characteristics o | 85 A system like ours, even if it runs into problems, deserves the people's support | 85 Which of the following statements do you agree with most? political leader | 85 Which one would you choose as the most essential characteristics of a democracy: Set 1?"
+q86,5,"Wave2, Wave3, Wave4, Wave5, Wave6","Refused to pay taxes or fees to the government | q86. If you have to choose only one from each four sets of statements that I am going to read, which one would you choose as the most essential characteristics of a democracy? | 86. I would rather live under our system of government than any other that I can think of | 86 Over the long run, our system of government is capable of solving the problems our country face | 86 Which one would you choose as the most essential characteristics of a democracy: Set 2?"
+q87,5,"Wave2, Wave3, Wave4, Wave5, Wave6","Got together with others to raise an issue or sign a petition | q87. If you have to choose only one from each four sets of statements that I am going to read, which one would you choose as the most essential characteristics of a democracy? | 87. would you say our system of government works fine as it is, needs minor change, needs major change, or should be replaced? | 87 Thinking in general, I am proud of our system of government | 87 Which one would you choose as the most essential characteristics of a democracy: Set 3?"
+q88,5,"Wave2, Wave3, Wave4, Wave5, Wave6","Attended a demonstration or protest march | q88. If you have to choose only one from each four sets of statements that I am going to read, which one would you choose as the most essential characteristics of a democracy? | 88  which one would you choose as the most essential characteristics of a democracy? | 88 A system like ours, even if it runs into problems, deserves the people's support | 88 Which one would you choose as the most essential characteristics of a democracy: Set 4?"
+q89,5,"Wave2, Wave3, Wave4, Wave5, Wave6","Used force or violence for a political cause | q89. On the whole, how satisfied or dissatisfied are you with the way democracy works in [Country].  Are you …? | 89. which one would you choose as the most essential characteristics of a democracy? | 89 I would rather live under our system of government than any other that I can think of. | 89 To you, what does “democracy” mean? (open-ended) <optional>"
+q9,5,"Wave2, Wave3, Wave4, Wave5, Wave6",Trust in the national government | q9. The national government [in capital city] | 9 National government in the capital city
+q90,5,"Wave2, Wave3, Wave4, Wave5, Wave6","Thinking of whether you voted or not ever since you became eligible for voting, how would you describe yourself-have you voted | q90. In your opinion how much of a democracy is [Country Name] ? | 90. which one would you choose as the most essential characteristics of a democracy? | 90 Would you say our system of government works fine as it is, needs minor change, needs major change, or should be replaced? | 90 On the whole, how satisfied or dissatisfied are you with the way democracy works in the country?"
+q92,5,"Wave2, Wave3, Wave4, Wave5, Wave6","People often differ in their views on the characteristic that is essential to democracy. If you have to choose only one of the things | q92. Where would you place our country ten years ago? | 92 On the whole, how satisfied or dissatisfied are you with the way democracy works in the country? | 92 Politics is clean and free of corruption | 92 Where would you place our country under the present government?"
+q93,5,"Wave2, Wave3, Wave4, Wave5, Wave6","On the whole, how satisfied or dissatisfied are you with the way democracy works in [country]? | q93. Where would you want our country to be in the future? | 93. In your opinion how much of a democracy is the country? | 93 People have the freedom to take part in protests and demonstrations | 93 Where would you place our country ten years ago?"
+q94,5,"Wave2, Wave3, Wave4, Wave5, Wave6","In your opinion how much of a democracy is [country]? | q94. Here is a similar scale of 1 to 10 measuring the extent to which people think democracy is suitable for our country. If ""1"" means that democracy is completely unsuitable for [name of country] today and ""10"" means that it is completely suitable, where | 94 Where would you place our country under the present government? | 94 When making laws, the government seek advice from religious authorities | 94 Where would you expect our country to be ten years from now?"
+q95,5,"Wave2, Wave3, Wave4, Wave5, Wave6","Where would you place our country during the period of [the name of the most recent government under authoritarian rule]? | q95. How satisfied or dissatisfied are you with the [name of president, etc. ruling current] government?  Are you …? | 95 Where would you place our country ten years ago? | 95 Political leaders rule by following their own wisdom rathan than people's preferences to ensure a society's collective welfare | 95 Where would you place our country today? Democracy is suitable or not"
+q96,5,"Wave2, Wave3, Wave4, Wave5, Wave6","Where would you place our country under the present government? | q96. In your opinion, what are the most important problems facing this country that government should address? | 96 Where would you expect our country to be ten years from now? | 96 Rule by one party that represents the interests of all classes | 96 How satisfied or dissatisfied are you with the current president/government?"
+q97,5,"Wave2, Wave3, Wave4, Wave5, Wave6",To what extent would you want our country to be democratic now? | q97. How likely is it that the government will solve the most important problem you identified within the next five years? [Read out options] | 97 Whether you think democracy is suitable for our country | 97 Qualified candidates are pre-selected by religious leaders | 97 What are the most important problems facing this country that government should address? First
+q98,5,"Wave2, Wave3, Wave4, Wave5, Wave6","Which would you think democracy is suitable for our country? | q98. Now I am going to read to you a list of statements that describe how people often feel about the state of affairs in [country name]. Please tell me whether you strongly agree, somewhat agree, somewhat disagree, or strongly disagree with each of these | 98 How satisfied or dissatisfied are you with the current government? | 98 If you have to choose only one, which of the following you think is the most essential element of a democracy? | 98 How likely is it that the government will solve the most important problem you identified within the next five years?"
+q99,5,"Wave2, Wave3, Wave4, Wave5, Wave6","How satisfied or dissatisfied are you with the [name of present] government? | q99. Political parties or candidates in our country have equal access to the mass media during the election period. | 99 What are the first most important problems facing this country? 1st | 99 On the whole, how satisfied or dissatisfied are you with the way democracy works in our country? | 99 Citizens are able to remove a government they don't like through elections."
+country,4,"Wave1, Wave2, Wave3, Wave4",Country | Country Code | Country code
+idnumber,4,"Wave1, Wave2, Wave3, Wave4",idnumber | Interview Numbers | case number
+q162,4,"Wave2, Wave4, Wave5, Wave6","Impression: International Monetary Fund or IMF | 162 Given the chance, how willing would you be to go and live in another country | 162 The following is a hypothetical question: If your family were unfortunate enough to lose its main source of income, how serious would it be for your family? | 162 The following is a hypothetical question: If you were unfortunate enough to lose your main source of income, how serious would it be for you and your family?"
+q163,4,"Wave2, Wave4, Wave5, Wave6","Impression: World Bank | 163 Which country has the most influence in Asia? | 163 Considering all the effort that you and your family members have made in the past, do you think the income that your family currently receives is fair or not fair?"
+q164,4,"Wave2, Wave4, Wave5, Wave6","Impression: United States | 164 Does the United States do more good or harm to the region? | 164 As compared to my parent's generation, my generation has more or fewer opportunities to improve one's standard of living or social status? | 164 As compared to my parent's generation, my generation has more or fewer opportunities to improve the standard of living or   social status?"
+q165,4,"Wave2, Wave4, Wave5, Wave6",Impression: China | 165 Does China do more good or harm to the region? | 165 Will the next generation have had a better or worse life than our generation?
+q166,4,"Wave2, Wave4, Wave5, Wave6","Impression: Japan | 166 In ten years, which country will have the most influence in Asia? | 166 How proud are you to be a citizen of the country? | 166 How proud are you to be a citizen of (COUNTRY)? Are you..."
+q21,4,"Wave3, Wave4, Wave5, Wave6",q21. Second Organization | 21. Name of the organization you belong to. Second | 21  Which organization you participate most actively in the last 12 months? | 21 Which organization you participate most actively in the last 12 months?'
+q22,4,"Wave3, Wave4, Wave5, Wave6","q22. Third Organization | 22. Name of the organization that you belong to. Third | 22 Would you say that ""Most people can be trusted"" or ""that you must be very careful in dealing with people""? | 22 Would you say that 'Most people can be trusted' or 'that you must be very careful in dealing with people'?"
+q52,4,"Wave2, Wave3, Wave4, Wave5","When you get together with your family members or friends, how often do you discuss political matters? | q52. For the sake of national interest, individual interest could be sacrificed. | 52. How often do you use the Internet or social media networks to express your opinion about politics and government? | 52 Which one is the most important channel for you to find information about politics and government?"
+q91,4,"Wave3, Wave4, Wave5, Wave6",q91. Here is a scale: 1 means completely undemocratic and 10 means completely democratic. Where would you place our country under the present government? | 91. which one would you choose as the most essential characteristics of a democracy? | 91 The courts protects the ordinary people from the abuse of government power | 91 In your opinion how much of a democracy is our country?
+ir10a,3,"Wave2, Wave3, Wave4",Was the interview conducted with the assistance of an interpreter? | IR10a. Was the interview conducted with the assistance of an interpreter? | ir10a Was the interview conducted with the assistance of an interpreter?
+ir12a,3,"Wave2, Wave3, Wave4",What is the condition of the road leading to the interviewee's residence? | IR12a. Post-office | ir12a. Post-office
+ir12b,3,"Wave2, Wave3, Wave4",Is tap water the main source of drinking water? | IR12b. School | ir12b. School
+ir12c,3,"Wave2, Wave3, Wave4",Is electricity the main source of lighting? | IR12c. Police station | ir12c. Police station
+ir12d,3,"Wave2, Wave3, Wave4",How far is it between the nearest public transportation stop and the respondent's house? | IR12d. Sewerage system that most houses could access | ir12d. Sewerage system that most houses could access
+ir2,3,"Wave2, Wave3, Wave4",Is this the first questionnaire interviewers have completed? | IR2. Is this the first questionnaire you have completed? | ir2 Is this the first questionnaire you have completed?
+ir2a,3,"Wave2, Wave3, Wave4",Interviewer's gender | IR2a. Interviewer's gender | ir2a Interviewer's gender
+ir2b,3,"Wave2, Wave3, Wave4",Interviewer's age | IR2b. Interviewer's Age | ir2b Interviewer's Age
+ir3,3,"Wave2, Wave3, Wave4","In the interview, other than the respondents, were others present? | IR3. In the interview, other than the respondent, were others present? | ir3 In the interview, other than the respondent, were others present?"
+ir4,3,"Wave2, Wave3, Wave4",Has the respondent ever refused to be interviewed during the whole process? | IR4. Has the respondent ever refused to be interviewed during the whole process? | ir4 Has the respondent ever refused to be interviewed during the whole process?
+ir5,3,"Wave2, Wave3, Wave4",Has the respondent ever felt impatient during the interview? | IR5. Has the respondent ever felt impatient during the interview? | ir5 Has the respondent ever felt impatient during the interview?
+ir6,3,"Wave2, Wave3, Wave4",How cooperative was the respondent during the interview? | IR6. How cooperative was the respondent during the interview? | ir6 How cooperative was the respondent during the interview?
+ir7,3,"Wave2, Wave3, Wave4",How sincere was the respondent when answering sensitive questions? | IR7. How sincere was the respondent when answering sensitive questions? | ir7 How sincere was the respondent when answering sensitive questions?
+ir8,3,"Wave2, Wave3, Wave4",What proportion of the questions do you feel the respondent had difficulty answering? | IR8. What proportion of the questions do you feel the respondent had difficulty answering? | ir8 What proportion of the questions do you feel the respondent had the difficulty answering?
+level3,3,"Wave1, Wave2, Wave3",urban-rural | Urban-rural
+q157a,3,"Wave3, Wave5, Wave6",q157a. Does China do more good or harm to the region? | 157a Do you strongly agree or just agree with the chosen statement?
+q160,3,"Wave2, Wave3, Wave4","Impression: The European Community or European Union | q160. How much influence does China have on our country? | 160 As compared to my parent's generation, my generation has more or fewer opportunities to improve one's standard of living or social status?"
+q167,3,"Wave4, Wave5, Wave6","167 Which country should be a model for our own country's future development? | 167 Given the chance, how willing would you be to go and live in another country?"
+q168,3,"Wave4, Wave5, Wave6","168 How much influence does China have on our country? | 168 Under a democratic system, the country endures poor economic performance | 168 In order to solve the country’s urgent problems, a leader can govern the country by decrees and disregard the parliament if necessary"
+q169,3,"Wave4, Wave5, Wave6","169 General speaking, the influence China has on our country is? | 169 Democratic regimes are indecisive and full of problems | 169 As long as a government can solve our country’s economic problem, it does not matter if the government holds regular elections or not"
+q170,3,"Wave4, Wave5, Wave6",170 How much influence does the United States have on our country? | 170 Democratic systems are not effective at maintaining order and stability | 170This country needs a leader who can break the rules if necessary to get things done
+q171,3,"Wave4, Wave5, Wave6","171 General speaking, the influence the United States has on our country is? | 171 The citizens in our country are not prepared for a democratic system | 171 As long as the government can maintain order and stability in the country, it does not matter whether it is democratic or undemocratic"
+q34a,3,"Wave4, Wave5, Wave6",34a Did the respondent vote for the winning or losing camp?
+se10a,3,"Wave2, Wave3, Wave4","SE 10.1 Car/Jeep/Van | SE10a. Is he or she currently self-employed (including business owners), working in a family business, or working for an outsid | se10a Is he or she curently self-employed, working in family business or working for an outside employer?"
+se10b,3,"Wave2, Wave3, Wave4",SE 10.2 Tractor | SE10b. How many people do his or her business employ? | se10b How many people does his or her business employ?
+se10c,3,"Wave2, Wave3, Wave4",SE 10.3 Color or B/W Television | SE10c. What is his or her job title and job description?<The code number of ISCO> | se10c What is his/her job title (ISCO code)
+se10d,3,"Wave2, Wave3, Wave4",SE 10.4 Cable Television | SE10d. Is he or she currently seeking employment? | se10d Is he or she currently seeking employment?
+se10e,3,"Wave2, Wave3, Wave4",SE 10.5 Scooter/Motorcycle/Moped | SE10e. What is his or her current status? | se10e What is his or her current status?
+se11,3,"Wave2, Wave3, Wave4",What language do you speak the most in the Home? | SE11. LANGUAGE: What language do you speak the most in the home? | se11 What language do you speak the most in the home?
+se2,3,"Wave2, Wave3, Wave4",Gender | SE2. GENDER | se2 Gender
+se4,3,"Wave2, Wave3, Wave4",Marital Status | SE4. MARITAL STATUS | se4 Marital Status
+se5,3,"Wave2, Wave3, Wave4",Education | SE5. EDUCATION | se5 Education
+se5a,3,"Wave2, Wave3, Wave4",Years of formal education | SE5a. How many years of formal education you have received? | se5a How many year of formal education have you received
+se6,3,"Wave2, Wave3, Wave4",Religion | SE6. RELIGION | se6 Religion
+se7,3,"Wave2, Wave3, Wave4",Religiosity | SE7. RELIGIOSITY: About how often do you practice religious services or rituals these days? | se7 Religiosity
+se7a,3,"Wave2, Wave3, Wave4","Would you describe yourself as very religious? | SE7a. Would you describe yourself as very religious, moderately religious, lightly religious, not religious at all? | se7a Would you describe yourself as very religious, moderately religious, lightly religious, not religious at all?"
+se8a,3,"Wave2, Wave3, Wave4",How many people live in this household? | SE8a. How many people live in this household? | se8a How many people live in this household?
+se8b,3,"Wave2, Wave3, Wave4",How many generations of family members live in this household? | SE8b. How many generations of family members live in this household? | se8b How many generations of family members live in this household?
+se9,3,"Wave2, Wave3, Wave4",Monthly Household Income | SE9. Are you currently employed?(respondent) | se9 Are you current employed?
+se9a,3,"Wave2, Wave3, Wave4","Does the total income of your household allow you to satisfactorily cover your needs? | SE9a. Are you currently self-employed (including business owners), working in a family business, or working for an outside emp | se9a Are you current self-employed, working in a family business or an outside employer?"
+COUNTRY,2,"Wave5, Wave6",Country code
+IR10,2,"Wave5, Wave6",ir10 Language in which interview was conducted | IR10 Language in which interview was conducted
+IR10a,2,"Wave5, Wave6",ir10a Was the interview conducted with the assistance of an interpreter? | IR10a Was the interview conducted with the assistance of an interpreter?
+IR11a,2,"Wave5, Wave6","ir11a What is the condition of the road leading to interviewee's residence? | IR11a Based on your observation, what is the condition of the road leading to interviewee's residence?"
+IR11b,2,"Wave5, Wave6",ir11b  Please identify the main source of drinking water in the household? | IR11b Please identify the main source of drinking water in the household?
+IR11c,2,"Wave5, Wave6",ir11c Is electricity the main source of lighting in the house? | IR11c Is electricity the main source of lighting in the house?
+IR11d,2,"Wave5, Wave6",ir11d Is this neighborhood coverd by mobile phone network(signals)? | IR11d Is this neighborhood covered by mobile network?
+IR12,2,"Wave5, Wave6","ir12 Were the following services present within the neighborhood,estimate the distance of services by | IR12 Were the following services present within the neighborhood (i.e., within walking or easy driving distance)"
+IR13,2,"Wave5, Wave6",ir13 Which of the following levels within the country the respondent live? | IR13 Which of the following levels within the country the respondent live?
+IR2c,2,"Wave5, Wave6",ir2c What kind of language do you normally use at home? | IR2c What kind of language do you normally use at home?
+IR3,2,"Wave5, Wave6","ir3 In the interview, other than the respondent, were others present? | IR3 In the interview, other than the respondent, were others present?"
+IR3a_1,2,"Wave5, Wave6",ir3a_1 Respondent's spouse | IR3a_1 Respondent's spouse
+IR3a_2,2,"Wave5, Wave6",ir3a_2 Children | IR3a_2 Children
+IR3a_3,2,"Wave5, Wave6",ir3a_3 Parents or parents-in-law | IR3a_3 Parents or parents-in-law
+IR3a_4,2,"Wave5, Wave6",ir3a_4 Neighbors/passers by | IR3a_4 Neighbors/passers by
+IR3a_5,2,"Wave5, Wave6",ir3a_5 Party/government official | IR3a_5 Party/government official
+IR4,2,"Wave5, Wave6",ir4 Has the respondent ever refused to be interviewed during the whole process? | IR4 Has the respondent ever refused to be interviewed during the whole process?
+IR5,2,"Wave5, Wave6",ir5 Has the respondent ever felt impatient during the interview? | IR5 Has the respondent ever felt impatient during the interview?
+IR6,2,"Wave5, Wave6",ir6 How cooperative was the respondent during the interview? | IR6 How cooperative was the respondent during the interview?
+IR7,2,"Wave5, Wave6",ir7 How sincere was the respondent when answering sensitive questions? | IR7 How sincere was the respondent when answering sensitive questions?
+IR8,2,"Wave5, Wave6",ir8 What proportion of the questions do you feel the respondent had difficulty answering? | IR8 What proportion of the questions do you feel the respondent had difficulty answering?
+SE10,2,"Wave5, Wave6",se10 Are you the main earner in your household? | SE10 Are you the main earner in your household?
+SE10_1,2,"Wave5, Wave6",se10_1 Is the main earner in your household currently employed? | SE10_1 Is the main earner in your household currently employed?
+SE12,2,"Wave5, Wave6",se12 Where would you place your family on the following scale? | SE12 SUBJECTIVE SOCIAL STATUS
+SE14,2,"Wave5, Wave6",se14 What group your household income on average is? | SE14 Monthly household income
+SE2,2,"Wave5, Wave6",se2 Gender | SE2 Gender
+SE3,2,"Wave5, Wave6",se3 Birth year | SE3 Birth year
+SE3_1,2,"Wave5, Wave6",se3_1 Actual age | SE3_1 Actual age
+SE4,2,"Wave5, Wave6",se4 Marital status | SE4 MARITAL STATUS
+SE5,2,"Wave5, Wave6",se5 Education | SE5 EDUCATION
+SE6,2,"Wave5, Wave6",se6 Religion | SE6 Religion
+SE7,2,"Wave5, Wave6",se7 Religiosity | SE7 RELIGIOSITY: About how often do you practice religious services or rituals these days?
+SE9,2,"Wave5, Wave6",se9 Are you current employed? | SE9 Are you currently employed?
+Se10c_3,2,"Wave5, Wave6",se10c_3 Extended application. Elite vs. Mass | SE10c_3 Extended application. Elite vs. Mass
+Se10c_4,2,"Wave5, Wave6",se10c_4 Extended application. White vs. blue collar | SE10c_4 Extended application. White vs. blue collar
+Se9c_3,2,"Wave5, Wave6",se9c_3 Extended application. Elite vs. Mass | SE9c_3 Extended application. Elite vs. Mass
+Se9c_4,2,"Wave5, Wave6",se9c_4 Extended application. White vs. blue collar | SE9c_4 Extended application. White vs. blue collar
+fgnum,2,"Wave1, Wave2",number of formal group | Number of formal group
+ir1,2,"Wave3, Wave4",IR1. Interviewer's number | ir1 Interviewer's number
+ir10,2,"Wave3, Wave4",IR10. Language in which interview was conducted | ir10 Language in which interview was conducted
+ir11a,2,"Wave3, Wave4",IR11a. What is the condition of the road leading to interviewee's residence? | ir11a What is the condition of the road leading to interviewee's residence?
+ir11b,2,"Wave3, Wave4",IR11b. Please identify the main source of drinking water in the household? | ir11b Is there tape water in the household?
+ir11c,2,"Wave3, Wave4",IR11c. Is electricity the main source of lighting in the house? | ir11c Is electricity the main source of lighting in the house?
+ir11d,2,"Wave3, Wave4","IR11d. In terms of walking distance, how far is it between the nearest public transportation stop (bus, train, ferry, tram, etc) and the respondent's house? | ir11d Is this neighborhood covered by mobil phone network?"
+ir12,2,"Wave3, Wave4","IR12. Were the following services present within the neighborhood (i.e., within walking or easy driving distance).Estimate the distance of these services by: | ir12 Were the following services present within the neighborhood, estimate the distance of services by .."
+ir12e,2,"Wave3, Wave4",IR12e. Health clinic | ir12e. Health clinic
+ir12f,2,"Wave3, Wave4",IR12f. Signal for cellular phone | ir12f. Signal for cellular phone
+ir12g,2,"Wave3, Wave4","IR12g. Recreational facilities, e.g., a sports field | ir12g. Recreational facilities, e.g., a sports field"
+ir12h,2,"Wave3, Wave4","IR12h. Any churches, mosques, temples or other public places of worship | ir12h. Any churches, mosques, temples or other public places of worship"
+ir12i,2,"Wave3, Wave4",IR12i. Any town halls or community buildings that can be used for meetings | ir12i. Any town halls or community buildings that can be used for meetings
+ir13,2,"Wave3, Wave4",IR13. Which of the following levels within the country the respondent live? | ir13 Which of the following levels within the country the respondent live?
+ir2c,2,"Wave3, Wave4",IR2c. What kind of language do you normally use at home?[Country-specific] | ir2c What kind of language do you normally use at home?
+ir3a,2,"Wave3, Wave4",Who were they? (Multiple answers allowed) | ir3a Who were they?
+q119_1,2,"Wave2, Wave3",119_1 Personally witnessed
+q119_2,2,"Wave2, Wave3",119_2 Told about it by family member
+q119_3,2,"Wave2, Wave3",119_3 Told about it by friend
+q143a,2,"Wave3, Wave6","Harmony of the community | 143aWhen there is a public health challenge like the coronavirus, is it justifiable for the government to postpone elections?"
+q147a,2,"Wave1, Wave3",A political leader should not tolerate the views of those who challenge his political ideals | chaotic
+q156_1,2,"Wave5, Wave6",156_1 Our country should do more to learn from other countries(q156+q156a)
+q156a,2,"Wave5, Wave6",156a Do you strongly agree or just agree with the chosen statement?
+q157_1,2,"Wave5, Wave6",157_1 Our country should do more trade with other countries(q157+q157a)
+q160a,2,"Wave5, Wave6",160a It is the responsibility of the government to narrow the gap between the rich and the poor | 160a Narrow the gap between the rich and the poor
+q160b,2,"Wave5, Wave6",160b It is the responsibility of the government to make sure that everyone has affordable housing | 160b Make sure that everyone has affordable housing
+q160c,2,"Wave5, Wave6",160c It is the responsibility of the government to make sure that everyone has access to basic medical care | 160c Make sure that everyone has access to basic medical care
+q160d,2,"Wave5, Wave6",160d It is the responsibility of the government to make sure that basic necessitities such as food and shelters are provided for everyone | 160d Make sure that basic necessities such as food and shelters are provided for everyone
+q172,2,"Wave4, Wave5",172 How close do you feel to ASEAN? (ASEAN countries only) | 172 Democracy negatively affects social and ethical values in our country
+q173,2,"Wave5, Wave6","173 As long as a government can solve our country's economic problem, it does not matter if it is democratic or not democratic | 173 Which country has the most influence in Asia?"
+q174,2,"Wave5, Wave6",174 Which country has the most influence in Asia? | 174 Does USA do more good or harm to the Asia?
+q175,2,"Wave5, Wave6","175 Does the United States do more good or harm to Asia? | 175 Generally speaking, the influence the United States today has on world affairs is?"
+q176,2,"Wave5, Wave6",176 The influence of the U.S. on world affairs today is negative or positive? | 176 Does China do more good or harm to the Asia?
+q177,2,"Wave5, Wave6","177  Does China do more good or harm to Asia? | 177 Generally speaking, the influence China today has on world affairs is?"
+q178,2,"Wave5, Wave6","178 The infulece of China on world affairs today is negative or positive? | 178 Generally speaking, the influence the E.U. today has on world affairs is?"
+q179,2,"Wave5, Wave6","179 In ten years, which country will have the most influence in Asia? | 179  In ten years, which country will have the most influence in Asia?"
+q180,2,"Wave5, Wave6",180 Which country should be a model for our own country's future development?
+q181,2,"Wave5, Wave6",181 How much influence does China have on our country?
+q182,2,"Wave5, Wave6","182 General speaking, the influence China has on our country is? | 182 Generally speaking, the influence China has on our country is?"
+q183,2,"Wave5, Wave6",183 How much influence does the United States have on our country? | 183 How much influence does USA have on our country?
+q184,2,"Wave5, Wave6","184 General speaking, the influence the United States has on our country is? | 184 General speaking, the influence USA has on our country is?"
+q185,2,"Wave5, Wave6",185 Which aspect about the Asian power's influence and impact you have in mind when answering the above questions? | 185 Which aspect of the major power’s influence and impact you have in mind when answering the above questions?
+q186,2,"Wave5, Wave6",186 How close do you feel to ASEAN?(ASEAN countries only)? | 186 How close do you feel to ASEAN? (ASEAN countries only)
+q51,2,"Wave3, Wave4","q51. In a group, we should sacrifice our individual interest for the sake of the group's collective interest. | 51. How often do you use the Internet or social media networks to find information about politics and government?"
+q51a,2,"Wave2, Wave5",From Q51 Which is most important | 51a You use social media primarily to connect with other people
+q74a,2,"Wave3, Wave4",q74a. Do you strongly agree or just agree with the chosen statement? | 74a Whether you personally have ever got together with others to try to resolve local problems-4 categories
+q75a,2,"Wave3, Wave4",q75a. Do you strongly agree or just agree with the chosen statement? | 75a Got together with others to raise an issue or sign a petition-4 categories
+q76a,2,"Wave3, Wave4",q76a. Do you strongly agree or just agree with the chosen statement? | 76a Attended a demonstration or protest march-4 categories
+q77a,2,"Wave3, Wave4",q77a. Do you strongly agree or just agree with the chosen statement? | 77a Used force or violence for a political cause-4 categories
+q79a,2,"Wave3, Wave4",q79a. Do you strongly agree or just agree with the chosen statement? | 79a. Do you strongly agree or just agree with the chosen statement?
+q82a,2,"Wave4, Wave5",82a. Do you strongly agree or just agree with the chosen statement? | 82a Do you strongly agree or just agree with the chosen statement?
+se10,2,"Wave3, Wave4",SE10. Are you the main earner in your household?(Chief wage earner)<Optional> | se10.  Are you the main earner in your household?
+se10_1,2,"Wave3, Wave4",SE10_1. Is the main earner in your household currently employed? | se10_1 Is the main earner in your household currently employed?
+se12,2,"Wave3, Wave4",SE12. SUBJECTIVE SOCIAL STATUS | se12 Where would you place your family on the following scale? -10 scales
+se12a,2,"Wave2, Wave4",Main Occupation | se12 Where would you place your family on the following scale? -5 scales
+se13,2,"Wave2, Wave3",Subjective Social Status | SE13. HOUSEHOLD INCOME
+se13a,2,"Wave3, Wave4",SE13a. Does the total income of your household allow you to satisfactorily cover your needs? | se13a Where would you put yourself on this staircase?
+se14a,2,"Wave3, Wave4",SE14a. Car/Jeep/Van | se14a Does the total income of your household allow you to satisfactorily cover your needs?
+se15a_1,2,"Wave4, Wave5",se15a_1 How many? | Se15a_1 How many?
+se15n_1,2,"Wave4, Wave5",se15n_1 How many | Se15n_1 How many?
+se15o_1,2,"Wave4, Wave5",se15o_1 How many? | Se15o_1 How many?
+se3a,2,"Wave2, Wave3",Age | SE3a.ACTUAL AGE
+se8c,2,"Wave3, Wave4","Actual count(INCLUDE servants, transients/boarders) | se8c INCLUDE servants, transients/boarders"
+se8d,2,"Wave3, Wave4","Actual count(EXCLUDE servants, transients/boarders) | se8d EXCLUDE servants, transients/boarders"
+se9b,2,"Wave3, Wave4",SE9b. How many people does your business employ? | se9b How many people does your business employ?
+se9c,2,"Wave3, Wave4",SE9c. What is your job title and job description?<The code number of ISCO> | se9c What is your job title (ISCO code)
+se9d,2,"Wave3, Wave4",SE9d. Are you currently seeking employment? | se9d Are you currently seeking employment?
+se9e,2,"Wave3, Wave4",SE9e. What is your current status? | se9e What is your current status?
+w,2,"Wave4, Wave5",Individual country weight | Weight factor
+w_all,2,"Wave1, Wave2",
+ACTUAL_COUNT_EXCLUDE,1,Wave6,"ACTUAL COUNT (EXCLUDE servants, transients/boarders)"
+ACTUAL_COUNT_INCLUDE,1,Wave6,"ACTUAL COUNT (INCLUDE servants, transients/boarders)"
+IDNUMBER,1,Wave6,case number
+IDnumber,1,Wave5,case number
+IR1,1,Wave6,IR1 Interviewer's number__________ (a three-digit code)
+IR11E,1,Wave5,"ir11e In terms of walking distance, how far is it between the nearest public transportation stop (bus, train, ferry, tram, etc.) and the respondent's house?"
+IR11e,1,Wave6,"IR11e In terms of walking distance, how far is it between the nearest public transportation stop (bus, train, ferry, tram, etc.) and the respondent's house?"
+IR12A,1,Wave5,ir12a. Post-office
+IR12B,1,Wave5,ir12b. School
+IR12C,1,Wave5,ir12c. Police station
+IR12D,1,Wave5,ir12d. Sewerage system that most houses could access
+IR12E,1,Wave5,ir12e. Health clinic
+IR12F,1,Wave5,ir12f. Signal for cellular phone
+IR12G,1,Wave5,"ir12g. Recreational facilities, e.g., a sports field"
+IR12H,1,Wave5,"ir12h. Any churches, mosques, temples or other public places of worship"
+IR12I,1,Wave5,ir12i. Any town halls or community buildings that can be used for meetings
+IR12K,1,Wave5,ir12K. Market stalls (selling groceries and/or clothing)
+IR12a,1,Wave6,IR12a Post-office
+IR12b,1,Wave6,IR12b School
+IR12c,1,Wave6,IR12c Police station
+IR12d,1,Wave6,IR12d Sewerage system that most houses could access
+IR12e,1,Wave6,IR12e Health clinic
+IR12f,1,Wave6,IR12f Signal for cellular phone
+IR12g,1,Wave6,"IR12g Recreational facilities, e.g., a sports field"
+IR12h,1,Wave6,"IR12h Any churches, mosques, temples or other public places of worship"
+IR12i,1,Wave6,IR12i Any town halls or community buildings that can be used for meetings
+IR12k,1,Wave6,IR12k Market stalls (selling groceries and/or clothing)
+IR2,1,Wave6,IR2 Is this the first questionnaire you have completed?
+IR2a,1,Wave6,IR2a Interviewer's gender
+IR2b,1,Wave6,IR2b Interviewer's Age____
+IR2c_other,1,Wave6,IR2c_other
+IR3a_6,1,Wave5,ir3a_6 Others
+IR3a_6_other,1,Wave6,IR3a_6_other
+IR3a_6_other_clarify,1,Wave6,IR3a_other_clarify
+Ir1,1,Wave5,ir1 Interviewer's number
+Ir2,1,Wave5,ir2 Is this the first questionnaire you have completed?
+Ir2A,1,Wave5,ir2a Interviewer's gender
+Ir2B,1,Wave5,ir2b Interviewer's Age
+LEVEL,1,Wave6,Rural or urban
+Level,1,Wave5,Rural or urban
+MONTH,1,Wave6,Interview month
+Month,1,Wave5,Interview month
+Q106c,1,Wave5,"106c:(India only) In your opinion, what are the most important problems facing this country that government should address? (1st response)"
+Q106d,1,Wave5,"106d:(India only) In your opinion, what are the most important problems facing this country that government should address? (2nd response)"
+Q106e,1,Wave5,"106e:(India only) In your opinion, what are the most important problems facing this country that government should address? (3rd response)"
+REGION,1,Wave6,Region
+Region,1,Wave5,Region
+SE10A,1,Wave5,"se10a Is he or she curently self-employed, working in family business or working for an outside employer?"
+SE10B,1,Wave5,se10b How many people does his or her business employ?
+SE10C,1,Wave5,se10c What is his/her job title (ISCO code)
+SE10D,1,Wave5,se10d Is he or she currently seeking employment?
+SE10E,1,Wave5,se10e What is his or her current status?
+SE10a,1,Wave6,"SE10a Is he or she currently self-employed, working in a family business, or working for an outside employer?"
+SE10b,1,Wave6,SE10b How many people do his or her business employ?
+SE10c,1,Wave6,SE10c Here is a list of different types of jobs. Which type of job does he/she have now?
+SE10d,1,Wave6,SE10d Is he or she currently seeking employment?
+SE10e,1,Wave6,SE10e What is his or her current status?
+SE10eother,1,Wave6,SE10eother
+SE11,1,Wave6,SE11 What language do you speak the most in the home?
+SE11a,1,Wave6,SE11a What is your racial or ethnic background?
+SE11aother,1,Wave6,SE11aother
+SE13A,1,Wave5,se13a Where would you put yourself on this staircase?
+SE13B,1,Wave5,se13b Where would you put your parents on this staircase?
+SE13C,1,Wave5,se13c Where do you think your children will be on this staircase?
+SE13a,1,Wave6,SE13a Where would you put yourself on the staircase?
+SE13b,1,Wave6,SE13b Where would you put your parents on the staircase?
+SE13c,1,Wave6,SE13c Where do you think your children will be?
+SE14A,1,Wave5,se14a Does the total income of your household allow you to satisactorily cover your needs?
+SE14a,1,Wave6,SE14a Does the total income of your household allow you to satisfactorily cover your needs?
+SE15A,1,Wave5,Se15a Do you or your fmaily own the following?Car/Jeep/Van
+SE15B,1,Wave5,Se15b Tractor
+SE15C,1,Wave5,Se15c Color or B/W Television
+SE15D,1,Wave5,Se15d Cable Televsion
+SE15E,1,Wave5,Se15e Scooter/Motorcycle/Moped
+SE15F,1,Wave5,Se15f Telephone
+SE15G,1,Wave5,Se15g Mobile Telephone
+SE15H,1,Wave5,Se15h Electric fan/cooler
+SE15I,1,Wave5,Se15i Bicycle
+SE15J,1,Wave5,Se15j Radio/transistor
+SE15K,1,Wave5,Se15k Pumping set
+SE15L,1,Wave5,Se15l Fridge
+SE15M,1,Wave5,Se15m Camera
+SE15N,1,Wave5,Se15n Goats/Sheep
+SE15O,1,Wave5,Se15o Cows/Buffalo
+SE15a,1,Wave6,SE15a Do you or your family own the following: Car/Jeep/Van?<optional>
+SE15a_1,1,Wave6,SE15a_1 How many?<optional>
+SE15b,1,Wave6,SE15b Tractor<optional>
+SE15c,1,Wave6,SE15c Color or B/W Television (Non-Cable)<optional>
+SE15d,1,Wave6,SE15d Cable Television<optional>
+SE15e,1,Wave6,SE15e Scooter/Motorcycle/Moped<optional>
+SE15f,1,Wave6,SE15f Telephone (Landline)<optional>
+SE15g,1,Wave6,SE15g Mobile Telephone<optional>
+SE15h,1,Wave6,SE15h Electric Fan/Cooler<optional>
+SE15i,1,Wave6,SE15i Bicycle<optional>
+SE15j,1,Wave6,SE15j Radio/Transistor<optional>
+SE15k,1,Wave6,SE15k Pumping Set<optional>
+SE15l,1,Wave6,SE15l Fridge<optional>
+SE15m,1,Wave6,SE15m Camera<optional>
+SE15n,1,Wave6,SE15n Goats/Sheep<optional>
+SE15n_1,1,Wave6,SE15n_1 How many?<optional>
+SE15o,1,Wave6,SE15o Cows/Buffalo<optional>
+SE15o_1,1,Wave6,SE15o_1 How many?<optional>
+SE15p,1,Wave6,SE15p Internet Connection at home<optional>
+SE15q,1,Wave6,SE15q Boat<optional>
+SE15q_1,1,Wave6,SE15q_1 How many?<optional>
+SE5A,1,Wave5,se5a How many year of formal education you have received?
+SE5a,1,Wave6,SE5a How many years of formal education you have received?
+SE6other,1,Wave6,SE6. Other specify responses
+SE7A,1,Wave5,"se7a Would you describe yourself as very religious, moderately religious, lightly religious, not religious at all?"
+SE7a,1,Wave6,SE7a How would you describe yourself?
+SE8A,1,Wave5,se8a How many people live in this household?
+SE8B,1,Wave5,se8b How many generations of family members live in this household?
+SE8a,1,Wave6,SE8a How many people live in this household?
+SE8b,1,Wave6,SE8b How many generations of family members live in this household?
+SE9A,1,Wave5,"se9a Are you current self-employed, working in a family business or an outside employer?"
+SE9B,1,Wave5,se9b How many people does your business employ?
+SE9C,1,Wave5,se9c What is your job title (ISCO code)
+SE9D,1,Wave5,se9d Are you currently seeking employment?
+SE9E,1,Wave5,se9e What is your current status?
+SE9a,1,Wave6,SE9a Are you currently self-employed?
+SE9b,1,Wave6,SE9b How many people does your business employ?
+SE9c,1,Wave6,SE9c Here is a list of different types of jobs. Which type of job do you have now?
+SE9d,1,Wave6,SE9d Are you currently seeking employment?
+SE9e,1,Wave6,SE9e What is your current status?
+SE9eother,1,Wave6,SE9e. Other specify responses
+Se10c_2,1,Wave5,se10c_2 What is his/her job title (EGP class)
+Se11,1,Wave5,se11 What language do you speak the most in the home?
+Se11a,1,Wave5,se11a What is your racial or ethnic background?
+Se9c_2,1,Wave5,se9c_2 What is your job title (EGP class)
+W,1,Wave6,weight_factor
+YEAR,1,Wave6,Interview year
+Year,1,Wave5,Interview year
+allweight,1,Wave3,individual country weight
+couweight,1,Wave3,cross-country weight
+fg,1,Wave4,fg. Whether the respondent is a member of formal organization
+ir001,1,Wave1,Interviewer_s number
+ir002,1,Wave1,Is this the first questionnaire the interviewer have completed?
+ir002a,1,Wave1,Interviewer_s gender
+ir002b,1,Wave1,Interviewer_s age
+ir003,1,Wave1,Presence of others other than the respondent while interviewing
+ir004,1,Wave1,Has the respondent ever refused to be interviewed during the whole process?
+ir005,1,Wave1,Has the respondent ever felt impatient during the interview?
+ir006,1,Wave1,How cooperative was the respondent during the interview?
+ir007_1,1,Wave1,date of interview: month
+ir007_2,1,Wave1,date of interview: day
+ir007_3,1,Wave1,date of interview: year
+ir009,1,Wave1,Was the interview conducted with the assisance of an interpreter
+ir010a,1,Wave1,What is the condition of the road leading to interview's residence
+ir010b,1,Wave1,How do rate the sanitary condition in the public area in the interviewee's nearby neighborhood
+ir010c,1,Wave1,Tell us whetherthe interviewee's residence has public water supply
+ir010d,1,Wave1,Tell us whetherthe interviewee's residence has electricity
+ir010e,1,Wave1,Walking distance between the nearest public transportation stop and the respondent's house
+ir11b_2,1,Wave4,ir11b_2 Please identify the main source of drinking water in the household?
+ir11e,1,Wave4,"ir11e In terms of walking distance, how far is it between the nearest public transportation stop (bus, train, ferry, tram, etc.) and the respondent's house?"
+ir12j,1,Wave4,ir12j. Market stalls (selling groceries and/or clothing)
+ir12k,1,Wave3,IR12k. Market stalls (selling groceries and/or clothing)
+ir13a,1,Wave2,A.  Post-office
+ir13b,1,Wave2,B.  School
+ir13d,1,Wave2,D.  Sewerage system that most houses could access
+ir13e,1,Wave2,E.  Health clinic
+ir13f,1,Wave2,F.  Signal for cellular phone
+ir13g,1,Wave2,"G.  Recreational facilities, e.g., a sports field"
+ir13h,1,Wave2,"H.  Any churches, mosques, temples or other public places of worship"
+ir13i,1,Wave2,I.  Any town halls or community buildings that can be used for meetings
+ir13k,1,Wave2,K.  Market stalls (selling groceries and/or clothing)
+ir14,1,Wave2,Which of the following levels within the country the respondent live?
+ir3a_1,1,Wave2,Spouse
+ir3a_1HK,1,Wave3,	Respondent’s spouse
+ir3a_2,1,Wave2,Children
+ir3a_2HK,1,Wave3,	Children
+ir3a_3,1,Wave2,Parents or parents in law
+ir3a_3HK,1,Wave3,	Parents or parents-in-law
+ir3a_4,1,Wave2,Neighbors/Passers by
+ir3a_4HK,1,Wave3,	Neighbors/Passers by
+ir3a_5,1,Wave2,Party/Government Official
+ir3a_5HK,1,Wave3,	Party/Government Official
+ir3a_6,1,Wave2,Others
+ir9,1,Wave3,Date of Interview____(month)____(date)_2010_(year)
+ir9_1,1,Wave2,Date of interview: month
+ir9_2,1,Wave2,Date of interview: day
+ir9_3,1,Wave2,Date of interview: year
+irII13c,1,Wave2,C.  Police station
+level,1,Wave4,Rural or urban
+month,1,Wave4,Interview month
+pgnum,1,Wave1,number of private group
+q001,1,Wave1,How would you rate the overall economic condition of our country today?
+q002,1,Wave1,How would you describe the change in the economic condition of our country over the past five years?
+q003,1,Wave1,What do you think will be the state of our country's economic condition five years from now?
+q004,1,Wave1,"As for your own family, how do you rate your economic situation today?"
+q005,1,Wave1,How would you compare the current economic condition of your family with what it was five years ago?
+q006,1,Wave1,What do you think the economic situation of your family will be five years from now?
+q007,1,Wave1,How much trust do you have in the courts?
+q008,1,Wave1,How much trust do you have in the national government?
+q009,1,Wave1,How much trust do you have in political parties?
+q010,1,Wave1,How much trust do you have in Parliament?
+q011,1,Wave1,How much trust do you have in civil service?
+q012,1,Wave1,How much trust do you have in the military?
+q013,1,Wave1,How much trust do you have in the police?
+q014,1,Wave1,How much trust do you have in local government?
+q015,1,Wave1,How much trust do you have in newspapers?
+q016,1,Wave1,How much trust do you have in television?
+q017,1,Wave1,How much trust do you have in the election commission?
+q018,1,Wave1,How much trust do you have in non-governmental organizations?
+q018_1,1,Wave1,TRUST POLICE STATION
+q018_2,1,Wave1,TRUST STATE OWNED ENTERPRISES
+q018_3,1,Wave1,TRUST PRIVATE ENTERPRISES
+q018_4,1,Wave1,TRUST FOREIGN ENTERPRISES
+q018_5,1,Wave1,TRUST OUR COUNTRY
+q018_6,1,Wave1,how much trust in radio?
+q018_7,1,Wave1,Local MP(q18_1)
+q018_8,1,Wave1,The Constitution Court(q18_2)
+q018_9,1,Wave1,The Corruption Commission(q18_3)
+q022,1,Wave1,How frequently do you participate?
+q023,1,Wave1,How often do you discuss politics?
+q024,1,Wave1,most people can be trusted??
+q025,1,Wave1,I have enough friends and connections so that I can get help if I need it
+q026,1,Wave1,"I have some friends with influence, so I don't have to worry too much if I get into a tight spot"
+q027,1,Wave1,Have you participated in last election?
+q028,1,Wave1,Which party did you vote for?
+q029,1,Wave1,Did you attend a campaign meeting or rally?
+q030,1,Wave1,Did you try to persuade others to vote for a certain candidate or party?
+q031,1,Wave1,Did you do anything else to help or show your support for a party or candidate running in the election?
+q032,1,Wave1,Asked to vote for a particular candidate?_FAMILY MEMBER/RELATIVE
+q033,1,Wave1,Asked following personally ask you to vote for a particular candidate?_SENIORS IN A CLAN OR EXTENDED FAMILY
+q034,1,Wave1,Asked to vote for a particular candidate?_NEIGHBOR/FRIEND
+q035,1,Wave1,Asked to vote for a particular candidate?_COMMUNITY LEADERS
+q036,1,Wave1,Asked to vote for a particular candidate?_SUPERIOR AT WORK/SCHOOL
+q037,1,Wave1,Asked to vote for a particular candidate?_OWNERS OF THE FIRM/UNIT THAT YOU WORK FOR
+q038,1,Wave1,Asked to vote for a particularcandidate?_MEMBER/OFFICIAL OF ORGANIZATION THAT YOU BELONG TO
+q039,1,Wave1,Asked to vote for a particular candidate?_GOVERNMENT OFFICIAL WHOM YOU KNOW PERSONALLY
+q040,1,Wave1,Asked to vote for a particular candidate?_GOVERNMENT OFFICIAL WHOM YOU DON'T KNOW
+q041,1,Wave1,Asked to vote for a particular candidate?_CANDIDATE/PARTY ACTIVIST WHOM YOU KNOW PERSONALLY
+q042,1,Wave1,Asked to vote for a particular candidate?_CANDIDATE/PARTY ACTIVIST WHOM YOU DONT KNOW
+q043,1,Wave1,Asked to vote for a particular candidate?_OTHERS
+q044,1,Wave1,Influential_FAMILY MEMBER/RELATIVE
+q045,1,Wave1,Influential_SENIORS IN A CLAN OR EXTENDED FAMILY
+q046,1,Wave1,Influential_NEIGHBOR/FRIEND
+q047,1,Wave1,Influential_COMMUNITY LEADERS
+q048,1,Wave1,Influential_SUPERIOR AT WORK/SCHOOL
+q049,1,Wave1,Influential_OWNERS OF THE FIRM/UNIT THAT YOU WORK FOR
+q050,1,Wave1,Influential_MEMBER/OFFICIAL OF ORGANIZATION THAT YOU BELONG TO
+q051,1,Wave1,Influential_GOVERNMENT OFFICIAL WHOM YOU KNOW PERSONALLY
+q052,1,Wave1,Influential_GOVERNMENT OFFICIAL WHOM YOU DON'T KNOW
+q053,1,Wave1,Influential_CANDIDATE/PARTY ACTIVIST WHOM YOU KNOW PERSONALLY
+q054,1,Wave1,Influential_CANDIDATE/PARTY ACTIVIST WHOM YOU DON'T KNOW
+q055,1,Wave1,Influential_OTHERS
+q056,1,Wave1,How interested would you say you are interested in politics?
+q057,1,Wave1,How often do you follow news about politics?
+q057a,1,Wave1,"How often do you follow news about politics in the daily newspaper, television, and radio?"
+q058,1,Wave1,How often do you follow news about politics in the daily newspaper?
+q059,1,Wave1,How often do you follow news about politics on television?
+q060,1,Wave1,How often do you follow news about politics on the radio?
+q061,1,Wave1,How much impact do you feel government policies have on your daily life?
+q062,1,Wave1,party feel closest to
+q063,1,Wave1,closeness
+q064,1,Wave1,"Even if parents' demands are unreasonable, children still should do what they ask?"
+q065,1,Wave1,"When hiring someone, even if a stranger is more qualified, the opportunity should still be given to relatives and friend"
+q066,1,Wave1,"When one has a conflict with a neighbor, the best way to deal with it is to accommodate the other person?"
+q067,1,Wave1,"Wealth and poverty, success and failure are all determined by fate?"
+q068,1,Wave1,A person should not insist on his own opinion if his co-workers disagree with him?
+q069,1,Wave1,"For the sake of the family, the individual should put his personal interests second?"
+q070,1,Wave1,A man will lose face if he works under a female supervisor?
+q071,1,Wave1,"If there is a quarrel, we should ask an elder to resolve the dispute?"
+q072,1,Wave1,"When a mother-in-law and a daughter-in-law come into conflict, even if the mother-in-law is in the wrong, the husband sh"
+q073,1,Wave1,Contacted any government official to express your opinions?
+q074,1,Wave1,Contacted officials to express your opinions at higher level?
+q075,1,Wave1,contacted elected legislative representatives at any level?
+q076,1,Wave1,Contacted political parties or other political organizations?
+q077,1,Wave1,Contacted non-government/civil society organizations?
+q078,1,Wave1,Contacted media to comment on something?
+q079,1,Wave1,"Demonstrated, striken, or sat-in for something?"
+q080,1,Wave1,Contacted other people?
+q081,1,Wave1,Did you do this alone or with others?_contacted government official
+q082,1,Wave1,Did you do this alone or with others?_contacted officials at higher level
+q083,1,Wave1,Did you do this alone or with others?_contacted elected legislative representatives at any level
+q084,1,Wave1,Did you do this alone or with others?_contacted political parties or other political organizations
+q085,1,Wave1,Did you do this alone or with others?_ contacted non-government/civil society organizations
+q086,1,Wave1,Did you do this alone or with others?_contacted media
+q087,1,Wave1,"Did you do this alone or with others?_demonstration, strike, sit-in"
+q088,1,Wave1,Did you do this alone or with others?_contacted other people
+q089,1,Wave1,Gift or dinner_contacted government
+q090,1,Wave1,Gift or dinner_contacted officials at highter level
+q091,1,Wave1,Gift or dinner_contacted elected legislative representatives
+q092,1,Wave1,Gift or dinner_contacted political parties or other political organizations
+q093,1,Wave1,Gift or dinner_contacted non-goverment/civil society organizations
+q094,1,Wave1,Gift or dinner_contacted media
+q095,1,Wave1,"Gift or dinner_demonstration, strike, sit-in"
+q096,1,Wave1,Gift or dinner_contacted other people
+q097_1,1,Wave1,MEANING OF DEMOCRACY FIRST
+q097_2,1,Wave1,MEANING OF DEMOCRACY SECOND
+q097_3,1,Wave1,MEANING OF DEMOCRACY THIRD
+q098,1,Wave1,Satisfaction with the way democracy works in our country?
+q099,1,Wave1,Where would you place our country on this scale during the period of [name of the most recent government under authoritarian rule]?
+q102a,1,Wave2,How likely is it that the government will solve the most important problem you identified?
+q106a,1,Wave5,106a What are the most important problems facing this country that government should address(2nd response)?
+q106b,1,Wave5,106b What are the most important problems facing this country that government should address(3rd response)?
+q116e,1,Wave1,anyone you know personally witnessed ?
+q119a,1,Wave6,119a Did you personally witness it or were you told about it by a family member or friend who personally witnessed? Personally witnessed
+q119b,1,Wave6,119b Did you personally witness it or were you told about it by a family member or friend who personally witnessed? Told about it by a family member who personally witnessed
+q119c,1,Wave6,119c Did you personally witness it or were you told about it by a family member or friend who personally witnessed? Told about it by a friend who personally witnessed
+q127a_1,1,Wave5,127a_1 Did you personally witness it or were you told about it by a family member or friend who personally witnessed? personally witnessed
+q127a_2,1,Wave5,127a_2  Did you personally witness it or were you told about it by a family member or friend who personally witnessed? told about it by a family member who personally witnessed
+q127a_3,1,Wave5,127a_3  Did you personally witness it or were you told about it by a family member or friend who personally witnessed? told about it by a friend who personally witnessed
+q129a,1,Wave3,strong leader
+q129a_q131a,1,Wave3,sum of Q129a_q131a(reject all authoritarian options)
+q130a,1,Wave3,one poltical party
+q131a,1,Wave3,army
+q139a,1,Wave6,139a Did you or a member of your family suffer from serious illness or death?
+q139b,1,Wave6,139b Did you or a member of your family suffer from loss of job
+q139c,1,Wave6,139c Did you or a member of your family suffer from loss of household income?
+q139d,1,Wave6,139d Did you or a member of your family suffer from disruption of my kids' education?
+q141a,1,Wave3,government leader
+q141a_q147a,1,Wave3,average rejection of authoritarian values
+q142a,1,Wave3,certain ideas
+q143b,1,Wave6,143b To limit freedom of speech or assembly
+q143c,1,Wave6,143c To censor the media
+q143d,1,Wave6,143d To track citizens’ locations at all times
+q143e,1,Wave6,143e To impose a lockdown for a long time
+q144a,1,Wave3,judges
+q145a,1,Wave3,checked by the legislature
+q145other,1,Wave6,145. Other specify responses
+q146a,1,Wave3,political leaders
+q157b,1,Wave3,q157b. Does China do more good or harm to the region? (Whether the most influence country is China or not.)
+q159a,1,Wave4,"159a Considering all the effort that you and your family members have made in the past, do you think the income that your family currently receives is fair or not fair-6 categories?"
+q172a,1,Wave6,172a Which circumstance would justify the governments's use of emergency powers to costrain rights and freedom: A public health crisis like the Covid-19 pandemic
+q172b,1,Wave6,172b An economic crisis that has caused the loss of many jobs
+q172c,1,Wave6,172c Widespread corruption that the president [PM] claims can only be reduced by increasing executive power
+q172d,1,Wave6,172d A security crisis due to social unrest or terrorism
+q172e,1,Wave6,172e The country is at war
+q173other,1,Wave6,173. Other specify responses
+q179other,1,Wave6,179. Other specify responses
+q180other,1,Wave6,180. Other sepcify responses
+q185Other,1,Wave6,185. Other specify responses
+q18_other,1,Wave6,18 Other specify responses
+q19_other,1,Wave6,19 Other specify responses
+q20_1,1,Wave2,First organization
+q20_2,1,Wave2,Second organization
+q20_3,1,Wave2,Third organization
+q20_other,1,Wave6,20 Other specify responses
+q21_other,1,Wave6,21 Other specify responses
+q33a,1,Wave3,"q33a. Based on the answer to Q33, please construct a new variable indicating if the respondent voted for the winning camp or losing camp."
+q34other,1,Wave6,34. Other specify responses
+q39a,1,Wave2,If the respondent voted for the winning camp or loosing camp?
+q51_1,1,Wave2,Main source of information. Question 51.01 Television
+q51_2,1,Wave2,Question 51.02 Newspaper
+q51_3,1,Wave2,Question 51.03 Radio
+q51_4,1,Wave2,Question 51.04 Internet
+q51_5,1,Wave2,Question 51.05 Cell phone short message (SMS)
+q51_6,1,Wave2,Question 51.06 Personal contact
+q51_7,1,Wave2,Question 51.07 Other
+q51_8,1,Wave2,Magazine
+q51a_Facebook,1,Wave6,51a Which social media and text messaging services do you actively use? Facebook
+q51b,1,Wave5,51b You use social media primarily to expresss my opinion on political issues
+q51b_Twitter,1,Wave6,51b Twitter
+q51c,1,Wave5,51c You use social media primarily to share news or information
+q51c_Instagram,1,Wave6,51c Instagram
+q51d,1,Wave5,51d You use social media primarily for work
+q51d_Youtube,1,Wave6,51d Youtube
+q51e_Tiktok,1,Wave6,51e Tiktok
+q51f_Messenger,1,Wave6,q51f Messenger
+q51g_Telegram,1,Wave6,q51g Telegram
+q51h_Line,1,Wave6,q51h Line
+q51i_Whatsapp,1,Wave6,q51i Whatsapp
+q51j_Snapchat,1,Wave6,q51j Snapchat
+q51k_Vchat,1,Wave6,q51k Vchat
+q51l_Tumblr,1,Wave6,q51l Tumblr
+q52a,1,Wave6,52a How often do you use social media to talk to or to connect with other people?
+q52b,1,Wave6,52b How often do you use social media to express my opinion on political issues?
+q52c,1,Wave6,52c How often do you use social media to share news or information?
+q52d,1,Wave6,52d How often do you use social media to organize to influence politics?
+q53other,1,Wave6,53. Other specify responses
+q54other,1,Wave6,54. Other specify responses
+q69a,1,Wave4,"69a In the past three years, have you ever contacted elected officials or legislative representatives at any level-4 categories"
+q70a,1,Wave4,70a  Contacted officials at higher level--4 categories.
+q71a,1,Wave4,71a Contacted traditional leaders/community leaders-4 categories
+q72a,1,Wave4,72a  Contacted other influential people outside the government-4 categories.
+q73a,1,Wave4,73a  Contacted news media-4 categories
+q78a,1,Wave3,q78a. Do you strongly agree or just agree with the chosen statement?
+q80a,1,Wave4,80a. Do you strongly agree or just agree with the chosen statement?
+q81a,1,Wave4,81a. Do you strongly agree or just agree with the chosen statement?
+q83a,1,Wave5,83a Do you strongly agree or just agree with the chosen statement?
+q84a,1,Wave5,84a Do you strongly agree or just agree with the chosen statement?
+q85a,1,Wave5,85a Do you strongly agree or just agree with the chosen statement?
+q91_1,1,Wave2,"To you, what does ""democracy"" mean?  What else?"
+q91_2,1,Wave2,Second Response
+q91_3,1,Wave2,Third Response
+q97a,1,Wave6,97a What are the most important problems facing this country that government should address? Second
+q97aother,1,Wave6,97a. Other specify responses
+q97b,1,Wave6,97b What are the most important problems facing this country that government should address? Third
+q97bother,1,Wave6,97b. Other specify responses
+q97other,1,Wave6,97. Other specify responses
+q99a,1,Wave4,99a. What are the second most important problems facing this country? 2nd
+q99b,1,Wave4,99b. What are the third most important problems facing this country? 3rd
+region,1,Wave4,Region
+relig1,1,Wave1,Religion
+se002,1,Wave1,gender
+se003,1,Wave1,age group
+se003a,1,Wave1,actual age
+se004,1,Wave1,marital status
+se004a,1,Wave1,Marital Status(Y/N)
+se005,1,Wave1,education
+se005a,1,Wave1,education by year
+se005b,1,Wave1,education(four categories)
+se006,1,Wave1,religion
+se007,1,Wave1,relgiosity
+se008a,1,Wave1,n of household members
+se008b,1,Wave1,household generations
+se009,1,Wave1,annual income: national quintiles
+se012a,1,Wave1,Main Occupation
+se012bcn,1,Wave1,OCCUPATION
+se012bhk,1,Wave1,OCCUPATION(original)
+se012bjp,1,Wave1,main occupation(orginal)
+se012bkr,1,Wave1,Occupation(original)
+se012bmo,1,Wave1,employment
+se012bph,1,Wave1,occupation (verbatim)
+se012bth,1,Wave1,Primary occupation of respondent
+se012btw,1,Wave1,(Respondent has a job) What is respondent's current occupation?
+se014,1,Wave1,language
+se016,1,Wave1,ethnicity
+se017,1,Wave1,subjective social status
+se10c_2,1,Wave4,se10c_2 What is his/her job title (EGP class)
+se10c_3,1,Wave4,se10c_3 Extended application. Elite vs. Mass
+se10c_4,1,Wave4,se10c_4 Extended applicable. White vs. blue collar
+se10f,1,Wave2,SE 10.6 Telephone
+se10g,1,Wave2,SE 10.7 Mobile Phone
+se10h,1,Wave2,SE 10.8 Electric Fan/Cooler
+se10i,1,Wave2,SE 10.9 Bicycle
+se10j,1,Wave2,SE 10.10 Radio/Transistor
+se10k,1,Wave2,SE 10.11 Pumping Set
+se10l,1,Wave2,SE 10.12 Fridge
+se10m,1,Wave2,SE 10.13 Camera
+se10n,1,Wave2,SE 10.14 Goats/Sheep
+se10o,1,Wave2,SE 10.15 Cows/Buffalo
+se11a,1,Wave4,se11a What is your racial or ethnic background
+se12b,1,Wave2,Respondent is also the chief wage earner?
+se13b,1,Wave4,se13b Where would you put your parents on this staircase?
+se13c,1,Wave4,se13c Where would you put your children on this staircase?
+se14,1,Wave4,se14 Annual or monthly household income
+se14b,1,Wave3,SE14b. Tractor
+se14c,1,Wave3,SE14c. Television
+se14d,1,Wave3,SE14d. Cable Television
+se14e,1,Wave3,SE14e. Motorcycle
+se14f,1,Wave3,SE14f. Telephone
+se14g,1,Wave3,SE14g. Mobile Phone
+se14h,1,Wave3,SE14h. Electric Fan
+se14i,1,Wave3,SE14i. Bicycle
+se14j,1,Wave3,SE14j. Radio
+se14k,1,Wave3,SE14k. Pumping Set
+se14l,1,Wave3,SE14l. Fridge
+se14m,1,Wave3,SE14m. Camera
+se14n,1,Wave3,SE14n. Goats/Sheep
+se14o,1,Wave3,SE14o. Cow/Buffalo
+se15a,1,Wave4,se15a Do your family own the following? Car/Jeep
+se15b,1,Wave4,se15b Tractor
+se15c,1,Wave4,se15c Color or B/W television
+se15d,1,Wave4,se15d Cable TV
+se15e,1,Wave4,se15e Scooter/motorcycle/moped
+se15f,1,Wave4,se15f Telephone
+se15g,1,Wave4,se15g Mobile phone
+se15h,1,Wave4,se15h Electric fan/cooler
+se15i,1,Wave4,se15i Bicycle
+se15j,1,Wave4,se15j Radio/transistor
+se15k,1,Wave4,se15k pumping set
+se15l,1,Wave4,se15l Fridge
+se15m,1,Wave4,se15m Camera
+se15n,1,Wave4,se15n Goats/sheep
+se15o,1,Wave4,se15o Cows/Buffalo
+se3,1,Wave3,SE3. BIRTH YEAR
+se3_1,1,Wave4,se3_1 Birth year
+se3_2,1,Wave4,se3_2 Actual age
+se3a_1a,1,Wave3,age group
+se9c_2,1,Wave4,se9c_2 What is your job title (EGP class)
+se9c_3,1,Wave4,se9c_3 Extended application. Elite vs. Mass
+se9c_4,1,Wave4,se9c_4 Extended applicable. White vs. blue collar
+w_cn,1,Wave1,
+w_cross,1,Wave4,cross 'Cross-country weight'
+w_hk,1,Wave1,weight for age (recommended)
+w_jp,1,Wave1,weight
+w_kr,1,Wave1,weight
+w_mo,1,Wave1,"weight for sex, age, region"
+w_ph,1,Wave1,weight
+w_th,1,Wave1,weight
+w_tw,1,Wave1,weight
+year,1,Wave4,Interview year
+yrsurvey,1,Wave1,survey year

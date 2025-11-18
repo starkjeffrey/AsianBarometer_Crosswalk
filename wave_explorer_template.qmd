@@ -12,8 +12,8 @@ execute:
   warning: false
   message: false
 params:
-  wave: "W3"
-  wave_file: "data/raw/ABS3 merge20250609.sav"
+  wave: "W6"
+  wave_file: "data/raw/W6_Cambodia_Release_20240819.sav"
 ---
 
 ```{r setup}
@@ -134,6 +134,18 @@ dem_vars <- var_summary %>%
 datatable(dem_vars,
           options = list(pageLength = 10),
           caption = "Democracy-related variables")
+```
+
+### COVID Variables
+
+```{r covid-variables}
+# Find covid-related variables
+covid_vars <- var_summary %>%
+  filter(grepl("covid", var_label, ignore.case = TRUE))
+
+datatable(covid_vars,
+          options = list(pageLength = 10),
+          caption = "COVID-related variables")
 ```
 
 ## 3. Value Label Inspection
@@ -286,9 +298,9 @@ To explore a different wave, render with different parameters:
 quarto::quarto_render(
   "wave_explorer_template.qmd",
   execute_params = list(
-    wave = "W4",
-    wave_file = "data/raw/W4_v15_merged20250609_release.sav"
+    wave = "W6",
+    wave_file = "data/raw/W6_Cambodia_Release_20240819.sav"
   ),
-  output_file = "wave4_explorer.html"
+  output_file = "wave6_explorer.html"
 )
 ```

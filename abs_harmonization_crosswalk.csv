@@ -1,0 +1,46 @@
+concept,domain,description,w2_var,w2_scale,w3_var,w3_scale,w4_var,w4_scale,w5_var,w5_scale,w6_var,w6_scale,harmonized_name,harmonize_to,reverse_waves,notes
+trust_executive,trust,Trust in executive/president/PM,q7,4pt,q7,6pt,q7,4pt_rev,q7,6pt,q7,4pt,trust_exec,4pt_1high,W4,All waves present. W3/W5 use 6pt scale - need to collapse
+trust_courts,trust,Trust in courts/judicial system,q8,4pt,q8,6pt,q8,4pt_rev,q8,6pt,q8,4pt,trust_courts,4pt_1high,W4,All waves present. W3/W5 need collapsing
+trust_national_govt,trust,Trust in national government,q9,4pt,q9,6pt,q9,4pt_rev,q9,6pt,q9,4pt,trust_natl_govt,4pt_1high,W4,All waves present. This is KEY variable for Paper 5
+trust_parties,trust,Trust in political parties,q10,4pt,q10,6pt,q10,4pt_rev,q10,6pt,q10,4pt,trust_parties,4pt_1high,W4,All waves present
+trust_parliament,trust,Trust in parliament/legislature,q11,4pt,q11,6pt,q11,4pt_rev,q11,6pt,q11,4pt,trust_parliament,4pt_1high,W4,All waves present
+trust_civil_service,trust,Trust in civil service/bureaucracy,q12,4pt,q12,6pt,q12,4pt_rev,q12,6pt,q12,4pt,trust_civil_service,4pt_1high,W4,All waves present
+trust_military,trust,Trust in military/armed forces,q13,4pt,q13,6pt,q13,4pt_rev,q13,6pt,q13,4pt,trust_military,4pt_1high,W4,All waves present
+trust_police,trust,Trust in police,q14,4pt,q14,6pt,q14,4pt_rev,q14,6pt,q14,4pt,trust_police,4pt_1high,W4,All waves present
+trust_local_govt,trust,Trust in local government,q15,4pt,q15,6pt,q15,4pt_rev,q15,6pt,q15,4pt,trust_local_govt,4pt_1high,W4,*** CRITICAL for Paper 5 - LOCAL TRUST ***
+trust_election_commission,trust,Trust in election commission,q16,4pt,q16,6pt,q16,4pt_rev,q16,6pt,q16,4pt,trust_elec_comm,4pt_1high,W4,W2-W5 newspaper/TV; W6 election commission - NOT comparable
+trust_ngos,trust,Trust in NGOs/civil society,q17,4pt,q17,6pt,q17,4pt_rev,q17,6pt,q17,4pt,trust_ngos,4pt_1high,W4,W2-W5 TV; W6 NGOs - W6 comparable only for institutional substitution
+gen_trust_binary,trust,Most people can be trusted (binary),q23,binary,q23,binary,q23,binary,q23,binary,NA,NA,gen_trust_bin,binary,none,W2-W5 only. W6 uses different question (q22 4pt scale)
+gen_trust_scale,trust,Most people are trustworthy (scale),NA,NA,NA,NA,q24,4pt,NA,NA,q23,4pt,gen_trust_scale,4pt_1high,none,W4 and W6 only - check exact wording
+trust_relatives,trust,Trust in relatives,q24,6pt,q24,6pt,NA,NA,q24,6pt,q24,6pt,trust_relatives,6pt_1high,none,W2-W3 and W5-W6. Missing W4
+trust_neighbors,trust,Trust in neighbors,q25,6pt,q25,6pt,NA,NA,q25,6pt,q25,6pt,trust_neighbors,6pt_1high,none,W2-W3 and W5-W6. Missing W4
+trust_others_interact,trust,Trust in people you interact with,q26,6pt,q26,6pt,NA,NA,q26,6pt,q26,6pt,trust_others,6pt_1high,none,W2-W3 and W5-W6. Missing W4
+trust_first_meet,trust,Trust in people you meet first time,q27,6pt,q27,6pt,NA,NA,q27,6pt,q27,6pt,trust_first_meet,6pt_1high,none,W2-W3 and W5-W6. Missing W4
+econ_country_current,economic,Current country economic condition,q1,5pt,q1,5pt,q1,5pt_rev,q1,5pt,q1,5pt,econ_country_now,5pt_1good,W4,All waves. Very good=1 to Very bad=5
+econ_country_past,economic,Country economy vs few years ago,q2,5pt,q2,5pt,q2,5pt_rev,q2,5pt,q2,5pt,econ_country_past,5pt_1better,W4,All waves. Much better=1 to Much worse=5
+econ_country_future,economic,Country economy in few years,q3,5pt,q3,5pt,q3,5pt_rev,q3,5pt,q3,5pt,econ_country_future,5pt_1better,W4,All waves
+econ_family_current,economic,Current family economic condition,q4,5pt,q4,5pt,q4,5pt_rev,q4,5pt,q4,5pt,econ_family_now,5pt_1good,W4,All waves
+econ_family_past,economic,Family economy vs few years ago,q5,5pt,q5,5pt,q5,5pt_rev,q5,5pt,q5,5pt,econ_family_past,5pt_1better,W4,All waves
+econ_family_future,economic,Family economy in few years,q6,5pt,q6,5pt,q6,5pt_rev,q6,5pt,q6,5pt,econ_family_future,5pt_1better,W4,All waves
+interest_politics,politics,Interest in politics,q92,4pt,q88,4pt,q91,4pt,q89,4pt,q91,4pt,pol_interest,4pt_1high,none,Variable numbers change but content consistent
+follow_news,politics,How often follow political news,NA,NA,q91,varies,q94,varies,q92,varies,q94,varies,follow_news,varies,none,W3-W6. Check exact scales per wave
+voted_last_election,politics,Voted in last national election,q38,binary,q33,binary,q33,binary,q33,binary,q33,binary,voted,binary,none,All waves. Yes/No
+satisfaction_democracy,democracy,Satisfaction with democracy,q93,4pt,q89,4pt,q92,4pt,q90,4pt,q92,4pt,dem_satisfaction,4pt_1high,none,Variable numbers differ but content same
+level_democracy,democracy,Level of democracy in country,q94,varies,q90,varies,q93,varies,q91,varies,q93,varies,dem_level,varies,none,Check scale per wave - may be 1-10 in some
+democracy_preferable,democracy,Democracy is preferable to alternatives,q121,varies,q132,varies,q125,varies,q124,varies,q125,varies,dem_prefer,varies,none,Variable numbers differ. Check exact scale
+covid_infection,covid,Personal/family COVID-19 infection,NA,NA,NA,NA,NA,NA,NA,NA,q138,binary,covid_infected,binary_1yes,none,*** W6 ONLY - KEY for Paper 1 (Vietnam Paradox) ***
+covid_economic_impact,covid,COVID impact on family livelihood,NA,NA,NA,NA,NA,NA,NA,NA,q140,4pt,covid_econ_impact,4pt_1serious,none,W6 only. 1=very serious to 4=not much
+covid_trust_info,covid,Trust in govt COVID information,NA,NA,NA,NA,NA,NA,NA,NA,q141,4pt,covid_trust_info,4pt_1high,none,*** W6 ONLY - KEY MEDIATOR for Paper 1 ***
+covid_govt_handling,covid,Government pandemic handling,NA,NA,NA,NA,NA,NA,NA,NA,q142,4pt,covid_govt_handling,4pt_1good,none,*** W6 ONLY - KEY DV for Paper 1 ***
+covid_vaccination,covid,COVID vaccination status,NA,NA,NA,NA,NA,NA,NA,NA,q144,categorical,covid_vaccinated,categorical,none,W6 only. Multiple categories
+covid_emergency_powers,covid,Justify emergency powers for health,NA,NA,NA,NA,NA,NA,NA,NA,q172a,4pt,emergency_powers,4pt_1justified,none,W6 only. Authoritarianism measure
+contact_frequency,social,People contacted in typical week,q27,continuous,q28,continuous,q28,continuous,q28,continuous,q28,continuous,social_contacts,continuous,none,W2-W6. Count variable
+difficult_problem_help,social,People to help with problems,q29,ordinal,q29,ordinal,q31,ordinal,q31,ordinal,q31,ordinal,social_support,ordinal,none,W2-W6. Ordinal scale (nobody/few/some/lot)
+age,demographics,Age of respondent,age,continuous,age,continuous,age,continuous,age,continuous,age,continuous,age,continuous,none,Standard demographic
+education,demographics,Education level,education,ordinal,education,ordinal,education,ordinal,education,ordinal,education,ordinal,education,ordinal,none,Standard demographic - check coding
+gender,demographics,Gender/sex,gender,binary,gender,binary,gender,binary,gender,binary,gender,binary,gender,binary,none,Standard demographic
+income,demographics,Income level,income,ordinal,income,ordinal,income,ordinal,income,ordinal,income,ordinal,income,ordinal,none,Check exact variable names per wave
+urban_rural,demographics,Urban vs rural residence,urban,binary,urban,binary,urban,binary,urban,binary,urban,binary,urban,binary,none,Check exact variable names - may vary
+country,identifiers,Country name,country,categorical,country,categorical,country,categorical,country,categorical,country,categorical,country_name,categorical,none,Standardize country names
+year,identifiers,Survey year,year,continuous,year,continuous,year,continuous,year,continuous,year,continuous,survey_year,continuous,none,2006/2010/2014/2018/2022
+respondent_id,identifiers,Unique respondent ID,idnumber,id,idnumber,id,idnumber,id,idnumber,id,idnumber,id,resp_id,id,none,May need to create wave-country-id

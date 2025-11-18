@@ -1,0 +1,177 @@
+cluster_id,variable,concept,description,waves_present
+1,q001,concept_001,How would you rate the overall economic conditi...,5
+1,q1,concept_001,How would you rate the overall economic conditi...,5
+2,q004,concept_002,"As for your own family, how do you rate your ec...",5
+2,q4,concept_002,"As for your own family, how do you rate your ec...",5
+3,q064,concept_003,"Even if parents' demands are unreasonable, chil...",5
+3,q56,concept_003,"Even if parents' demands are unreasonable, chil...",5
+4,q068,concept_004,A person should not insist on his own opinion i...,5
+4,q59,concept_004,A person should not insist on his own opinion i...,5
+5,q069,concept_005,"For the sake of the family, the individual shou...",5
+5,q60,concept_005,"For the sake of the family, the individual shou...",5
+6,q100,concept_006,Where would you place our country under the pre...,6
+6,q95,concept_006,Where would you place our country under the pre...,6
+6,q96,concept_006,Where would you place our country under the pre...,6
+7,q101,concept_007,To what extent would you want our country to be...,6
+7,q97,concept_007,To what extent would you want our country to be...,6
+8,q117,concept_008,Which comes closer to your own view?,6
+8,q118,concept_008,Which comes closer to your own view?,6
+8,q120,concept_008,Which comes closer to your own view?,6
+10,q156a,concept_010,q74a. Do you strongly agree or just agree with ...,4
+10,q74a,concept_010,q74a. Do you strongly agree or just agree with ...,4
+10,q75a,concept_010,q74a. Do you strongly agree or just agree with ...,4
+10,q76a,concept_010,q74a. Do you strongly agree or just agree with ...,4
+10,q77a,concept_010,q74a. Do you strongly agree or just agree with ...,4
+10,q78a,concept_010,q74a. Do you strongly agree or just agree with ...,4
+10,q79a,concept_010,q74a. Do you strongly agree or just agree with ...,4
+10,q80a,concept_010,q74a. Do you strongly agree or just agree with ...,4
+10,q81a,concept_010,q74a. Do you strongly agree or just agree with ...,4
+10,q82a,concept_010,q74a. Do you strongly agree or just agree with ...,4
+10,q83a,concept_010,q74a. Do you strongly agree or just agree with ...,4
+10,q84a,concept_010,q74a. Do you strongly agree or just agree with ...,4
+10,q85a,concept_010,q74a. Do you strongly agree or just agree with ...,4
+11,q167,concept_011,167 Which country should be a model for our own...,3
+11,q180,concept_011,167 Which country should be a model for our own...,3
+12,q168,concept_012,168 How much influence does China have on our c...,3
+12,q181,concept_012,168 How much influence does China have on our c...,3
+13,q169,concept_013,"169 General speaking, the influence China has o...",3
+13,q171,concept_013,"169 General speaking, the influence China has o...",3
+13,q182,concept_013,"169 General speaking, the influence China has o...",3
+13,q184,concept_013,"169 General speaking, the influence China has o...",3
+14,q170,concept_014,170 How much influence does the United States h...,3
+14,q183,concept_014,170 How much influence does the United States h...,3
+15,q171,concept_015,"171 General speaking, the influence the United ...",3
+15,q184,concept_015,"171 General speaking, the influence the United ...",3
+16,q172,concept_016,172 How close do you feel to ASEAN? (ASEAN coun...,3
+16,q186,concept_016,172 How close do you feel to ASEAN? (ASEAN coun...,3
+17,q20_2,concept_017,q21. Second Organization,4
+17,q21,concept_017,q21. Second Organization,4
+18,q20_1,concept_018,q22. Third Organization,4
+18,q20_3,concept_018,q22. Third Organization,4
+18,q22,concept_018,q22. Third Organization,4
+20,q002,concept_020,How would you describe the change in the econom...,5
+20,q2,concept_020,How would you describe the change in the econom...,5
+22,q005,concept_022,How would you compare the current economic cond...,5
+22,q5,concept_022,How would you compare the current economic cond...,5
+26,q003,concept_026,What do you think will be the state of our coun...,5
+26,q3,concept_026,What do you think will be the state of our coun...,5
+29,q006,concept_029,What do you think the economic situation of you...,5
+29,q6,concept_029,What do you think the economic situation of you...,5
+30,q143,concept_030,"For the sake of the national community/society,...",6
+30,q76,concept_030,"For the sake of the national community/society,...",6
+31,q104,concept_031,How satisfied or dissatisfied are you with the ...,6
+31,q99,concept_031,How satisfied or dissatisfied are you with the ...,6
+32,q057,concept_032,How often do you follow news about politics and...,5
+32,q057a,concept_032,How often do you follow news about politics and...,5
+32,q058,concept_032,How often do you follow news about politics and...,5
+32,q059,concept_032,How often do you follow news about politics and...,5
+32,q060,concept_032,How often do you follow news about politics and...,5
+32,q50,concept_032,How often do you follow news about politics and...,5
+34,q061,concept_034,How much impact do you feel government politics...,5
+34,q53,concept_034,How much impact do you feel government politics...,5
+35,q007,concept_035,How much trust do you have in your relatives?,5
+35,q008,concept_035,How much trust do you have in your relatives?,5
+35,q009,concept_035,How much trust do you have in your relatives?,5
+35,q010,concept_035,How much trust do you have in your relatives?,5
+35,q011,concept_035,How much trust do you have in your relatives?,5
+35,q012,concept_035,How much trust do you have in your relatives?,5
+35,q013,concept_035,How much trust do you have in your relatives?,5
+35,q014,concept_035,How much trust do you have in your relatives?,5
+35,q015,concept_035,How much trust do you have in your relatives?,5
+35,q016,concept_035,How much trust do you have in your relatives?,5
+35,q017,concept_035,How much trust do you have in your relatives?,5
+35,q018,concept_035,How much trust do you have in your relatives?,5
+35,q24,concept_035,How much trust do you have in your relatives?,5
+35,q25,concept_035,How much trust do you have in your relatives?,5
+35,q26,concept_035,How much trust do you have in your relatives?,5
+41,q056,concept_041,How interested would you say you are in politics,5
+41,q49,concept_041,How interested would you say you are in politics,5
+42,q157,concept_042,Relation: The United Nations or UN,5
+42,q161,concept_042,Relation: The United Nations or UN,5
+43,q147,concept_043,A political leader should tolerate the views of...,6
+43,q147a,concept_043,A political leader should tolerate the views of...,6
+46,q116,concept_046,anyone you know personally witnessed an act of ...,6
+46,q116e,concept_046,anyone you know personally witnessed an act of ...,6
+47,q099,concept_047,Where would you place our country during the pe...,5
+47,q95,concept_047,Where would you place our country during the pe...,5
+48,q031,concept_048,Did you do anything else to help out or work fo...,5
+48,q42,concept_048,Did you do anything else to help out or work fo...,5
+51,q066,concept_051,"When one has conflict with a neighbor, the best...",5
+51,q58,concept_051,"When one has conflict with a neighbor, the best...",5
+52,q160b,concept_052,160b It is the responsibility of the government...,2
+52,q160c,concept_052,160b It is the responsibility of the government...,2
+55,q156_1,concept_055,156_1 Our country should do more to learn from ...,2
+55,q157_1,concept_055,156_1 Our country should do more to learn from ...,2
+56,q145,concept_056,The most important thing for a political leader...,6
+56,q77,concept_056,The most important thing for a political leader...,6
+21,Q106c,NA,NA,NA
+21,Q106d,NA,NA,NA
+44,q008,NA,NA,NA
+44,q014,NA,NA,NA
+50,q018_3,NA,NA,NA
+50,q018_4,NA,NA,NA
+36,q032,NA,NA,NA
+25,q034,NA,NA,NA
+36,q034,NA,NA,NA
+25,q035,NA,NA,NA
+36,q035,NA,NA,NA
+36,q036,NA,NA,NA
+25,q037,NA,NA,NA
+25,q039,NA,NA,NA
+28,q039,NA,NA,NA
+25,q040,NA,NA,NA
+28,q040,NA,NA,NA
+25,q041,NA,NA,NA
+25,q042,NA,NA,NA
+36,q043,NA,NA,NA
+39,q051,NA,NA,NA
+39,q052,NA,NA,NA
+37,q053,NA,NA,NA
+37,q054,NA,NA,NA
+38,q057a,NA,NA,NA
+38,q058,NA,NA,NA
+40,q081,NA,NA,NA
+40,q082,NA,NA,NA
+40,q085,NA,NA,NA
+40,q086,NA,NA,NA
+40,q087,NA,NA,NA
+40,q088,NA,NA,NA
+45,q089,NA,NA,NA
+45,q094,NA,NA,NA
+45,q096,NA,NA,NA
+33,q097_1,NA,NA,NA
+33,q097_2,NA,NA,NA
+33,q097_3,NA,NA,NA
+23,q106a,NA,NA,NA
+23,q106b,NA,NA,NA
+24,q106b,NA,NA,NA
+54,q119a,NA,NA,NA
+54,q119b,NA,NA,NA
+27,q127a_1,NA,NA,NA
+27,q127a_2,NA,NA,NA
+27,q127a_3,NA,NA,NA
+53,q139b,NA,NA,NA
+53,q139c,NA,NA,NA
+53,q139d,NA,NA,NA
+9,q145other,NA,NA,NA
+9,q173other,NA,NA,NA
+9,q179other,NA,NA,NA
+9,q180other,NA,NA,NA
+9,q185Other,NA,NA,NA
+9,q18_other,NA,NA,NA
+9,q19_other,NA,NA,NA
+9,q20_other,NA,NA,NA
+9,q21_other,NA,NA,NA
+9,q34other,NA,NA,NA
+49,q51_4,NA,NA,NA
+49,q51_7,NA,NA,NA
+9,q53other,NA,NA,NA
+9,q54other,NA,NA,NA
+23,q97a,NA,NA,NA
+9,q97aother,NA,NA,NA
+19,q97aother,NA,NA,NA
+23,q97b,NA,NA,NA
+24,q97b,NA,NA,NA
+9,q97bother,NA,NA,NA
+19,q97bother,NA,NA,NA
+9,q97other,NA,NA,NA

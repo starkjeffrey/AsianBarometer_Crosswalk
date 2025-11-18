@@ -23,9 +23,8 @@ output/
 *.pdf
 
 # Data files (large, should be stored elsewhere)
-data/raw/*.sav
-data/raw/**/*.sav
-data/processed/*.rds
+# Exclude entire data/ directory
+data/
 
 # Temporary files
 *.log
@@ -59,8 +58,6 @@ Thumbs.db
 
 # Keep directory structure but ignore contents
 # (add .gitkeep files in empty directories you want to track)
-!data/raw/.gitkeep
-!data/processed/.gitkeep
 !output/figures/.gitkeep
 !output/tables/.gitkeep
 !output/reports/.gitkeep

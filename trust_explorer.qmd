@@ -13,6 +13,8 @@ execute:
 
 ```{r}
 # ---- Setup ----
+# Set CRAN mirror to avoid interactive prompt
+options(repos = c(CRAN = "https://cloud.r-project.org/"))
 # Install once if needed:
 # install.packages(c("tidyverse","plotly","DT","crosstalk","janitor","forcats"))
 

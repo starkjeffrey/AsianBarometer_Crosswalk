@@ -1,0 +1,82 @@
+concept,waves_present,scales,needs_reversal
+age,5,var_not_found,FALSE
+concept_001,5,7pt | 8pt,FALSE
+concept_002,5,7pt | 8pt | 6pt,FALSE
+concept_003,5,7pt | continuous_check,FALSE
+concept_004,5,7pt,FALSE
+concept_005,5,7pt,FALSE
+concept_006,6,continuous | continuous_check | 7pt | 6pt,FALSE
+concept_007,6,continuous | continuous_check | 7pt | 10pt,FALSE
+concept_008,6,binary | 6pt | 7pt | 8pt | 4pt,FALSE
+concept_010,4,5pt | 7pt | 3pt,FALSE
+concept_011,3,continuous | 7pt,FALSE
+concept_012,3,7pt,FALSE
+concept_013,3,9pt | 7pt,FALSE
+concept_014,3,7pt,FALSE
+concept_015,3,9pt | 7pt,FALSE
+concept_016,3,7pt,FALSE
+concept_017,4,continuous,FALSE
+concept_018,4,continuous | 6pt | 3pt,FALSE
+concept_020,5,7pt | 8pt,FALSE
+concept_022,5,7pt | 8pt,FALSE
+concept_026,5,7pt | 8pt,FALSE
+concept_029,5,7pt | 8pt,FALSE
+concept_030,6,4pt | 7pt | 8pt,FALSE
+concept_031,6,5pt | 7pt | 10pt,FALSE
+concept_032,5,8pt | 7pt | 4pt | 5pt | 9pt,FALSE
+concept_034,5,7pt | continuous_check | 6pt | 9pt,FALSE
+concept_035,5,7pt | 6pt | 5pt,FALSE
+concept_041,5,7pt | 8pt | 9pt | 6pt,FALSE
+concept_042,5,3pt | 7pt | 5pt,FALSE
+concept_043,6,4pt | 6pt | 7pt,FALSE
+concept_046,6,binary | 7pt | 6pt,FALSE
+concept_047,5,10pt | 6pt,FALSE
+concept_048,5,4pt | 6pt | 8pt | 7pt,FALSE
+concept_051,5,7pt,FALSE
+concept_052,2,7pt | 6pt,FALSE
+concept_055,2,4pt,FALSE
+concept_056,6,4pt | 7pt | 5pt,FALSE
+contact_frequency,5,7pt | 8pt,FALSE
+country,5,continuous | var_not_found,FALSE
+covid_economic_impact,2,4pt,FALSE
+covid_emergency_powers,1,6pt,FALSE
+covid_govt_handling,2,4pt,FALSE
+covid_infection,2,4pt | binary,FALSE
+covid_trust_info,2,4pt,FALSE
+covid_vaccination,2,4pt | 5pt,FALSE
+democracy_preferable,6,4pt | 6pt | 7pt | 5pt,FALSE
+difficult_problem_help,5,7pt | 6pt,FALSE
+econ_country_current,5,7pt | 8pt,FALSE
+econ_country_future,5,7pt | 8pt,FALSE
+econ_country_past,5,7pt | 8pt,FALSE
+econ_family_current,5,7pt | 8pt | 6pt,FALSE
+econ_family_future,5,7pt | 8pt,FALSE
+econ_family_past,5,7pt | 8pt,FALSE
+education,5,var_not_found,FALSE
+follow_news,4,10pt,FALSE
+gen_trust_binary,4,5pt | 6pt | 7pt,FALSE
+gen_trust_scale,2,7pt | 5pt,FALSE
+gender,5,var_not_found,FALSE
+income,5,var_not_found,FALSE
+interest_politics,5,7pt,FALSE
+level_democracy,5,7pt | 10pt,FALSE
+respondent_id,5,continuous_check | var_not_found,FALSE
+satisfaction_democracy,5,6pt | 7pt | 10pt,FALSE
+trust_civil_service,5,7pt | 6pt,FALSE
+trust_courts,5,7pt | 6pt,FALSE
+trust_election_commission,5,7pt | 6pt,FALSE
+trust_executive,5,7pt | 6pt,FALSE
+trust_first_meet,4,7pt | 6pt,FALSE
+trust_local_govt,5,7pt | 6pt,FALSE
+trust_military,5,7pt | 6pt,FALSE
+trust_national_govt,5,7pt | 6pt,FALSE
+trust_neighbors,4,7pt | 6pt,FALSE
+trust_ngos,5,7pt | 6pt,FALSE
+trust_others_interact,4,7pt | 6pt,FALSE
+trust_parliament,5,7pt | 6pt,FALSE
+trust_parties,5,7pt | 6pt,FALSE
+trust_police,5,7pt | 6pt,FALSE
+trust_relatives,4,7pt | 6pt | 5pt,FALSE
+urban_rural,5,var_not_found,FALSE
+voted_last_election,5,4pt | continuous_check | 6pt | 5pt,FALSE
+year,5,var_not_found | 3pt,FALSE

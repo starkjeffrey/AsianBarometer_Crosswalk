@@ -1,0 +1,487 @@
+concept,wave,variable,scale_detected,n_categories,values,labels,direction
+trust_executive,Wave1,NA,NA,NA,NA,NA,NA
+trust_executive,Wave2,q7,7pt,7,"1, 2, 3, 4, 7",None at all = 1; Not Very Much Trust = 2; Quite a Lot of Trust = 3,standard
+trust_executive,Wave3,q7,7pt,7,"1, 2, 3, 4, 7",Missing = -1; A great deal of trust = 1; Quite a lot of trust = 2,standard
+trust_executive,Wave4,q7,7pt,7,"1, 2, 3, 4, 7",Mssing = -1; A great deal of trust = 1; Quite a lot of trust = 2,standard
+trust_executive,Wave5,q7,6pt,6,"1, 2, 3, 4, 5",Missing = -1; Trust fully = 1; Trust a lot = 2,standard
+trust_executive,Wave6,q7,7pt,7,"1, 2, 3, 4, 7",Missing = -1; Not applicable = 0; A great deal of trust = 1,standard
+trust_courts,Wave1,NA,NA,NA,NA,NA,NA
+trust_courts,Wave2,q8,7pt,7,"1, 2, 3, 4, 7",None at all = 1; Not Very Much Trust = 2; Quite a Lot of Trust = 3,standard
+trust_courts,Wave3,q8,7pt,7,"1, 2, 3, 4, 7",Missing = -1; A great deal of trust = 1; Quite a lot of trust = 2,standard
+trust_courts,Wave4,q8,7pt,7,"1, 2, 3, 4, 7",Mssing = -1; A great deal of trust = 1; Quite a lot of trust = 2,standard
+trust_courts,Wave5,q8,6pt,6,"1, 2, 3, 4, 5",Missing = -1; Trust fully = 1; Trust a lot = 2,standard
+trust_courts,Wave6,q8,7pt,7,"1, 2, 3, 4, 7",Missing = -1; Not applicable = 0; A great deal of trust = 1,standard
+trust_national_govt,Wave1,NA,NA,NA,NA,NA,NA
+trust_national_govt,Wave2,q9,7pt,7,"1, 2, 3, 4, 7",None at all = 1; Not Very Much Trust = 2; Quite a Lot of Trust = 3,standard
+trust_national_govt,Wave3,q9,7pt,7,"1, 2, 3, 4, 7",Missing = -1; A great deal of trust = 1; Quite a lot of trust = 2,standard
+trust_national_govt,Wave4,q9,7pt,7,"1, 2, 3, 4, 7",Mssing = -1; A great deal of trust = 1; Quite a lot of trust = 2,standard
+trust_national_govt,Wave5,q9,6pt,6,"1, 2, 3, 4, 5",Missing = -1; Trust fully = 1; Trust a lot = 2,standard
+trust_national_govt,Wave6,q9,7pt,7,"1, 2, 3, 4, 7",Missing = -1; Not applicable = 0; A great deal of trust = 1,standard
+trust_parties,Wave1,NA,NA,NA,NA,NA,NA
+trust_parties,Wave2,q10,7pt,7,"1, 2, 3, 4, 7",None at all = 1; Not Very Much Trust = 2; Quite a Lot of Trust = 3,standard
+trust_parties,Wave3,q10,7pt,7,"1, 2, 3, 4, 7",Missing = -1; A great deal of trust = 1; Quite a lot of trust = 2,standard
+trust_parties,Wave4,q10,7pt,7,"1, 2, 3, 4, 7",Mssing = -1; A great deal of trust = 1; Quite a lot of trust = 2,standard
+trust_parties,Wave5,q10,6pt,6,"1, 2, 3, 4, 5",Missing = -1; Trust fully = 1; Trust a lot = 2,standard
+trust_parties,Wave6,q10,7pt,7,"1, 2, 3, 4, 7",Missing = -1; Not applicable = 0; A great deal of trust = 1,standard
+trust_parliament,Wave1,NA,NA,NA,NA,NA,NA
+trust_parliament,Wave2,q11,7pt,7,"1, 2, 3, 4, 7",None at all = 1; Not Very Much Trust = 2; Quite a Lot of Trust = 3,standard
+trust_parliament,Wave3,q11,7pt,7,"1, 2, 3, 4, 7",Missing = -1; A great deal of trust = 1; Quite a lot of trust = 2,standard
+trust_parliament,Wave4,q11,7pt,7,"1, 2, 3, 4, 7",Mssing = -1; A great deal of trust = 1; Quite a lot of trust = 2,standard
+trust_parliament,Wave5,q11,6pt,6,"1, 2, 3, 4, 5",Missing = -1; Trust fully = 1; Trust a lot = 2,standard
+trust_parliament,Wave6,q11,7pt,7,"1, 2, 3, 4, 7",Missing = -1; Not applicable = 0; A great deal of trust = 1,standard
+trust_civil_service,Wave1,NA,NA,NA,NA,NA,NA
+trust_civil_service,Wave2,q12,7pt,7,"1, 2, 3, 4, 7",None at all = 1; Not Very Much Trust = 2; Quite a Lot of Trust = 3,standard
+trust_civil_service,Wave3,q12,7pt,7,"1, 2, 3, 4, 7",Missing = -1; A great deal of trust = 1; Quite a lot of trust = 2,standard
+trust_civil_service,Wave4,q12,7pt,7,"1, 2, 3, 4, 7",Mssing = -1; A great deal of trust = 1; Quite a lot of trust = 2,standard
+trust_civil_service,Wave5,q12,6pt,6,"1, 2, 3, 4, 5",Missing = -1; Trust fully = 1; Trust a lot = 2,standard
+trust_civil_service,Wave6,q12,7pt,7,"1, 2, 3, 4, 7",Missing = -1; Not applicable = 0; A great deal of trust = 1,standard
+trust_military,Wave1,NA,NA,NA,NA,NA,NA
+trust_military,Wave2,q13,7pt,7,"1, 2, 3, 4, 7",None at all = 1; Not Very Much Trust = 2; Quite a Lot of Trust = 3,standard
+trust_military,Wave3,q13,7pt,7,"1, 2, 3, 4, 7",Missing = -1; A great deal of trust = 1; Quite a lot of trust = 2,standard
+trust_military,Wave4,q13,7pt,7,"1, 2, 3, 4, 7",Mssing = -1; A great deal of trust = 1; Quite a lot of trust = 2,standard
+trust_military,Wave5,q13,6pt,6,"1, 2, 3, 4, 5",Missing = -1; Trust fully = 1; Trust a lot = 2,standard
+trust_military,Wave6,q13,7pt,7,"1, 2, 3, 4, 7",Missing = -1; Not applicable = 0; A great deal of trust = 1,standard
+trust_police,Wave1,NA,NA,NA,NA,NA,NA
+trust_police,Wave2,q14,7pt,7,"1, 2, 3, 4, 7",None at all = 1; Not Very Much Trust = 2; Quite a Lot of Trust = 3,standard
+trust_police,Wave3,q14,7pt,7,"1, 2, 3, 4, 7",Missing = -1; A great deal of trust = 1; Quite a lot of trust = 2,standard
+trust_police,Wave4,q14,7pt,7,"1, 2, 3, 4, 7",Mssing = -1; A great deal of trust = 1; Quite a lot of trust = 2,standard
+trust_police,Wave5,q14,6pt,6,"1, 2, 3, 4, 5",Missing = -1; Trust fully = 1; Trust a lot = 2,standard
+trust_police,Wave6,q14,6pt,6,"1, 2, 3, 4, 8",Missing = -1; Not applicable = 0; A great deal of trust = 1,standard
+trust_local_govt,Wave1,NA,NA,NA,NA,NA,NA
+trust_local_govt,Wave2,q15,7pt,7,"1, 2, 3, 4, 7",None at all = 1; Not Very Much Trust = 2; Quite a Lot of Trust = 3,standard
+trust_local_govt,Wave3,q15,7pt,7,"1, 2, 3, 4, 7",Missing = -1; A great deal of trust = 1; Quite a lot of trust = 2,standard
+trust_local_govt,Wave4,q15,7pt,7,"1, 2, 3, 4, 7",Mssing = -1; A great deal of trust = 1; Quite a lot of trust = 2,standard
+trust_local_govt,Wave5,q15,6pt,6,"1, 2, 3, 4, 5",Missing = -1; Trust fully = 1; Trust a lot = 2,standard
+trust_local_govt,Wave6,q15,6pt,6,"1, 2, 3, 4, 8",Missing = -1; Not applicable = 0; A great deal of trust = 1,standard
+trust_election_commission,Wave1,NA,NA,NA,NA,NA,NA
+trust_election_commission,Wave2,q16,7pt,7,"1, 2, 3, 4, 7",None at all = 1; Not Very Much Trust = 2; Quite a Lot of Trust = 3,standard
+trust_election_commission,Wave3,q16,7pt,7,"1, 2, 3, 4, 7",Missing = -1; A great deal of trust = 1; Quite a lot of trust = 2,standard
+trust_election_commission,Wave4,q16,7pt,7,"1, 2, 3, 4, 7",Mssing = -1; A great deal of trust = 1; Quite a lot of trust = 2,standard
+trust_election_commission,Wave5,q16,6pt,6,"1, 2, 3, 4, 5",Missing = -1; Trust fully = 1; Trust a lot = 2,standard
+trust_election_commission,Wave6,q16,7pt,7,"1, 2, 3, 4, 7",Missing = -1; Not applicable = 0; A great deal of trust = 1,standard
+trust_ngos,Wave1,NA,NA,NA,NA,NA,NA
+trust_ngos,Wave2,q17,7pt,7,"1, 2, 3, 4, 7",None at all = 1; Not Very Much Trust = 2; Quite a Lot of Trust = 3,standard
+trust_ngos,Wave3,q17,7pt,7,"1, 2, 3, 4, 7",Missing = -1; A great deal of trust = 1; Quite a lot of trust = 2,standard
+trust_ngos,Wave4,q17,7pt,7,"1, 2, 3, 4, 7",Mssing = -1; A great deal of trust = 1; Quite a lot of trust = 2,standard
+trust_ngos,Wave5,q17,6pt,6,"1, 2, 3, 4, 5",Missing = -1; Trust fully = 1; Trust a lot = 2,standard
+trust_ngos,Wave6,q17,7pt,7,"1, 2, 3, 4, 7",Missing = -1; Not applicable = 0; A great deal of trust = 1,standard
+gen_trust_binary,Wave1,NA,NA,NA,NA,NA,NA
+gen_trust_binary,Wave2,q23,5pt,5,"1, 2, 7, 8, 9",You must be very careful in dealing with people = 1; Most people can be trusted = 2; Do not understand the question = 7,standard
+gen_trust_binary,Wave3,q23,6pt,6,"1, 2, 6, 7, 8",Missing = -1; Most people can be trusted = 1; You must be very careful in dealing with people = 2,standard
+gen_trust_binary,Wave4,q23,5pt,5,"1, 2, 7, 8, 9",Mising = -1; Most people can be trusted = 1; You must be very careful in dealing with people = 2,standard
+gen_trust_binary,Wave5,q23,7pt,7,"1, 2, 3, 4, 7",Missing = -1; Strongly agree = 1; Somewhat agree = 2,standard
+gen_trust_binary,Wave6,NA,NA,NA,NA,NA,NA
+gen_trust_scale,Wave1,NA,NA,NA,NA,NA,NA
+gen_trust_scale,Wave2,NA,NA,NA,NA,NA,NA
+gen_trust_scale,Wave3,NA,NA,NA,NA,NA,NA
+gen_trust_scale,Wave4,q24,7pt,7,"1, 2, 3, 4, 7",Mising = -1; Strongly agree = 1; Somewhat agree = 2,standard
+gen_trust_scale,Wave5,NA,NA,NA,NA,NA,NA
+gen_trust_scale,Wave6,q23,5pt,5,"1, 2, 3, 4, 8",Missing = -1; Not applicable = 0; Strongly agree = 1,standard
+trust_relatives,Wave1,NA,NA,NA,NA,NA,NA
+trust_relatives,Wave2,q24,7pt,7,"1, 2, 3, 4, 7",None at all = 1; Not Very Much Trust = 2; Quite a Lot of Trust = 3,standard
+trust_relatives,Wave3,q24,6pt,6,"1, 2, 6, 7, 8",Missing = -1; Most people would try to take advantage of you if they got a = 1; Most people would try to be fair = 2,standard
+trust_relatives,Wave4,NA,NA,NA,NA,NA,NA
+trust_relatives,Wave5,q24,6pt,6,"1, 2, 3, 4, 5",Missing = -1; Trust fully = 1; Trust a lot = 2,standard
+trust_relatives,Wave6,q24,5pt,5,"1, 2, 3, 4, 8",Missing = -1; Not applicable = 0; A great deal of trust = 1,standard
+trust_neighbors,Wave1,NA,NA,NA,NA,NA,NA
+trust_neighbors,Wave2,q25,7pt,7,"1, 2, 3, 4, 7",None at all = 1; Not Very Much Trust = 2; Quite a Lot of Trust = 3,standard
+trust_neighbors,Wave3,q25,7pt,7,"1, 2, 3, 4, 7",Missing = -1; A great deal of Trust = 1; Quite a lot of Trust = 2,standard
+trust_neighbors,Wave4,NA,NA,NA,NA,NA,NA
+trust_neighbors,Wave5,q25,6pt,6,"1, 2, 3, 4, 5",Missing = -1; Trust fully = 1; Trust a lot = 2,standard
+trust_neighbors,Wave6,q25,7pt,7,"1, 2, 3, 4, 7",Missing = -1; Not applicable = 0; A great deal of trust = 1,standard
+trust_others_interact,Wave1,NA,NA,NA,NA,NA,NA
+trust_others_interact,Wave2,q26,7pt,7,"1, 2, 3, 4, 7",None at all = 1; Not Very Much Trust = 2; Quite a Lot of Trust = 3,standard
+trust_others_interact,Wave3,q26,7pt,7,"1, 2, 3, 4, 7",Missing = -1; A great deal of Trust = 1; Quite a lot of Trust = 2,standard
+trust_others_interact,Wave4,NA,NA,NA,NA,NA,NA
+trust_others_interact,Wave5,q26,6pt,6,"1, 2, 3, 4, 5",Missing = -1; Trust fully = 1; Trust a lot = 2,standard
+trust_others_interact,Wave6,q26,6pt,6,"1, 2, 3, 4, 8",Missing = -1; Not applicable = 0; A great deal of trust = 1,standard
+trust_first_meet,Wave1,NA,NA,NA,NA,NA,NA
+trust_first_meet,Wave2,q27,7pt,7,"1, 2, 3, 4, 5",Not applicable = 0; 0-4 people = 1; 5-9 people = 2,standard
+trust_first_meet,Wave3,q27,7pt,7,"1, 2, 3, 4, 7",Missing = -1; A great deal of Trust = 1; Quite a lot of Trust = 2,standard
+trust_first_meet,Wave4,NA,NA,NA,NA,NA,NA
+trust_first_meet,Wave5,q27,6pt,6,"1, 2, 3, 4, 5",Missing = -1; Trust fully = 1; Trust a lot = 2,standard
+trust_first_meet,Wave6,q27,7pt,7,"1, 2, 3, 4, 7",Missing = -1; Not applicable = 0; A great deal of trust = 1,standard
+econ_country_current,Wave1,NA,NA,NA,NA,NA,NA
+econ_country_current,Wave2,q1,7pt,7,"1, 2, 3, 4, 5",Very bad = 1; Bad = 2; So so (not good nor bad) = 3,standard
+econ_country_current,Wave3,q1,8pt,8,"1, 2, 3, 4, 5",Missing = -1; Very good = 1; Good = 2,standard
+econ_country_current,Wave4,q1,8pt,8,"1, 2, 3, 4, 5",Missing = -1; Very good = 1; Good = 2,standard
+econ_country_current,Wave5,q1,8pt,8,"1, 2, 3, 4, 5",Missing = -1; Very good = 1; Good = 2,standard
+econ_country_current,Wave6,q1,7pt,7,"1, 2, 3, 4, 5",Very good = 1; Good = 2; So-so [not good nor bad] = 3,standard
+econ_country_past,Wave1,NA,NA,NA,NA,NA,NA
+econ_country_past,Wave2,q2,7pt,7,"1, 2, 3, 4, 5",Much worse = 1; A little worse = 2; About the same = 3,standard
+econ_country_past,Wave3,q2,8pt,8,"1, 2, 3, 4, 5",Missing = -1; Much better = 1; A little better = 2,standard
+econ_country_past,Wave4,q2,8pt,8,"1, 2, 3, 4, 5",Missing = -1; Much better = 1; A little better = 2,standard
+econ_country_past,Wave5,q2,8pt,8,"1, 2, 3, 4, 5",Missing = -1; Much better = 1; A little better = 2,standard
+econ_country_past,Wave6,q2,7pt,7,"1, 2, 3, 4, 5",Missing = -1; Not applicable = 0; Much better = 1,standard
+econ_country_future,Wave1,NA,NA,NA,NA,NA,NA
+econ_country_future,Wave2,q3,7pt,7,"1, 2, 3, 4, 5",Much worse = 1; A little worse = 2; About the same = 3,standard
+econ_country_future,Wave3,q3,8pt,8,"1, 2, 3, 4, 5",Missing = -1; Much better = 1; A little better = 2,standard
+econ_country_future,Wave4,q3,8pt,8,"1, 2, 3, 4, 5",Missing = -1; Much better = 1; A little better = 2,standard
+econ_country_future,Wave5,q3,8pt,8,"1, 2, 3, 4, 5",Missing = -1; Much better = 1; A little better = 2,standard
+econ_country_future,Wave6,q3,7pt,7,"1, 2, 3, 4, 5",Missing = -1; Not applicable = 0; Much better = 1,standard
+econ_family_current,Wave1,NA,NA,NA,NA,NA,NA
+econ_family_current,Wave2,q4,7pt,7,"1, 2, 3, 4, 5",Very bad = 1; Bad = 2; So so (not good nor bad) = 3,standard
+econ_family_current,Wave3,q4,8pt,8,"1, 2, 3, 4, 5",Missing = -1; Very good = 1; Good = 2,standard
+econ_family_current,Wave4,q4,7pt,7,"1, 2, 3, 4, 5",Missing = -1; Very good = 1; Good = 2,standard
+econ_family_current,Wave5,q4,8pt,8,"1, 2, 3, 4, 5",Missing = -1; Very good = 1; Good = 2,standard
+econ_family_current,Wave6,q4,6pt,6,"1, 2, 3, 4, 5",Missing = -1; Not applicable = 0; Very good = 1,standard
+econ_family_past,Wave1,NA,NA,NA,NA,NA,NA
+econ_family_past,Wave2,q5,7pt,7,"1, 2, 3, 4, 5",Much worse now = 1; A little worse now = 2; About the same = 3,standard
+econ_family_past,Wave3,q5,8pt,8,"1, 2, 3, 4, 5",Missing = -1; Much better now = 1; A little better now = 2,standard
+econ_family_past,Wave4,q5,7pt,7,"1, 2, 3, 4, 5",Missing = -1; Much better = 1; A little better = 2,standard
+econ_family_past,Wave5,q5,8pt,8,"1, 2, 3, 4, 5",Missing = -1; Much better = 1; A little better = 2,standard
+econ_family_past,Wave6,q5,7pt,7,"1, 2, 3, 4, 5",Missing = -1; Not applicable = 0; Much better now = 1,standard
+econ_family_future,Wave1,NA,NA,NA,NA,NA,NA
+econ_family_future,Wave2,q6,7pt,7,"1, 2, 3, 4, 5",Much worse = 1; A little worse = 2; About the same = 3,standard
+econ_family_future,Wave3,q6,8pt,8,"1, 2, 3, 4, 5",Missing = -1; Much better = 1; A little better = 2,standard
+econ_family_future,Wave4,q6,8pt,8,"1, 2, 3, 4, 5",Missing = -1; Much better = 1; A little better = 2,standard
+econ_family_future,Wave5,q6,8pt,8,"1, 2, 3, 4, 5",Missing = -1; Much better = 1; A little better = 2,standard
+econ_family_future,Wave6,q6,8pt,8,"1, 2, 3, 4, 5",Missing = -1; Not applicable = 0; Much better = 1,standard
+interest_politics,Wave1,NA,NA,NA,NA,NA,NA
+interest_politics,Wave2,q92,7pt,7,"1, 2, 3, 4, 7",No answer = 0; Opportunity to change the government through elections = 1; Freedom to criticize those in power = 2,standard
+interest_politics,Wave3,q88,7pt,7,"1, 2, 3, 4, 7",Missing = -1; People have the freedom to take part in protests and demonst = 1; Politics is clean and free of corruption. = 2,standard
+interest_politics,Wave4,q91,7pt,7,"1, 2, 3, 4, 7",Missing = -1; People have the freedom to take part in protests and demonstrations = 1; Politics is clean and free of corruption. = 2,standard
+interest_politics,Wave5,q89,7pt,7,"1, 2, 3, 4, 7",Missing = -1; Strongly agree = 1; Agree = 2,standard
+interest_politics,Wave6,q91,7pt,7,"1, 2, 3, 4, 7",Missing = -1; Not applicable = 0; A Full Democracy = 1,standard
+follow_news,Wave1,NA,NA,NA,NA,NA,NA
+follow_news,Wave2,NA,NA,NA,NA,NA,NA
+follow_news,Wave3,q91,10pt,10,"1, 2, 3, 4, 5",Missing = -1; Do not understand the question = 97; Can't choose = 98,standard
+follow_news,Wave4,q94,10pt,10,"1, 2, 3, 4, 5",Missing = -1; Completely Undemocratic = 1; 2 = 2,standard
+follow_news,Wave5,q92,10pt,10,"1, 2, 3, 4, 5",Missing = -1; Definitely not an essential characteristic of democracy = 1; 2 = 2,standard
+follow_news,Wave6,q94,10pt,10,"1, 2, 3, 4, 5",Missing = -1; Not applicable = 0; Completely undemocratic = 1,standard
+voted_last_election,Wave1,NA,NA,NA,NA,NA,NA
+voted_last_election,Wave2,q38,4pt,4,"1, 2, 8, 9",Not applicable = 0; No = 1; Yes = 2,standard
+voted_last_election,Wave3,q33,continuous_check,109,"90, 92, 101, 102, 103",Missing = -1; Not applicable = 90; No vote = 92,standard
+voted_last_election,Wave4,q33,4pt,4,"1, 2, 8, 9",missing = -1; Not applicable/not yet eligible to vote = 0; Yes = 1,standard
+voted_last_election,Wave5,q33,6pt,6,"1, 2, 3, 7, 8",Missing = -1; Not applicable = 0; Yes = 1,standard
+voted_last_election,Wave6,q33,5pt,5,"1, 2, 3, 8, 9",Missing = -1; Not applicable = 0; Yes = 1,standard
+satisfaction_democracy,Wave1,NA,NA,NA,NA,NA,NA
+satisfaction_democracy,Wave2,q93,6pt,6,"1, 2, 3, 4, 8",Not at all satisfied = 1; Not very satisfied = 2; Fairly satisfied = 3,standard
+satisfaction_democracy,Wave3,q89,6pt,6,"1, 2, 3, 4, 8",Missing = -1; Very satisfied = 1; Fairly satisfied = 2,standard
+satisfaction_democracy,Wave4,q92,7pt,7,"1, 2, 3, 4, 7",Missing = -1; Very satisfied = 1; Fairly satisfied = 2,standard
+satisfaction_democracy,Wave5,q90,7pt,7,"1, 2, 3, 4, 7","Missing = -1; It works fine, not need to change = 1; Needs minor change = 2",standard
+satisfaction_democracy,Wave6,q92,10pt,10,"1, 2, 3, 4, 5",Missing = -1; Not applicable = 0; Completely undemocratic = 1,standard
+level_democracy,Wave1,NA,NA,NA,NA,NA,NA
+level_democracy,Wave2,q94,7pt,7,"1, 2, 3, 4, 7","A full democracy = 1; A democracy, but with minor problems = 2; A democracy, with major problems = 3",standard
+level_democracy,Wave3,q90,7pt,7,"1, 2, 3, 4, 7","Missing = -1; A full democracy = 1; A democracy, but with minor problems = 2",standard
+level_democracy,Wave4,q93,7pt,7,"1, 2, 3, 4, 7","Missing = -1; A full democracy = 1; A democracy, but with minor problems = 2",standard
+level_democracy,Wave5,q91,10pt,10,"1, 2, 3, 4, 5",Missing = -1; Definitely not an essential characteristic of democracy = 1; 2 = 2,standard
+level_democracy,Wave6,q93,10pt,10,"1, 2, 3, 4, 5",Missing = -1; Not applicable = 0; Completely undemocratic = 1,standard
+democracy_preferable,Wave1,q121,4pt,4,"1, 2, 3, 4",Strongly agree = 1; Somewhat agree = 2; Somewhat disagree = 3,standard
+democracy_preferable,Wave2,q121,6pt,6,"1, 2, 3, 7, 8","For people like me, it does not matter whether we have a democratic or a nondemocratic regime = 1; Under some circumstances, an authoritarian government can be peferable to a democratic one = 2; Democracy is always preferable to any other kind of government = 3",standard
+democracy_preferable,Wave3,q132,7pt,7,"1, 2, 3, 4, 7",Missing = -1; Strongly approve = 1; Somewhat approve = 2,standard
+democracy_preferable,Wave4,q125,6pt,6,"1, 2, 3, 7, 8","Missing = -1; Democracy is always preferable to any other kind of government = 1; Under some circumstances, an authoritarian government can be preferable to a democratic one = 2",standard
+democracy_preferable,Wave5,q124,7pt,7,"1, 2, 3, 4, 7",Missing = -1; Hardly anyone is involved = 1; Not a lot of officials are corrupt = 2,standard
+democracy_preferable,Wave6,q125,5pt,5,"1, 2, 7, 8, 9",Missing = -1; Not applicable = 0; Democracy is capable of solving the problems of our society = 1,standard
+covid_infection,Wave1,q138,4pt,4,"1, 2, 3, 4",Strongly agree = 1; Somewhat agree = 2; Somewhat disagree = 3,standard
+covid_infection,Wave2,NA,NA,NA,NA,NA,NA
+covid_infection,Wave3,NA,NA,NA,NA,NA,NA
+covid_infection,Wave4,NA,NA,NA,NA,NA,NA
+covid_infection,Wave5,NA,NA,NA,NA,NA,NA
+covid_infection,Wave6,q138,binary,2,"1, 2",Missing = -1; Not applicable = 0; Yes = 1,standard
+covid_economic_impact,Wave1,q140,4pt,4,"1, 2, 3, 4",Strongly agree = 1; Somewhat agree = 2; Somewhat disagree = 3,standard
+covid_economic_impact,Wave2,NA,NA,NA,NA,NA,NA
+covid_economic_impact,Wave3,NA,NA,NA,NA,NA,NA
+covid_economic_impact,Wave4,NA,NA,NA,NA,NA,NA
+covid_economic_impact,Wave5,NA,NA,NA,NA,NA,NA
+covid_economic_impact,Wave6,q140,4pt,4,"1, 2, 3, 4",Missing = -1; Not applicable = 0; Very serious impact = 1,standard
+covid_trust_info,Wave1,q141,4pt,4,"1, 2, 3, 4",Strongly agree = 1; Somewhat agree = 2; Somewhat disagree = 3,standard
+covid_trust_info,Wave2,NA,NA,NA,NA,NA,NA
+covid_trust_info,Wave3,NA,NA,NA,NA,NA,NA
+covid_trust_info,Wave4,NA,NA,NA,NA,NA,NA
+covid_trust_info,Wave5,NA,NA,NA,NA,NA,NA
+covid_trust_info,Wave6,q141,4pt,4,"1, 2, 3, 4",Missing = -1; Not applicable = 0; A great deal of trust = 1,standard
+covid_govt_handling,Wave1,q142,4pt,4,"1, 2, 3, 4",Strongly disagree = 1; Somewhat disagree = 2; Somewhat agree = 3,standard
+covid_govt_handling,Wave2,NA,NA,NA,NA,NA,NA
+covid_govt_handling,Wave3,NA,NA,NA,NA,NA,NA
+covid_govt_handling,Wave4,NA,NA,NA,NA,NA,NA
+covid_govt_handling,Wave5,NA,NA,NA,NA,NA,NA
+covid_govt_handling,Wave6,q142,4pt,4,"1, 2, 3, 4",Missing = -1; Not applicable = 0; Very well = 1,standard
+covid_vaccination,Wave1,q144,4pt,4,"1, 2, 3, 4",Strongly agree = 1; Somewhat agree = 2; Somewhat disagree = 3,standard
+covid_vaccination,Wave2,NA,NA,NA,NA,NA,NA
+covid_vaccination,Wave3,NA,NA,NA,NA,NA,NA
+covid_vaccination,Wave4,NA,NA,NA,NA,NA,NA
+covid_vaccination,Wave5,NA,NA,NA,NA,NA,NA
+covid_vaccination,Wave6,q144,5pt,5,"1, 2, 3, 4, 5",Missing = -1; Not applicable = 0; Yes = 1,standard
+covid_emergency_powers,Wave1,NA,NA,NA,NA,NA,NA
+covid_emergency_powers,Wave2,NA,NA,NA,NA,NA,NA
+covid_emergency_powers,Wave3,NA,NA,NA,NA,NA,NA
+covid_emergency_powers,Wave4,NA,NA,NA,NA,NA,NA
+covid_emergency_powers,Wave5,NA,NA,NA,NA,NA,NA
+covid_emergency_powers,Wave6,q172a,6pt,6,"1, 2, 3, 4, 8",Missing = -1; Not applicable = 0; Very justified = 1,standard
+contact_frequency,Wave1,NA,NA,NA,NA,NA,NA
+contact_frequency,Wave2,q27,7pt,7,"1, 2, 3, 4, 5",Not applicable = 0; 0-4 people = 1; 5-9 people = 2,standard
+contact_frequency,Wave3,q28,7pt,7,"1, 2, 3, 4, 5",Missing = -1; Not applicable = 0; 0-4 people = 1,standard
+contact_frequency,Wave4,q28,7pt,7,"1, 2, 3, 4, 7",Missing = -1; A great deal of trust = 1; Quite a lot of trust = 2,standard
+contact_frequency,Wave5,q28,8pt,8,"1, 2, 3, 4, 5",Missing = -1; Not applicable = 0; 0-4 people = 1,standard
+contact_frequency,Wave6,q28,8pt,8,"1, 2, 3, 4, 5",Missing = -1; Not applicable = 0; 0-4 people = 1,standard
+difficult_problem_help,Wave1,NA,NA,NA,NA,NA,NA
+difficult_problem_help,Wave2,q29,7pt,7,"1, 2, 3, 4, 7","No, nobody = 1; Yes, a few = 2; Yes, some = 3",standard
+difficult_problem_help,Wave3,q29,7pt,7,"1, 2, 3, 4, 7","Missing = -1; No, nobody = 1; Yes, a few = 2",standard
+difficult_problem_help,Wave4,q31,7pt,7,"1, 2, 3, 4, 7","Missing = -1; No, nobody = 1; Yes, a few = 2",standard
+difficult_problem_help,Wave5,q31,7pt,7,"1, 2, 3, 4, 7","Missing = -1; No, nobody = 1; Yes, a few = 2",standard
+difficult_problem_help,Wave6,q31,6pt,6,"1, 2, 3, 4, 8","Missing = -1; Not applicable = 0; No, nobody = 1",standard
+age,Wave1,NA,NA,NA,NA,NA,NA
+age,Wave2,age,var_not_found,NA,NA,NA,NA
+age,Wave3,age,var_not_found,NA,NA,NA,NA
+age,Wave4,age,var_not_found,NA,NA,NA,NA
+age,Wave5,age,var_not_found,NA,NA,NA,NA
+age,Wave6,age,var_not_found,NA,NA,NA,NA
+education,Wave1,NA,NA,NA,NA,NA,NA
+education,Wave2,education,var_not_found,NA,NA,NA,NA
+education,Wave3,education,var_not_found,NA,NA,NA,NA
+education,Wave4,education,var_not_found,NA,NA,NA,NA
+education,Wave5,education,var_not_found,NA,NA,NA,NA
+education,Wave6,education,var_not_found,NA,NA,NA,NA
+gender,Wave1,NA,NA,NA,NA,NA,NA
+gender,Wave2,gender,var_not_found,NA,NA,NA,NA
+gender,Wave3,gender,var_not_found,NA,NA,NA,NA
+gender,Wave4,gender,var_not_found,NA,NA,NA,NA
+gender,Wave5,gender,var_not_found,NA,NA,NA,NA
+gender,Wave6,gender,var_not_found,NA,NA,NA,NA
+income,Wave1,NA,NA,NA,NA,NA,NA
+income,Wave2,income,var_not_found,NA,NA,NA,NA
+income,Wave3,income,var_not_found,NA,NA,NA,NA
+income,Wave4,income,var_not_found,NA,NA,NA,NA
+income,Wave5,income,var_not_found,NA,NA,NA,NA
+income,Wave6,income,var_not_found,NA,NA,NA,NA
+urban_rural,Wave1,NA,NA,NA,NA,NA,NA
+urban_rural,Wave2,urban,var_not_found,NA,NA,NA,NA
+urban_rural,Wave3,urban,var_not_found,NA,NA,NA,NA
+urban_rural,Wave4,urban,var_not_found,NA,NA,NA,NA
+urban_rural,Wave5,urban,var_not_found,NA,NA,NA,NA
+urban_rural,Wave6,urban,var_not_found,NA,NA,NA,NA
+country,Wave1,NA,NA,NA,NA,NA,NA
+country,Wave2,country,continuous,13,"1, 2, 3, 4, 5",Japan = 1; Hong Kong = 2; Korea = 3,standard
+country,Wave3,country,continuous,13,"1, 2, 3, 4, 5",Missing = -1; Japan = 1; Hong Kong = 2,standard
+country,Wave4,country,continuous,14,"1, 2, 3, 4, 5",Japan = 1; Hong Kong = 2; Korea = 3,standard
+country,Wave5,country,var_not_found,NA,NA,NA,NA
+country,Wave6,country,var_not_found,NA,NA,NA,NA
+year,Wave1,NA,NA,NA,NA,NA,NA
+year,Wave2,year,var_not_found,NA,NA,NA,NA
+year,Wave3,year,var_not_found,NA,NA,NA,NA
+year,Wave4,year,3pt,3,"2014, 2015, 2016",Missing = -1,standard
+year,Wave5,year,var_not_found,NA,NA,NA,NA
+year,Wave6,year,var_not_found,NA,NA,NA,NA
+respondent_id,Wave1,NA,NA,NA,NA,NA,NA
+respondent_id,Wave2,idnumber,continuous_check,7404,"1, 2, 3, 4, 5",,standard
+respondent_id,Wave3,idnumber,continuous_check,6591,"1, 2, 3, 4, 5",Missing = -1,standard
+respondent_id,Wave4,idnumber,continuous_check,6725,"1, 2, 3, 4, 5",,standard
+respondent_id,Wave5,idnumber,var_not_found,NA,NA,NA,NA
+respondent_id,Wave6,idnumber,var_not_found,NA,NA,NA,NA
+concept_001,Wave1,NA,NA,NA,NA,NA,NA
+concept_001,Wave2,q1,7pt,7,"1, 2, 3, 4, 5",Very bad = 1; Bad = 2; So so (not good nor bad) = 3,standard
+concept_001,Wave3,q1,8pt,8,"1, 2, 3, 4, 5",Missing = -1; Very good = 1; Good = 2,standard
+concept_001,Wave4,q1,8pt,8,"1, 2, 3, 4, 5",Missing = -1; Very good = 1; Good = 2,standard
+concept_001,Wave5,q1,8pt,8,"1, 2, 3, 4, 5",Missing = -1; Very good = 1; Good = 2,standard
+concept_001,Wave6,q1,7pt,7,"1, 2, 3, 4, 5",Very good = 1; Good = 2; So-so [not good nor bad] = 3,standard
+concept_002,Wave1,NA,NA,NA,NA,NA,NA
+concept_002,Wave2,q4,7pt,7,"1, 2, 3, 4, 5",Very bad = 1; Bad = 2; So so (not good nor bad) = 3,standard
+concept_002,Wave3,q4,8pt,8,"1, 2, 3, 4, 5",Missing = -1; Very good = 1; Good = 2,standard
+concept_002,Wave4,q4,7pt,7,"1, 2, 3, 4, 5",Missing = -1; Very good = 1; Good = 2,standard
+concept_002,Wave5,q4,8pt,8,"1, 2, 3, 4, 5",Missing = -1; Very good = 1; Good = 2,standard
+concept_002,Wave6,q4,6pt,6,"1, 2, 3, 4, 5",Missing = -1; Not applicable = 0; Very good = 1,standard
+concept_003,Wave1,NA,NA,NA,NA,NA,NA
+concept_003,Wave2,q56,7pt,7,"1, 2, 3, 4, 7",Strongly agree = 1; Somewhat agree = 2; Somewhat disagree = 3,standard
+concept_003,Wave3,q56,7pt,7,"1, 2, 3, 4, 7",Missing = -1; Strongly agree = 1; Somewhat agree = 2,standard
+concept_003,Wave4,q56,7pt,7,"1, 2, 3, 4, 7",Missing = -1; Strongly agree = 1; Somewhat agree = 2,standard
+concept_003,Wave5,q56,continuous_check,163,"90, 101, 102, 103, 104",Missing = -1; Not applicable = 0; Do not feel close to any party = 90,standard
+concept_003,Wave6,q56,7pt,7,"1, 2, 3, 4, 7",Missing = -1; Not applicable = 0; Strongly agree = 1,standard
+concept_004,Wave1,NA,NA,NA,NA,NA,NA
+concept_004,Wave2,q59,7pt,7,"1, 2, 3, 4, 7",Strongly agree = 1; Somewhat agree = 2; Somewhat disagree = 3,standard
+concept_004,Wave3,q59,7pt,7,"1, 2, 3, 4, 7",Missing = -1; Strongly agree = 1; Somewhat agree = 2,standard
+concept_004,Wave4,q59,7pt,7,"1, 2, 3, 4, 7",Missing = -1; Strongly agree = 1; Somewhat agree = 2,standard
+concept_004,Wave5,q59,7pt,7,"1, 2, 3, 4, 7",Missing = -1; Strongly agree = 1; Somewhat agree = 2,standard
+concept_004,Wave6,q59,7pt,7,"1, 2, 3, 4, 7",Missing = -1; Not applicable = 0; Strongly agree = 1,standard
+concept_005,Wave1,NA,NA,NA,NA,NA,NA
+concept_005,Wave2,q60,7pt,7,"1, 2, 3, 4, 7",Strongly agree = 1; Somewhat agree = 2; Somewhat disagree = 3,standard
+concept_005,Wave3,q60,7pt,7,"1, 2, 3, 4, 7",Missing = -1; Strongly agree = 1; Somewhat agree = 2,standard
+concept_005,Wave4,q60,7pt,7,"1, 2, 3, 4, 7",Missing = -1; Strongly agree = 1; Somewhat agree = 2,standard
+concept_005,Wave5,q60,7pt,7,"1, 2, 3, 4, 7",Missing = -1; Strongly agree = 1; Somewhat agree = 2,standard
+concept_005,Wave6,q60,7pt,7,"1, 2, 3, 4, 7",Missing = -1; Not applicable = 0; Strongly agree = 1,standard
+concept_006,Wave1,q100,continuous,17,"1, 2, 2.5, 3, 3.5",Complete dictatorship = 1; Complete democracy = 10; Not Applicable = 97,standard
+concept_006,Wave2,q100,continuous_check,73,"100, 110, 120, 130, 140","No answer = 0; Economics = 100; Management of the economy, economic development = 110",standard
+concept_006,Wave3,q100,7pt,7,"1, 2, 3, 4, 7",Missing = -1; Strongly agree = 1; Somewhat agree = 2,standard
+concept_006,Wave4,q100,6pt,6,"1, 2, 3, 4, 8",Missing = -1; Not applicable = 0; Very likely = 1,standard
+concept_006,Wave5,q100,7pt,7,"1, 2, 3, 4, 7","Missing = -1; A full democracy = 1; A democracy, but with minor problems = 2",standard
+concept_006,Wave6,q100,7pt,7,"1, 2, 3, 4, 7",Missing = -1; Not applicable = 0; Strongly agree = 1,standard
+concept_007,Wave1,q101,continuous,14,"1, 2, 3, 4, 5",Complete dictatorship = 1; Complete democracy = 10; Not Applicable = 97,standard
+concept_007,Wave2,q101,continuous_check,73,"100, 110, 120, 130, 140","No answer = 0; Economics = 100; Management of the economy, economic development = 110",standard
+concept_007,Wave3,q101,7pt,7,"1, 2, 3, 4, 7",Missing = -1; Strongly agree = 1; Somewhat agree = 2,standard
+concept_007,Wave4,q101,7pt,7,"1, 2, 3, 4, 7",Missing = -1; Strongly agree = 1; Somewhat agree = 2,standard
+concept_007,Wave5,q101,10pt,10,"1, 2, 3, 4, 5",Missing = -1; Completely Undemocratic = 1; 2 = 2,standard
+concept_007,Wave6,q101,7pt,7,"1, 2, 3, 4, 7",Missing = -1; Not applicable = 0; Strongly agree = 1,standard
+concept_008,Wave1,q118,binary,2,"1, 2",Democracy can not solve our society's problems = 1; Democracy is capable of solving the problems of our society = 2; Don't know = 98,standard
+concept_008,Wave2,q118,6pt,6,"1, 2, 3, 4, 8",Almost everyone is corrupt = 1; Most officials are corrupt = 2; Not a lot of officials are corrupt = 3,standard
+concept_008,Wave3,q118,7pt,7,"1, 2, 3, 4, 7",Missing = -1; It is doing its best = 1; It is doing something = 2,standard
+concept_008,Wave4,q118,7pt,7,"1, 2, 3, 4, 7",Missing = -1; Hardly anyone is involved = 1; Not a lot of officials are corrupt = 2,standard
+concept_008,Wave5,q118,8pt,8,"1, 2, 3, 4, 5",Missing = -1; Always = 1; Most of the time = 2,standard
+concept_008,Wave6,q118,4pt,4,"1, 2, 8, 9",Missing = -1; Not applicable = 0; Yes = 1,standard
+concept_010,Wave1,NA,NA,NA,NA,NA,NA
+concept_010,Wave2,NA,NA,NA,NA,NA,NA
+concept_010,Wave3,q74a,5pt,5,"1, 2, 7, 8, 9",Missing = -1; Not applicable = 0; Strongly agree = 1,standard
+concept_010,Wave4,q74a,7pt,7,"1, 2, 3, 4, 7",Missing = -1; I have done this more than once = 1; I have done this once = 2,standard
+concept_010,Wave5,q156a,5pt,5,"1, 2, 7, 8, 9",Missing = -1; Not applicable = 0; Strongly agree = 1,standard
+concept_010,Wave6,q156a,3pt,3,"1, 2, 8",Missing = -1; Not applicable = 0; Strongly Agree = 1,standard
+concept_011,Wave1,NA,NA,NA,NA,NA,NA
+concept_011,Wave2,NA,NA,NA,NA,NA,NA
+concept_011,Wave3,NA,NA,NA,NA,NA,NA
+concept_011,Wave4,q167,continuous,36,"1, 2, 3, 4, 5",Missing = -1; United States = 1; China = 2,standard
+concept_011,Wave5,q167,7pt,7,"1, 2, 3, 4, 7",Missing = -1; Very willing = 1; Willing = 2,standard
+concept_011,Wave6,q167,7pt,7,"1, 2, 3, 4, 7",Missing = -1; Not applicable = 0; Very willing = 1,standard
+concept_012,Wave1,NA,NA,NA,NA,NA,NA
+concept_012,Wave2,NA,NA,NA,NA,NA,NA
+concept_012,Wave3,NA,NA,NA,NA,NA,NA
+concept_012,Wave4,q168,7pt,7,"1, 2, 3, 4, 7",Missing = -1; A great deal of influence = 1; Some influence = 2,standard
+concept_012,Wave5,q168,7pt,7,"1, 2, 3, 4, 7",Missing = -1; Strongly agree = 1; Somewhat agree = 2,standard
+concept_012,Wave6,q168,7pt,7,"1, 2, 3, 4, 7",Missing = -1; Not applicable = 0; Strongly agree = 1,standard
+concept_013,Wave1,NA,NA,NA,NA,NA,NA
+concept_013,Wave2,NA,NA,NA,NA,NA,NA
+concept_013,Wave3,NA,NA,NA,NA,NA,NA
+concept_013,Wave4,q169,9pt,9,"1, 2, 3, 4, 5",Missing = -1; Very positive = 1; Positive = 2,standard
+concept_013,Wave5,q169,7pt,7,"1, 2, 3, 4, 7",Missing = -1; Strongly agree = 1; Somewhat agree = 2,standard
+concept_013,Wave6,q169,7pt,7,"1, 2, 3, 4, 7",Missing = -1; Not applicable = 0; Strongly agree = 1,standard
+concept_014,Wave1,NA,NA,NA,NA,NA,NA
+concept_014,Wave2,NA,NA,NA,NA,NA,NA
+concept_014,Wave3,NA,NA,NA,NA,NA,NA
+concept_014,Wave4,q170,7pt,7,"1, 2, 3, 4, 7",Missing = -1; A great deal of influence = 1; Some influence = 2,standard
+concept_014,Wave5,q170,7pt,7,"1, 2, 3, 4, 7",Missing = -1; Strongly agree = 1; Somewhat agree = 2,standard
+concept_014,Wave6,q170,7pt,7,"1, 2, 3, 4, 7",Missing = -1; Not applicable = 0; Strongly agree = 1,standard
+concept_015,Wave1,NA,NA,NA,NA,NA,NA
+concept_015,Wave2,NA,NA,NA,NA,NA,NA
+concept_015,Wave3,NA,NA,NA,NA,NA,NA
+concept_015,Wave4,q171,9pt,9,"1, 2, 3, 4, 5",Missing = -1; Very positive = 1; Positive = 2,standard
+concept_015,Wave5,q171,7pt,7,"1, 2, 3, 4, 7",Missing = -1; Strongly agree = 1; Somewhat agree = 2,standard
+concept_015,Wave6,q171,7pt,7,"1, 2, 3, 4, 7",Missing = -1; Not applicable = 0; Strongly agree = 1,standard
+concept_016,Wave1,NA,NA,NA,NA,NA,NA
+concept_016,Wave2,NA,NA,NA,NA,NA,NA
+concept_016,Wave3,NA,NA,NA,NA,NA,NA
+concept_016,Wave4,q172,7pt,7,"1, 2, 3, 4, 7",Missing = -1; Very close = 1; Close = 2,standard
+concept_016,Wave5,q172,7pt,7,"1, 2, 3, 4, 7",Missing = -1; Strongly agree = 1; Somewhat agree = 2,standard
+concept_016,Wave6,q186,7pt,7,"1, 2, 3, 4, 7",Missing = -1; Not applicable = 0; Very close = 1,standard
+concept_017,Wave1,NA,NA,NA,NA,NA,NA
+concept_017,Wave2,NA,NA,NA,NA,NA,NA
+concept_017,Wave3,q21,continuous,24,"1, 2, 3, 4, 5",Missing = -1; Not applicable = 0; Political parties = 1,standard
+concept_017,Wave4,q21,continuous,22,"1, 2, 3, 4, 5",Missing = -1; Not applicable = 0; Political parties = 1,standard
+concept_017,Wave5,q21,continuous,21,"1, 2, 3, 4, 5",Missing = -1; Not applicable = 0; Political parties = 1,standard
+concept_017,Wave6,q21,continuous,16,"1, 2, 3, 4, 5",Missing = -1; Not applicable = 0; Political parties = 1,standard
+concept_018,Wave1,NA,NA,NA,NA,NA,NA
+concept_018,Wave2,NA,NA,NA,NA,NA,NA
+concept_018,Wave3,q22,continuous,21,"1, 2, 3, 4, 5",Missing = -1; Not applicable = 0; Political parties = 1,standard
+concept_018,Wave4,q22,continuous,22,"1, 2, 3, 4, 5",Missing = -1; Not applicable = 0; Political parties = 1,standard
+concept_018,Wave5,q22,6pt,6,"1, 2, 3, 7, 8",Missing = -1; Most people can be trusted = 1; You must be very careful in dealing with people = 2,standard
+concept_018,Wave6,q22,3pt,3,"1, 2, 8",Missing = -1; Not applicable = 0; Most people can be trusted = 1,standard
+concept_020,Wave1,NA,NA,NA,NA,NA,NA
+concept_020,Wave2,q2,7pt,7,"1, 2, 3, 4, 5",Much worse = 1; A little worse = 2; About the same = 3,standard
+concept_020,Wave3,q2,8pt,8,"1, 2, 3, 4, 5",Missing = -1; Much better = 1; A little better = 2,standard
+concept_020,Wave4,q2,8pt,8,"1, 2, 3, 4, 5",Missing = -1; Much better = 1; A little better = 2,standard
+concept_020,Wave5,q2,8pt,8,"1, 2, 3, 4, 5",Missing = -1; Much better = 1; A little better = 2,standard
+concept_020,Wave6,q2,7pt,7,"1, 2, 3, 4, 5",Missing = -1; Not applicable = 0; Much better = 1,standard
+concept_022,Wave1,NA,NA,NA,NA,NA,NA
+concept_022,Wave2,q5,7pt,7,"1, 2, 3, 4, 5",Much worse now = 1; A little worse now = 2; About the same = 3,standard
+concept_022,Wave3,q5,8pt,8,"1, 2, 3, 4, 5",Missing = -1; Much better now = 1; A little better now = 2,standard
+concept_022,Wave4,q5,7pt,7,"1, 2, 3, 4, 5",Missing = -1; Much better = 1; A little better = 2,standard
+concept_022,Wave5,q5,8pt,8,"1, 2, 3, 4, 5",Missing = -1; Much better = 1; A little better = 2,standard
+concept_022,Wave6,q5,7pt,7,"1, 2, 3, 4, 5",Missing = -1; Not applicable = 0; Much better now = 1,standard
+concept_026,Wave1,NA,NA,NA,NA,NA,NA
+concept_026,Wave2,q3,7pt,7,"1, 2, 3, 4, 5",Much worse = 1; A little worse = 2; About the same = 3,standard
+concept_026,Wave3,q3,8pt,8,"1, 2, 3, 4, 5",Missing = -1; Much better = 1; A little better = 2,standard
+concept_026,Wave4,q3,8pt,8,"1, 2, 3, 4, 5",Missing = -1; Much better = 1; A little better = 2,standard
+concept_026,Wave5,q3,8pt,8,"1, 2, 3, 4, 5",Missing = -1; Much better = 1; A little better = 2,standard
+concept_026,Wave6,q3,7pt,7,"1, 2, 3, 4, 5",Missing = -1; Not applicable = 0; Much better = 1,standard
+concept_029,Wave1,NA,NA,NA,NA,NA,NA
+concept_029,Wave2,q6,7pt,7,"1, 2, 3, 4, 5",Much worse = 1; A little worse = 2; About the same = 3,standard
+concept_029,Wave3,q6,8pt,8,"1, 2, 3, 4, 5",Missing = -1; Much better = 1; A little better = 2,standard
+concept_029,Wave4,q6,8pt,8,"1, 2, 3, 4, 5",Missing = -1; Much better = 1; A little better = 2,standard
+concept_029,Wave5,q6,8pt,8,"1, 2, 3, 4, 5",Missing = -1; Much better = 1; A little better = 2,standard
+concept_029,Wave6,q6,8pt,8,"1, 2, 3, 4, 5",Missing = -1; Not applicable = 0; Much better = 1,standard
+concept_030,Wave1,q143,4pt,4,"1, 2, 3, 4",Strongly agree = 1; Somewhat agree = 2; Somewhat disagree = 3,standard
+concept_030,Wave2,q143,7pt,7,"1, 2, 3, 4, 7",Strongly agree = 1; Somewhat agree = 2; Somewhat disagree = 3,standard
+concept_030,Wave3,q143,7pt,7,"1, 2, 3, 4, 7",Missing = -1; Strongly agree = 1; Somewhat agree = 2,standard
+concept_030,Wave4,q143,7pt,7,"1, 2, 3, 4, 7",Missing = -1; Strongly agree = 1; Agree = 2,standard
+concept_030,Wave5,q143,7pt,7,"1, 2, 3, 4, 7",Missing = -1; Strongly agree = 1; Somewhat agree = 2,standard
+concept_030,Wave6,q76,8pt,8,"1, 2, 3, 4, 5",Missing = -1; Not applicable = 0; I have done this more than three times = 1,standard
+concept_031,Wave1,q104,5pt,5,"1, 2, 3, 4, 5",Veryl dissatisfied = 1; Somewhat dissatisfied = 2; Somewhat satisfied = 3,standard
+concept_031,Wave2,q104,7pt,7,"1, 2, 3, 4, 7",Strongly agree = 1; Somewhat agree = 2; Somewhat disagree = 3,standard
+concept_031,Wave3,q104,7pt,7,"1, 2, 3, 4, 7",Missing = -1; Strongly agree = 1; Somewhat agree = 2,standard
+concept_031,Wave4,q104,7pt,7,"1, 2, 3, 4, 7",Missing = -1; Strongly agree = 1; Somewhat agree = 2,standard
+concept_031,Wave5,q104,10pt,10,"1, 2, 3, 4, 5",Missing = -1; Democracy is completely unsuitable = 1; 2 = 2,standard
+concept_031,Wave6,q104,7pt,7,"1, 2, 3, 4, 7",Missing = -1; Not applicable = 0; Strongly agree = 1,standard
+concept_032,Wave1,NA,NA,NA,NA,NA,NA
+concept_032,Wave2,q50,8pt,8,"1, 2, 3, 4, 5",Practically never = 1; Not even once a week = 2; Once or twice a week = 3,standard
+concept_032,Wave3,q50,7pt,7,"1, 2, 3, 4, 7",Missing = -1; Strongly agree = 1; Somewhat agree = 2,standard
+concept_032,Wave4,q50,4pt,4,"1, 2, 8, 9",Missing = -1; Not applicable = 0; Yes = 1,standard
+concept_032,Wave5,q50,5pt,5,"1, 2, 7, 8, 9",Missing = -1; Not applicable = 0; Yes = 1,standard
+concept_032,Wave6,q50,9pt,9,"1, 2, 3, 4, 5",No access to internet = 0; Connected all the time = 1; Several hours a day = 2,standard
+concept_034,Wave1,NA,NA,NA,NA,NA,NA
+concept_034,Wave2,q53,7pt,7,"1, 2, 3, 4, 7",No impact at all = 1; A little impact = 2; Quite some impact = 3,standard
+concept_034,Wave3,q53,7pt,7,"1, 2, 3, 4, 7",Missing = -1; Strongly agree = 1; Somewhat agree = 2,standard
+concept_034,Wave4,q53,continuous_check,136,"90, 101, 102, 103, 104",Missing = -1; Do not feel close to any party = 90; Do not understand the question = 97,standard
+concept_034,Wave5,q53,6pt,6,"1, 2, 3, 4, 5",Missing = -1; Not applicable = 0; Trust fully = 1,standard
+concept_034,Wave6,q53,9pt,9,"1, 2, 3, 4, 5","Missing = -1; Not applicable = 0; Television, on airwaves, cable and online = 1",standard
+concept_035,Wave1,NA,NA,NA,NA,NA,NA
+concept_035,Wave2,q24,7pt,7,"1, 2, 3, 4, 7",None at all = 1; Not Very Much Trust = 2; Quite a Lot of Trust = 3,standard
+concept_035,Wave3,q24,6pt,6,"1, 2, 6, 7, 8",Missing = -1; Most people would try to take advantage of you if they got a = 1; Most people would try to be fair = 2,standard
+concept_035,Wave4,q24,7pt,7,"1, 2, 3, 4, 7",Mising = -1; Strongly agree = 1; Somewhat agree = 2,standard
+concept_035,Wave5,q24,6pt,6,"1, 2, 3, 4, 5",Missing = -1; Trust fully = 1; Trust a lot = 2,standard
+concept_035,Wave6,q24,5pt,5,"1, 2, 3, 4, 8",Missing = -1; Not applicable = 0; A great deal of trust = 1,standard
+concept_041,Wave1,NA,NA,NA,NA,NA,NA
+concept_041,Wave2,q49,7pt,7,"1, 2, 3, 4, 7",Not at all interested = 1; Not very interested = 2; Somewhat interested = 3,standard
+concept_041,Wave3,q49,7pt,7,"1, 2, 3, 4, 7",Missing = -1; Strongly agree = 1; Somewhat agree = 2,standard
+concept_041,Wave4,q49,8pt,8,"1, 2, 3, 4, 5",Missing = -1; Not applicable = 0; Several hours a day = 1,standard
+concept_041,Wave5,q49,9pt,9,"1, 2, 3, 4, 5",Missing = -1; Connected all the time = 1; Several hours a day = 2,standard
+concept_041,Wave6,q49,6pt,6,"1, 2, 3, 7, 8",Missing = -1; Not applicable = 0; Frequently = 1,standard
+concept_042,Wave1,NA,NA,NA,NA,NA,NA
+concept_042,Wave2,q157,3pt,3,"1, 2, 9",Yes = 1; No = 2; Decline to answer = 9,standard
+concept_042,Wave3,q157,7pt,7,"1, 2, 3, 4, 7",Missing = -1; Not applicable = 0; Much more good than harm = 1,standard
+concept_042,Wave4,q157,7pt,7,"1, 2, 3, 4, 7",Missing = -1; Not at all = 1; A little bit = 2,standard
+concept_042,Wave5,q157,5pt,5,"1, 2, 7, 8, 9",Missing = -1; Our country should limit the imports of foreign goods to protect our farmers and workers = 1; Our country should do more trade with other countries even if the rise of imports might harm our workers and farmers = 2,standard
+concept_042,Wave6,q157,5pt,5,"1, 2, 7, 8, 9",Missing = -1; Not applicable = 0; Our country should limit the imports of foreign goods to protect our farmers and workers = 1,standard
+concept_043,Wave1,q147,4pt,4,"1, 2, 3, 4",Strongly disagree = 1; Somewhat disagree = 2; Somewhat agree = 3,standard
+concept_043,Wave2,q147,6pt,6,"1, 2, 3, 7, 8","R""s Citizenship = 1; R""s ethnic/regional group = 2; R""S another identity = 3",standard
+concept_043,Wave3,q147,7pt,7,"1, 2, 3, 4, 7",Missing = -1; Strongly agree = 1; Somewhat agree = 2,standard
+concept_043,Wave4,q147,7pt,7,"1, 2, 3, 4, 7",Missing = -1; Strongly agree = 1; Agree = 2,standard
+concept_043,Wave5,q147,7pt,7,"1, 2, 3, 4, 7",Missing = -1; Strongly agree = 1; Somewhat agree = 2,standard
+concept_043,Wave6,q147,7pt,7,"1, 2, 3, 4, 7",Missing = -1; Not applicable = 0; Strongly agree = 1,standard
+concept_046,Wave1,q116,binary,2,"1, 2",Yes = 1; No = 2; Not Applicable = 97,standard
+concept_046,Wave2,q116,7pt,7,"1, 2, 3, 4, 7",Very responsive = 1; Largely responsive = 2; Not very responsive = 3,standard
+concept_046,Wave3,q116,6pt,6,"1, 2, 3, 4, 8",Missing = -1; Hardly anyone is involved = 1; Not a lot of officials are corrupt = 2,standard
+concept_046,Wave4,q116,7pt,7,"1, 2, 3, 4, 7",Missing = -1; A good deal = 1; Quite a lot = 2,standard
+concept_046,Wave5,q116,7pt,7,"1, 2, 3, 4, 7",Missing = -1; Strongly agree = 1; Somewhat agree = 2,standard
+concept_046,Wave6,q116,7pt,7,"1, 2, 3, 4, 7",Missing = -1; Not applicable = 0; Hardly anyone is involved = 1,standard
+concept_047,Wave1,NA,NA,NA,NA,NA,NA
+concept_047,Wave2,q95,10pt,10,"1, 2, 3, 4, 5",Complete Dictatorship = 1; ... = 2; ... = 3,standard
+concept_047,Wave3,q95,6pt,6,"1, 2, 3, 4, 8",Missing = -1; Very satisfied = 1; Somewhat satisfied = 2,standard
+concept_047,Wave4,q95,10pt,10,"1, 2, 3, 4, 5",Missing = -1; Completely Undemocratic = 1; 2 = 2,standard
+concept_047,Wave5,q95,10pt,10,"1, 2, 3, 4, 5",Missing = -1; Definitely not an essential characteristic of democracy = 1; 2 = 2,standard
+concept_047,Wave6,q95,10pt,10,"1, 2, 3, 4, 5",Missing = -1; Not applicable = 0; Democracy is completely unsuitable = 1,standard
+concept_048,Wave1,NA,NA,NA,NA,NA,NA
+concept_048,Wave2,q42,4pt,4,"1, 2, 8, 9",Not applicable = 0; No = 1; Yes = 2,standard
+concept_048,Wave3,q42,6pt,6,"1, 2, 3, 4, 8",Missing = -1; Very safe = 1; Safe = 2,standard
+concept_048,Wave4,q42,8pt,8,"1, 2, 3, 4, 5",Missing = -1; Not applicable = 0; Very difficult = 1,standard
+concept_048,Wave5,q42,8pt,8,"1, 2, 3, 4, 5",Missing = -1; Not applicable = 0; Very easy = 1,standard
+concept_048,Wave6,q42,7pt,7,"1, 2, 3, 4, 7",Missing = -1; Not applicable = 0; Very easy = 1,standard
+concept_051,Wave1,NA,NA,NA,NA,NA,NA
+concept_051,Wave2,q58,7pt,7,"1, 2, 3, 4, 7",Strongly agree = 1; Somewhat agree = 2; Somewhat disagree = 3,standard
+concept_051,Wave3,q58,7pt,7,"1, 2, 3, 4, 7",Missing = -1; Strongly agree = 1; Somewhat agree = 2,standard
+concept_051,Wave4,q58,7pt,7,"1, 2, 3, 4, 7",Missing = -1; Strongly agree = 1; Somewhat agree = 2,standard
+concept_051,Wave5,q58,7pt,7,"1, 2, 3, 4, 7",Missing = -1; Strongly agree = 1; Somewhat agree = 2,standard
+concept_051,Wave6,q58,7pt,7,"1, 2, 3, 4, 7",Missing = -1; Not applicable = 0; Strongly agree = 1,standard
+concept_052,Wave1,NA,NA,NA,NA,NA,NA
+concept_052,Wave2,NA,NA,NA,NA,NA,NA
+concept_052,Wave3,NA,NA,NA,NA,NA,NA
+concept_052,Wave4,NA,NA,NA,NA,NA,NA
+concept_052,Wave5,q160b,7pt,7,"1, 2, 3, 4, 7",Missing = -1; All responsibility = 1; Most of the responsibility = 2,standard
+concept_052,Wave6,q160b,6pt,6,"1, 2, 3, 4, 8",Missing = -1; Not applicable = 0; All = 1,standard
+concept_055,Wave1,NA,NA,NA,NA,NA,NA
+concept_055,Wave2,NA,NA,NA,NA,NA,NA
+concept_055,Wave3,NA,NA,NA,NA,NA,NA
+concept_055,Wave4,NA,NA,NA,NA,NA,NA
+concept_055,Wave5,q156_1,4pt,4,"1, 2, 3, 4",Missing = -1; Not applicable = 0; Strongly disagree = 1,standard
+concept_055,Wave6,q156_1,4pt,4,"1, 2, 3, 4",Missing = -1; Not applicable = 0; Strongly disagree = 1,standard
+concept_056,Wave1,q145,4pt,4,"1, 2, 3, 4",Strongly agree = 1; Somewhat agree = 2; Somewhat disagree = 3,standard
+concept_056,Wave2,q145,7pt,7,"1, 2, 3, 4, 7",Strongly agree = 1; Somewhat agree = 2; Somewhat disagree = 3,standard
+concept_056,Wave3,q145,7pt,7,"1, 2, 3, 4, 7",Missing = -1; Strongly agree = 1; Somewhat agree = 2,standard
+concept_056,Wave4,q145,7pt,7,"1, 2, 3, 4, 7",Missing = -1; Strongly agree = 1; Agree = 2,standard
+concept_056,Wave5,q145,7pt,7,"1, 2, 3, 4, 7",Missing = -1; Strongly agree = 1; Somewhat agree = 2,standard
+concept_056,Wave6,q145,5pt,5,"1, 2, 3, 4, 6",Missing = -1; Not applicable = 0; I'm worried about the side effects = 1,standard

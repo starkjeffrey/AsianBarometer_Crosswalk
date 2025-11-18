@@ -1,0 +1,42 @@
+concept,wave,variable,scale_detected,n_categories,values,labels,direction
+age,Wave2,age,var_not_found,NA,NA,NA,NA
+age,Wave3,age,var_not_found,NA,NA,NA,NA
+age,Wave4,age,var_not_found,NA,NA,NA,NA
+age,Wave5,age,var_not_found,NA,NA,NA,NA
+age,Wave6,age,var_not_found,NA,NA,NA,NA
+concept_003,Wave5,q56,continuous_check,163,"90, 101, 102, 103, 104",Missing = -1; Not applicable = 0; Do not feel close to any party = 90,standard
+concept_006,Wave2,q100,continuous_check,73,"100, 110, 120, 130, 140","No answer = 0; Economics = 100; Management of the economy, economic development = 110",standard
+concept_007,Wave2,q101,continuous_check,73,"100, 110, 120, 130, 140","No answer = 0; Economics = 100; Management of the economy, economic development = 110",standard
+concept_034,Wave4,q53,continuous_check,136,"90, 101, 102, 103, 104",Missing = -1; Do not feel close to any party = 90; Do not understand the question = 97,standard
+country,Wave5,country,var_not_found,NA,NA,NA,NA
+country,Wave6,country,var_not_found,NA,NA,NA,NA
+education,Wave2,education,var_not_found,NA,NA,NA,NA
+education,Wave3,education,var_not_found,NA,NA,NA,NA
+education,Wave4,education,var_not_found,NA,NA,NA,NA
+education,Wave5,education,var_not_found,NA,NA,NA,NA
+education,Wave6,education,var_not_found,NA,NA,NA,NA
+gender,Wave2,gender,var_not_found,NA,NA,NA,NA
+gender,Wave3,gender,var_not_found,NA,NA,NA,NA
+gender,Wave4,gender,var_not_found,NA,NA,NA,NA
+gender,Wave5,gender,var_not_found,NA,NA,NA,NA
+gender,Wave6,gender,var_not_found,NA,NA,NA,NA
+income,Wave2,income,var_not_found,NA,NA,NA,NA
+income,Wave3,income,var_not_found,NA,NA,NA,NA
+income,Wave4,income,var_not_found,NA,NA,NA,NA
+income,Wave5,income,var_not_found,NA,NA,NA,NA
+income,Wave6,income,var_not_found,NA,NA,NA,NA
+respondent_id,Wave2,idnumber,continuous_check,7404,"1, 2, 3, 4, 5",,standard
+respondent_id,Wave3,idnumber,continuous_check,6591,"1, 2, 3, 4, 5",Missing = -1,standard
+respondent_id,Wave4,idnumber,continuous_check,6725,"1, 2, 3, 4, 5",,standard
+respondent_id,Wave5,idnumber,var_not_found,NA,NA,NA,NA
+respondent_id,Wave6,idnumber,var_not_found,NA,NA,NA,NA
+urban_rural,Wave2,urban,var_not_found,NA,NA,NA,NA
+urban_rural,Wave3,urban,var_not_found,NA,NA,NA,NA
+urban_rural,Wave4,urban,var_not_found,NA,NA,NA,NA
+urban_rural,Wave5,urban,var_not_found,NA,NA,NA,NA
+urban_rural,Wave6,urban,var_not_found,NA,NA,NA,NA
+voted_last_election,Wave3,q33,continuous_check,109,"90, 92, 101, 102, 103",Missing = -1; Not applicable = 90; No vote = 92,standard
+year,Wave2,year,var_not_found,NA,NA,NA,NA
+year,Wave3,year,var_not_found,NA,NA,NA,NA
+year,Wave5,year,var_not_found,NA,NA,NA,NA
+year,Wave6,year,var_not_found,NA,NA,NA,NA

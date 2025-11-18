@@ -1,0 +1,207 @@
+"variable","var_label","n_values","has_labels","n_missing"
+"q16","16 The election commission",9,TRUE,0
+"q17","17 Non-government organizations or NGOs",8,TRUE,0
+"q18","18 Name of the organization you belong to. First",22,TRUE,0
+"q18_other","18 Other specify responses",0,FALSE,1242
+"q19","19 Name of the organization you belong to. Second",23,TRUE,0
+"q19_other","19 Other specify responses",0,FALSE,1242
+"q20","20 Name of the organization that you belong to. Third",25,TRUE,0
+"q20_other","20 Other specify responses",0,FALSE,1242
+"q21","21 Which organization you participate most actively in the last 12 months?'",18,TRUE,0
+"q21_other","21 Other specify responses",0,FALSE,1242
+"q22","22 Would you say that 'Most people can be trusted' or 'that you must be very careful in dealing with people'?",4,TRUE,0
+"q23","23 Do you agree with the statement that 'most people are trustworthy?'",6,TRUE,0
+"q24","24 How much trust do you have in each of the following types of people? Your relatives",6,TRUE,0
+"q25","25 Trust in your neighbors",8,TRUE,0
+"q26","26 Trust in other people you interact with",7,TRUE,0
+"q27","27 Trust in people you meet for the first time",7,TRUE,0
+"q28","28 How many people do you have contact with in a typical week day?",10,TRUE,0
+"q29","29 Which of the following best describes your relations with most of your social contacts?",7,TRUE,0
+"q30","30 Among these people you have frequent contacts, which of the following best describes the political views of these people?",9,TRUE,0
+"q31","31 If you have a difficult problem to manage, are there people outside your household you can ask for help?",7,TRUE,0
+"q32","32 If you had friends or co-workers whose opinions on politics differed from yours, would you have a hard time conversing with them?",8,TRUE,0
+"q33","33 Did you vote in the national election?",7,TRUE,0
+"q34","34 Which parties or candidates did you vote for?",11,TRUE,0
+"q34other","34. Other specify responses",3,FALSE,0
+"q34a","34a Did the respondent vote for the winning or losing camp?",6,TRUE,0
+"q35","35 Did you attend a campaign meeting or rally in the last national election?",5,TRUE,0
+"q36","36 Try to persuade others to vote for a certain candidate or party?",5,TRUE,0
+"q37","37 Did you do anything else to help out or work for a party or candidate running in the last national election?",6,TRUE,0
+"q38","38 On the whole, how free and fair would you say the last national election was?",8,TRUE,0
+"q39","39 How easy or difficult to obtain the roads in good condition",6,TRUE,0
+"q40","40 How easy or difficult to obtain running water",7,TRUE,0
+"q41","41 How easy or difficult to obtain public transportation",8,TRUE,0
+"q42","42 How easy or difficult to obtain healthcare",8,TRUE,0
+"q43","43 How easy or difficult to obtain help from the police when you need it",8,TRUE,0
+"q44","44 How easy or difficult to obtain access to the Internet",8,TRUE,0
+"q45","45 How easy or difficult to obtain childcare",8,TRUE,0
+"q46","46 Generally speaking, how safe is living in this city/town/village?",7,TRUE,0
+"q47","47 How interested would you say you are in politics?",7,TRUE,0
+"q48","48 How often do you follow news about politics and government?",9,TRUE,0
+"q49","49 When you get together with your family members or friends, how often do you discuss political matters?",7,TRUE,0
+"q50","50 How often do you use the internet, either through computer, tablet or smartphone?",12,TRUE,0
+"q51a_Facebook","51a Which social media and text messaging services do you actively use? Facebook",3,TRUE,0
+"q51b_Twitter","51b Twitter",3,TRUE,0
+"q51c_Instagram","51c Instagram",2,TRUE,0
+"q51d_Youtube","51d Youtube",3,TRUE,0
+"q51e_Tiktok","51e Tiktok",3,TRUE,0
+"q51f_Messenger","q51f Messenger",3,TRUE,0
+"q51g_Telegram","q51g Telegram",3,TRUE,0
+"q51h_Line","q51h Line",2,TRUE,0
+"q51i_Whatsapp","q51i Whatsapp",3,TRUE,0
+"q51j_Snapchat","q51j Snapchat",3,TRUE,0
+"q51k_Vchat","q51k Vchat",3,TRUE,0
+"q51l_Tumblr","q51l Tumblr",4,TRUE,0
+"q52a","52a How often do you use social media to talk to or to connect with other people?",6,TRUE,0
+"q52b","52b How often do you use social media to express my opinion on political issues?",9,TRUE,0
+"q52c","52c How often do you use social media to share news or information?",7,TRUE,0
+"q52d","52d How often do you use social media to organize to influence politics?",9,TRUE,0
+"q53","53 Which one is the most important channel for you to find information about politics and government?",10,TRUE,0
+"q53other","53. Other specify responses",9,FALSE,0
+"q54","54 Among the political parties listed here, which party if any do you feel closest to?",5,TRUE,0
+"q54other","54. Other specify responses",1,FALSE,0
+"q55","55 How close do you feel to (answer in Q54)? Is it very close, somewhat close, or just a little close?",4,TRUE,0
+"q56","56 For the sake of the family, the individual should put his personal interests second.",8,TRUE,0
+"q57","57 In a group, we should sacrifice our individual interest for the sake of the group's collective interest.",8,TRUE,0
+"q58","58 For the sake of national interest, individual interest could be sacrificed.",7,TRUE,0
+"q59","59 When dealing with others, developing a long-term relationship is more important than securing one's immediate interest.",9,TRUE,0
+"q60","60 Even if parents' demands are unreasonable, children still should do what they ask.",8,TRUE,0
+"q61","61 When a mother-in-law and a daughter-in-law come into conflict, even if the mother-in-law is in the wrong, the husband should still persuade his wife to obey his mother.",8,TRUE,0
+"q62","62 Being a student, one should not question the authority of their teacher.",8,TRUE,0
+"q63","63 In a group, we should avoid open quarrel to preserve the harmony of the group.",8,TRUE,0
+"q64","64 Even if there is some disagreement with others, one should avoid the conflict.",8,TRUE,0
+"q65","65 A person should not insist on his own opinion if his co-workers disagree with him.",8,TRUE,0
+"q66","66 Wealth and poverty, success and failure are all determined by fate.",8,TRUE,0
+"q67","67 If one could have only one child, it is more preferable to have a boy than a girl.",8,TRUE,0
+"q68","68 In the past three years, have you ever contacted elected officials or legislative representatives at any level?",8,TRUE,0
+"q69","69  Contacted civil servants or officials",10,TRUE,0
+"q70","70  Contacted other influential people outside the government, such as traditional leaders/community leaders",8,TRUE,0
+"q71","71  Contacted news media",9,TRUE,0
+"q72","72  Signed a paper or online petition?",9,TRUE,0
+"q73","73  Used the Internet including Social Media Networks to express opinions about politics",10,TRUE,0
+"q74","74  Joined a group to activiely support a cause [including online]",10,TRUE,0
+"q75","75  Got together with others face-to face to try to resolve local problems",9,TRUE,0
+"q76","76  Attended a demonstration or protest march",10,TRUE,0
+"q77","77  Taken an action or done something for a political cause that put you in risk of getting injured",9,TRUE,0
+"q78","78 Thinking of whether you voted or not ever since you became eligible for voting, how would you describe yourself-have you voted in every election, voted in most elections, voted in some elections or hardly ever voted?",8,TRUE,0
+"q79","79 In recent years and thinking about election campaigns, has a candidate or someone from a political party or campaign team offered you something, like food, cash, a gift, or a job in return for your vote or support?",7,TRUE,0
+"q80","80  Over the long run, our system of government is capable of solving the problems our country faces.",8,TRUE,0
+"q81","81  Thinking in general, I am proud of our system of government.",8,TRUE,0
+"q82","82  A system like ours, even if it runs into problems, deserves the people's support.",8,TRUE,0
+"q83","83  I would rather live under our system of government than any other that I can think of.",9,TRUE,0
+"q84","84 Would you say our system of government works fine as it is, needs minor change, needs major change, or should be replaced?",8,TRUE,0
+"q85","85 Which one would you choose as the most essential characteristics of a democracy: Set 1?",8,TRUE,0
+"q86","86 Which one would you choose as the most essential characteristics of a democracy: Set 2?",8,TRUE,0
+"q87","87 Which one would you choose as the most essential characteristics of a democracy: Set 3?",8,TRUE,0
+"q88","88 Which one would you choose as the most essential characteristics of a democracy: Set 4?",8,TRUE,0
+"q89","89 To you, what does “democracy” mean? (open-ended) <optional>",1,TRUE,0
+"q90","90 On the whole, how satisfied or dissatisfied are you with the way democracy works in the country?",8,TRUE,0
+"q95","95 Where would you place our country today? Democracy is suitable or not",15,TRUE,0
+"q96","96 How satisfied or dissatisfied are you with the current president/government?",8,TRUE,0
+"q97","97 What are the most important problems facing this country that government should address? First",32,TRUE,0
+"q97other","97. Other specify responses",20,FALSE,0
+"q97a","97a What are the most important problems facing this country that government should address? Second",34,TRUE,0
+"q97aother","97a. Other specify responses",22,FALSE,0
+"q97b","97b What are the most important problems facing this country that government should address? Third",36,TRUE,0
+"q97bother","97b. Other specify responses",13,FALSE,0
+"q98","98 How likely is it that the government will solve the most important problem you identified within the next five years?",8,TRUE,0
+"q99","99 Citizens are able to remove a government they don't like through elections.",9,TRUE,0
+"q100","100  In our country, parties and candidates not in power have opportunities to be elected into government.",9,TRUE,0
+"q101","101  Between elections, the people have no way of holding the government responsible for its actions.",8,TRUE,0
+"q102","102  When government leaders break the laws, there is nothing the court can do.",9,TRUE,0
+"q103","103  All citizens from different ethnic communities in the [Country X] are treated equally by the government.",7,TRUE,0
+"q104","104  Rich and poor people are treated equally by the government.",9,TRUE,0
+"q105","105  People have basic necessities like food, clothes, and shelter.",9,TRUE,0
+"q106","106  People are free to speak what they think without fear.",8,TRUE,0
+"q107","107  People can join any organization they like without fear.",8,TRUE,0
+"q108","108 How often do government officials withhold important information from the public?",8,TRUE,0
+"q109","109 How often do you think government leaders break the law or abuse their power?",8,TRUE,0
+"q110","110 How often do you think our elections offer the voters a real choice between different parties/candidates?",8,TRUE,0
+"q111","111 To what extent is the legislature capable of keeping government leaders in check?",8,TRUE,0
+"q112","112 How well do you think the government responds to what people want?",9,TRUE,0
+"q113","113 How much do you feel that having elections make the government more responsive to people's needs?",8,TRUE,0
+"q114","114 How capable is the government of enforcing laws and implementing policies?",8,TRUE,0
+"q115","115 How widespread do you think corruption and bribe-taking are in your local/municipal government?",8,TRUE,0
+"q116","116 How widespread do you think corruption and bribe-taking are in the national government?",8,TRUE,0
+"q117","117 How effective is the government in cracking down on corruption?",9,TRUE,0
+"q118","118 Have you or anyone you know personally witnessed an act of corruption or bribe-taking by a politician or government official in the past year?",6,TRUE,0
+"q119a","119a Did you personally witness it or were you told about it by a family member or friend who personally witnessed? Personally witnessed",5,TRUE,0
+"q119b","119b Did you personally witness it or were you told about it by a family member or friend who personally witnessed? Told about it by a family member who personally witnessed",4,TRUE,0
+"q119c","119c Did you personally witness it or were you told about it by a family member or friend who personally witnessed? Told about it by a friend who personally witnessed",5,TRUE,0
+"q120","120 Where would you place China today on this scale?",14,TRUE,0
+"q121","121 Where would you place the United States of America today on this scale?",15,TRUE,0
+"q122","122 Where would you place Japan today on this scale?",14,TRUE,0
+"q123","123 Where would you place India today on this scale?",15,TRUE,0
+"q124","124 Which of the following statements comes closest to your own opinion?",7,TRUE,0
+"q126","126 If you had to choose between democracy and economic development, which would you say is more important?",9,TRUE,0
+"q127","127 If you had to choose between reducing economic inequality and protecting political freedom, which would you say is more important?",9,TRUE,0
+"q128","128 Do you agree or disagree with the following statement: 'Democracy may have its problems, but it is still the best form of government's?",8,TRUE,0
+"q129","129 We should get rid of parliament and elections and have a strong leader to decide things.",8,TRUE,0
+"q130","130 Only one political party is allowed to stand for election and hold office.",9,TRUE,0
+"q131","131 The army (military) should come in to govern the country.",8,TRUE,0
+"q132","132 We should get rid of elections and parliaments and have experts make decisions on behalf of the people.",7,TRUE,0
+"q133","133 I think I have the ability to participate in politics.",9,TRUE,0
+"q134","134 Sometimes politics and government seems so complicated that a person like me can't really understand what is going on.",9,TRUE,0
+"q135","135 People like me don't have any influence over what the government does.",8,TRUE,0
+"q136","136 You can generally trust the people who run our government to do what is right.",8,TRUE,0
+"q137","137 A citizen should always remain loyal only to his country, no matter how imperfect it is or what wrong it has done.",9,TRUE,0
+"q139a","139a Did you or a member of your family suffer from serious illness or death?",4,TRUE,0
+"q139b","139b Did you or a member of your family suffer from loss of job",6,TRUE,0
+"q139c","139c Did you or a member of your family suffer from loss of household income?",6,TRUE,0
+"q139d","139d Did you or a member of your family suffer from disruption of my kids' education?",6,TRUE,0
+"q145other","145. Other specify responses",3,FALSE,0
+"q146","146 I have here other statements: Women should not be involved in politics as much as men",9,TRUE,0
+"q147","147 The government should consult religious authorities when interpreting the laws.",9,TRUE,0
+"q148","148 People with little or no education should have as much say in politics as highly-educated people.",8,TRUE,0
+"q149","149 Government leaders are like the head of a family; we should all follow their decisions.",8,TRUE,0
+"q150","150 The government should decide whether certain ideas should be allowed to be discussed in society.",8,TRUE,0
+"q151","151 Harmony of the community will be disrupted if people organize lots of groups.",9,TRUE,0
+"q152","152 When judges decide important cases, they should accept the view of the executive branch.",9,TRUE,0
+"q153","153 If the government is constantly checked by the legislature, it cannot possibly accomplish great things.",8,TRUE,0
+"q154","154 If we have political leaders who are morally upright, we can let them decide everything.",8,TRUE,0
+"q155","155 If people have too many different ways of thinking, society will be chaotic.",9,TRUE,0
+"q156","156 Choose one statement.",6,TRUE,0
+"q156a","156a Do you strongly agree or just agree with the chosen statement?",5,TRUE,0
+"q156_1","156_1 Our country should do more to learn from other countries(q156+q156a)",5,TRUE,0
+"q157","157 Choose one statement.",7,TRUE,0
+"q157a","157a Do you strongly agree or just agree with the chosen statement?",5,TRUE,0
+"q157_1","157_1 Our country should do more trade with other countries(q157+q157a)",6,TRUE,0
+"q158","158 Do you think the government should increase or decrease the inflow of foreign immigrants into the country.",8,TRUE,0
+"q159","159 How fair do you think income distribution in Mongolia",9,TRUE,0
+"q160a","160a Narrow the gap between the rich and the poor",9,TRUE,0
+"q160b","160b Make sure that everyone has affordable housing",7,TRUE,0
+"q160c","160c Make sure that everyone has access to basic medical care",8,TRUE,0
+"q160d","160d Make sure that basic necessities such as food and shelters are provided for everyone",8,TRUE,0
+"q161","161 How worried are you that your family might lose its major source of income within the next 12 months?",6,TRUE,0
+"q162","162 The following is a hypothetical question: If you were unfortunate enough to lose your main source of income, how serious would it be for you and your family?",7,TRUE,0
+"q163","163 Considering all the effort that you and your family members have made in the past, do you think the income that your family currently receives is fair or not fair?",8,TRUE,0
+"q164","164 As compared to my parent's generation, my generation has more or fewer opportunities to improve the standard of living or   social status?",9,TRUE,0
+"q165","165 Will the next generation have had a better or worse life than our generation?",9,TRUE,0
+"q166","166 How proud are you to be a citizen of (COUNTRY)? Are you...",7,TRUE,0
+"q167","167 Given the chance, how willing would you be to go and live in another country?",8,TRUE,0
+"q168","168 In order to solve the country’s urgent problems, a leader can govern the country by decrees and disregard the parliament if necessary",9,TRUE,0
+"q169","169 As long as a government can solve our country’s economic problem, it does not matter if the government holds regular elections or not",9,TRUE,0
+"q170","170This country needs a leader who can break the rules if necessary to get things done",8,TRUE,0
+"q171","171 As long as the government can maintain order and stability in the country, it does not matter whether it is democratic or undemocratic",8,TRUE,0
+"q172b","172b An economic crisis that has caused the loss of many jobs",7,TRUE,0
+"q172c","172c Widespread corruption that the president [PM] claims can only be reduced by increasing executive power",8,TRUE,0
+"q172d","172d A security crisis due to social unrest or terrorism",7,TRUE,0
+"q172e","172e The country is at war",7,TRUE,0
+"q173","173 Which country has the most influence in Asia?",9,TRUE,0
+"q173other","173. Other specify responses",4,FALSE,0
+"q174","174 Does USA do more good or harm to the Asia?",9,TRUE,0
+"q175","175 Generally speaking, the influence the United States today has on world affairs is?",10,TRUE,0
+"q176","176 Does China do more good or harm to the Asia?",9,TRUE,0
+"q177","177 Generally speaking, the influence China today has on world affairs is?",10,TRUE,0
+"q178","178 Generally speaking, the influence the E.U. today has on world affairs is?",10,TRUE,0
+"q179","179  In ten years, which country will have the most influence in Asia?",9,TRUE,0
+"q179other","179. Other specify responses",5,FALSE,0
+"q180","180 Which country should be a model for our own country's future development?",11,TRUE,0
+"q180other","180. Other sepcify responses",4,FALSE,0
+"q181","181 How much influence does China have on our country?",8,TRUE,0
+"q182","182 Generally speaking, the influence China has on our country is?",10,TRUE,0
+"q183","183 How much influence does USA have on our country?",8,TRUE,0
+"q184","184 General speaking, the influence USA has on our country is?",10,TRUE,0
+"q185","185 Which aspect of the major power’s influence and impact you have in mind when answering the above questions?",10,TRUE,0
+"q185Other","185. Other specify responses",5,FALSE,0
+"q186","186 How close do you feel to ASEAN? (ASEAN countries only)",9,TRUE,0

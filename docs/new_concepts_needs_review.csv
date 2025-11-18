@@ -1,0 +1,37 @@
+concept,domain,description,w2_var,w2_scale,w3_var,w3_scale,w4_var,w4_scale,w5_var,w5_scale,w6_var,notes
+concept_001,NA,How would you rate the overall economic conditi...,q1,NA,q1,NA,q1,NA,q1,NA,q1,Auto-generated from 5 waves (including W1 where present). REVIEW NEEDED.
+concept_002,NA,"As for your own family, how do you rate your ec...",q4,NA,q4,NA,q4,NA,q4,NA,q4,Auto-generated from 5 waves (including W1 where present). REVIEW NEEDED.
+concept_003,NA,"Even if parents' demands are unreasonable, chil...",q56,NA,q56,NA,q56,NA,q56,NA,q56,Auto-generated from 5 waves (including W1 where present). REVIEW NEEDED.
+concept_004,NA,A person should not insist on his own opinion i...,q59,NA,q59,NA,q59,NA,q59,NA,q59,Auto-generated from 5 waves (including W1 where present). REVIEW NEEDED.
+concept_005,NA,"For the sake of the family, the individual shou...",q60,NA,q60,NA,q60,NA,q60,NA,q60,Auto-generated from 5 waves (including W1 where present). REVIEW NEEDED.
+concept_006,governance,Where would you place our country under the pre...,q100,NA,q100,NA,q100,NA,q100,NA,q100,Auto-generated from 6 waves (including W1 where present). REVIEW NEEDED.
+concept_007,democracy,To what extent would you want our country to be...,q101,NA,q101,NA,q101,NA,q101,NA,q101,Auto-generated from 6 waves (including W1 where present). REVIEW NEEDED.
+concept_008,other,Which comes closer to your own view?,q118,NA,q118,NA,q118,NA,q118,NA,q118,Auto-generated from 6 waves (including W1 where present). REVIEW NEEDED.
+concept_010,NA,q74a. Do you strongly agree or just agree with ...,NA,NA,q74a,NA,q74a,NA,q156a,NA,q156a,Auto-generated from 4 waves (including W1 where present). REVIEW NEEDED.
+concept_011,NA,167 Which country should be a model for our own...,NA,NA,NA,NA,q167,NA,q167,NA,q167,Auto-generated from 3 waves (including W1 where present). REVIEW NEEDED.
+concept_012,NA,168 How much influence does China have on our c...,NA,NA,NA,NA,q168,NA,q168,NA,q168,Auto-generated from 3 waves (including W1 where present). REVIEW NEEDED.
+concept_013,NA,"169 General speaking, the influence China has o...",NA,NA,NA,NA,q169,NA,q169,NA,q169,Auto-generated from 3 waves (including W1 where present). REVIEW NEEDED.
+concept_014,NA,170 How much influence does the United States h...,NA,NA,NA,NA,q170,NA,q170,NA,q170,Auto-generated from 3 waves (including W1 where present). REVIEW NEEDED.
+concept_015,NA,"171 General speaking, the influence the United ...",NA,NA,NA,NA,q171,NA,q171,NA,q171,Auto-generated from 3 waves (including W1 where present). REVIEW NEEDED.
+concept_016,NA,172 How close do you feel to ASEAN? (ASEAN coun...,NA,NA,NA,NA,q172,NA,q172,NA,q186,Auto-generated from 3 waves (including W1 where present). REVIEW NEEDED.
+concept_017,NA,q21. Second Organization,NA,NA,q21,NA,q21,NA,q21,NA,q21,Auto-generated from 4 waves (including W1 where present). REVIEW NEEDED.
+concept_018,NA,q22. Third Organization,NA,NA,q22,NA,q22,NA,q22,NA,q22,Auto-generated from 4 waves (including W1 where present). REVIEW NEEDED.
+concept_020,NA,How would you describe the change in the econom...,q2,NA,q2,NA,q2,NA,q2,NA,q2,Auto-generated from 5 waves (including W1 where present). REVIEW NEEDED.
+concept_022,NA,How would you compare the current economic cond...,q5,NA,q5,NA,q5,NA,q5,NA,q5,Auto-generated from 5 waves (including W1 where present). REVIEW NEEDED.
+concept_026,NA,What do you think will be the state of our coun...,q3,NA,q3,NA,q3,NA,q3,NA,q3,Auto-generated from 5 waves (including W1 where present). REVIEW NEEDED.
+concept_029,NA,What do you think the economic situation of you...,q6,NA,q6,NA,q6,NA,q6,NA,q6,Auto-generated from 5 waves (including W1 where present). REVIEW NEEDED.
+concept_030,local_govt,"For the sake of the national community/society,...",q143,NA,q143,NA,q143,NA,q143,NA,q76,Auto-generated from 6 waves (including W1 where present). REVIEW NEEDED.
+concept_031,governance; satisfaction,How satisfied or dissatisfied are you with the ...,q104,NA,q104,NA,q104,NA,q104,NA,q104,Auto-generated from 6 waves (including W1 where present). REVIEW NEEDED.
+concept_032,NA,How often do you follow news about politics and...,q50,NA,q50,NA,q50,NA,q50,NA,q50,Auto-generated from 5 waves (including W1 where present). REVIEW NEEDED.
+concept_034,NA,How much impact do you feel government politics...,q53,NA,q53,NA,q53,NA,q53,NA,q53,Auto-generated from 5 waves (including W1 where present). REVIEW NEEDED.
+concept_035,NA,How much trust do you have in your relatives?,q24,NA,q24,NA,q24,NA,q24,NA,q24,Auto-generated from 5 waves (including W1 where present). REVIEW NEEDED.
+concept_041,NA,How interested would you say you are in politics,q49,NA,q49,NA,q49,NA,q49,NA,q49,Auto-generated from 5 waves (including W1 where present). REVIEW NEEDED.
+concept_042,NA,Relation: The United Nations or UN,q157,NA,q157,NA,q157,NA,q157,NA,q157,Auto-generated from 5 waves (including W1 where present). REVIEW NEEDED.
+concept_043,politics,A political leader should tolerate the views of...,q147,NA,q147,NA,q147,NA,q147,NA,q147,Auto-generated from 6 waves (including W1 where present). REVIEW NEEDED.
+concept_046,corruption,anyone you know personally witnessed an act of ...,q116,NA,q116,NA,q116,NA,q116,NA,q116,Auto-generated from 6 waves (including W1 where present). REVIEW NEEDED.
+concept_047,NA,Where would you place our country during the pe...,q95,NA,q95,NA,q95,NA,q95,NA,q95,Auto-generated from 5 waves (including W1 where present). REVIEW NEEDED.
+concept_048,NA,Did you do anything else to help out or work fo...,q42,NA,q42,NA,q42,NA,q42,NA,q42,Auto-generated from 5 waves (including W1 where present). REVIEW NEEDED.
+concept_051,NA,"When one has conflict with a neighbor, the best...",q58,NA,q58,NA,q58,NA,q58,NA,q58,Auto-generated from 5 waves (including W1 where present). REVIEW NEEDED.
+concept_052,NA,160b It is the responsibility of the government...,NA,NA,NA,NA,NA,NA,q160b,NA,q160b,Auto-generated from 2 waves (including W1 where present). REVIEW NEEDED.
+concept_055,NA,156_1 Our country should do more to learn from ...,NA,NA,NA,NA,NA,NA,q156_1,NA,q156_1,Auto-generated from 2 waves (including W1 where present). REVIEW NEEDED.
+concept_056,politics,The most important thing for a political leader...,q145,NA,q145,NA,q145,NA,q145,NA,q145,Auto-generated from 6 waves (including W1 where present). REVIEW NEEDED.

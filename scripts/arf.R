@@ -23,7 +23,6 @@ wave1_path <- here("data/raw/Wave1_20170906.sav")
 wave2_path <- here("data/raw/Wave2_20250609.sav")
 wave3_path <- here("data/raw/ABS3 merge20250609.sav")
 wave4_path <- here("data/raw/W4_v15_merged20250609_release.sav")
-wave5_path <- here("data/raw/20230505_W5_merge_15.sav")
 wave6_path <- here("data/raw/W6_Cambodia_Release_20240819.sav")
 
 # Check if files exist
@@ -33,7 +32,6 @@ files_to_check <- list(
   "Wave 2" = wave2_path,
   "Wave 3" = wave3_path,
   "Wave 4" = wave4_path,
-  "Wave 5" = wave5_path,
   "Wave 6" = wave6_path
 )
 
@@ -112,6 +110,25 @@ codebook <- export_codebook(list_of_waves, codebook_path)
 cat("  ✓ Codebook saved:", codebook_path, "\n")
 cat("  - Total unique variables:", nrow(codebook), "\n")
 
+# Master list of all labels to be converted to NA
+na_labels_list <- c(
+  "don't understand",
+  "Don't understand",
+  "don't understand the question",
+  "Don't understand the question",
+  "Can't choose",
+  "DK",
+  "Don't know",
+  "Refused",
+  "Refuse",
+  "Decline to answer",
+  "No answer",
+  "NA",
+  "N/A",
+  "Not applicable"
+  # Add any other variations you find
+)
+
 # ---------------------
 # Combine all waves
 # ---------------------
@@ -131,14 +148,14 @@ cat("  - Total columns:", ncol(cambodia_all), "\n")
 # ---------------------
 # Summary by wave
 # ---------------------
-# cat("\nSummary by wave:\n")
-# wave_summary <- cambodia_all %>%
-#   group_by(wave) %>%
-#   summarise(
-#     n_respondents = n(),
-#     .groups = "drop"
-#   )
-# print(wave_summary)
+cat("\nSummary by wave:\n")
+wave_summary <- cambodia_all %>%
+  group_by(wave) %>%
+  summarise(
+    n_respondents = n(),
+    .groups = "drop"
+  )
+print(wave_summary)
 
 # ---------------------
 # Save processed data
@@ -146,13 +163,13 @@ cat("  - Total columns:", ncol(cambodia_all), "\n")
 cat("\nSaving processed data...\n")
 
 # Save individual waves
-saveRDS(cambodia_w2, here("data/processed/cambodia_w2.rds"))
-saveRDS(cambodia_w3, here("data/processed/cambodia_w3.rds"))
-saveRDS(cambodia_w4, here("data/processed/cambodia_w4.rds"))
-saveRDS(cambodia_w6, here("data/processed/cambodia_w6.rds"))
+# saveRDS(cambodia_w2, here("data/processed/cambodia_w2.rds"))
+# saveRDS(cambodia_w3, here("data/processed/cambodia_w3.rds"))
+# saveRDS(cambodia_w4, here("data/processed/cambodia_w4.rds"))
+# saveRDS(cambodia_w6, here("data/processed/cambodia_w6.rds"))
 
 # Save combined dataset
-saveRDS(cambodia_all, here("data/processed/cambodia_all_waves.rds"))
+# saveRDS(cambodia_all, here("data/processed/cambodia_all_waves.rds"))
 
 cat("  ✓ Data saved to data/processed/\n")
 cat("  - cambodia_w2.rds\n")
@@ -168,11 +185,3 @@ rm(cambodia_w2, cambodia_w3, cambodia_w4, cambodia_w6, list_of_waves)
 rm(wave2_path, wave3_path, wave4_path, wave6_path, files_to_check, wave_name)
 
 cat("Next step: Run scripts/02_data_cleaning.R\n\n")
-
-table(cambodia_w2$q100, useNA = "ifany")
-cambodia_w6 %>%
-  count(q154, sort = TRUE)
-
-cambodia_w2 %>%
-  count(q95) %>%
-  mutate(percent = round(100 * n / sum(n), 1))

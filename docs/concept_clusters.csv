@@ -1,0 +1,717 @@
+var1,var2,label1_short,label2_short,similarity,waves1,waves2,concept_id
+Q106c,Q106d,c india only in your opinion what are the most important problems facing this country that govern...,d india only in your opinion what are the most important problems facing this country that govern...,0.9713281653746769,Wave5,Wave5,Q106c_Q106d
+Q106d,Q106c,d india only in your opinion what are the most important problems facing this country that govern...,c india only in your opinion what are the most important problems facing this country that govern...,0.9713281653746769,Wave5,Wave5,Q106c_Q106d
+q001,q1,how would you rate the overall economic condition of our country today,how would you rate the overall economic condition of our country today,1,Wave1,"Wave2, Wave3, Wave4, Wave5, Wave6",q001_q1
+q1,q001,how would you rate the overall economic condition of our country today,how would you rate the overall economic condition of our country today,1,"Wave2, Wave3, Wave4, Wave5, Wave6",Wave1,q001_q1
+q002,q2,how would you describe the change in the economic condition of our country over the past five years,how would you describe the change in the economic condition of our country over the last years,0.97266765111651865,Wave1,"Wave2, Wave3, Wave4, Wave5, Wave6",q002_q2
+q2,q002,how would you describe the change in the economic condition of our country over the last years,how would you describe the change in the economic condition of our country over the past five years,0.97266765111651865,"Wave2, Wave3, Wave4, Wave5, Wave6",Wave1,q002_q2
+q003,q3,what do you think will be the state of our country s economic condition five years from now,what do you think will be the state of our country s economic condition a few years from now,0.9499692214640919,Wave1,"Wave2, Wave3, Wave4, Wave5, Wave6",q003_q3
+q3,q003,what do you think will be the state of our country s economic condition a few years from now,what do you think will be the state of our country s economic condition five years from now,0.9499692214640919,"Wave2, Wave3, Wave4, Wave5, Wave6",Wave1,q003_q3
+q004,q4,as for your own family how do you rate your economic situation today,as for your own family how do you rate your economic situation today,1,Wave1,"Wave2, Wave3, Wave4, Wave5, Wave6",q004_q4
+q4,q004,as for your own family how do you rate your economic situation today,as for your own family how do you rate your economic situation today,1,"Wave2, Wave3, Wave4, Wave5, Wave6",Wave1,q004_q4
+q005,q5,how would you compare the current economic condition of your family with what it was five years ago,how would you compare the current economic condition of your family with what it was a few years ago,0.9660838626818009,Wave1,"Wave2, Wave3, Wave4, Wave5, Wave6",q005_q5
+q5,q005,how would you compare the current economic condition of your family with what it was a few years ago,how would you compare the current economic condition of your family with what it was five years ago,0.9660838626818009,"Wave2, Wave3, Wave4, Wave5, Wave6",Wave1,q005_q5
+q006,q6,what do you think the economic situation of your family will be five years from now,what do you think the economic situation of your family will be a few years from now,0.945083685712869,Wave1,"Wave2, Wave3, Wave4, Wave5, Wave6",q006_q6
+q6,q006,what do you think the economic situation of your family will be a few years from now,what do you think the economic situation of your family will be five years from now,0.945083685712869,"Wave2, Wave3, Wave4, Wave5, Wave6",Wave1,q006_q6
+q007,q008,how much trust do you have in the courts,how much trust do you have in the national government,0.8608575556688765,Wave1,Wave1,q007_q008
+q008,q007,how much trust do you have in the national government,how much trust do you have in the courts,0.8608575556688765,Wave1,Wave1,q007_q008
+q007,q009,how much trust do you have in the courts,how much trust do you have in political parties,0.8888017917133257,Wave1,Wave1,q007_q009
+q009,q007,how much trust do you have in political parties,how much trust do you have in the courts,0.8888017917133257,Wave1,Wave1,q007_q009
+q007,q010,how much trust do you have in the courts,how much trust do you have in parliament,0.8732323232323231,Wave1,Wave1,q007_q010
+q010,q007,how much trust do you have in parliament,how much trust do you have in the courts,0.8732323232323231,Wave1,Wave1,q007_q010
+q007,q011,how much trust do you have in the courts,how much trust do you have in civil service,0.8772702104097452,Wave1,Wave1,q007_q011
+q011,q007,how much trust do you have in civil service,how much trust do you have in the courts,0.8772702104097452,Wave1,Wave1,q007_q011
+q007,q012,how much trust do you have in the courts,how much trust do you have in the military,0.9097883597883598,Wave1,Wave1,q007_q012
+q012,q007,how much trust do you have in the military,how much trust do you have in the courts,0.9097883597883598,Wave1,Wave1,q007_q012
+q007,q013,how much trust do you have in the courts,how much trust do you have in the police,0.924074074074074,Wave1,Wave1,q007_q013
+q013,q007,how much trust do you have in the police,how much trust do you have in the courts,0.924074074074074,Wave1,Wave1,q007_q013
+q007,q014,how much trust do you have in the courts,how much trust do you have in local government,0.8710547504025765,Wave1,Wave1,q007_q014
+q014,q007,how much trust do you have in local government,how much trust do you have in the courts,0.8710547504025765,Wave1,Wave1,q007_q014
+q007,q015,how much trust do you have in the courts,how much trust do you have in newspapers,0.8732323232323231,Wave1,Wave1,q007_q015
+q015,q007,how much trust do you have in newspapers,how much trust do you have in the courts,0.8732323232323231,Wave1,Wave1,q007_q015
+q007,q016,how much trust do you have in the courts,how much trust do you have in television,0.8901960784313725,Wave1,Wave1,q007_q016
+q016,q007,how much trust do you have in television,how much trust do you have in the courts,0.8901960784313725,Wave1,Wave1,q007_q016
+q007,q017,how much trust do you have in the courts,how much trust do you have in the election commission,0.8802217808672625,Wave1,Wave1,q007_q017
+q017,q007,how much trust do you have in the election commission,how much trust do you have in the courts,0.8802217808672625,Wave1,Wave1,q007_q017
+q007,q24,how much trust do you have in the courts,how much trust do you have in your relatives,0.8949426699426699,Wave1,"Wave2, Wave3, Wave4, Wave5, Wave6",q007_q24
+q24,q007,how much trust do you have in your relatives,how much trust do you have in the courts,0.8949426699426699,"Wave2, Wave3, Wave4, Wave5, Wave6",Wave1,q007_q24
+q007,q25,how much trust do you have in the courts,how much trust do you have in your neighbors,0.8949426699426699,Wave1,"Wave2, Wave3, Wave4, Wave5, Wave6",q007_q25
+q25,q007,how much trust do you have in your neighbors,how much trust do you have in the courts,0.8949426699426699,"Wave2, Wave3, Wave4, Wave5, Wave6",Wave1,q007_q25
+q008,q010,how much trust do you have in the national government,how much trust do you have in parliament,0.8651548137397193,Wave1,Wave1,q008_q010
+q010,q008,how much trust do you have in parliament,how much trust do you have in the national government,0.8651548137397193,Wave1,Wave1,q008_q010
+q008,q012,how much trust do you have in the national government,how much trust do you have in the military,0.8773659778376759,Wave1,Wave1,q008_q012
+q012,q008,how much trust do you have in the military,how much trust do you have in the national government,0.8773659778376759,Wave1,Wave1,q008_q012
+q008,q013,how much trust do you have in the national government,how much trust do you have in the police,0.8758358159549818,Wave1,Wave1,q008_q013
+q013,q008,how much trust do you have in the police,how much trust do you have in the national government,0.8758358159549818,Wave1,Wave1,q008_q013
+q008,q014,how much trust do you have in the national government,how much trust do you have in local government,0.8834489273373605,Wave1,Wave1,q008_q014
+q014,q008,how much trust do you have in local government,how much trust do you have in the national government,0.8834489273373605,Wave1,Wave1,q008_q014
+q008,q016,how much trust do you have in the national government,how much trust do you have in television,0.8626779212181397,Wave1,Wave1,q008_q016
+q016,q008,how much trust do you have in television,how much trust do you have in the national government,0.8626779212181397,Wave1,Wave1,q008_q016
+q008,q017,how much trust do you have in the national government,how much trust do you have in the election commission,0.8623340321453529,Wave1,Wave1,q008_q017
+q017,q008,how much trust do you have in the election commission,how much trust do you have in the national government,0.8623340321453529,Wave1,Wave1,q008_q017
+q008,q018,how much trust do you have in the national government,how much trust do you have in non governmental organizations,0.8589098532494758,Wave1,Wave1,q008_q018
+q018,q008,how much trust do you have in non governmental organizations,how much trust do you have in the national government,0.8589098532494758,Wave1,Wave1,q008_q018
+q008,q24,how much trust do you have in the national government,how much trust do you have in your relatives,0.8504359634076615,Wave1,"Wave2, Wave3, Wave4, Wave5, Wave6",q008_q24
+q24,q008,how much trust do you have in your relatives,how much trust do you have in the national government,0.8504359634076615,"Wave2, Wave3, Wave4, Wave5, Wave6",Wave1,q008_q24
+q009,q010,how much trust do you have in political parties,how much trust do you have in parliament,0.8931877566256065,Wave1,Wave1,q009_q010
+q010,q009,how much trust do you have in parliament,how much trust do you have in political parties,0.8931877566256065,Wave1,Wave1,q009_q010
+q009,q011,how much trust do you have in political parties,how much trust do you have in civil service,0.8866136337685075,Wave1,Wave1,q009_q011
+q011,q009,how much trust do you have in civil service,how much trust do you have in political parties,0.8866136337685075,Wave1,Wave1,q009_q011
+q009,q012,how much trust do you have in political parties,how much trust do you have in the military,0.8852648533499596,Wave1,Wave1,q009_q012
+q012,q009,how much trust do you have in the military,how much trust do you have in political parties,0.8852648533499596,Wave1,Wave1,q009_q012
+q009,q013,how much trust do you have in political parties,how much trust do you have in the police,0.8844158268010451,Wave1,Wave1,q009_q013
+q013,q009,how much trust do you have in the police,how much trust do you have in political parties,0.8844158268010451,Wave1,Wave1,q009_q013
+q009,q014,how much trust do you have in political parties,how much trust do you have in local government,0.858349739478324,Wave1,Wave1,q009_q014
+q014,q009,how much trust do you have in local government,how much trust do you have in political parties,0.858349739478324,Wave1,Wave1,q009_q014
+q009,q015,how much trust do you have in political parties,how much trust do you have in newspapers,0.8655043341213553,Wave1,Wave1,q009_q015
+q015,q009,how much trust do you have in newspapers,how much trust do you have in political parties,0.8655043341213553,Wave1,Wave1,q009_q015
+q009,q016,how much trust do you have in political parties,how much trust do you have in television,0.8725464826528656,Wave1,Wave1,q009_q016
+q016,q009,how much trust do you have in television,how much trust do you have in political parties,0.8725464826528656,Wave1,Wave1,q009_q016
+q009,q24,how much trust do you have in political parties,how much trust do you have in your relatives,0.8754690935541999,Wave1,"Wave2, Wave3, Wave4, Wave5, Wave6",q009_q24
+q24,q009,how much trust do you have in your relatives,how much trust do you have in political parties,0.8754690935541999,"Wave2, Wave3, Wave4, Wave5, Wave6",Wave1,q009_q24
+q010,q011,how much trust do you have in parliament,how much trust do you have in civil service,0.8655266757865936,Wave1,Wave1,q010_q011
+q011,q010,how much trust do you have in civil service,how much trust do you have in parliament,0.8655266757865936,Wave1,Wave1,q010_q011
+q010,q012,how much trust do you have in parliament,how much trust do you have in the military,0.9082904332904334,Wave1,Wave1,q010_q012
+q012,q010,how much trust do you have in the military,how much trust do you have in parliament,0.9082904332904334,Wave1,Wave1,q010_q012
+q010,q013,how much trust do you have in parliament,how much trust do you have in the police,0.8928571428571429,Wave1,Wave1,q010_q013
+q013,q010,how much trust do you have in the police,how much trust do you have in parliament,0.8928571428571429,Wave1,Wave1,q010_q013
+q010,q014,how much trust do you have in parliament,how much trust do you have in local government,0.8827555816686252,Wave1,Wave1,q010_q014
+q014,q010,how much trust do you have in local government,how much trust do you have in parliament,0.8827555816686252,Wave1,Wave1,q010_q014
+q010,q015,how much trust do you have in parliament,how much trust do you have in newspapers,0.8928571428571429,Wave1,Wave1,q010_q015
+q015,q010,how much trust do you have in newspapers,how much trust do you have in parliament,0.8928571428571429,Wave1,Wave1,q010_q015
+q010,q016,how much trust do you have in parliament,how much trust do you have in television,0.8928571428571429,Wave1,Wave1,q010_q016
+q016,q010,how much trust do you have in television,how much trust do you have in parliament,0.8928571428571429,Wave1,Wave1,q010_q016
+q010,q24,how much trust do you have in parliament,how much trust do you have in your relatives,0.882912457912458,Wave1,"Wave2, Wave3, Wave4, Wave5, Wave6",q010_q24
+q24,q010,how much trust do you have in your relatives,how much trust do you have in parliament,0.882912457912458,"Wave2, Wave3, Wave4, Wave5, Wave6",Wave1,q010_q24
+q010,q25,how much trust do you have in parliament,how much trust do you have in your neighbors,0.8644385026737967,Wave1,"Wave2, Wave3, Wave4, Wave5, Wave6",q010_q25
+q25,q010,how much trust do you have in your neighbors,how much trust do you have in parliament,0.8644385026737967,"Wave2, Wave3, Wave4, Wave5, Wave6",Wave1,q010_q25
+q011,q012,how much trust do you have in civil service,how much trust do you have in the military,0.8749692383413313,Wave1,Wave1,q011_q012
+q012,q011,how much trust do you have in the military,how much trust do you have in civil service,0.8749692383413313,Wave1,Wave1,q011_q012
+q011,q013,how much trust do you have in civil service,how much trust do you have in the police,0.8938845822566753,Wave1,Wave1,q011_q013
+q013,q011,how much trust do you have in the police,how much trust do you have in civil service,0.8938845822566753,Wave1,Wave1,q011_q013
+q011,q014,how much trust do you have in civil service,how much trust do you have in local government,0.8702529627706573,Wave1,Wave1,q011_q014
+q014,q011,how much trust do you have in local government,how much trust do you have in civil service,0.8702529627706573,Wave1,Wave1,q011_q014
+q011,q015,how much trust do you have in civil service,how much trust do you have in newspapers,0.8606247150022799,Wave1,Wave1,q011_q015
+q015,q011,how much trust do you have in newspapers,how much trust do you have in civil service,0.8606247150022799,Wave1,Wave1,q011_q015
+q011,q016,how much trust do you have in civil service,how much trust do you have in television,0.8969568405614916,Wave1,Wave1,q011_q016
+q016,q011,how much trust do you have in television,how much trust do you have in civil service,0.8969568405614916,Wave1,Wave1,q011_q016
+q011,q017,how much trust do you have in civil service,how much trust do you have in the election commission,0.8616498464238701,Wave1,Wave1,q011_q017
+q017,q011,how much trust do you have in the election commission,how much trust do you have in civil service,0.8616498464238701,Wave1,Wave1,q011_q017
+q011,q24,how much trust do you have in civil service,how much trust do you have in your relatives,0.8806980453247283,Wave1,"Wave2, Wave3, Wave4, Wave5, Wave6",q011_q24
+q24,q011,how much trust do you have in your relatives,how much trust do you have in civil service,0.8806980453247283,"Wave2, Wave3, Wave4, Wave5, Wave6",Wave1,q011_q24
+q011,q25,how much trust do you have in civil service,how much trust do you have in your neighbors,0.8507550588945938,Wave1,"Wave2, Wave3, Wave4, Wave5, Wave6",q011_q25
+q25,q011,how much trust do you have in your neighbors,how much trust do you have in civil service,0.8507550588945938,"Wave2, Wave3, Wave4, Wave5, Wave6",Wave1,q011_q25
+q012,q013,how much trust do you have in the military,how much trust do you have in the police,0.9097883597883598,Wave1,Wave1,q012_q013
+q013,q012,how much trust do you have in the police,how much trust do you have in the military,0.9097883597883598,Wave1,Wave1,q012_q013
+q012,q014,how much trust do you have in the military,how much trust do you have in local government,0.8680730419860854,Wave1,Wave1,q012_q014
+q014,q012,how much trust do you have in local government,how much trust do you have in the military,0.8680730419860854,Wave1,Wave1,q012_q014
+q012,q015,how much trust do you have in the military,how much trust do you have in newspapers,0.8702380952380953,Wave1,Wave1,q012_q015
+q015,q012,how much trust do you have in newspapers,how much trust do you have in the military,0.8702380952380953,Wave1,Wave1,q012_q015
+q012,q016,how much trust do you have in the military,how much trust do you have in television,0.8932539682539683,Wave1,Wave1,q012_q016
+q016,q012,how much trust do you have in television,how much trust do you have in the military,0.8932539682539683,Wave1,Wave1,q012_q016
+q012,q017,how much trust do you have in the military,how much trust do you have in the election commission,0.866772640357546,Wave1,Wave1,q012_q017
+q017,q012,how much trust do you have in the election commission,how much trust do you have in the military,0.866772640357546,Wave1,Wave1,q012_q017
+q012,q24,how much trust do you have in the military,how much trust do you have in your relatives,0.9008695982380193,Wave1,"Wave2, Wave3, Wave4, Wave5, Wave6",q012_q24
+q24,q012,how much trust do you have in your relatives,how much trust do you have in the military,0.9008695982380193,"Wave2, Wave3, Wave4, Wave5, Wave6",Wave1,q012_q24
+q012,q25,how much trust do you have in the military,how much trust do you have in your neighbors,0.8686267436267436,Wave1,"Wave2, Wave3, Wave4, Wave5, Wave6",q012_q25
+q25,q012,how much trust do you have in your neighbors,how much trust do you have in the military,0.8686267436267436,"Wave2, Wave3, Wave4, Wave5, Wave6",Wave1,q012_q25
+q012,q26,how much trust do you have in the military,how much trust do you have in other people you interact with,0.8580526519550908,Wave1,"Wave2, Wave3, Wave4, Wave5, Wave6",q012_q26
+q26,q012,how much trust do you have in other people you interact with,how much trust do you have in the military,0.8580526519550908,"Wave2, Wave3, Wave4, Wave5, Wave6",Wave1,q012_q26
+q013,q014,how much trust do you have in the police,how much trust do you have in local government,0.8782510771641207,Wave1,Wave1,q013_q014
+q014,q013,how much trust do you have in local government,how much trust do you have in the police,0.8782510771641207,Wave1,Wave1,q013_q014
+q013,q015,how much trust do you have in the police,how much trust do you have in newspapers,0.8833333333333333,Wave1,Wave1,q013_q015
+q015,q013,how much trust do you have in newspapers,how much trust do you have in the police,0.8833333333333333,Wave1,Wave1,q013_q015
+q013,q016,how much trust do you have in the police,how much trust do you have in television,0.9194444444444444,Wave1,Wave1,q013_q016
+q016,q013,how much trust do you have in television,how much trust do you have in the police,0.9194444444444444,Wave1,Wave1,q013_q016
+q013,q017,how much trust do you have in the police,how much trust do you have in the election commission,0.8865223351072407,Wave1,Wave1,q013_q017
+q017,q013,how much trust do you have in the election commission,how much trust do you have in the police,0.8865223351072407,Wave1,Wave1,q013_q017
+q013,q24,how much trust do you have in the police,how much trust do you have in your relatives,0.8994471744471745,Wave1,"Wave2, Wave3, Wave4, Wave5, Wave6",q013_q24
+q24,q013,how much trust do you have in your relatives,how much trust do you have in the police,0.8994471744471745,"Wave2, Wave3, Wave4, Wave5, Wave6",Wave1,q013_q24
+q013,q25,how much trust do you have in the police,how much trust do you have in your neighbors,0.8663419913419912,Wave1,"Wave2, Wave3, Wave4, Wave5, Wave6",q013_q25
+q25,q013,how much trust do you have in your neighbors,how much trust do you have in the police,0.8663419913419912,"Wave2, Wave3, Wave4, Wave5, Wave6",Wave1,q013_q25
+q014,q015,how much trust do you have in local government,how much trust do you have in newspapers,0.859575569358178,Wave1,Wave1,q014_q015
+q015,q014,how much trust do you have in newspapers,how much trust do you have in local government,0.859575569358178,Wave1,Wave1,q014_q015
+q014,q016,how much trust do you have in local government,how much trust do you have in television,0.8827555816686252,Wave1,Wave1,q014_q016
+q016,q014,how much trust do you have in television,how much trust do you have in local government,0.8827555816686252,Wave1,Wave1,q014_q016
+q014,q018,how much trust do you have in local government,how much trust do you have in non governmental organizations,0.8701032059727711,Wave1,Wave1,q014_q018
+q018,q014,how much trust do you have in non governmental organizations,how much trust do you have in local government,0.8701032059727711,Wave1,Wave1,q014_q018
+q014,q24,how much trust do you have in local government,how much trust do you have in your relatives,0.8729350359785142,Wave1,"Wave2, Wave3, Wave4, Wave5, Wave6",q014_q24
+q24,q014,how much trust do you have in your relatives,how much trust do you have in local government,0.8729350359785142,"Wave2, Wave3, Wave4, Wave5, Wave6",Wave1,q014_q24
+q014,q25,how much trust do you have in local government,how much trust do you have in your neighbors,0.8592297831428266,Wave1,"Wave2, Wave3, Wave4, Wave5, Wave6",q014_q25
+q25,q014,how much trust do you have in your neighbors,how much trust do you have in local government,0.8592297831428266,"Wave2, Wave3, Wave4, Wave5, Wave6",Wave1,q014_q25
+q015,q016,how much trust do you have in newspapers,how much trust do you have in television,0.8901960784313725,Wave1,Wave1,q015_q016
+q016,q015,how much trust do you have in television,how much trust do you have in newspapers,0.8901960784313725,Wave1,Wave1,q015_q016
+q015,q24,how much trust do you have in newspapers,how much trust do you have in your relatives,0.8758658008658009,Wave1,"Wave2, Wave3, Wave4, Wave5, Wave6",q015_q24
+q24,q015,how much trust do you have in your relatives,how much trust do you have in newspapers,0.8758658008658009,"Wave2, Wave3, Wave4, Wave5, Wave6",Wave1,q015_q24
+q015,q25,how much trust do you have in newspapers,how much trust do you have in your neighbors,0.8546345811051692,Wave1,"Wave2, Wave3, Wave4, Wave5, Wave6",q015_q25
+q25,q015,how much trust do you have in your neighbors,how much trust do you have in newspapers,0.8546345811051692,"Wave2, Wave3, Wave4, Wave5, Wave6",Wave1,q015_q25
+q016,q017,how much trust do you have in television,how much trust do you have in the election commission,0.8779753265602321,Wave1,Wave1,q016_q017
+q017,q016,how much trust do you have in the election commission,how much trust do you have in television,0.8779753265602321,Wave1,Wave1,q016_q017
+q016,q018,how much trust do you have in television,how much trust do you have in non governmental organizations,0.8555555555555554,Wave1,Wave1,q016_q018
+q018,q016,how much trust do you have in non governmental organizations,how much trust do you have in television,0.8555555555555554,Wave1,Wave1,q016_q018
+q016,q24,how much trust do you have in television,how much trust do you have in your relatives,0.9115629984051036,Wave1,"Wave2, Wave3, Wave4, Wave5, Wave6",q016_q24
+q24,q016,how much trust do you have in your relatives,how much trust do you have in television,0.9115629984051036,"Wave2, Wave3, Wave4, Wave5, Wave6",Wave1,q016_q24
+q016,q25,how much trust do you have in television,how much trust do you have in your neighbors,0.8663419913419912,Wave1,"Wave2, Wave3, Wave4, Wave5, Wave6",q016_q25
+q25,q016,how much trust do you have in your neighbors,how much trust do you have in television,0.8663419913419912,"Wave2, Wave3, Wave4, Wave5, Wave6",Wave1,q016_q25
+q018_3,q018_4,trust private enterprises,trust foreign enterprises,0.8615873015873016,Wave1,Wave1,q018_3_q018_4
+q018_4,q018_3,trust foreign enterprises,trust private enterprises,0.8615873015873016,Wave1,Wave1,q018_3_q018_4
+q031,q42,did you do anything else to help or show your support for a party or candidate running in the ele...,did you do anything else to help out or work for a party or candidate running in the election,0.8731563219022999,Wave1,"Wave2, Wave3, Wave4, Wave5, Wave6",q031_q42
+q42,q031,did you do anything else to help out or work for a party or candidate running in the election,did you do anything else to help or show your support for a party or candidate running in the ele...,0.8731563219022999,"Wave2, Wave3, Wave4, Wave5, Wave6",Wave1,q031_q42
+q032,q034,asked to vote for a particular candidate family member relative,asked to vote for a particular candidate neighbor friend,0.8721693121693121,Wave1,Wave1,q032_q034
+q034,q032,asked to vote for a particular candidate neighbor friend,asked to vote for a particular candidate family member relative,0.8721693121693121,Wave1,Wave1,q032_q034
+q032,q035,asked to vote for a particular candidate family member relative,asked to vote for a particular candidate community leaders,0.8880854139474829,Wave1,Wave1,q032_q035
+q035,q032,asked to vote for a particular candidate community leaders,asked to vote for a particular candidate family member relative,0.8880854139474829,Wave1,Wave1,q032_q035
+q032,q043,asked to vote for a particular candidate family member relative,asked to vote for a particular candidate others,0.8668306673625823,Wave1,Wave1,q032_q043
+q043,q032,asked to vote for a particular candidate others,asked to vote for a particular candidate family member relative,0.8668306673625823,Wave1,Wave1,q032_q043
+q034,q035,asked to vote for a particular candidate neighbor friend,asked to vote for a particular candidate community leaders,0.8862010321369926,Wave1,Wave1,q034_q035
+q035,q034,asked to vote for a particular candidate community leaders,asked to vote for a particular candidate neighbor friend,0.8862010321369926,Wave1,Wave1,q034_q035
+q034,q036,asked to vote for a particular candidate neighbor friend,asked to vote for a particular candidate superior at work school,0.8586309523809523,Wave1,Wave1,q034_q036
+q036,q034,asked to vote for a particular candidate superior at work school,asked to vote for a particular candidate neighbor friend,0.8586309523809523,Wave1,Wave1,q034_q036
+q034,q040,asked to vote for a particular candidate neighbor friend,asked to vote for a particular candidate government official whom you don t know,0.8519841269841268,Wave1,Wave1,q034_q040
+q040,q034,asked to vote for a particular candidate government official whom you don t know,asked to vote for a particular candidate neighbor friend,0.8519841269841268,Wave1,Wave1,q034_q040
+q034,q043,asked to vote for a particular candidate neighbor friend,asked to vote for a particular candidate others,0.9129320049532815,Wave1,Wave1,q034_q043
+q043,q034,asked to vote for a particular candidate others,asked to vote for a particular candidate neighbor friend,0.9129320049532815,Wave1,Wave1,q034_q043
+q035,q036,asked to vote for a particular candidate community leaders,asked to vote for a particular candidate superior at work school,0.8677608311229,Wave1,Wave1,q035_q036
+q036,q035,asked to vote for a particular candidate superior at work school,asked to vote for a particular candidate community leaders,0.8677608311229,Wave1,Wave1,q035_q036
+q035,q040,asked to vote for a particular candidate community leaders,asked to vote for a particular candidate government official whom you don t know,0.8516359144988909,Wave1,Wave1,q035_q040
+q040,q035,asked to vote for a particular candidate government official whom you don t know,asked to vote for a particular candidate community leaders,0.8516359144988909,Wave1,Wave1,q035_q040
+q035,q043,asked to vote for a particular candidate community leaders,asked to vote for a particular candidate others,0.9239422841770604,Wave1,Wave1,q035_q043
+q043,q035,asked to vote for a particular candidate others,asked to vote for a particular candidate community leaders,0.9239422841770604,Wave1,Wave1,q035_q043
+q036,q043,asked to vote for a particular candidate superior at work school,asked to vote for a particular candidate others,0.8901817375886525,Wave1,Wave1,q036_q043
+q043,q036,asked to vote for a particular candidate others,asked to vote for a particular candidate superior at work school,0.8901817375886525,Wave1,Wave1,q036_q043
+q037,q040,asked to vote for a particular candidate owners of the firm unit that you work for,asked to vote for a particular candidate government official whom you don t know,0.8567516889957633,Wave1,Wave1,q037_q040
+q040,q037,asked to vote for a particular candidate government official whom you don t know,asked to vote for a particular candidate owners of the firm unit that you work for,0.8567516889957633,Wave1,Wave1,q037_q040
+q039,q040,asked to vote for a particular candidate government official whom you know personally,asked to vote for a particular candidate government official whom you don t know,0.9453049401578812,Wave1,Wave1,q039_q040
+q040,q039,asked to vote for a particular candidate government official whom you don t know,asked to vote for a particular candidate government official whom you know personally,0.9453049401578812,Wave1,Wave1,q039_q040
+q039,q041,asked to vote for a particular candidate government official whom you know personally,asked to vote for a particular candidate candidate party activist whom you know personally,0.8580294690975805,Wave1,Wave1,q039_q041
+q041,q039,asked to vote for a particular candidate candidate party activist whom you know personally,asked to vote for a particular candidate government official whom you know personally,0.8580294690975805,Wave1,Wave1,q039_q041
+q040,q042,asked to vote for a particular candidate government official whom you don t know,asked to vote for a particular candidate candidate party activist whom you dont know,0.8663117594455622,Wave1,Wave1,q040_q042
+q042,q040,asked to vote for a particular candidate candidate party activist whom you dont know,asked to vote for a particular candidate government official whom you don t know,0.8663117594455622,Wave1,Wave1,q040_q042
+q041,q042,asked to vote for a particular candidate candidate party activist whom you know personally,asked to vote for a particular candidate candidate party activist whom you dont know,0.9522712608078461,Wave1,Wave1,q041_q042
+q042,q041,asked to vote for a particular candidate candidate party activist whom you dont know,asked to vote for a particular candidate candidate party activist whom you know personally,0.9522712608078461,Wave1,Wave1,q041_q042
+q051,q052,influential government official whom you know personally,influential government official whom you don t know,0.9154119981325862,Wave1,Wave1,q051_q052
+q052,q051,influential government official whom you don t know,influential government official whom you know personally,0.9154119981325862,Wave1,Wave1,q051_q052
+q053,q054,influential candidate party activist whom you know personally,influential candidate party activist whom you don t know,0.92270373970807,Wave1,Wave1,q053_q054
+q054,q053,influential candidate party activist whom you don t know,influential candidate party activist whom you know personally,0.92270373970807,Wave1,Wave1,q053_q054
+q056,q49,how interested would you say you are interested in politics,how interested would you say you are in politics,0.9066031073446328,Wave1,"Wave2, Wave3, Wave4, Wave5, Wave6",q056_q49
+q49,q056,how interested would you say you are in politics,how interested would you say you are interested in politics,0.9066031073446328,"Wave2, Wave3, Wave4, Wave5, Wave6",Wave1,q056_q49
+q057,q058,how often do you follow news about politics,how often do you follow news about politics in the daily newspaper,0.8838383838383838,Wave1,Wave1,q057_q058
+q058,q057,how often do you follow news about politics in the daily newspaper,how often do you follow news about politics,0.8838383838383838,Wave1,Wave1,q057_q058
+q057,q059,how often do you follow news about politics,how often do you follow news about politics on television,0.9181286549707602,Wave1,Wave1,q057_q059
+q059,q057,how often do you follow news about politics on television,how often do you follow news about politics,0.9181286549707602,Wave1,Wave1,q057_q059
+q057,q060,how often do you follow news about politics,how often do you follow news about politics on the radio,0.9226190476190476,Wave1,Wave1,q057_q060
+q060,q057,how often do you follow news about politics on the radio,how often do you follow news about politics,0.9226190476190476,Wave1,Wave1,q057_q060
+q057,q50,how often do you follow news about politics,how often do you follow news about politics and government,0.9137931034482758,Wave1,"Wave2, Wave3, Wave4, Wave5, Wave6",q057_q50
+q50,q057,how often do you follow news about politics and government,how often do you follow news about politics,0.9137931034482758,"Wave2, Wave3, Wave4, Wave5, Wave6",Wave1,q057_q50
+q057a,q058,how often do you follow news about politics in the daily newspaper television and radio,how often do you follow news about politics in the daily newspaper,0.9195402298850575,Wave1,Wave1,q057a_q058
+q058,q057a,how often do you follow news about politics in the daily newspaper,how often do you follow news about politics in the daily newspaper television and radio,0.9195402298850575,Wave1,Wave1,q057a_q058
+q057a,q059,how often do you follow news about politics in the daily newspaper television and radio,how often do you follow news about politics on television,0.8645896350070578,Wave1,Wave1,q057a_q059
+q059,q057a,how often do you follow news about politics on television,how often do you follow news about politics in the daily newspaper television and radio,0.8645896350070578,Wave1,Wave1,q057a_q059
+q057a,q060,how often do you follow news about politics in the daily newspaper television and radio,how often do you follow news about politics on the radio,0.8693212917350849,Wave1,Wave1,q057a_q060
+q060,q057a,how often do you follow news about politics on the radio,how often do you follow news about politics in the daily newspaper television and radio,0.8693212917350849,Wave1,Wave1,q057a_q060
+q058,q059,how often do you follow news about politics in the daily newspaper,how often do you follow news about politics on television,0.8909858822139524,Wave1,Wave1,q058_q059
+q059,q058,how often do you follow news about politics on television,how often do you follow news about politics in the daily newspaper,0.8909858822139524,Wave1,Wave1,q058_q059
+q058,q060,how often do you follow news about politics in the daily newspaper,how often do you follow news about politics on the radio,0.8966249799583134,Wave1,Wave1,q058_q060
+q060,q058,how often do you follow news about politics on the radio,how often do you follow news about politics in the daily newspaper,0.8966249799583134,Wave1,Wave1,q058_q060
+q058,q50,how often do you follow news about politics in the daily newspaper,how often do you follow news about politics and government,0.8835952235431741,Wave1,"Wave2, Wave3, Wave4, Wave5, Wave6",q058_q50
+q50,q058,how often do you follow news about politics and government,how often do you follow news about politics in the daily newspaper,0.8835952235431741,"Wave2, Wave3, Wave4, Wave5, Wave6",Wave1,q058_q50
+q059,q060,how often do you follow news about politics on television,how often do you follow news about politics on the radio,0.9351503759398496,Wave1,Wave1,q059_q060
+q060,q059,how often do you follow news about politics on the radio,how often do you follow news about politics on television,0.9351503759398496,Wave1,Wave1,q059_q060
+q059,q50,how often do you follow news about politics on television,how often do you follow news about politics and government,0.9138415778615415,Wave1,"Wave2, Wave3, Wave4, Wave5, Wave6",q059_q50
+q50,q059,how often do you follow news about politics and government,how often do you follow news about politics on television,0.9138415778615415,"Wave2, Wave3, Wave4, Wave5, Wave6",Wave1,q059_q50
+q060,q50,how often do you follow news about politics on the radio,how often do you follow news about politics and government,0.9192718201338891,Wave1,"Wave2, Wave3, Wave4, Wave5, Wave6",q060_q50
+q50,q060,how often do you follow news about politics and government,how often do you follow news about politics on the radio,0.9192718201338891,"Wave2, Wave3, Wave4, Wave5, Wave6",Wave1,q060_q50
+q061,q53,how much impact do you feel government policies have on your daily life,how much impact do you feel government politics have on your daily life,0.9263246143527832,Wave1,"Wave2, Wave3, Wave4, Wave5, Wave6",q061_q53
+q53,q061,how much impact do you feel government politics have on your daily life,how much impact do you feel government policies have on your daily life,0.9263246143527832,"Wave2, Wave3, Wave4, Wave5, Wave6",Wave1,q061_q53
+q064,q56,even if parents demands are unreasonable children still should do what they ask,even if parents demands are unreasonable children still should do what they ask,1,Wave1,"Wave2, Wave3, Wave4, Wave5, Wave6",q064_q56
+q56,q064,even if parents demands are unreasonable children still should do what they ask,even if parents demands are unreasonable children still should do what they ask,1,"Wave2, Wave3, Wave4, Wave5, Wave6",Wave1,q064_q56
+q066,q58,when one has a conflict with a neighbor the best way to deal with it is to accommodate the other ...,when one has conflict with a neighbor the best way to deal with it is to accommodate the other pe...,0.8598641417539812,Wave1,"Wave2, Wave3, Wave4, Wave5, Wave6",q066_q58
+q58,q066,when one has conflict with a neighbor the best way to deal with it is to accommodate the other pe...,when one has a conflict with a neighbor the best way to deal with it is to accommodate the other ...,0.8598641417539812,"Wave2, Wave3, Wave4, Wave5, Wave6",Wave1,q066_q58
+q068,q59,a person should not insist on his own opinion if his co workers disagree with him,a person should not insist on his own opinion if his co workers disagree with him,1,Wave1,"Wave2, Wave3, Wave4, Wave5, Wave6",q068_q59
+q59,q068,a person should not insist on his own opinion if his co workers disagree with him,a person should not insist on his own opinion if his co workers disagree with him,1,"Wave2, Wave3, Wave4, Wave5, Wave6",Wave1,q068_q59
+q069,q60,for the sake of the family the individual should put his personal interests second,for the sake of the family the individual should put his personal interests second,1,Wave1,"Wave2, Wave3, Wave4, Wave5, Wave6",q069_q60
+q60,q069,for the sake of the family the individual should put his personal interests second,for the sake of the family the individual should put his personal interests second,1,"Wave2, Wave3, Wave4, Wave5, Wave6",Wave1,q069_q60
+q081,q082,did you do this alone or with others contacted government official,did you do this alone or with others contacted officials at higher level,0.8931791028565221,Wave1,Wave1,q081_q082
+q082,q081,did you do this alone or with others contacted officials at higher level,did you do this alone or with others contacted government official,0.8931791028565221,Wave1,Wave1,q081_q082
+q081,q085,did you do this alone or with others contacted government official,did you do this alone or with others contacted non government civil society organizations,0.8598076977641584,Wave1,Wave1,q081_q085
+q085,q081,did you do this alone or with others contacted non government civil society organizations,did you do this alone or with others contacted government official,0.8598076977641584,Wave1,Wave1,q081_q085
+q081,q086,did you do this alone or with others contacted government official,did you do this alone or with others contacted media,0.9112962201197494,Wave1,Wave1,q081_q086
+q086,q081,did you do this alone or with others contacted media,did you do this alone or with others contacted government official,0.9112962201197494,Wave1,Wave1,q081_q086
+q081,q088,did you do this alone or with others contacted government official,did you do this alone or with others contacted other people,0.9066940592364321,Wave1,Wave1,q081_q088
+q088,q081,did you do this alone or with others contacted other people,did you do this alone or with others contacted government official,0.9066940592364321,Wave1,Wave1,q081_q088
+q082,q086,did you do this alone or with others contacted officials at higher level,did you do this alone or with others contacted media,0.8753276353276354,Wave1,Wave1,q082_q086
+q086,q082,did you do this alone or with others contacted media,did you do this alone or with others contacted officials at higher level,0.8753276353276354,Wave1,Wave1,q082_q086
+q082,q088,did you do this alone or with others contacted officials at higher level,did you do this alone or with others contacted other people,0.8881434400502197,Wave1,Wave1,q082_q088
+q088,q082,did you do this alone or with others contacted other people,did you do this alone or with others contacted officials at higher level,0.8881434400502197,Wave1,Wave1,q082_q088
+q086,q087,did you do this alone or with others contacted media,did you do this alone or with others demonstration strike sit in,0.8528311965811965,Wave1,Wave1,q086_q087
+q087,q086,did you do this alone or with others demonstration strike sit in,did you do this alone or with others contacted media,0.8528311965811965,Wave1,Wave1,q086_q087
+q086,q088,did you do this alone or with others contacted media,did you do this alone or with others contacted other people,0.912212081703607,Wave1,Wave1,q086_q088
+q088,q086,did you do this alone or with others contacted other people,did you do this alone or with others contacted media,0.912212081703607,Wave1,Wave1,q086_q088
+q089,q094,gift or dinner contacted government,gift or dinner contacted media,0.8781305114638448,Wave1,Wave1,q089_q094
+q094,q089,gift or dinner contacted media,gift or dinner contacted government,0.8781305114638448,Wave1,Wave1,q089_q094
+q089,q096,gift or dinner contacted government,gift or dinner contacted other people,0.8670956670956671,Wave1,Wave1,q089_q096
+q096,q089,gift or dinner contacted other people,gift or dinner contacted government,0.8670956670956671,Wave1,Wave1,q089_q096
+q094,q096,gift or dinner contacted media,gift or dinner contacted other people,0.8564564564564564,Wave1,Wave1,q094_q096
+q096,q094,gift or dinner contacted other people,gift or dinner contacted media,0.8564564564564564,Wave1,Wave1,q094_q096
+q097_1,q097_2,meaning of democracy first,meaning of democracy second,0.8869895536562202,Wave1,Wave1,q097_1_q097_2
+q097_2,q097_1,meaning of democracy second,meaning of democracy first,0.8869895536562202,Wave1,Wave1,q097_1_q097_2
+q097_1,q097_3,meaning of democracy first,meaning of democracy third,0.9278846153846154,Wave1,Wave1,q097_1_q097_3
+q097_3,q097_1,meaning of democracy third,meaning of democracy first,0.9278846153846154,Wave1,Wave1,q097_1_q097_3
+q097_2,q097_3,meaning of democracy second,meaning of democracy third,0.8869895536562202,Wave1,Wave1,q097_2_q097_3
+q097_3,q097_2,meaning of democracy third,meaning of democracy second,0.8869895536562202,Wave1,Wave1,q097_2_q097_3
+q099,q95,where would you place our country on this scale during the period of,where would you place our country during the period of,0.8758169934640523,Wave1,"Wave2, Wave3, Wave4, Wave5, Wave6",q099_q95
+q95,q099,where would you place our country during the period of,where would you place our country on this scale during the period of,0.8758169934640523,"Wave2, Wave3, Wave4, Wave5, Wave6",Wave1,q099_q95
+q100,q95,where would you place our country under the present government,where would you place our country during the period of,0.868631084452897,"Wave1, Wave2, Wave3, Wave4, Wave5, Wave6","Wave2, Wave3, Wave4, Wave5, Wave6",q100_q95
+q95,q100,where would you place our country during the period of,where would you place our country under the present government,0.868631084452897,"Wave2, Wave3, Wave4, Wave5, Wave6","Wave1, Wave2, Wave3, Wave4, Wave5, Wave6",q100_q95
+q100,q96,where would you place our country under the present government,where would you place our country under the present government,1,"Wave1, Wave2, Wave3, Wave4, Wave5, Wave6","Wave2, Wave3, Wave4, Wave5, Wave6",q100_q96
+q96,q100,where would you place our country under the present government,where would you place our country under the present government,1,"Wave2, Wave3, Wave4, Wave5, Wave6","Wave1, Wave2, Wave3, Wave4, Wave5, Wave6",q100_q96
+q101,q97,to what extent would you want our country to be democratic now,to what extent would you want our country to be democratic now,1,"Wave1, Wave2, Wave3, Wave4, Wave5, Wave6","Wave2, Wave3, Wave4, Wave5, Wave6",q101_q97
+q97,q101,to what extent would you want our country to be democratic now,to what extent would you want our country to be democratic now,1,"Wave2, Wave3, Wave4, Wave5, Wave6","Wave1, Wave2, Wave3, Wave4, Wave5, Wave6",q101_q97
+q104,q99,how satisfied or dissatisfied are you with the current government,how satisfied or dissatisfied are you with the government,0.9355825461088619,"Wave1, Wave2, Wave3, Wave4, Wave5, Wave6","Wave2, Wave3, Wave4, Wave5, Wave6",q104_q99
+q99,q104,how satisfied or dissatisfied are you with the government,how satisfied or dissatisfied are you with the current government,0.9355825461088619,"Wave2, Wave3, Wave4, Wave5, Wave6","Wave1, Wave2, Wave3, Wave4, Wave5, Wave6",q104_q99
+q106a,q106b,a what are the most important problems facing this country that government should address 2nd res...,b what are the most important problems facing this country that government should address 3rd res...,0.8861160625866509,Wave5,Wave5,q106a_q106b
+q106b,q106a,b what are the most important problems facing this country that government should address 3rd res...,a what are the most important problems facing this country that government should address 2nd res...,0.8861160625866509,Wave5,Wave5,q106a_q106b
+q106a,q97a,a what are the most important problems facing this country that government should address 2nd res...,a what are the most important problems facing this country that government should address second,0.9648800309597523,Wave5,Wave6,q106a_q97a
+q97a,q106a,a what are the most important problems facing this country that government should address second,a what are the most important problems facing this country that government should address 2nd res...,0.9648800309597523,Wave6,Wave5,q106a_q97a
+q106a,q97b,a what are the most important problems facing this country that government should address 2nd res...,b what are the most important problems facing this country that government should address third,0.8547791046243058,Wave5,Wave6,q106a_q97b
+q97b,q106a,b what are the most important problems facing this country that government should address third,a what are the most important problems facing this country that government should address 2nd res...,0.8547791046243058,Wave6,Wave5,q106a_q97b
+q106b,q97a,b what are the most important problems facing this country that government should address 3rd res...,a what are the most important problems facing this country that government should address second,0.8711670838548184,Wave5,Wave6,q106b_q97a
+q97a,q106b,a what are the most important problems facing this country that government should address second,b what are the most important problems facing this country that government should address 3rd res...,0.8711670838548184,Wave6,Wave5,q106b_q97a
+q106b,q97b,b what are the most important problems facing this country that government should address 3rd res...,b what are the most important problems facing this country that government should address third,0.9567939456484347,Wave5,Wave6,q106b_q97b
+q97b,q106b,b what are the most important problems facing this country that government should address third,b what are the most important problems facing this country that government should address 3rd res...,0.9567939456484347,Wave6,Wave5,q106b_q97b
+q116,q116e,anyone you know personally witnessed an act of corruption,anyone you know personally witnessed,0.8771929824561404,"Wave1, Wave2, Wave3, Wave4, Wave5, Wave6",Wave1,q116_q116e
+q116e,q116,anyone you know personally witnessed,anyone you know personally witnessed an act of corruption,0.8771929824561404,Wave1,"Wave1, Wave2, Wave3, Wave4, Wave5, Wave6",q116_q116e
+q117,q118,which comes closest to your own opinion,which comes closer to your own view,0.855894284926543,"Wave1, Wave2, Wave3, Wave4, Wave5, Wave6","Wave1, Wave2, Wave3, Wave4, Wave5, Wave6",q117_q118
+q118,q117,which comes closer to your own view,which comes closest to your own opinion,0.855894284926543,"Wave1, Wave2, Wave3, Wave4, Wave5, Wave6","Wave1, Wave2, Wave3, Wave4, Wave5, Wave6",q117_q118
+q117,q120,which comes closest to your own opinion,which comes closer to your own view,0.855894284926543,"Wave1, Wave2, Wave3, Wave4, Wave5, Wave6","Wave1, Wave2, Wave3, Wave4, Wave5, Wave6",q117_q120
+q120,q117,which comes closer to your own view,which comes closest to your own opinion,0.855894284926543,"Wave1, Wave2, Wave3, Wave4, Wave5, Wave6","Wave1, Wave2, Wave3, Wave4, Wave5, Wave6",q117_q120
+q118,q120,which comes closer to your own view,which comes closer to your own view,1,"Wave1, Wave2, Wave3, Wave4, Wave5, Wave6","Wave1, Wave2, Wave3, Wave4, Wave5, Wave6",q118_q120
+q120,q118,which comes closer to your own view,which comes closer to your own view,1,"Wave1, Wave2, Wave3, Wave4, Wave5, Wave6","Wave1, Wave2, Wave3, Wave4, Wave5, Wave6",q118_q120
+q119a,q119b,a did you personally witness it or were you told about it by a family member or friend who person...,b did you personally witness it or were you told about it by a family member or friend who person...,0.8550519992827685,Wave6,Wave6,q119a_q119b
+q119b,q119a,b did you personally witness it or were you told about it by a family member or friend who person...,a did you personally witness it or were you told about it by a family member or friend who person...,0.8550519992827685,Wave6,Wave6,q119a_q119b
+q121,q124,we should get rid of parliament and elections and have a strong leader decide things,we should get rid of parliament and elections and have the experts decide everything,0.8841269841269842,"Wave1, Wave2, Wave3, Wave4, Wave5, Wave6","Wave1, Wave2, Wave3, Wave4, Wave5, Wave6",q121_q124
+q124,q121,we should get rid of parliament and elections and have the experts decide everything,we should get rid of parliament and elections and have a strong leader decide things,0.8841269841269842,"Wave1, Wave2, Wave3, Wave4, Wave5, Wave6","Wave1, Wave2, Wave3, Wave4, Wave5, Wave6",q121_q124
+q127a_1,q127a_2,a 1 did you personally witness it or were you told about it by a family member or friend who pers...,a 2 did you personally witness it or were you told about it by a family member or friend who pers...,0.8996288399273473,Wave5,Wave5,q127a_1_q127a_2
+q127a_2,q127a_1,a 2 did you personally witness it or were you told about it by a family member or friend who pers...,a 1 did you personally witness it or were you told about it by a family member or friend who pers...,0.8996288399273473,Wave5,Wave5,q127a_1_q127a_2
+q127a_1,q127a_3,a 1 did you personally witness it or were you told about it by a family member or friend who pers...,a 3 did you personally witness it or were you told about it by a family member or friend who pers...,0.9106947839201205,Wave5,Wave5,q127a_1_q127a_3
+q127a_3,q127a_1,a 3 did you personally witness it or were you told about it by a family member or friend who pers...,a 1 did you personally witness it or were you told about it by a family member or friend who pers...,0.9106947839201205,Wave5,Wave5,q127a_1_q127a_3
+q127a_2,q127a_3,a 2 did you personally witness it or were you told about it by a family member or friend who pers...,a 3 did you personally witness it or were you told about it by a family member or friend who pers...,0.9495645411395814,Wave5,Wave5,q127a_2_q127a_3
+q127a_3,q127a_2,a 3 did you personally witness it or were you told about it by a family member or friend who pers...,a 2 did you personally witness it or were you told about it by a family member or friend who pers...,0.9495645411395814,Wave5,Wave5,q127a_2_q127a_3
+q139b,q139c,b did you or a member of your family suffer from loss of job,c did you or a member of your family suffer from loss of household income,0.8576423936553713,Wave6,Wave6,q139b_q139c
+q139c,q139b,c did you or a member of your family suffer from loss of household income,b did you or a member of your family suffer from loss of job,0.8576423936553713,Wave6,Wave6,q139b_q139c
+q139c,q139d,c did you or a member of your family suffer from loss of household income,d did you or a member of your family suffer from disruption of my kids education,0.855779109589041,Wave6,Wave6,q139c_q139d
+q139d,q139c,d did you or a member of your family suffer from disruption of my kids education,c did you or a member of your family suffer from loss of household income,0.855779109589041,Wave6,Wave6,q139c_q139d
+q143,q76,for the sake of the national community society the individual should be prepared to sacrifice his...,for the sake of the national community society the individual should be prepared to sacrifice,0.9362318840579711,"Wave1, Wave2, Wave3, Wave4, Wave5","Wave2, Wave3, Wave4, Wave5, Wave6",q143_q76
+q76,q143,for the sake of the national community society the individual should be prepared to sacrifice,for the sake of the national community society the individual should be prepared to sacrifice his...,0.9362318840579711,"Wave2, Wave3, Wave4, Wave5, Wave6","Wave1, Wave2, Wave3, Wave4, Wave5",q143_q76
+q145,q77,the most important thing for a political leader is to accomplish his goals even if he has to igno...,the most important thing for political leaders is to accomplish their goals even if they have to ...,0.8509723050420723,"Wave1, Wave2, Wave3, Wave4, Wave5, Wave6","Wave2, Wave3, Wave4, Wave5, Wave6",q145_q77
+q77,q145,the most important thing for political leaders is to accomplish their goals even if they have to ...,the most important thing for a political leader is to accomplish his goals even if he has to igno...,0.8509723050420723,"Wave2, Wave3, Wave4, Wave5, Wave6","Wave1, Wave2, Wave3, Wave4, Wave5, Wave6",q145_q77
+q145other,q173other,other specify responses,other specify responses,1,Wave6,Wave6,q145other_q173other
+q173other,q145other,other specify responses,other specify responses,1,Wave6,Wave6,q145other_q173other
+q145other,q179other,other specify responses,other specify responses,1,Wave6,Wave6,q145other_q179other
+q179other,q145other,other specify responses,other specify responses,1,Wave6,Wave6,q145other_q179other
+q145other,q180other,other specify responses,other sepcify responses,0.9855072463768115,Wave6,Wave6,q145other_q180other
+q180other,q145other,other sepcify responses,other specify responses,0.9855072463768115,Wave6,Wave6,q145other_q180other
+q145other,q185Other,other specify responses,other specify responses,1,Wave6,Wave6,q145other_q185Other
+q185Other,q145other,other specify responses,other specify responses,1,Wave6,Wave6,q145other_q185Other
+q145other,q18_other,other specify responses,other specify responses,1,Wave6,Wave6,q145other_q18_other
+q18_other,q145other,other specify responses,other specify responses,1,Wave6,Wave6,q145other_q18_other
+q145other,q19_other,other specify responses,other specify responses,1,Wave6,Wave6,q145other_q19_other
+q19_other,q145other,other specify responses,other specify responses,1,Wave6,Wave6,q145other_q19_other
+q145other,q20_other,other specify responses,other specify responses,1,Wave6,Wave6,q145other_q20_other
+q20_other,q145other,other specify responses,other specify responses,1,Wave6,Wave6,q145other_q20_other
+q145other,q21_other,other specify responses,other specify responses,1,Wave6,Wave6,q145other_q21_other
+q21_other,q145other,other specify responses,other specify responses,1,Wave6,Wave6,q145other_q21_other
+q145other,q34other,other specify responses,other specify responses,1,Wave6,Wave6,q145other_q34other
+q34other,q145other,other specify responses,other specify responses,1,Wave6,Wave6,q145other_q34other
+q145other,q53other,other specify responses,other specify responses,1,Wave6,Wave6,q145other_q53other
+q53other,q145other,other specify responses,other specify responses,1,Wave6,Wave6,q145other_q53other
+q145other,q54other,other specify responses,other specify responses,1,Wave6,Wave6,q145other_q54other
+q54other,q145other,other specify responses,other specify responses,1,Wave6,Wave6,q145other_q54other
+q145other,q97aother,other specify responses,a other specify responses,0.8718840579710144,Wave6,Wave6,q145other_q97aother
+q97aother,q145other,a other specify responses,other specify responses,0.8718840579710144,Wave6,Wave6,q145other_q97aother
+q145other,q97bother,other specify responses,b other specify responses,0.8718840579710144,Wave6,Wave6,q145other_q97bother
+q97bother,q145other,b other specify responses,other specify responses,0.8718840579710144,Wave6,Wave6,q145other_q97bother
+q145other,q97other,other specify responses,other specify responses,1,Wave6,Wave6,q145other_q97other
+q97other,q145other,other specify responses,other specify responses,1,Wave6,Wave6,q145other_q97other
+q147,q147a,a political leader should tolerate the views of those who challenge his political ideals,a political leader should not tolerate the views of those who challenge his political ideals,0.8945981554677207,"Wave1, Wave2, Wave3, Wave4, Wave5, Wave6","Wave1, Wave3",q147_q147a
+q147a,q147,a political leader should not tolerate the views of those who challenge his political ideals,a political leader should tolerate the views of those who challenge his political ideals,0.8945981554677207,"Wave1, Wave3","Wave1, Wave2, Wave3, Wave4, Wave5, Wave6",q147_q147a
+q156_1,q157_1,1 our country should do more to learn from other countries q156 q156a,1 our country should do more trade with other countries q157 q157a,0.8513655344900739,"Wave5, Wave6","Wave5, Wave6",q156_1_q157_1
+q157_1,q156_1,1 our country should do more trade with other countries q157 q157a,1 our country should do more to learn from other countries q156 q156a,0.8513655344900739,"Wave5, Wave6","Wave5, Wave6",q156_1_q157_1
+q156a,q74a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave5, Wave6","Wave3, Wave4",q156a_q74a
+q74a,q156a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave3, Wave4","Wave5, Wave6",q156a_q74a
+q156a,q75a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave5, Wave6","Wave3, Wave4",q156a_q75a
+q75a,q156a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave3, Wave4","Wave5, Wave6",q156a_q75a
+q156a,q76a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave5, Wave6","Wave3, Wave4",q156a_q76a
+q76a,q156a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave3, Wave4","Wave5, Wave6",q156a_q76a
+q156a,q77a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave5, Wave6","Wave3, Wave4",q156a_q77a
+q77a,q156a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave3, Wave4","Wave5, Wave6",q156a_q77a
+q156a,q78a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave5, Wave6",Wave3,q156a_q78a
+q78a,q156a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,Wave3,"Wave5, Wave6",q156a_q78a
+q156a,q79a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave5, Wave6","Wave3, Wave4",q156a_q79a
+q79a,q156a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave3, Wave4","Wave5, Wave6",q156a_q79a
+q156a,q80a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave5, Wave6",Wave4,q156a_q80a
+q80a,q156a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,Wave4,"Wave5, Wave6",q156a_q80a
+q156a,q81a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave5, Wave6",Wave4,q156a_q81a
+q81a,q156a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,Wave4,"Wave5, Wave6",q156a_q81a
+q156a,q82a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave5, Wave6","Wave4, Wave5",q156a_q82a
+q82a,q156a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave4, Wave5","Wave5, Wave6",q156a_q82a
+q156a,q83a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave5, Wave6",Wave5,q156a_q83a
+q83a,q156a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,Wave5,"Wave5, Wave6",q156a_q83a
+q156a,q84a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave5, Wave6",Wave5,q156a_q84a
+q84a,q156a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,Wave5,"Wave5, Wave6",q156a_q84a
+q156a,q85a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave5, Wave6",Wave5,q156a_q85a
+q85a,q156a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,Wave5,"Wave5, Wave6",q156a_q85a
+q157,q161,relation the united nations or un,impression the united nations or un,0.8998556998556998,"Wave2, Wave3, Wave4, Wave5, Wave6","Wave2, Wave3, Wave4, Wave5, Wave6",q157_q161
+q161,q157,impression the united nations or un,relation the united nations or un,0.8998556998556998,"Wave2, Wave3, Wave4, Wave5, Wave6","Wave2, Wave3, Wave4, Wave5, Wave6",q157_q161
+q160b,q160c,b it is the responsibility of the government to make sure that everyone has affordable housing,c it is the responsibility of the government to make sure that everyone has access to basic medic...,0.8577373475938543,"Wave5, Wave6","Wave5, Wave6",q160b_q160c
+q160c,q160b,c it is the responsibility of the government to make sure that everyone has access to basic medic...,b it is the responsibility of the government to make sure that everyone has affordable housing,0.8577373475938543,"Wave5, Wave6","Wave5, Wave6",q160b_q160c
+q167,q180,which country should be a model for our own country s future development,which country should be a model for our own country s future development,1,"Wave4, Wave5, Wave6","Wave5, Wave6",q167_q180
+q180,q167,which country should be a model for our own country s future development,which country should be a model for our own country s future development,1,"Wave5, Wave6","Wave4, Wave5, Wave6",q167_q180
+q168,q181,how much influence does china have on our country,how much influence does china have on our country,1,"Wave4, Wave5, Wave6","Wave5, Wave6",q168_q181
+q181,q168,how much influence does china have on our country,how much influence does china have on our country,1,"Wave5, Wave6","Wave4, Wave5, Wave6",q168_q181
+q169,q171,general speaking the influence china has on our country is,general speaking the influence the united states has on our country is,0.8680206262783394,"Wave4, Wave5, Wave6","Wave4, Wave5, Wave6",q169_q171
+q171,q169,general speaking the influence the united states has on our country is,general speaking the influence china has on our country is,0.8680206262783394,"Wave4, Wave5, Wave6","Wave4, Wave5, Wave6",q169_q171
+q169,q182,general speaking the influence china has on our country is,general speaking the influence china has on our country is,1,"Wave4, Wave5, Wave6","Wave5, Wave6",q169_q182
+q182,q169,general speaking the influence china has on our country is,general speaking the influence china has on our country is,1,"Wave5, Wave6","Wave4, Wave5, Wave6",q169_q182
+q169,q184,general speaking the influence china has on our country is,general speaking the influence the united states has on our country is,0.8680206262783394,"Wave4, Wave5, Wave6","Wave5, Wave6",q169_q184
+q184,q169,general speaking the influence the united states has on our country is,general speaking the influence china has on our country is,0.8680206262783394,"Wave5, Wave6","Wave4, Wave5, Wave6",q169_q184
+q170,q183,how much influence does the united states have on our country,how much influence does the united states have on our country,1,"Wave4, Wave5, Wave6","Wave5, Wave6",q170_q183
+q183,q170,how much influence does the united states have on our country,how much influence does the united states have on our country,1,"Wave5, Wave6","Wave4, Wave5, Wave6",q170_q183
+q171,q182,general speaking the influence the united states has on our country is,general speaking the influence china has on our country is,0.8680206262783394,"Wave4, Wave5, Wave6","Wave5, Wave6",q171_q182
+q182,q171,general speaking the influence china has on our country is,general speaking the influence the united states has on our country is,0.8680206262783394,"Wave5, Wave6","Wave4, Wave5, Wave6",q171_q182
+q171,q184,general speaking the influence the united states has on our country is,general speaking the influence the united states has on our country is,1,"Wave4, Wave5, Wave6","Wave5, Wave6",q171_q184
+q184,q171,general speaking the influence the united states has on our country is,general speaking the influence the united states has on our country is,1,"Wave5, Wave6","Wave4, Wave5, Wave6",q171_q184
+q172,q186,how close do you feel to asean asean countries only,how close do you feel to asean asean countries only,1,"Wave4, Wave5","Wave5, Wave6",q172_q186
+q186,q172,how close do you feel to asean asean countries only,how close do you feel to asean asean countries only,1,"Wave5, Wave6","Wave4, Wave5",q172_q186
+q173other,q179other,other specify responses,other specify responses,1,Wave6,Wave6,q173other_q179other
+q179other,q173other,other specify responses,other specify responses,1,Wave6,Wave6,q173other_q179other
+q173other,q180other,other specify responses,other sepcify responses,0.9855072463768115,Wave6,Wave6,q173other_q180other
+q180other,q173other,other sepcify responses,other specify responses,0.9855072463768115,Wave6,Wave6,q173other_q180other
+q173other,q185Other,other specify responses,other specify responses,1,Wave6,Wave6,q173other_q185Other
+q185Other,q173other,other specify responses,other specify responses,1,Wave6,Wave6,q173other_q185Other
+q173other,q18_other,other specify responses,other specify responses,1,Wave6,Wave6,q173other_q18_other
+q18_other,q173other,other specify responses,other specify responses,1,Wave6,Wave6,q173other_q18_other
+q173other,q19_other,other specify responses,other specify responses,1,Wave6,Wave6,q173other_q19_other
+q19_other,q173other,other specify responses,other specify responses,1,Wave6,Wave6,q173other_q19_other
+q173other,q20_other,other specify responses,other specify responses,1,Wave6,Wave6,q173other_q20_other
+q20_other,q173other,other specify responses,other specify responses,1,Wave6,Wave6,q173other_q20_other
+q173other,q21_other,other specify responses,other specify responses,1,Wave6,Wave6,q173other_q21_other
+q21_other,q173other,other specify responses,other specify responses,1,Wave6,Wave6,q173other_q21_other
+q173other,q34other,other specify responses,other specify responses,1,Wave6,Wave6,q173other_q34other
+q34other,q173other,other specify responses,other specify responses,1,Wave6,Wave6,q173other_q34other
+q173other,q53other,other specify responses,other specify responses,1,Wave6,Wave6,q173other_q53other
+q53other,q173other,other specify responses,other specify responses,1,Wave6,Wave6,q173other_q53other
+q173other,q54other,other specify responses,other specify responses,1,Wave6,Wave6,q173other_q54other
+q54other,q173other,other specify responses,other specify responses,1,Wave6,Wave6,q173other_q54other
+q173other,q97aother,other specify responses,a other specify responses,0.8718840579710144,Wave6,Wave6,q173other_q97aother
+q97aother,q173other,a other specify responses,other specify responses,0.8718840579710144,Wave6,Wave6,q173other_q97aother
+q173other,q97bother,other specify responses,b other specify responses,0.8718840579710144,Wave6,Wave6,q173other_q97bother
+q97bother,q173other,b other specify responses,other specify responses,0.8718840579710144,Wave6,Wave6,q173other_q97bother
+q173other,q97other,other specify responses,other specify responses,1,Wave6,Wave6,q173other_q97other
+q97other,q173other,other specify responses,other specify responses,1,Wave6,Wave6,q173other_q97other
+q179other,q180other,other specify responses,other sepcify responses,0.9855072463768115,Wave6,Wave6,q179other_q180other
+q180other,q179other,other sepcify responses,other specify responses,0.9855072463768115,Wave6,Wave6,q179other_q180other
+q179other,q185Other,other specify responses,other specify responses,1,Wave6,Wave6,q179other_q185Other
+q185Other,q179other,other specify responses,other specify responses,1,Wave6,Wave6,q179other_q185Other
+q179other,q18_other,other specify responses,other specify responses,1,Wave6,Wave6,q179other_q18_other
+q18_other,q179other,other specify responses,other specify responses,1,Wave6,Wave6,q179other_q18_other
+q179other,q19_other,other specify responses,other specify responses,1,Wave6,Wave6,q179other_q19_other
+q19_other,q179other,other specify responses,other specify responses,1,Wave6,Wave6,q179other_q19_other
+q179other,q20_other,other specify responses,other specify responses,1,Wave6,Wave6,q179other_q20_other
+q20_other,q179other,other specify responses,other specify responses,1,Wave6,Wave6,q179other_q20_other
+q179other,q21_other,other specify responses,other specify responses,1,Wave6,Wave6,q179other_q21_other
+q21_other,q179other,other specify responses,other specify responses,1,Wave6,Wave6,q179other_q21_other
+q179other,q34other,other specify responses,other specify responses,1,Wave6,Wave6,q179other_q34other
+q34other,q179other,other specify responses,other specify responses,1,Wave6,Wave6,q179other_q34other
+q179other,q53other,other specify responses,other specify responses,1,Wave6,Wave6,q179other_q53other
+q53other,q179other,other specify responses,other specify responses,1,Wave6,Wave6,q179other_q53other
+q179other,q54other,other specify responses,other specify responses,1,Wave6,Wave6,q179other_q54other
+q54other,q179other,other specify responses,other specify responses,1,Wave6,Wave6,q179other_q54other
+q179other,q97aother,other specify responses,a other specify responses,0.8718840579710144,Wave6,Wave6,q179other_q97aother
+q97aother,q179other,a other specify responses,other specify responses,0.8718840579710144,Wave6,Wave6,q179other_q97aother
+q179other,q97bother,other specify responses,b other specify responses,0.8718840579710144,Wave6,Wave6,q179other_q97bother
+q97bother,q179other,b other specify responses,other specify responses,0.8718840579710144,Wave6,Wave6,q179other_q97bother
+q179other,q97other,other specify responses,other specify responses,1,Wave6,Wave6,q179other_q97other
+q97other,q179other,other specify responses,other specify responses,1,Wave6,Wave6,q179other_q97other
+q180other,q185Other,other sepcify responses,other specify responses,0.9855072463768115,Wave6,Wave6,q180other_q185Other
+q185Other,q180other,other specify responses,other sepcify responses,0.9855072463768115,Wave6,Wave6,q180other_q185Other
+q180other,q19_other,other sepcify responses,other specify responses,0.9855072463768115,Wave6,Wave6,q180other_q19_other
+q19_other,q180other,other specify responses,other sepcify responses,0.9855072463768115,Wave6,Wave6,q180other_q19_other
+q180other,q20_other,other sepcify responses,other specify responses,0.9855072463768115,Wave6,Wave6,q180other_q20_other
+q20_other,q180other,other specify responses,other sepcify responses,0.9855072463768115,Wave6,Wave6,q180other_q20_other
+q180other,q21_other,other sepcify responses,other specify responses,0.9855072463768115,Wave6,Wave6,q180other_q21_other
+q21_other,q180other,other specify responses,other sepcify responses,0.9855072463768115,Wave6,Wave6,q180other_q21_other
+q180other,q34other,other sepcify responses,other specify responses,0.9855072463768115,Wave6,Wave6,q180other_q34other
+q34other,q180other,other specify responses,other sepcify responses,0.9855072463768115,Wave6,Wave6,q180other_q34other
+q180other,q53other,other sepcify responses,other specify responses,0.9855072463768115,Wave6,Wave6,q180other_q53other
+q53other,q180other,other specify responses,other sepcify responses,0.9855072463768115,Wave6,Wave6,q180other_q53other
+q180other,q54other,other sepcify responses,other specify responses,0.9855072463768115,Wave6,Wave6,q180other_q54other
+q54other,q180other,other specify responses,other sepcify responses,0.9855072463768115,Wave6,Wave6,q180other_q54other
+q180other,q97aother,other sepcify responses,a other specify responses,0.8791304347826087,Wave6,Wave6,q180other_q97aother
+q97aother,q180other,a other specify responses,other sepcify responses,0.8791304347826087,Wave6,Wave6,q180other_q97aother
+q180other,q97bother,other sepcify responses,b other specify responses,0.8791304347826087,Wave6,Wave6,q180other_q97bother
+q97bother,q180other,b other specify responses,other sepcify responses,0.8791304347826087,Wave6,Wave6,q180other_q97bother
+q180other,q97other,other sepcify responses,other specify responses,0.9855072463768115,Wave6,Wave6,q180other_q97other
+q97other,q180other,other specify responses,other sepcify responses,0.9855072463768115,Wave6,Wave6,q180other_q97other
+q182,q184,general speaking the influence china has on our country is,general speaking the influence the united states has on our country is,0.8680206262783394,"Wave5, Wave6","Wave5, Wave6",q182_q184
+q184,q182,general speaking the influence the united states has on our country is,general speaking the influence china has on our country is,0.8680206262783394,"Wave5, Wave6","Wave5, Wave6",q182_q184
+q185Other,q19_other,other specify responses,other specify responses,1,Wave6,Wave6,q185Other_q19_other
+q19_other,q185Other,other specify responses,other specify responses,1,Wave6,Wave6,q185Other_q19_other
+q185Other,q20_other,other specify responses,other specify responses,1,Wave6,Wave6,q185Other_q20_other
+q20_other,q185Other,other specify responses,other specify responses,1,Wave6,Wave6,q185Other_q20_other
+q185Other,q21_other,other specify responses,other specify responses,1,Wave6,Wave6,q185Other_q21_other
+q21_other,q185Other,other specify responses,other specify responses,1,Wave6,Wave6,q185Other_q21_other
+q185Other,q34other,other specify responses,other specify responses,1,Wave6,Wave6,q185Other_q34other
+q34other,q185Other,other specify responses,other specify responses,1,Wave6,Wave6,q185Other_q34other
+q185Other,q53other,other specify responses,other specify responses,1,Wave6,Wave6,q185Other_q53other
+q53other,q185Other,other specify responses,other specify responses,1,Wave6,Wave6,q185Other_q53other
+q185Other,q54other,other specify responses,other specify responses,1,Wave6,Wave6,q185Other_q54other
+q54other,q185Other,other specify responses,other specify responses,1,Wave6,Wave6,q185Other_q54other
+q185Other,q97aother,other specify responses,a other specify responses,0.8718840579710144,Wave6,Wave6,q185Other_q97aother
+q97aother,q185Other,a other specify responses,other specify responses,0.8718840579710144,Wave6,Wave6,q185Other_q97aother
+q185Other,q97bother,other specify responses,b other specify responses,0.8718840579710144,Wave6,Wave6,q185Other_q97bother
+q97bother,q185Other,b other specify responses,other specify responses,0.8718840579710144,Wave6,Wave6,q185Other_q97bother
+q185Other,q97other,other specify responses,other specify responses,1,Wave6,Wave6,q185Other_q97other
+q97other,q185Other,other specify responses,other specify responses,1,Wave6,Wave6,q185Other_q97other
+q180other,q18_other,other sepcify responses,other specify responses,0.9855072463768115,Wave6,Wave6,q18_other_q180other
+q18_other,q180other,other specify responses,other sepcify responses,0.9855072463768115,Wave6,Wave6,q18_other_q180other
+q185Other,q18_other,other specify responses,other specify responses,1,Wave6,Wave6,q18_other_q185Other
+q18_other,q185Other,other specify responses,other specify responses,1,Wave6,Wave6,q18_other_q185Other
+q18_other,q19_other,other specify responses,other specify responses,1,Wave6,Wave6,q18_other_q19_other
+q19_other,q18_other,other specify responses,other specify responses,1,Wave6,Wave6,q18_other_q19_other
+q18_other,q20_other,other specify responses,other specify responses,1,Wave6,Wave6,q18_other_q20_other
+q20_other,q18_other,other specify responses,other specify responses,1,Wave6,Wave6,q18_other_q20_other
+q18_other,q21_other,other specify responses,other specify responses,1,Wave6,Wave6,q18_other_q21_other
+q21_other,q18_other,other specify responses,other specify responses,1,Wave6,Wave6,q18_other_q21_other
+q18_other,q34other,other specify responses,other specify responses,1,Wave6,Wave6,q18_other_q34other
+q34other,q18_other,other specify responses,other specify responses,1,Wave6,Wave6,q18_other_q34other
+q18_other,q53other,other specify responses,other specify responses,1,Wave6,Wave6,q18_other_q53other
+q53other,q18_other,other specify responses,other specify responses,1,Wave6,Wave6,q18_other_q53other
+q18_other,q54other,other specify responses,other specify responses,1,Wave6,Wave6,q18_other_q54other
+q54other,q18_other,other specify responses,other specify responses,1,Wave6,Wave6,q18_other_q54other
+q18_other,q97aother,other specify responses,a other specify responses,0.8718840579710144,Wave6,Wave6,q18_other_q97aother
+q97aother,q18_other,a other specify responses,other specify responses,0.8718840579710144,Wave6,Wave6,q18_other_q97aother
+q18_other,q97bother,other specify responses,b other specify responses,0.8718840579710144,Wave6,Wave6,q18_other_q97bother
+q97bother,q18_other,b other specify responses,other specify responses,0.8718840579710144,Wave6,Wave6,q18_other_q97bother
+q18_other,q97other,other specify responses,other specify responses,1,Wave6,Wave6,q18_other_q97other
+q97other,q18_other,other specify responses,other specify responses,1,Wave6,Wave6,q18_other_q97other
+q19_other,q20_other,other specify responses,other specify responses,1,Wave6,Wave6,q19_other_q20_other
+q20_other,q19_other,other specify responses,other specify responses,1,Wave6,Wave6,q19_other_q20_other
+q19_other,q21_other,other specify responses,other specify responses,1,Wave6,Wave6,q19_other_q21_other
+q21_other,q19_other,other specify responses,other specify responses,1,Wave6,Wave6,q19_other_q21_other
+q19_other,q34other,other specify responses,other specify responses,1,Wave6,Wave6,q19_other_q34other
+q34other,q19_other,other specify responses,other specify responses,1,Wave6,Wave6,q19_other_q34other
+q19_other,q53other,other specify responses,other specify responses,1,Wave6,Wave6,q19_other_q53other
+q53other,q19_other,other specify responses,other specify responses,1,Wave6,Wave6,q19_other_q53other
+q19_other,q54other,other specify responses,other specify responses,1,Wave6,Wave6,q19_other_q54other
+q54other,q19_other,other specify responses,other specify responses,1,Wave6,Wave6,q19_other_q54other
+q19_other,q97aother,other specify responses,a other specify responses,0.8718840579710144,Wave6,Wave6,q19_other_q97aother
+q97aother,q19_other,a other specify responses,other specify responses,0.8718840579710144,Wave6,Wave6,q19_other_q97aother
+q19_other,q97bother,other specify responses,b other specify responses,0.8718840579710144,Wave6,Wave6,q19_other_q97bother
+q97bother,q19_other,b other specify responses,other specify responses,0.8718840579710144,Wave6,Wave6,q19_other_q97bother
+q19_other,q97other,other specify responses,other specify responses,1,Wave6,Wave6,q19_other_q97other
+q97other,q19_other,other specify responses,other specify responses,1,Wave6,Wave6,q19_other_q97other
+q20_1,q20_3,first organization,third organization,0.8946759259259258,Wave2,Wave2,q20_1_q20_3
+q20_3,q20_1,third organization,first organization,0.8946759259259258,Wave2,Wave2,q20_1_q20_3
+q20_1,q22,first organization,third organization,0.8946759259259258,Wave2,"Wave3, Wave4, Wave5, Wave6",q20_1_q22
+q22,q20_1,third organization,first organization,0.8946759259259258,"Wave3, Wave4, Wave5, Wave6",Wave2,q20_1_q22
+q20_2,q21,second organization,second organization,1,Wave2,"Wave3, Wave4, Wave5, Wave6",q20_2_q21
+q21,q20_2,second organization,second organization,1,"Wave3, Wave4, Wave5, Wave6",Wave2,q20_2_q21
+q20_3,q22,third organization,third organization,1,Wave2,"Wave3, Wave4, Wave5, Wave6",q20_3_q22
+q22,q20_3,third organization,third organization,1,"Wave3, Wave4, Wave5, Wave6",Wave2,q20_3_q22
+q20_other,q21_other,other specify responses,other specify responses,1,Wave6,Wave6,q20_other_q21_other
+q21_other,q20_other,other specify responses,other specify responses,1,Wave6,Wave6,q20_other_q21_other
+q20_other,q34other,other specify responses,other specify responses,1,Wave6,Wave6,q20_other_q34other
+q34other,q20_other,other specify responses,other specify responses,1,Wave6,Wave6,q20_other_q34other
+q20_other,q53other,other specify responses,other specify responses,1,Wave6,Wave6,q20_other_q53other
+q53other,q20_other,other specify responses,other specify responses,1,Wave6,Wave6,q20_other_q53other
+q20_other,q54other,other specify responses,other specify responses,1,Wave6,Wave6,q20_other_q54other
+q54other,q20_other,other specify responses,other specify responses,1,Wave6,Wave6,q20_other_q54other
+q20_other,q97aother,other specify responses,a other specify responses,0.8718840579710144,Wave6,Wave6,q20_other_q97aother
+q97aother,q20_other,a other specify responses,other specify responses,0.8718840579710144,Wave6,Wave6,q20_other_q97aother
+q20_other,q97bother,other specify responses,b other specify responses,0.8718840579710144,Wave6,Wave6,q20_other_q97bother
+q97bother,q20_other,b other specify responses,other specify responses,0.8718840579710144,Wave6,Wave6,q20_other_q97bother
+q20_other,q97other,other specify responses,other specify responses,1,Wave6,Wave6,q20_other_q97other
+q97other,q20_other,other specify responses,other specify responses,1,Wave6,Wave6,q20_other_q97other
+q21_other,q34other,other specify responses,other specify responses,1,Wave6,Wave6,q21_other_q34other
+q34other,q21_other,other specify responses,other specify responses,1,Wave6,Wave6,q21_other_q34other
+q21_other,q53other,other specify responses,other specify responses,1,Wave6,Wave6,q21_other_q53other
+q53other,q21_other,other specify responses,other specify responses,1,Wave6,Wave6,q21_other_q53other
+q21_other,q54other,other specify responses,other specify responses,1,Wave6,Wave6,q21_other_q54other
+q54other,q21_other,other specify responses,other specify responses,1,Wave6,Wave6,q21_other_q54other
+q21_other,q97aother,other specify responses,a other specify responses,0.8718840579710144,Wave6,Wave6,q21_other_q97aother
+q97aother,q21_other,a other specify responses,other specify responses,0.8718840579710144,Wave6,Wave6,q21_other_q97aother
+q21_other,q97bother,other specify responses,b other specify responses,0.8718840579710144,Wave6,Wave6,q21_other_q97bother
+q97bother,q21_other,b other specify responses,other specify responses,0.8718840579710144,Wave6,Wave6,q21_other_q97bother
+q21_other,q97other,other specify responses,other specify responses,1,Wave6,Wave6,q21_other_q97other
+q97other,q21_other,other specify responses,other specify responses,1,Wave6,Wave6,q21_other_q97other
+q24,q25,how much trust do you have in your relatives,how much trust do you have in your neighbors,0.9114219114219113,"Wave2, Wave3, Wave4, Wave5, Wave6","Wave2, Wave3, Wave4, Wave5, Wave6",q24_q25
+q25,q24,how much trust do you have in your neighbors,how much trust do you have in your relatives,0.9114219114219113,"Wave2, Wave3, Wave4, Wave5, Wave6","Wave2, Wave3, Wave4, Wave5, Wave6",q24_q25
+q34other,q53other,other specify responses,other specify responses,1,Wave6,Wave6,q34other_q53other
+q53other,q34other,other specify responses,other specify responses,1,Wave6,Wave6,q34other_q53other
+q34other,q54other,other specify responses,other specify responses,1,Wave6,Wave6,q34other_q54other
+q54other,q34other,other specify responses,other specify responses,1,Wave6,Wave6,q34other_q54other
+q34other,q97aother,other specify responses,a other specify responses,0.8718840579710144,Wave6,Wave6,q34other_q97aother
+q97aother,q34other,a other specify responses,other specify responses,0.8718840579710144,Wave6,Wave6,q34other_q97aother
+q34other,q97bother,other specify responses,b other specify responses,0.8718840579710144,Wave6,Wave6,q34other_q97bother
+q97bother,q34other,b other specify responses,other specify responses,0.8718840579710144,Wave6,Wave6,q34other_q97bother
+q34other,q97other,other specify responses,other specify responses,1,Wave6,Wave6,q34other_q97other
+q97other,q34other,other specify responses,other specify responses,1,Wave6,Wave6,q34other_q97other
+q51_4,q51_7,question 51 04 internet,question 51 07 other,0.8630434782608695,Wave2,Wave2,q51_4_q51_7
+q51_7,q51_4,question 51 07 other,question 51 04 internet,0.8630434782608695,Wave2,Wave2,q51_4_q51_7
+q53other,q54other,other specify responses,other specify responses,1,Wave6,Wave6,q53other_q54other
+q54other,q53other,other specify responses,other specify responses,1,Wave6,Wave6,q53other_q54other
+q53other,q97aother,other specify responses,a other specify responses,0.8718840579710144,Wave6,Wave6,q53other_q97aother
+q97aother,q53other,a other specify responses,other specify responses,0.8718840579710144,Wave6,Wave6,q53other_q97aother
+q53other,q97bother,other specify responses,b other specify responses,0.8718840579710144,Wave6,Wave6,q53other_q97bother
+q97bother,q53other,b other specify responses,other specify responses,0.8718840579710144,Wave6,Wave6,q53other_q97bother
+q53other,q97other,other specify responses,other specify responses,1,Wave6,Wave6,q53other_q97other
+q97other,q53other,other specify responses,other specify responses,1,Wave6,Wave6,q53other_q97other
+q54other,q97aother,other specify responses,a other specify responses,0.8718840579710144,Wave6,Wave6,q54other_q97aother
+q97aother,q54other,a other specify responses,other specify responses,0.8718840579710144,Wave6,Wave6,q54other_q97aother
+q54other,q97bother,other specify responses,b other specify responses,0.8718840579710144,Wave6,Wave6,q54other_q97bother
+q97bother,q54other,b other specify responses,other specify responses,0.8718840579710144,Wave6,Wave6,q54other_q97bother
+q54other,q97other,other specify responses,other specify responses,1,Wave6,Wave6,q54other_q97other
+q97other,q54other,other specify responses,other specify responses,1,Wave6,Wave6,q54other_q97other
+q74a,q75a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave3, Wave4","Wave3, Wave4",q74a_q75a
+q75a,q74a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave3, Wave4","Wave3, Wave4",q74a_q75a
+q74a,q76a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave3, Wave4","Wave3, Wave4",q74a_q76a
+q76a,q74a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave3, Wave4","Wave3, Wave4",q74a_q76a
+q74a,q77a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave3, Wave4","Wave3, Wave4",q74a_q77a
+q77a,q74a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave3, Wave4","Wave3, Wave4",q74a_q77a
+q74a,q78a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave3, Wave4",Wave3,q74a_q78a
+q78a,q74a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,Wave3,"Wave3, Wave4",q74a_q78a
+q74a,q79a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave3, Wave4","Wave3, Wave4",q74a_q79a
+q79a,q74a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave3, Wave4","Wave3, Wave4",q74a_q79a
+q74a,q80a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave3, Wave4",Wave4,q74a_q80a
+q80a,q74a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,Wave4,"Wave3, Wave4",q74a_q80a
+q74a,q81a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave3, Wave4",Wave4,q74a_q81a
+q81a,q74a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,Wave4,"Wave3, Wave4",q74a_q81a
+q74a,q82a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave3, Wave4","Wave4, Wave5",q74a_q82a
+q82a,q74a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave4, Wave5","Wave3, Wave4",q74a_q82a
+q74a,q83a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave3, Wave4",Wave5,q74a_q83a
+q83a,q74a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,Wave5,"Wave3, Wave4",q74a_q83a
+q74a,q84a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave3, Wave4",Wave5,q74a_q84a
+q84a,q74a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,Wave5,"Wave3, Wave4",q74a_q84a
+q74a,q85a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave3, Wave4",Wave5,q74a_q85a
+q85a,q74a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,Wave5,"Wave3, Wave4",q74a_q85a
+q75a,q76a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave3, Wave4","Wave3, Wave4",q75a_q76a
+q76a,q75a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave3, Wave4","Wave3, Wave4",q75a_q76a
+q75a,q77a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave3, Wave4","Wave3, Wave4",q75a_q77a
+q77a,q75a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave3, Wave4","Wave3, Wave4",q75a_q77a
+q75a,q78a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave3, Wave4",Wave3,q75a_q78a
+q78a,q75a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,Wave3,"Wave3, Wave4",q75a_q78a
+q75a,q79a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave3, Wave4","Wave3, Wave4",q75a_q79a
+q79a,q75a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave3, Wave4","Wave3, Wave4",q75a_q79a
+q75a,q80a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave3, Wave4",Wave4,q75a_q80a
+q80a,q75a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,Wave4,"Wave3, Wave4",q75a_q80a
+q75a,q81a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave3, Wave4",Wave4,q75a_q81a
+q81a,q75a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,Wave4,"Wave3, Wave4",q75a_q81a
+q75a,q82a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave3, Wave4","Wave4, Wave5",q75a_q82a
+q82a,q75a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave4, Wave5","Wave3, Wave4",q75a_q82a
+q75a,q83a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave3, Wave4",Wave5,q75a_q83a
+q83a,q75a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,Wave5,"Wave3, Wave4",q75a_q83a
+q75a,q84a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave3, Wave4",Wave5,q75a_q84a
+q84a,q75a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,Wave5,"Wave3, Wave4",q75a_q84a
+q75a,q85a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave3, Wave4",Wave5,q75a_q85a
+q85a,q75a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,Wave5,"Wave3, Wave4",q75a_q85a
+q76a,q77a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave3, Wave4","Wave3, Wave4",q76a_q77a
+q77a,q76a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave3, Wave4","Wave3, Wave4",q76a_q77a
+q76a,q78a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave3, Wave4",Wave3,q76a_q78a
+q78a,q76a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,Wave3,"Wave3, Wave4",q76a_q78a
+q76a,q79a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave3, Wave4","Wave3, Wave4",q76a_q79a
+q79a,q76a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave3, Wave4","Wave3, Wave4",q76a_q79a
+q76a,q80a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave3, Wave4",Wave4,q76a_q80a
+q80a,q76a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,Wave4,"Wave3, Wave4",q76a_q80a
+q76a,q81a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave3, Wave4",Wave4,q76a_q81a
+q81a,q76a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,Wave4,"Wave3, Wave4",q76a_q81a
+q76a,q82a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave3, Wave4","Wave4, Wave5",q76a_q82a
+q82a,q76a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave4, Wave5","Wave3, Wave4",q76a_q82a
+q76a,q83a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave3, Wave4",Wave5,q76a_q83a
+q83a,q76a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,Wave5,"Wave3, Wave4",q76a_q83a
+q76a,q84a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave3, Wave4",Wave5,q76a_q84a
+q84a,q76a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,Wave5,"Wave3, Wave4",q76a_q84a
+q76a,q85a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave3, Wave4",Wave5,q76a_q85a
+q85a,q76a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,Wave5,"Wave3, Wave4",q76a_q85a
+q77a,q78a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave3, Wave4",Wave3,q77a_q78a
+q78a,q77a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,Wave3,"Wave3, Wave4",q77a_q78a
+q77a,q79a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave3, Wave4","Wave3, Wave4",q77a_q79a
+q79a,q77a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave3, Wave4","Wave3, Wave4",q77a_q79a
+q77a,q80a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave3, Wave4",Wave4,q77a_q80a
+q80a,q77a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,Wave4,"Wave3, Wave4",q77a_q80a
+q77a,q81a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave3, Wave4",Wave4,q77a_q81a
+q81a,q77a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,Wave4,"Wave3, Wave4",q77a_q81a
+q77a,q82a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave3, Wave4","Wave4, Wave5",q77a_q82a
+q82a,q77a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave4, Wave5","Wave3, Wave4",q77a_q82a
+q77a,q83a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave3, Wave4",Wave5,q77a_q83a
+q83a,q77a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,Wave5,"Wave3, Wave4",q77a_q83a
+q77a,q84a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave3, Wave4",Wave5,q77a_q84a
+q84a,q77a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,Wave5,"Wave3, Wave4",q77a_q84a
+q77a,q85a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave3, Wave4",Wave5,q77a_q85a
+q85a,q77a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,Wave5,"Wave3, Wave4",q77a_q85a
+q78a,q79a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,Wave3,"Wave3, Wave4",q78a_q79a
+q79a,q78a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave3, Wave4",Wave3,q78a_q79a
+q78a,q80a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,Wave3,Wave4,q78a_q80a
+q80a,q78a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,Wave4,Wave3,q78a_q80a
+q78a,q81a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,Wave3,Wave4,q78a_q81a
+q81a,q78a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,Wave4,Wave3,q78a_q81a
+q78a,q82a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,Wave3,"Wave4, Wave5",q78a_q82a
+q82a,q78a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave4, Wave5",Wave3,q78a_q82a
+q78a,q83a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,Wave3,Wave5,q78a_q83a
+q83a,q78a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,Wave5,Wave3,q78a_q83a
+q78a,q84a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,Wave3,Wave5,q78a_q84a
+q84a,q78a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,Wave5,Wave3,q78a_q84a
+q78a,q85a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,Wave3,Wave5,q78a_q85a
+q85a,q78a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,Wave5,Wave3,q78a_q85a
+q79a,q80a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave3, Wave4",Wave4,q79a_q80a
+q80a,q79a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,Wave4,"Wave3, Wave4",q79a_q80a
+q79a,q81a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave3, Wave4",Wave4,q79a_q81a
+q81a,q79a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,Wave4,"Wave3, Wave4",q79a_q81a
+q79a,q82a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave3, Wave4","Wave4, Wave5",q79a_q82a
+q82a,q79a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave4, Wave5","Wave3, Wave4",q79a_q82a
+q79a,q83a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave3, Wave4",Wave5,q79a_q83a
+q83a,q79a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,Wave5,"Wave3, Wave4",q79a_q83a
+q79a,q84a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave3, Wave4",Wave5,q79a_q84a
+q84a,q79a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,Wave5,"Wave3, Wave4",q79a_q84a
+q79a,q85a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave3, Wave4",Wave5,q79a_q85a
+q85a,q79a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,Wave5,"Wave3, Wave4",q79a_q85a
+q80a,q81a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,Wave4,Wave4,q80a_q81a
+q81a,q80a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,Wave4,Wave4,q80a_q81a
+q80a,q82a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,Wave4,"Wave4, Wave5",q80a_q82a
+q82a,q80a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave4, Wave5",Wave4,q80a_q82a
+q80a,q83a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,Wave4,Wave5,q80a_q83a
+q83a,q80a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,Wave5,Wave4,q80a_q83a
+q80a,q84a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,Wave4,Wave5,q80a_q84a
+q84a,q80a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,Wave5,Wave4,q80a_q84a
+q80a,q85a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,Wave4,Wave5,q80a_q85a
+q85a,q80a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,Wave5,Wave4,q80a_q85a
+q81a,q82a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,Wave4,"Wave4, Wave5",q81a_q82a
+q82a,q81a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave4, Wave5",Wave4,q81a_q82a
+q81a,q83a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,Wave4,Wave5,q81a_q83a
+q83a,q81a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,Wave5,Wave4,q81a_q83a
+q81a,q84a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,Wave4,Wave5,q81a_q84a
+q84a,q81a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,Wave5,Wave4,q81a_q84a
+q81a,q85a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,Wave4,Wave5,q81a_q85a
+q85a,q81a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,Wave5,Wave4,q81a_q85a
+q82a,q83a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave4, Wave5",Wave5,q82a_q83a
+q83a,q82a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,Wave5,"Wave4, Wave5",q82a_q83a
+q82a,q84a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave4, Wave5",Wave5,q82a_q84a
+q84a,q82a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,Wave5,"Wave4, Wave5",q82a_q84a
+q82a,q85a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,"Wave4, Wave5",Wave5,q82a_q85a
+q85a,q82a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,Wave5,"Wave4, Wave5",q82a_q85a
+q83a,q84a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,Wave5,Wave5,q83a_q84a
+q84a,q83a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,Wave5,Wave5,q83a_q84a
+q83a,q85a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,Wave5,Wave5,q83a_q85a
+q85a,q83a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,Wave5,Wave5,q83a_q85a
+q84a,q85a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,Wave5,Wave5,q84a_q85a
+q85a,q84a,a do you strongly agree or just agree with the chosen statement,a do you strongly agree or just agree with the chosen statement,1,Wave5,Wave5,q84a_q85a
+q95,q96,where would you place our country during the period of,where would you place our country under the present government,0.868631084452897,"Wave2, Wave3, Wave4, Wave5, Wave6","Wave2, Wave3, Wave4, Wave5, Wave6",q95_q96
+q96,q95,where would you place our country under the present government,where would you place our country during the period of,0.868631084452897,"Wave2, Wave3, Wave4, Wave5, Wave6","Wave2, Wave3, Wave4, Wave5, Wave6",q95_q96
+q97a,q97b,a what are the most important problems facing this country that government should address second,b what are the most important problems facing this country that government should address third,0.8690302144249512,Wave6,Wave6,q97a_q97b
+q97b,q97a,b what are the most important problems facing this country that government should address third,a what are the most important problems facing this country that government should address second,0.8690302144249512,Wave6,Wave6,q97a_q97b
+q97aother,q97bother,a other specify responses,b other specify responses,0.9733333333333333,Wave6,Wave6,q97aother_q97bother
+q97bother,q97aother,b other specify responses,a other specify responses,0.9733333333333333,Wave6,Wave6,q97aother_q97bother
+q97aother,q97other,a other specify responses,other specify responses,0.8718840579710144,Wave6,Wave6,q97aother_q97other
+q97other,q97aother,other specify responses,a other specify responses,0.8718840579710144,Wave6,Wave6,q97aother_q97other
+q97bother,q97other,b other specify responses,other specify responses,0.8718840579710144,Wave6,Wave6,q97bother_q97other
+q97other,q97bother,other specify responses,b other specify responses,0.8718840579710144,Wave6,Wave6,q97bother_q97other

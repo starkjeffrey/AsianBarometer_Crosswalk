@@ -1,0 +1,8 @@
+metric,count
+Total q-variables across all waves,1162
+Unique q-variables,418
+Variables in 2+ waves,207
+Variables in all 6 waves,46
+High-similarity pairs (>= 0.85),716
+Concept clusters identified,358
+Variables with domain suggestions,40

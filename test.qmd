@@ -1,0 +1,10 @@
+---
+title: "Quarto R Test"
+format: html
+execute:
+  echo: false
+  engine: knitr
+---
+```{r}
+plot(cars)
+```
