@@ -7,6 +7,7 @@ library(here)
 
 # Define wave files and their output names
 wave_files <- list(
+  W1 = "Wave1_20170906.sav",
   W2 = "Wave2_20250609.sav",
   W3 = "ABS3 merge20250609.sav",
   W4 = "W4_v15_merged20250609_release.sav",
