@@ -1,0 +1,61 @@
+concept,domain,w1_var,w1_scale,w1_label,w2_var,notes
+democracy_preferable,democracy,q117,3opt,Democracy preferable to other regimes,q121,Variable numbers differ. Check exact scale
+satisfaction_democracy,democracy,q098,4pt_1low,Satisfaction with democracy (1=Not at all to 4=Very),q93,Variable numbers differ but content same
+age,demographics,se003a,continuous,Age in years,age,Standard demographic
+education,demographics,se005,ordinal,Education level,education,Standard demographic - check coding
+gender,demographics,se002,binary,"Gender (1=Male, 2=Female)",gender,Standard demographic
+income,demographics,se009,ordinal,Income level,income,Check exact variable names per wave
+urban_rural,demographics,level3,binary,"Urban/rural (1=Urban, 2=Rural)",urban,Check exact variable names - may vary
+econ_country_current,economic,q001,5pt_1bad,Country economic condition now (1=Very bad to 5=Very good),q1,All waves. Very good=1 to Very bad=5
+econ_country_future,economic,q003,5pt_1worse,Country economic future (1=Much worse to 5=Much better),q3,All waves
+econ_country_past,economic,q002,5pt_1worse,Country economic change past (1=Much worse to 5=Much better),q2,All waves. Much better=1 to Much worse=5
+econ_family_current,economic,q004,5pt_1bad,Family economic condition now,q4,All waves
+econ_family_future,economic,q006,5pt_1worse,Family economic future,q6,All waves
+econ_family_past,economic,q005,5pt_1worse,Family economic change past,q5,All waves
+attend_campaign,electoral,q029,binary_2yes,"Attended campaign meeting/rally (1=No, 2=Yes)",q40,All waves. W1-W2 (1=no 2=yes) vs W3-W6 (1=yes 2=no). W1-W2 need reversal
+persuade_vote,electoral,q030,binary_2yes,"Tried to persuade others to vote (1=No, 2=Yes)",q41,W1-W3 and W6. Missing W4-W5. W1-W2 (1=no 2=yes) vs W3/W6 (1=yes 2=no). W1-W2 need reversal
+which_party_voted,electoral,q028,categorical,Which party voted for,q39,All waves. Country-specific party codes. Not directly comparable across countries
+work_for_party,electoral,q031,binary_2yes,"Worked for party/candidate (1=No, 2=Yes)",q42,All waves. W1-W2 (1=no 2=yes) vs W3-W6 (1=yes 2=no). W1-W2 need reversal
+country,identifiers,country,categorical,Country code,country,Standardize country names
+respondent_id,identifiers,idnumber,id,Respondent ID number,idnumber,May need to create wave-country-id
+attend_demonstration,participation,q087,3pt_w1code,Attended demonstration or protest,q80,All waves. 3-point scale (1=more than once 2=once 3=never). HIGHER=LESS participation
+contact_elected_officials,participation,q073,3pt_w1code,"Contacted elected officials (1=Once, 2=More than once, 9=Never)",q72,All waves. 3-point scale (1=more than once 2=once 3=never). Some waves have 4-point version with willingness. HIGHER=LESS participation
+contact_higher_officials,participation,q074,3pt_w1code,Contacted higher government officials,q73,All waves. 3-point scale (1=more than once 2=once 3=never). HIGHER=LESS participation
+contact_media,participation,q080,3pt_w1code,Contacted news media,q76,All waves. 3-point scale (1=more than once 2=once 3=never). HIGHER=LESS participation
+petition_sign,participation,q084,3pt_w1code,Sign petition or raise issue,q78,All waves. 3-point scale (1=more than once 2=once 3=never). HIGHER=LESS participation
+use_force_violence,participation,q095,3pt_w1code,Used force or violence for political cause,q81,All waves. 3-point scale (1=more than once 2=once 3=never). HIGHER=LESS participation
+party_closeness,partisanship,q062,categorical,Which party feel closest to,q54,All waves. Categorical variable with country-specific party codes. 90/99=no party. Codes vary by country - not directly comparable across countries but consistent concept
+discuss_politics,political_interest,q023,5pt_1low,Discuss political matters (1=Never to 5=Very often),q52,Most waves. W1 (1=never to 5=very often) 5-point HIGHER=MORE. W2 (1=never to 3=frequently) 3-point HIGHER=MORE. W3-W6 (1=frequently to 3=never) HIGHER=LESS. Must reverse W1-W2. Different scale lengths require careful harmonization
+follow_news,politics,q057,6pt_2low,Follow political news (2=Practically never to 6=Everyday),NA,W3-W6. Check exact scales per wave
+interest_politics,politics,q056,4pt_1low,Interest in politics (1=Not at all to 4=Very interested),q92,Variable numbers change but content consistent
+voted_last_election,politics,q027,binary_1yes,Voted in last national election,q38,All waves. Yes/No
+army_rule_support,regime,q123,4pt_1agree,Support for army rule,q104,All waves. 4-choice ordinal (1=strongly support to 4=strongly oppose). HIGHER=LESS authoritarian
+democracy_scale_current,regime,q100,10pt_1low,Democracy scale current (1-10),q96,All waves. 10-point scale (1=completely undemocratic to 10=completely democratic). HIGHER=MORE democratic
+democracy_scale_future,regime,q102,10pt_1low,Democracy scale future 5 years (1-10),q98,All waves. 10-point scale (1=completely undemocratic to 10=completely democratic). HIGHER=MORE democratic
+democracy_scale_past,regime,q099,10pt_1low,Democracy scale past regime (1-10),q97,All waves. 10-point scale (1=completely undemocratic to 10=completely democratic). HIGHER=MORE democratic
+democracy_suitable,regime,q103,10pt_1low,Democracy suitable for country (1-10),q99,All waves. 10-point scale (1=completely unsuitable to 10=perfectly suitable). HIGHER=MORE suitable
+expert_decide_support,regime,q124,4pt_1agree,Support for experts making decisions,q105,All waves. 4-choice ordinal (1=strongly support to 4=strongly oppose). HIGHER=LESS authoritarian
+govt_satisfaction,regime,q104,4pt_1low,Satisfaction with government (1=Very dissatisfied to 4=Very satisfied),q102,All waves. 4-point scale (1=very satisfied to 4=very dissatisfied). HIGHER=LESS satisfied
+strong_leader_support,regime,q121,4pt_1agree,Support for strong leader without elections,q103,All waves. 4-choice ordinal (1=strongly support to 4=strongly oppose). HIGHER=LESS authoritarian
+org_count_formal,social_capital,fgnum,count_0to3,Number of formal groups belong to,fgnum,W1-W2 only. Count variable 0-3
+org_count_private,social_capital,pgnum,count_0to3,Number of private groups belong to,NA,W1 only. Count variable 0-3
+trust_gen_binary,social_capital,q024,3opt,Most people can be trusted (trichotomous),q23,W1 has 3 options (both/it depends). W2-W4 binary. W5-W6 add it depends
+accommodate_neighbor,traditionalism,q066,4pt_1trad,Accommodate neighbor in conflict,q58,W1-W2 only. Conflict avoidance
+elder_resolve_dispute,traditionalism,q071,4pt_1trad,Ask elder to resolve quarrels,NA,W1 only. Respect for age/authority
+family_over_individual,traditionalism,q069,4pt_1trad,Put family interests before individual,q60,All waves. Collectivism - family level
+fate_determines_success,traditionalism,q067,4pt_1trad,Fate determines wealth and success,NA,W1 and W3-W6. Fatalism measure
+hire_relatives_over_qualified,traditionalism,q065,4pt_1trad,Hire relatives over qualified stranger,NA,W1 only. Measuring nepotism/particularism
+man_lose_face_female_boss,traditionalism,q070,4pt_1trad,Man loses face working under female supervisor,NA,W1 only. Gender hierarchy
+mother_in_law_conflict,traditionalism,q072,4pt_1trad,Husband should side with mother-in-law over wife,NA,W1 and W3-W6. Filial piety over spousal loyalty
+not_insist_opinion_coworkers,traditionalism,q068,4pt_1trad,Not insist on own opinion if coworkers disagree,q59,All waves. Conformity/harmony over individual opinion
+obey_parents_unreasonable,traditionalism,q064,4pt_1trad,Children obey parents even if unreasonable,q56,All waves. 1=Strongly agree to 4=Strongly disagree. Higher=less traditional
+trust_civil_service,trust,q011,4pt_0low,Trust in civil service,q12,All waves present
+trust_courts,trust,q007,4pt_0low,Trust in courts,q8,All waves present. W3/W5 need collapsing
+trust_election_commission,trust,q017,4pt_0low,Trust in election commission,q16,W2-W5 newspaper/TV; W6 election commission - NOT comparable
+trust_local_govt,trust,q014,4pt_0low,Trust in local government,q15,*** CRITICAL for Paper 5 - LOCAL TRUST ***
+trust_military,trust,q012,4pt_0low,Trust in military,q13,All waves present
+trust_national_govt,trust,q008,4pt_0low,Trust in national government,q9,All waves present. This is KEY variable for Paper 5
+trust_ngos,trust,q018,4pt_0low,Trust in NGOs,q17,W2-W5 TV; W6 NGOs - W6 comparable only for institutional substitution
+trust_parliament,trust,q010,4pt_0low,Trust in parliament,q11,All waves present
+trust_parties,trust,q009,4pt_0low,Trust in political parties,q10,All waves present
+trust_police,trust,q013,4pt_0low,Trust in police,q14,All waves present
