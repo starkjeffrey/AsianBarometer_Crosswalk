@@ -1,0 +1,428 @@
+﻿batch,concept,domain,description,w1_var,w1_scale,w2_var,w2_scale,w3_var,w3_scale,w4_var,w4_scale,w5_var,w5_scale,w6_var,w6_scale,harmonized_name,harmonize_to,reverse_waves,notes
+2,regime_preference_statement,authoritarian,Regime type preference (dem vs auth statement),,,,,q124,3opt,,,,,,,,,,W3 q124. 3opt. NEW CONCEPT
+2,support_strongman,authoritarian,Approve strong leader without legislature,,,,,q129,4pt,,,,,,,,,,W3 q129. 4pt. NEW CONCEPT
+2,citizen_influence_effort,civic,Citizens make effort to influence govt decisions,,,,,q102,4pt_1agree,,,,,,,,,,W3 q102. 4pt_1agree. NEW CONCEPT
+1,citizen_participation_duty,civic,Citizen not performing duty if doesn't participate,,,q151,4pt_1agree,,,,,,,,,,,,W2+. 4pt agree-disagree. Civic duty measure
+1,country_loyalty,civic,Citizen should remain loyal to country no matter how imperfect,,,q153,4pt_1agree,,,,,q145,4pt_1agree,q137,4pt_1agree,country_loyalty,4pt_1high,W2+,W2+. 4pt agree-disagree. Nationalism/patriotism measure
+3,country_loyalty,civic,,,,,,q137,4pt_1agree,,,,,,,,,,
+1,obey_laws_always,civic,Citizens should always obey laws even if disagree,,,q152,4pt_1agree,,,,,,,,,,,,W2+. 4pt agree-disagree. Legal compliance/rule of law measure
+1,corruption_heard_family,corruption,Corruption - told about by family member,,,q119_2,binary,,,,,,,,,,,,
+3,corruption_heard_family,corruption,,,,,,q119_2,binary,,,,,,,,,,
+1,corruption_heard_friend,corruption,Corruption - told about by friend,,,q119_3,binary,,,,,,,,,,,,
+3,corruption_heard_friend,corruption,,,,,,q119_3,binary,,,,,,,,,,
+1,corruption_local_govt,corruption,Local govt officials involved in corruption,q114,4pt_1everyone,q117,4pt_1everyone,q117,4pt_1low,q117,4pt_1low,q124,4pt_1low,q115,4pt_1low,,,,W2+. 4pt scale (1=hardly anyone to 4=almost everyone). HIGHER=MORE corruption perceived
+1,corruption_media,corruption,Journalists/media involved in corruption,,,q120,4pt_1low,,,,,,,,,,,,W2+. 4pt scale (1=hardly anyone to 4=almost everyone). HIGHER=MORE corruption perceived
+1,corruption_police,corruption,Police/law enforcement involved in corruption,,,q119,4pt_1low,,,,,,,,,,,,W2+. 4pt scale (1=hardly anyone to 4=almost everyone). HIGHER=MORE corruption perceived
+1,corruption_seen_directly,corruption,Corruption - witnessed directly,,,q119_1,binary,,,,,,,,,,,,
+1,corruption_witnessed,corruption,Personally witnessed corruption in past year,,,,,,,q120,5cat,,,,,,,,W4+ q120. 5 categories from personally witnessed to no one witnessed
+3,corruption_witnessed,corruption,,,,,,q119,4pt,,,,,,,,,,
+2,corruption_witnessed_self,corruption,Corruption - witnessed directly by respondent,,,,,q119_1,binary,,,,,,,,,,W3 q119_1. binary. NEW CONCEPT
+1,govt_anticorruption_effort,corruption,Is government working to crack down on corruption,,,,,q118,4pt_1best,q119,4pt_1best,q125,4pt_1low,q116,4pt_1low,,,,W3+ q118. 4pt (1=doing best to 4=nothing). HIGHER=LESS effort
+3,govt_withhold_info,corruption,Government officials withhold important information from the public,,,,,q109,4pt_1always,,,,,,,,,,
+1,govt_withhold_info,corruption,How often govt withholds important info from public,,,,,,,q111,4pt_1always,,,,,,,,W4+ q111. 4pt (1=always to 4=rarely). HIGHER=MORE transparent
+2,leaders_abuse_power,corruption,How often govt leaders break law/abuse power,,,,,q110,4pt_1always,,,,,,,,,,W3 q110. 4pt_1always. NEW CONCEPT
+1,leaders_break_law,corruption,How often govt leaders break law or abuse power,,,,,,,q112,4pt_1always,,,,,,,,W4+ q112. 4pt (1=always to 4=rarely). HIGHER=LESS corruption
+3,officials_unpunished,corruption,Officials who commit crimes go unpunished,,,,,q108,4pt_1always,,,,,,,,,,
+1,officials_unpunished,corruption,Officials who commit crimes go unpunished,,,,,,,q110,4pt_1always,,,,,,,,W4+ q110. 4pt (1=always to 4=rarely). HIGHER=LESS corruption
+1,covid_economic_impact,covid,COVID impact on family livelihood,,,,,,,,,,,q140,4pt,covid_econ_impact,4pt_1serious,none,W6 only. 1=very serious to 4=not much
+1,covid_emergency_powers,covid,Justify emergency powers for health,,,,,,,,,,,q172a,4pt_1justified,emergency_powers,4pt_1justified,none,W6 only. Authoritarianism measure
+1,covid_govt_handling,covid,Government pandemic handling,,,,,,,,,,,q142,4pt,covid_govt_handling,4pt_1good,none,*** W6 ONLY - KEY DV for Paper 1 ***
+1,covid_infection,covid,Personal/family COVID-19 infection,,,,,,,,,,,q138,binary,covid_infected,binary_1yes,none,*** W6 ONLY - KEY for Paper 1 (Vietnam Paradox) ***
+1,covid_trust_info,covid,Trust in govt COVID information,,,,,,,,,,,q141,4pt,covid_trust_info,4pt_1high,none,*** W6 ONLY - KEY MEDIATOR for Paper 1 ***
+1,covid_vaccination,covid,COVID vaccination status,,,,,,,,,,,q144,categorical,covid_vaccinated,categorical,none,W6 only. Multiple categories
+1,emergency_powers_corruption,covid,Justify emergency powers to reduce corruption,,,,,,,,,,,q172c,4pt_1justified,,,,W6 q172c. Corruption justification
+1,emergency_powers_covid,covid,Justify emergency powers for COVID pandemic,,,,,,,,,,,q172a,4pt_1justified,,,,W6 q172a. 1=very justified to 4=not at all
+1,emergency_powers_economic,covid,Justify emergency powers for economic crisis,,,,,,,,,,,q172b,4pt_1justified,,,,W6 q172b. Economic crisis justification
+1,emergency_powers_security,covid,Justify emergency powers for security crisis,,,,,,,,,,,q172d,4pt_1justified,,,,W6 q172d. Security/terrorism justification
+1,emergency_powers_war,covid,Justify emergency powers when at war,,,,,,,,,,,q172e,4pt_1justified,,,,W6 q172e. War justification
+1,between_elections_accountability,democracy,Between elections people can't hold govt responsible,,,,,,,q103,4pt_1agree,,,,,,,,W4+ q103. 4pt agree-disagree. REVERSED - agreement=less accountable
+3,between_elections_accountability,democracy,,,,,,q100,4pt_1agree,,,,,,,,,,
+1,courts_check_leaders,democracy,Courts can't do anything when leaders break laws,,,,,,,q104,4pt_1agree,,,,,,,,W4+ q104. 4pt agree-disagree. REVERSED - agreement=less accountable
+3,courts_check_leaders,democracy,,,,,,q101,4pt_1agree,,,,,,,,,,
+1,courts_powerless_govt_w2,democracy,"When the government breaks the laws, there is nothing the legal system can do",,,q107,4pt_agree,,,,,,,,,,,,
+1,demchar_clean_politics,democracy,Politics clean and free of corruption (essential),,,,,,,,,q92,10pt_1low,,,,,,W5 q92 is clean politics (10pt essential scale)
+1,demchar_courts_protect,democracy,Courts protect from govt abuse (essential for democracy),,,,,,,,,q91,10pt_1low,,,,,,W5 q91 is courts protect (1=not essential to 10=essential)
+2,demchar_essential_1,democracy,Essential democracy characteristic (set 1),,,,,q85,4opt,,,,,q85,4opt,,,,W3 q85. 4opt. NEW CONCEPT
+2,demchar_essential_2,democracy,Essential democracy characteristic (set 2),,,,,q86,4opt,,,,,q86,4opt,,,,W3 q86. 4opt. NEW CONCEPT
+2,demchar_essential_3,democracy,Essential democracy characteristic (set 3),,,,,q87,4opt,,,,,q87,4opt,,,,W3 q87. 4opt. NEW CONCEPT
+2,demchar_essential_4,democracy,Essential democracy characteristic (set 4),,,,,q88,4opt,,,,,q88,4opt,,,,W3 q88. 4opt. NEW CONCEPT
+1,demchar_essential_choice_w2,democracy,People often differ in their views on the characteristic that is essential to democracy. If you have to choose only one of the things,,,q92,4pt,,,,,,,,,,,,
+1,demchar_leader_wisdom,democracy,Leaders rule by wisdom not preferences (essential),,,,,,,,,q95,10pt_1low,,,,,,W5 q95 is leader wisdom (10pt essential scale)
+1,demchar_one_party,democracy,One party represents all classes (essential),,,,,,,,,q96,10pt_1low,,,,,,W5 q96 is one party (10pt essential scale)
+1,demchar_protest_freedom,democracy,Freedom to protest (essential for democracy),,,,,,,,,q93,10pt_1low,,,,,,W5 q93 is protest freedom (10pt essential scale)
+1,demchar_religious_authority,democracy,Govt consults religious authorities (essential),,,,,,,,,q94,10pt_1low,,,,,,W5 q94 is religious authority (10pt essential scale)
+1,demchar_religious_leaders,democracy,Religious leaders pre-select candidates (essential),,,,,,,,,q97,10pt_1low,,,,,,W5 q97 is religious selection (10pt essential scale)
+1,democracy_assessment,democracy,How much of a democracy is country (4pt),,,,,,,q93,4pt_1high,,,,,,,,W4+ q93. 4pt (1=full democracy to 4=not democracy). Different from 10pt scale
+3,democracy_best_form,democracy,Democracy best form of govt,,,,,q128,4pt_1agree,,,,,,,,,,
+1,democracy_best_form,democracy,Democracy is best form despite problems,,,,,,,q129,4pt_1agree,q136,4pt_1agree,q128,4pt_1agree,,,,W4+ q129. 4pt agree-disagree. Pro-democracy attitude
+1,democracy_desire_now_w2,democracy,To what extent would you want our country to be democratic now?,,,q97,3pt,,,,,,,,,,,,
+1,democracy_essential_choice,democracy,Most essential element of democracy (forced choice),,,,,,,,,q98,4opt,,,,,,W5 q98 is forced choice between 4 democracy elements
+1,democracy_meaning,democracy,What does democracy mean (open-ended),,,,,,,,,,,q89,open_ended,,,,W6 q89. Open-ended question
+1,democracy_meaning_1,democracy,Meaning of democracy #1,,,q91_1,210cat,,,,,,,,,,,,
+1,democracy_meaning_2,democracy,Meaning of democracy #2,,,q91_2,210cat,,,,,,,,,,,,
+1,democracy_meaning_3,democracy,Meaning of democracy #3,,,q91_3,210cat,,,,,,,,,,,,
+1,democracy_preferable,democracy,Democracy is preferable to alternatives,q117,3opt,q121,varies,,,q125,varies,q132,3opt,q124,3opt,dem_prefer,varies,none,Variable numbers differ. Check exact scale
+1,democracy_solve_problems,democracy,Democracy capable of solving society's problems,,,,,,,q126,binary,q133,binary,q125,binary,,,,W4+ q126. Binary choice
+3,democracy_solve_problems,democracy,Is democracy capable of solving the problems of society,,,,,q125,binary,,,,,,,,,,
+1,democracy_vs_development,democracy,Choose between democracy and economic development,q119,"4pt_1econ,5equal",q123,"4pt_1econ,5equal",q126,"4pt_1econ,5equal",q127,"4pt_1econ,5equal",q134,"4pt_1econ,5equal",q126,"4pt_1econ,5equal",,,,W4+ q127. 5pt comparison scale with equally important option
+2,elections_govt_attention,electoral,Elections make govt pay attention to people,,,,,q115,4pt_1high,q116,4pt_1high,q122,4pt_1high,q113,4pt_1high,,,,W3 q115. 4pt_1high. NEW CONCEPT
+3,equality_vs_freedom,democracy,"Btw reducing econ inequality and protect pol freedom, which?",,,,,q127,"4pt_econ,5=equal",,,,,,,,,,
+1,equality_vs_freedom,democracy,Choose between reducing inequality and protecting freedom,,,,,,,q128,5pt_compare,q135,5pt_compare,q127,5pt_compare,,,,W4+ q128. 5pt comparison scale
+1,freedom_organization,democracy,People can join any organization without fear,,,,,,,q109,4pt_1agree,,,,,,,,W4+ q109. 4pt agree-disagree. Freedom perception
+3,legislature_check_govt,democracy,Legislature capable of keeping government leaders in check,,,q115,4pt_capable,q112,4pt_capable,q114,4pt_capable,q120,4pt_capable,q111,4pt_capable,,,,
+1,level_democracy,democracy,Level of democracy in country,,,q94,varies,q90,varies,q93,varies,q100,4pt_1high,q91,4pt_1high,dem_level,varies,none,Check scale per wave - may be 1-10 in some
+1,minority_equal_rights_w2,democracy,These people should have the equal right to do whatever they want to do as other citizens,,,q148,3pt,,,,,,,,,,,,
+1,minority_voting_rights_w2,democracy,They should enjoy the same right as other citizens to vote in the election of the top leader,,,q149,binary,,,,,,,,,,,,
+1,parties_equal_media,democracy,Parties have equal access to media during elections,,,,,,,q102,4pt_1agree,,,,,,,,W4+ q102. 4pt agree-disagree. Electoral fairness perception
+3,parties_equal_media,democracy,,,,,,q99,4pt_1agree,,,,,,,,,,
+1,people_change_govt,democracy,People have power to change government they don't like,,,,,,,q101,4pt_1agree,,,,,,,,W4+ q101. 4pt agree-disagree. Democratic belief
+1,satisfaction_democracy,democracy,Satisfaction with democracy,q098,4pt_1low,q93,4pt,q89,4pt,q92,4pt,q99,4pt_1high,q90,4pt_1high,dem_satisfaction,4pt_1high,none,Variable numbers differ but content same
+1,uneducated_equal_say,democracy,Uneducated should have equal say in politics,,,q133,4pt_agree,q140,4pt_1agree,q141,4pt_1agree,q148,4pt_1agree,q148,4pt_1agree,trust_civil_service,4pt_1high,W3+,W3+ q140. 4pt agree-disagree. Egalitarian attitudes
+1,age,demographics,Age of respondent,se003a,continuous,age,continuous,age,continuous,age,continuous,age,continuous,age,continuous,age,continuous,none,Standard demographic
+1,education,demographics,Education level,se005,ordinal,education,ordinal,education,ordinal,education,ordinal,education,ordinal,education,ordinal,education,ordinal,none,Standard demographic - check coding
+1,gender,demographics,Gender/sex,se002,binary,gender,binary,gender,binary,gender,binary,gender,binary,gender,binary,gender,binary,none,Standard demographic
+2,household_income,demographics,Household income level,,,,,se13,ordinal,,,,,,,,,,W3 se13. ordinal. NEW CONCEPT
+1,income,demographics,Income level,se009,ordinal,income,ordinal,income,ordinal,income,ordinal,income,ordinal,income,ordinal,income,ordinal,none,Check exact variable names per wave
+1,subjective_social_status,demographics,Self-perceived social status (1-10 ladder),,,se13,10pt_1low,,,,,,,,,,,,W2+. 10pt ladder (1=Lowest to 10=Highest status). HIGHER=HIGHER status
+1,urban_rural,demographics,Urban vs rural residence,level3,binary,level3,binary_1urban,urban,binary,urban,binary,urban,binary,urban,binary,urban,binary,none,Check exact variable names - may vary
+1,econ_country_current,economic,Current country economic condition,q001,5pt_1bad,q1,5pt_1bad,q1,5pt,q1,5pt_rev,q1,5pt,q1,5pt,econ_country_now,5pt_1good,W4,All waves. Very good=1 to Very bad=5
+1,econ_country_future,economic,Country economy in few years,q003,5pt_1bad,q3,5pt_1bad,q3,5pt,q3,5pt_rev,q3,5pt,q3,5pt,econ_country_future,5pt_1better,W4,All waves
+1,econ_country_past,economic,Country economy vs few years ago,q002,5pt_1bad,q2,5pt_1bad,q2,5pt,q2,5pt_rev,q2,5pt,q2,5pt,econ_country_past,5pt_1better,W4,All waves. Much better=1 to Much worse=5
+1,econ_family_current,economic,Current family economic condition,q004,5pt_1bad,q4,5pt_bad,q4,5pt,q4,5pt_rev,q4,5pt,q4,5pt,econ_family_now,5pt_1good,W4,All waves
+1,econ_family_future,economic,Family economy in few years,q006,5pt_1bad,q6,5pt_1bad,q6,5pt,q6,5pt_rev,q6,5pt,q6,5pt,econ_family_future,5pt_1better,W4,All waves
+1,econ_family_past,economic,Family economy vs few years ago,q005,5pt_1bad,q5,5pt_1bad,q5,5pt,q5,5pt_rev,q5,5pt,q5,5pt,econ_family_past,5pt_1better,W4,All waves
+1,economic_self_sufficiency_w2,economic,Our country should become more self-sufficient and less reliant on trade with other countries,,,q146,4pt,,,,,,,,,,,,
+1,govt_own_enterprises_w2,economic,The government should maintain ownership of major state-owned enterprises,,,q142,4pt_1agree,,,,,,,,,,,,
+1,govt_reduce_inequality,economic,Govt responsibility to narrow gap btw rich and poor,,,,,,,q156,4pt_1agree,q160a,4pt_1all_resp,q160a,4pt_1all_resp,govt_reduce_ineq,varies,none,W4+ q156. 4pt agree-disagree. Redistributive preference
+1,govt_reduce_inequality_w2,economic,"In order to preserve social justice, the government should prevent the gap between rich and poor from growing any larger",,,q145,4pt_1agree,,,,,,,,,,,,
+1,income_distribution_fair,economic,How fair is income distribution in country,,,,,,,q155,4pt_1high,q159,4pt_1high,q159,4pt_1high,income_fair_country,4pt_1high,none,W4+ q155. 4pt (1=very fair to 4=very unfair). HIGHER=LESS fair
+1,income_fairness_personal,economic,Family income is fair given efforts,,,,,,,q159,4pt_1high,q163,6pt_1high,q163,4pt_1high,income_fair_personal,4pt_1high,none,W4+ q159. 4pt (1=very fair to 4=very unfair). HIGHER=LESS fair
+1,income_loss_concern,economic,Concerned about losing major income source next 12 months,,,,,,,q157,4pt_1low,q161,4pt_1high,q161,4pt_1high,income_worry,4pt_1high,none,W4+ q157. 4pt (1=not at all to 4=very concerned). HIGHER=MORE concerned
+1,income_loss_impact,economic,How serious if lost main income source,,,,,,,q158,3pt_1serious,q162,3pt_1serious,q162,3pt_1serious,income_impact,3pt_1high,none,W4+ q158. 3pt (1=serious difficulty to 3=manage fine). HIGHER=LESS serious
+1,follow_comm_lead_vote,election_mobilization,Voted as community leader suggested,q047,binary_1no,,,,,,,,,,,,,,
+1,follow_family_vote,election_mobilization,Voted as family member/relative suggested,q044,binary_1no,,,,,,,,,,,,,,
+1,follow_friend_vote,election_mobilization,Voted as friend/neighbor suggested,q046,binary_1no,,,,,,,,,,,,,,
+1,follow_known_official_vote,election_mobilization,Voted as known govt official suggested,q051,binary_1no,,,,,,,,,,,,,,
+1,follow_org_lead_vote,election_mobilization,Voted as organization leader suggested,q050,binary_1no,,,,,,,,,,,,,,
+1,follow_other_vote,election_mobilization,Voted as other person suggested,q055,binary_1no,,,,,,,,,,,,,,
+1,follow_owner_vote,election_mobilization,Voted as owner where you work suggested,q049,binary_1no,,,,,,,,,,,,,,
+1,follow_party_activist_vote,election_mobilization,Voted as party activist suggested,q053,binary_1no,,,,,,,,,,,,,,
+1,follow_senior_clan_vote,election_mobilization,Voted as senior clan member suggested,q045,binary_1no,,,,,,,,,,,,,,
+1,follow_superior_vote,election_mobilization,Voted as superior at work suggested,q048,binary_1no,,,,,,,,,,,,,,
+1,follow_unknown_official_vote,election_mobilization,Voted as unknown govt official suggested,q052,binary_1no,,,,,,,,,,,,,,
+1,follow_unknown_party_activist_vote,election_mobilization,Voted as unknown party activist suggested,q054,binary_1no,,,,,,,,,,,,,,
+1,solicited_by_boss,election_mobilization,Asked to vote by superior at work,q036,binary_1no,,,,,,,,,,,,,,
+1,solicited_by_comm_lead,election_mobilization,Asked to vote by community leader,q035,binary_1no,,,,,,,,,,,,,,
+1,solicited_by_family,election_mobilization,Asked to vote by family member/relative,q032,binary_1no,,,,,,,,,,,,,,
+1,solicited_by_friend,election_mobilization,Asked to vote by friend/neighbor,q034,binary_1no,,,,,,,,,,,,,,
+1,solicited_by_known_official,election_mobilization,Asked to vote by known govt official,q039,binary_1no,,,,,,,,,,,,,,
+1,solicited_by_known_party_activist,election_mobilization,Asked to vote by known party activist,q041,binary_1no,,,,,,,,,,,,,,
+1,solicited_by_org,election_mobilization,Asked to vote by organization leader,q038,binary_1no,,,,,,,,,,,,,,
+1,solicited_by_other,election_mobilization,Asked to vote by other person,q043,binary_1no,,,,,,,,,,,,,,
+1,solicited_by_owner,election_mobilization,Asked to vote by owner where you work,q037,binary_1no,,,,,,,,,,,,,,
+1,solicited_by_senior_clan,election_mobilization,Asked to vote by senior clan member,q033,binary_1no,,,,,,,,,,,,,,
+1,solicited_by_unknown_official,election_mobilization,Asked to vote by unknown govt official,q040,binary_1no,,,,,,,,,,,,,,
+1,solicited_by_unknown_party_activist,election_mobilization,Asked to vote by unknown party activist,q042,binary_1no,,,,,,,,,,,,,,
+1,attend_campaign,electoral,Attended campaign meeting or rally,q029,binary_1no,q40,binary_2yes,q34,binary_1yes,q35,binary_1yes,q35,binary_1yes,q35,binary_1yes,attend_campaign,binary_1yes,W1-W2,All waves. W1-W2 (1=no 2=yes) vs W3-W6 (1=yes 2=no). W1-W2 need reversal
+1,election_free_fair,electoral,Assessment of election freeness and fairness,,,q43,4pt_1freefair,q37,"5pt_1freefaor,5free_notfair",q38,4pt_1freefair,q38,4pt_1freefair,q38,4pt_1freefair,election_quality,4pt_1freefair,none,W2-W6. 4-point scale (1=completely free/fair to 4=not free/fair). W3 adds 5th option (free but unfair). Higher=worse quality
+1,election_real_choice,electoral,How often elections offer real choice between parties,,,q114,4pt_always,q111,4pt_always,q113,4pt_always,q119,4pt_always,q110,4pt_always,election_real_choice,4pt_1best,none,W2-W6. Four point scale (1=always to 4=rarely). Higher=worse. Perception of electoral competitiveness
+1,persuade_vote,electoral,Tried to persuade others to vote for candidate/party,q030,binary_1no,q41,binary_2yes,q35,binary_1yes,,,,,q36,binary_1yes,persuade_vote,binary_1yes,W1-W2,W1-W3 and W6. Missing W4-W5. W1-W2 (1=no 2=yes) vs W3/W6 (1=yes 2=no). W1-W2 need reversal
+1,vote_buying_experience,electoral,Offered something in return for vote,,,,,,,,,,,q79,3pt_1often,,,,"W6 q79. 1=often, 2=sometimes, 3=never"
+1,vote_winner_loser,electoral,Voted for winning or losing camp,,,,,,,,,,,q34a,categorical,,,,W6 q34a. Winner/loser/not sure
+1,vote_winner_loser_w2,electoral,If the respondent voted for the winning camp or loosing camp?,,,q39a,4pt_agree,,,,,,,,,,,,
+1,voting_history_self_w2,electoral,"Thinking of whether you voted or not ever since you became eligible for voting, how would you describe yourself-have you voted",,,q90,4pt,,,,,,,,,,,,
+1,which_party_voted,electoral,Which party or candidate voted for,q028,categorical,q39,country_specific,q33,country_specific,q34,country_specific,q34,country_specific,q34,country_specific,party_voted,categorical,none,All waves. Country-specific party codes. Not directly comparable across countries
+1,work_for_party,electoral,Worked or helped party/candidate in campaign,q031,binary_1no,q42,binary_2yes,q36,binary_1yes,q37,binary_1yes,q37,binary_1yes,q37,binary_1yes,work_party,binary_1yes,W1-W2,All waves. W1-W2 (1=no 2=yes) vs W3-W6 (1=yes 2=no). W1-W2 need reversal
+1,impression_china,external_impressions,,,,q165,10pt_1bad,,,,,,,,,,,,
+1,impression_eu,external_impressions,,,,q160,10pt_1bad,,,,,,,,,,,,
+1,impression_imf,external_impressions,,,,q162,10pt_1bad,,,,,,,,,,,,
+1,impression_japan,external_impressions,,,,q166,10pt_1bad,,,,,,,,,,,,
+1,impression_un,external_impressions,,,,q161,10pt_1bad,,,,,,,,,,,,
+1,impression_usa,external_impressions,,,,q164,10pt_1bad,,,,,,,,,,,,
+1,impression_worldbank,external_impressions,,,,q163,10pt_1bad,,,,,,,,,,,,
+1,access_childcare,governance,How easy to obtain childcare,,,,,,,,,,,q45,4pt_1easy,access_childcare,,,W6 q45. 1=very easy to 4=very difficult
+1,access_healthcare,governance,How easy to obtain healthcare,,,,,,,,,,,,4pt_1easy,,,,W6 q42. 1=very easy to 4=very difficult
+1,access_id_document,governance,How easy to obtain identity document service,,,q44,5pt_1diff-no-try,q38,5pt_1diff-no-try,q39,5pt_1diff-no-try,,,,,,,,W4+ q39. 4pt (1=very difficult to 4=very easy). HIGHER=EASIER
+1,access_internet,governance,How easy to obtain internet access,,,,,,,,,,,q44,4pt_1easy,access_internet,,,W6 q44. 1=very easy to 4=very difficult
+1,access_medical,governance,How easy to obtain medical treatment at clinic,,,q46,5pt_1diff-no-try,q40,5pt_1diff-no-try,q41,5pt_1diff-no-try,,,,,,,,W4+ q41. 4pt (1=very difficult to 4=very easy). HIGHER=EASIER
+1,access_police,governance,How easy to obtain help from police,,,,,,,,,,,q43,4pt_1easy,access_police,,,W6 q43. 1=very easy to 4=very difficult
+1,access_police_help,governance,How easy to obtain help from police,,,q47,5pt_1diff-no-try,q41,5pt_1diff-no-try,q42,5pt_1diff-no-try,,,,,,,,W4+ q42. 4pt (1=very difficult to 4=very easy). HIGHER=EASIER
+1,access_roads,governance,How easy to obtain roads in good condition,,,,,,,,,,,q39,4pt_1easy,,,,W6 q39. 1=very easy to 4=very difficult
+1,access_school,governance,How easy to obtain place in public primary school,,,q45,5pt_1diff-no-try,q39,5pt_1diff-no-try,q40,5pt_1diff-no-try,,,,,,,,W4+ q40. 4pt (1=very difficult to 4=very easy). HIGHER=EASIER
+1,access_transport,governance,How easy to obtain public transportation,,,,,,,,,,,q41,4pt_1easy,access_transport,,,W6 q41. 1=very easy to 4=very difficult
+1,access_water,governance,How easy to obtain running water,,,,,,,,,,,q40,4pt_1easy,access_water,,,W6 q40. 1=very easy to 4=very difficult
+1,accountability_vs_efficiency,governance,Hold govt accountable vs get things done,,,,,,,,,q83,binary_choice,,,,,,W5 q83 is accountability vs efficiency binary
+1,basic_necessities_met,governance,"People have basic necessities (food, clothes, shelter)",,,q109,4pt_1agree,q105,4pt_1agree,q107,4pt_1agree,q114,4pt_1agree,q105,4pt_1agree,basic_needs,4pt_1high,none,W4+ q107. 4pt agree-disagree
+1,country_problem_1,governance,Most important problem facing country (1st),,,q100,categorical,q96,categorical,q99,categorical,q106,categorical,q97,categorical,county_problem_1,categorical,,W6 q97. Multiple categories
+1,country_problem_2,governance,Most important problem facing country (2nd),,,q101,categorical,,,q99a,categorical,q106a,categorical,q97a,categorical,county_problem_2,categorical,,W6 q97a. Second most important
+1,country_problem_3,governance,Most important problem facing country (3rd),,,q102,categorical,,,q99b,categorical,q106b,categorical,q97b,categorical,county_problem_3,categorical,,W6 q97b. Third most important
+1,country_problem_main,governance,Most important problems facing country,,,,,,,q99,categorical,,,,,,,,W4+ q99. Multiple choice with 39 categories
+1,environment_vs_economy,governance,Priority: environment protection vs economic growth,,,,,,,q154,binary,,,,,,,,W4+ q154. Binary choice
+1,equal_treatment_all,governance,Everyone is treated equally by the government,,,q108,4pt,,,,,,,,,,,,
+1,ethnic_equal_treatment,governance,All ethnic communities treated equally by government,,,,,q103,4pt_1agree,q105,4pt_1agree,q112,4pt_1agree,q103,4pt_1agree,equal_ethnic,4pt_1high,none,W4+ q105. 4pt agree-disagree
+1,freedom_association,governance,Freedom to join organization of choice,,,q111,4pt_1agree,q107,4pt_1agree,q109,,q116,4pt_1agree,q107,4pt_1agree,freedom_assoc,4pt_1high,W2+,W2+. 4pt scale (1=Completely free to 4=Not at all free). HIGHER=LESS freedom
+1,freedom_press,governance,Freedom of press/media,,,q112,4pt_1complete,,,,,,,,,,,,W2+. 4pt scale (1=Completely free to 4=Not at all free). HIGHER=LESS freedom
+1,freedom_speech,governance,Perceived freedom to express opinions without fear,,,q110,4pt_1agree,q106,4pt_1agree,q108,4pt_1agree,q115,4pt_1agree,q106,4pt_1agree,freedom_speech,4pt_1high,W2+,W2+. 4pt scale (1=Completely free to 4=Not at all free). HIGHER=LESS freedom
+1,freedom_vote,governance,Freedom to vote without pressure,,,q113,4pt_1complete,,,,,,,,,,,,W2+. 4pt scale (1=Completely free to 4=Not at all free). HIGHER=LESS freedom
+1,govt_employee_vs_parent,governance,Govt is employee of people vs parent who decides,,,,,q75,binary,q80,binary_choice,,,,,,,,"W3+ q75. Statement 1=employee, 2=parent"
+1,govt_implement_vs_decide,governance,Govt implements voter wants vs does what thinks best,,,,,,,,,q82,binary_choice,,,,,,W5 q82 is govt responsiveness binary choice
+1,govt_responsive_people,governance,How well govt responds to what people want,,,,,,,q115,4pt_1high,,,,,,,,W4+ q115. 4pt (1=very responsive to 4=not at all). HIGHER=LESS responsive
+1,govt_responsive_vs_expert,governance,Govt should do what voters want vs what experts think best,,,,,q74,binary,q79,binary_choice,,,,,,,,"W3+ q74. Statement 1=responsive, 2=expert knows best"
+2,govt_responsiveness,governance,How well govt responds to what people want,,,,,q113,4pt_1high,,,,,,,,,,W3 q113. 4pt_1high. NEW CONCEPT
+1,govt_responsiveness_w2,governance,How well do you think the government responds to what people want?,,,q116,4pt_agree,,,,,,,,,,,,
+1,govt_solve_problem,governance,How likely govt will solve main problem,,,q102a,4pt_likely,q97,4pt_likely,q100,4pt_likely,q107,4pt_likely,q98,4pt_likely,likelihood_govt_solves,4pt_likely,,W6 q98. 1=very likely to 4=not at all likely
+1,govt_solve_problem_likely,governance,How likely govt will solve main problem in 5 years,,,,,,,q100,4pt_1high,,,,,,,,W4+ q100. 4pt (1=very likely to 4=not at all likely). HIGHER=LESS likely
+1,individual_vs_govt_welfare,governance,Individual responsibility vs govt welfare,,,,,q77,binary,,,,,,,,,,"W3+ q77. Statement 1=individual, 2=govt responsible"
+1,leaders_elected_vs_merit,governance,Leaders chosen by election vs merit,,,,,q78,binary,q82,binary_choice,,,,,,,,"W3+ q78. Statement 1=elected, 2=merit-based"
+1,leaders_elected_vs_virtue,governance,Leaders chosen by election vs by virtue/capability,,,,,,,,,q85,binary_choice,,,,,,W5 q85 is leader selection binary choice
+1,local_govt_authority_w2,governance,The local government should have more authority over local decisions than it does now,,,q143,4pt,,,,,,,,,,,,
+1,media_freedom_vs_control,governance,Media free to publish vs govt controls,,,,,q76,binary,q81,binary_choice,,,,,,,,"W3+ q76. Statement 1=media free, 2=govt controls"
+1,multiparty_vs_oneparty,governance,Multiple parties vs one party represents all,,,,,q79,binary,,,,,,,,,,"W3+ q79. Statement 1=multiparty, 2=one party"
+1,press_freedom_vs_control,governance,Media right to publish vs govt right to prevent,,,,,,,,,q84,binary_choice,,,,,,W5 q84 is press freedom binary choice
+1,rich_poor_equal_treatment,governance,Rich and poor treated equally by government,,,,,q104,4pt_1agree,q106,4pt_1agree,q113,4pt_1agree,q104,4pt_1agree,equal_richpoor,4pt_1high,none,W4+ q106. 4pt agree-disagree
+1,country,identifiers,Country name,country,categorical,country,categorical,country,categorical,country,categorical,country,categorical,country,categorical,country_name,categorical,none,Standardize country names
+1,respondent_id,identifiers,Unique respondent ID,idnumber,id,idnumber,id,idnumber,id,idnumber,id,idnumber,id,idnumber,id,resp_id,id,none,May need to create wave-country-id
+1,year,identifiers,Survey year,,,year,continuous,year,continuous,year,continuous,year,continuous,year,continuous,survey_year,continuous,none,2006/2010/2014/2018/2022
+1,defend_way_of_life,identity,Country should defend way of life vs become like others,,,,,q151,4pt_1agree,q151,4pt_1agree,q156,binary_choice,q156,binary_choice,defend_way_life,varies,W3+,W3+ q151. 4pt agree-disagree. Nationalism
+1,defend_way_of_life_w2,identity,Our country should defend our way of life instead of becoming more and more like other countries,,,q144,4pt,,,,,,,,,,,,
+1,emigration_willingness,identity,Willingness to go live in another country,,,q155,4pt_1high,q155,4pt_1high,,,q167,4pt_1high,q167,4pt_1high,emigrate_willing,4pt_1high,W2+,W2+. 4pt scale (1=Very willing to 4=Not willing at all). HIGHER=LESS willing
+1,emigration_willingness_w3,identity,Willingness to live in another country (W3),,,,,q155,4pt_1high,,,,,,,,,,W3 q155. 4pt (1=very willing to 4=not at all). HIGHER=LESS willing
+1,foreign_goods_harm,identity,Foreign goods hurt local community,,,,,q153,4pt_1agree,,,,,,,,,,W3+ q153. 4pt agree-disagree. Economic nationalism
+1,identity_attachment_w2,identity,Let us suppose that you had to choose between being a..... which of these do you feel most strongly attached to,,,q147,4pt_agree,,,,,,,,,,,,
+1,national_pride,identity,How proud to be a citizen of country,,,q154,4pt_1high,q154,4pt_1high,q161,4pt_1high,q166,4pt_1high,q166,4pt_1high,national_pride,4pt_1high,W2+,W2+. 4pt scale (1=Very proud to 4=Not proud at all). HIGHER=LESS proud
+1,protect_from_imports,identity,Protect workers by limiting imports,,,,,q152,4pt_1agree,q152,4pt_1agree,q157,binary_choice,q157,binary_choice,protect_imports,varies,W3+,W3+ q152. 4pt agree-disagree. Economic nationalism
+1,asean_closeness,international,How close do you feel to ASEAN?,,,,,,,q172,,q186,4pt_1close,q186,6pt_1close..not aware,,,,
+1,asia_influence_country,international,Which country has most influence in Asia,,,,,,,,,,,q173,categorical,,,,W6 q173. China/Japan/India/USA/Others
+2,asia_influence_current,international,Which country has most influence in Asia,,,,,q156,categorical,,,,,,,,,,W3 q156. categorical. NEW CONCEPT
+2,asia_influence_future,international,Which country will have most influence in 10 years,,,,,q158,categorical,,,,,,,,,,W3 q158. categorical. NEW CONCEPT
+1,china_asia_impact,international,Does China do more good or harm to Asia,,,,,,,,,q177,4pt_1good,q176,4pt_1good,,,,
+2,china_influence_level,international,How much influence does China have on country,,,,,q160,4pt_1high,,,,,,,,,,W3 q160. 4pt_1high. NEW CONCEPT
+2,china_influence_valence,international,Is China influence good or bad,,,,,q161,5pt,,,,,,,,,,W3 q161. 5pt. NEW CONCEPT
+1,china_world_influence,international,China influence on world affairs,,,,,,,,,q178,10pt_1neg,q177,6pt_1positive,,,,W6 q176. 1=very positive to 6=very negative
+1,country_most_influential_in_asia_10_years,international,Which country will be most influential in Asia in 10 years,,,,,,,,,q177,categorical,q179,5pt_cat,,,,
+1,country_that_should_be_model,international,Which country should be a model for our own country's future development?,,,,,,,,,q180,categorical,q180,6pt_cat,,,,
+1,democracy_china,international,Where would place China on democracy scale,,,,,q120,10pt_1low,q121,10pt_1low,q128,10pt_1low,q120,10pt_1low,,,,W4+ q121. 10pt scale. Perception of Chinese democracy
+1,democracy_india,international,Where would place India on democracy scale,,,,,q123,10pt_1low,q124,10pt_1low,q131,10pt_1low,q123,10pt_1low,,,,W4+ q124. 10pt scale. Perception of Indian democracy
+1,democracy_japan,international,Where would place Japan on democracy scale,,,,,q122,10pt_1low,q123,10pt_1low,q130,10pt_1low,q122,10pt_1low,,,,W4+ q123. 10pt scale. Perception of Japanese democracy
+1,democracy_usa,international,Where would place USA on democracy scale,,,,,q121,10pt_1low,q122,10pt_1low,q129,10pt_1low,q121,10pt_1low,,,,W4+ q122. 10pt scale. Perception of US democracy
+1,eu_world_influence,international,EU influence on world affairs,,,,,,,,,,,q178,6pt_1positive,,,,
+1,eval_China_influence_on_us,international,Influence China has on our country is ___? ,,,,,,,,,q182,6pt_1positive,q182,6pt_1positive,,,,
+1,eval_USA_influence_on_us,international,Influence USA has on our country is ___? ,,,,,,,,,q184,6pt_1positive,q184,6pt_1positive,,,,
+1,follow_world_events_w2,international,How closely do you follow major events in foreign countries/the world?,,,q67,5pt,,,,,,,,,,,,
+1,immigration_policy,international,Should govt increase or decrease immigrant inflow,,,,,,,q153,4pt_1increase,q158,4pt_1increase,q158,4pt_1increase,immigration_policy,4pt_1high,none,W4+ q153. 4pt (1=increase to 4=no more). HIGHER=MORE restrictive
+1,influence_China_has_on_us,international,How much influence does China have on our country?,,,,,,,,,q181,4pt_1great,q181,4pt_1great,,,,
+2,influence_country_valence,international,Does influential country do good or harm to region,,,,,q157,5pt,,,,,,,,,,W3 q157. 5pt. NEW CONCEPT
+1,influence_USA_has_on_us,international,How much influence does USA have on our country?,,,,,,,,,q183,4pt_1great,q183,4pt_1great,,,,
+2,model_country,international,Which country should be model for development,,,,,q159,categorical,,,,,,,,,,W3 q159. categorical. NEW CONCEPT
+1,relation_eu_w2,international,Relation: The European Community or European Union,,,q156,binary,,,,,,,,,,,,
+1,relation_imf_w2,international,Relation: International Monetary Fund or IMF,,,q158,4pt,,,,,,,,,,,,
+1,relation_un_w2,international,Relation: The United Nations or UN,,,q157,binary,,,,,,,,,,,,
+1,relation_worldbank_w2,international,Relation: World Bank,,,q159,4pt,,,,,,,,,,,,
+1,travel_abroad_frequency_w2,international,"Have you traveled abroad before? If you have, how often do you travel abroad?",,,q68,5pt,,,,,,,,,,,,
+1,usa_asia_impact,international,Does USA do more good or harm to Asia,,,,,,,,,q175,4pt_1good,q174,4pt_1good,,,,W6 q174. 1=much more good to 4=much more harm
+1,usa_world_influence,international,US influence on world affairs,,,,,,,,,q176,10pt_1neg,q175,6pt_1positive,,,,W6 q175. 1=very positive to 6=very negative
+1,what_point_evaluating_on,international,Which aspect about the Asian power's influence and impact you have in mind when answering the above questions? ,,,,,,,,,q185,5pt_cat,q185,5pt_cat,,,,
+1,info_channel_politics,internet,Most important channel for political information,,,,,,,,,,,q53,categorical,,,,W6 q53. TV/newspaper/internet/radio/face-to-face
+1,internet_access_home,internet,Have Internet access at home,,,,,,,q47,binary_1yes,,,,,internet_home,binary_1yes,none,W4 only. Binary 1=yes 2=no
+1,internet_access_mobile,internet,Have Internet access on mobile phone,,,,,,,q48,binary_1yes,,,,,internet_mobile,binary_1yes,none,W4 only. Binary 1=yes 2=no with 0=no cell phone
+1,internet_politics_express,internet,How often use internet/social media to express political opinion,,,,,,,q52,6pt_1high,q76,binary_done,q73,binary_done,internet_politics_express,mixed,none,Different measurement across waves. W4 (6-point frequency 1=everyday to 6=never). W5-W6 (binary ever done). Not directly comparable - harmonization difficult
+1,internet_politics_info,internet,How often use internet/social media to find political information,,,,,,,q51,6pt_1high,,,,,internet_politics_info,6pt_1high,none,W4 only. 6-point scale 1=everyday to 6=practically never. HIGHER=LESS
+1,internet_use_frequency,internet,How often use internet,,,,,,,q49,8pt_1high,q49,8pt_1high,q50,8pt_1high,internet_frequency,8pt_1high,none,W4-W6. 8-point scale 1=several hours daily to 8=never. HIGHER=LESS. Consistent directionality across waves
+1,internet_use_frequency_w2,internet,How often use internet (W2 version),,,q66,7pt_1high,,,,,,,,,,,,W2 only. 7pt scale (1=Several hours daily to 7=Never). HIGHER=LESS use. Different scale from W4+
+1,internet_use_frequency_w3,internet,How often use internet (W3 version),,,,,q45,6pt_1high,,,,,,,,,,W3 q45. 6pt (1=Almost daily to 6=Never). HIGHER=LESS use
+1,social_media_use,internet,Currently use social media networks,,,,,,,q50,binary_1yes,q50,binary_1yes,,,,,,W4+ q50. Binary 1=yes 2=no
+1,socialmedia_connect_people,internet,Use social media to connect with other people,,,,,,,,,q51a,binary_1yes,q52a,4pt_1often,socialmedia_connect,mixed,none,W5-W6 only but different scales. W5 binary usage. W6 frequency scale. Not directly comparable
+1,socialmedia_facebook,internet,Actively use Facebook,,,,,,,,,,,q51a_Facebook,binary_1yes,,,,W6 q51a. Binary yes/no
+1,socialmedia_instagram,internet,Actively use Instagram,,,,,,,,,,,q51c_Instagram,binary_1yes,,,,W6 q51c. Binary yes/no
+1,socialmedia_line,internet,Actively use Line,,,,,,,,,,,q51h_Line,binary_1yes,,,,W6 q51h. Binary yes/no
+1,socialmedia_messenger,internet,Actively use Messenger,,,,,,,,,,,q51f_Messenger,binary_1yes,,,,W6 q51f. Binary yes/no
+1,socialmedia_opinion_politics,internet,Use social media to express opinion on political issues,,,,,,,q52,,q51b,binary_1yes,q52b,freq_6pt,socialmedia_politics_opinion,mixed,none,W5-W6 only but different scales. W5 binary usage. W6 frequency scale. Requires careful harmonization
+1,socialmedia_organize,internet,Use social media to organize for political influence,,,,,,,,,,,q52d,4pt_1often,,,,W6 q52d. 1=often to 4=never
+1,socialmedia_politics,internet,Use social media for political opinions,,,,,,,,,,,q52b,4pt_1often,,,,W6 q52b. 1=often to 4=never
+1,socialmedia_politics_w5,internet,Use social media for political opinions (W5),,,,,,,,,q51b,binary_1yes,,,,,,W5 q51b is social media for politics (binary)
+1,socialmedia_share,internet,Use social media to share news,,,,,,,,,,,q52c,4pt_1often,,,,W6 q52c. 1=often to 4=never
+1,socialmedia_share_news,internet,Use social media to share news or information,,,,,,,,,q51c,binary_1yes,q52c,freq_6pt,socialmedia_share_news,mixed,none,W5-W6 only but different scales. W5 binary usage. W6 frequency scale. Not directly comparable
+1,socialmedia_share_w5,internet,Use social media to share news/info (W5),,,,,,,,,q51c,binary_1yes,,,,,,W5 q51c is social media for sharing (binary)
+1,socialmedia_telegram,internet,Actively use Telegram,,,,,,,,,,,q51g_Telegram,binary_1yes,,,,W6 q51g. Binary yes/no
+1,socialmedia_tiktok,internet,Actively use TikTok,,,,,,,,,,,q51e_Tiktok,binary_1yes,,,,W6 q51e. Binary yes/no
+1,socialmedia_twitter,internet,Actively use Twitter,,,,,,,,,,,q51b_Twitter,binary_1yes,,,,W6 q51b. Binary yes/no
+1,socialmedia_whatsapp,internet,Actively use WhatsApp,,,,,,,,,,,q51i_Whatsapp,binary_1yes,,,,W6 q51i. Binary yes/no
+1,socialmedia_youtube,internet,Actively use YouTube,,,,,,,,,,,q51d_Youtube,binary_1yes,,,,W6 q51d. Binary yes/no
+1,variable,label_group,label,,,,,,,,,,,,,,,,
+1,citizen_loyalty,nationalism,Citizen should remain loyal to country regardless,,,,,,,q138,4pt_1agree,,,,,,,,W4+ q138. 4pt agree-disagree. Patriotism/nationalism
+1,attend_demonstration,participation,Attended demonstration or protest march,q087,3pt_w1code,q88,3pt_ill,q71,3pt_0never,q76,3pt_done,q79,5pt_done,q76,5pt_done,attend_protest,3pt_1high,none,All waves. 3-point scale (1=more than once 2=once 3=never). HIGHER=LESS participation
+1,collective_problem_solving,participation,Got together with others to resolve local problems,,,q84,3pt_done,q69,3pt_0never,q74,3pt_done,q77,3pt_done,q75,3pt_done,collective_action,3pt_1high,none,W2-W6. 3-point scale (1=more than once 2=once 3=never). HIGHER=LESS participation
+1,contact_elected_officials,participation,Contacted elected officials or legislative representatives,q073,3pt_w1code,q79,3pt_done,q64,3pt_0never,q69,3pt_done,q71,3pt_done,q69,3pt_done,contact_officials,3pt_1high,none,All waves. 3-point scale (1=more than once 2=once 3=never). Some waves have 4-point version with willingness. HIGHER=LESS participation
+1,contact_higher_officials,participation,Contacted government officials at higher level,q074,3pt_w1code,q80,3pt_done,q65,3pt_0never,q70,3pt_done,q72,3pt_done,q70,3pt_done,contact_higher_govt,3pt_1high,none,All waves. 3-point scale (1=more than once 2=once 3=never). HIGHER=LESS participation
+1,contact_influential_people,participation,Contacted other influential people outside government,,,q82,3pt_done,q67,3pt_0never,q72,3pt_done,q74,3pt_done,q72,3pt_done,contact_influential,3pt_1high,none,W2-W6. 3-point scale (1=more than once 2=once 3=never). HIGHER=LESS participation
+1,contact_media,participation,Contacted news media,q080,3pt_w1code,q83,3pt_done,q68,3pt_0never,q73,3pt_done,q75,3pt_done,q73,3pt_done,contact_media,3pt_1high,none,All waves. 3-point scale (1=more than once 2=once 3=never). HIGHER=LESS participation
+1,contact_traditional_leaders,participation,Contacted traditional or community leaders,,,q81,3pt_done,q66,3pt_0never,q71,3pt_done,q73,3pt_done,q71,3pt_done,contact_traditional,3pt_1high,none,W2-W6. 3-point scale (1=more than once 2=once 3=never). HIGHER=LESS participation
+1,internet_express_politics_w5,participation,Used internet/social media to express political opinions,,,,,,,,,q76,5pt_done,,,,,,W5 q76 is internet for political opinions (5pt participation)
+1,join_group_cause,participation,Joined group to support a cause (including online),,,,,,,,,q77,5pt_done,q74,5pt_done,,,,W5 q77 is joined group for cause (5pt participation)
+1,petition_sign,participation,Got together to raise issue or sign petition,q084,3pt_w1code,q85,3pt_done,q70,3pt_0never,q75,3pt_done,q78,3pt_done,q76,3pt_done,sign_petition,3pt_1high,none,All waves. 3-point scale (1=more than once 2=once 3=never). HIGHER=LESS participation
+1,petition_sign_online,participation,Signed an online petition,,,,,,,,,q75,5pt_done,,,,,,W5 q75 is signed online petition (5pt participation scale)
+1,refuse_pay_taxes_w2,participation,Refused to pay taxes or fees to the government,,,q86,binary,,,,,,,,,,,,
+1,use_force_violence,participation,Used force or violence for political cause,q095,3pt_w1code,q88,3pt_done,q72,3pt_0never,q77,3pt_done,q80,3pt_done,q78,3pt_done,use_force,3pt_1high,none,All waves. 3-point scale (1=more than once 2=once 3=never). HIGHER=LESS participation
+1,use_violence_politics_w2,participation,Used force or violence for a political cause,,,q89,binary,,,,,,,,,,,,
+1,voting_frequency_pattern,participation,How often vote in elections since eligible,,,,,q78,4pt_1high,q78,4pt_1high,q81,4pt_1high,q79,4pt_1high,voting_pattern,4pt_1high,none,W3-W6. 4-point scale (1=every election to 4=hardly ever). HIGHER=LESS participation
+1,party_closeness,partisanship,Which party do you feel closest to,q062,categorical,q54,categorical,q47,categorical,q53,categorical,q56,categorical,q54,categorical,party_id,categorical,none,All waves. Categorical variable with country-specific party codes. 90/99=no party. Codes vary by country - not directly comparable across countries but consistent concept
+1,party_closeness_strength,partisanship,How close feel to chosen party,,,,,,,q54,3pt_1high,q56,3pt_1high,q55,3pt_1high,,,,W4+ q54. 3pt (1=very close to 3=just a little). HIGHER=LESS close
+1,party_closeness_w2,partisanship,How close do you feel to the party(answer in Q54)?,,,q55,3pt_alittle,,,,,,,,,,,,
+2,political_interest,political_behavior,Interest in politics/public affairs,,,,,q98,4pt_1high,,,,,,,,,,W3 q98. 4pt_1high. NEW CONCEPT
+2,vote_frequency_lifetime,political_behavior,Voting frequency since eligible,,,,,q73,6pt,,,,,,,,,,W3 q73. 6pt. NEW CONCEPT
+2,vote_nonvoter_reason,political_behavior,Reason for not voting in elections,,,,,q32,categorical,,,,,,,,,,W3 q32. categorical. NEW CONCEPT
+1,discuss_politics,political_interest,How often discuss political matters with family or friends,q023,5pt_1low,q52,3pt_1high,q46,3pt_1high,q46,3pt_1high,q48,3pt_1high,q49,3pt_1high,discuss_politics,3pt_1high,W1,Most waves. W1 (1=never to 5=very often) 5-point HIGHER=MORE. W2 (1=frequently to 3=never) 3-point HIGHER=LESS. W3-W6 (1=frequently to 3=never) HIGHER=LESS. Must reverse W1 only. Different scale lengths require careful harmonization
+1,defer_political_issues_w2,politics,The best way to deal with complicated political issues should be to leave them to the future,,,q73,4pt,,,,,,,,,,,,
+1,follow_international_news,politics,How closely follow major events in foreign countries,,,,,q149,5pt_1high,q150,5pt_1high,,,,,,,,W3+ q149. 5pt (1=very closely to 5=not at all). HIGHER=LESS
+1,follow_news,politics,How often follow political news,q057,6pt_2low,,,q44,varies,q45,5pt_1high,q47,5pt_1high,q48,5pt_1high,follow_news,varies,none,W3-W6. Check exact scales per wave
+1,follow_political_news_w2,politics,How often do you follow news about politics and government,,,q50,5pt_never,,,,,,,,,,,,
+1,govt_impact_daily_life_w2,politics,How much impact do you feel government politics have on your daily life?,,,q53,4pt,,,,,,,,,,,,
+1,gradual_reform_prefer_w2,politics,Political reform should be introduced little-by-little instead of all-at-once,,,q74,4pt_agree,,,,,,,,,,,,
+1,info_source_internet_w2,politics,Major source of info - Internet,,,q51_5,binary_1yes,,,,,,,,,,,,
+1,info_source_magazine_w2,politics,Major source of info - magazine,,,q51_8,binary_1yes,,,,,,,,,,,,
+1,info_source_most_important_w2,politics,From Q51 Which is most important,,,q51a,9pt_cat,,,,,,,,,,,,
+1,info_source_newspaper_w2,politics,Major source of info - Newspaper,,,q51_2,binary_1yes,,,,,,,,,,,,
+1,info_source_other_w2,politics,Major source of info - other,,,q51_7,binary_1yes,,,,,,,,,,,,
+1,info_source_personal_w2,politics,Major source of info - personal contact,,,q51_6,binary_1yes,,,,,,,,,,,,
+1,info_source_radio_w2,politics,Major source of info - Radio,,,q51_3,binary_1yes,,,,,,,,,,,,
+1,info_source_sms_w2,politics,Major source of info - SMS,,,q51_4,binary_1yes,,,,,,,,,,,,
+1,info_source_tv_w2,politics,Major source of info - TV,,,q51_1,binary_1yes,,,,,,,,,,,,
+1,interest_politics,politics,Interest in politics,q056,4pt_1low,q49,4pt_none,q43,4pt_1high,q44,4pt_1high,q46,4pt_1low,q47,4pt_1high,pol_interest,4pt_1high,none,Variable numbers change but content consistent
+1,majoritarian_policy_support_w2,politics,"If a government policy serves the interests of the majority of people, I should support it",,,q72,3pt,,,,,,,,,,,,
+1,political_avoidance_w2,politics,"If possible, I don't want to get involved in political matters",,,q78,4pt,,,,,,,,,,,,
+1,political_complexity_w2,politics,Sometimes politics and government seems so complicated that a person like me can't really understand what is going on,,,q128,4pt_none,,,,,,,,,,,,
+1,political_conflict_acceptable_w2,politics,Conflict among political groups is not a bad thing for our country,,,q71,4pt,,,,,,,,,,,,
+1,political_efficacy_ability,politics,I have ability to participate in politics,,,,,q133,4pt_1agree,q134,4pt_1agree,q141,4pt_1agree,q133,4pt_1agree,pol_efficacy_ability,4pt_1high,W3+,W3+ q133. 4pt agree-disagree. Internal efficacy
+1,political_efficacy_ability_w2,politics,I think I have the ability to participate in politics,,,q127,5pt_1closely,,,,,,,,,,,,
+1,political_efficacy_care,politics,Govt doesn't care what people like me think,,,q106,4pt_1agree,,,,,,,,,,,,W2+. 4pt agree-disagree. External efficacy measure
+1,political_efficacy_understand,politics,Politics/govt sometimes too complicated to understand,,,q103,4pt_1agree,q134,4pt_1agree,q135,4pt_1agree,,,q134,4pt_1agree,pol_efficacy_understand,4pt_1high,W2+,W2+. 4pt agree-disagree. Internal efficacy measure
+1,political_efficacy_voice,politics,People like me don't have influence on govt,q129,4pt_1agree,q105,4pt_1agree,q135,4pt_1agree,q136,4pt_1agree,q143,4pt_1agree,q135,4pt_1agree,pol_efficacy_voice,4pt_1high,W2+,W2+. 4pt agree-disagree. External efficacy measure
+1,political_situation_current_w2,politics,How would you describe the present political situation in our country,,,q48,4pt,,,,,,,,,,,,
+1,politician_conflict_harmful_w2,politics,Open quarrels (criticisms) among politicians are harmful to society,,,q63,4pt,,,,,,,,,,,,
+1,voted_last_election,politics,Voted in last national election,q027,binary_1yes,q38,binary_1no,q33,binary,q33,binary,q33,binary,q33,binary,voted,binary,none,All waves. Yes/No
+1,watch_foreign_media,politics,How often watch foreign programs,,,,,q150,6pt_1high,,,,,,,,,,W3+ q150. 6pt (1=almost daily to 6=never). HIGHER=LESS
+1,army_rule_approval,regime,The army should come in to govern the country,,,q126,5pt_often,,,,,,,,,,,,
+1,army_rule_support,regime,Support for army rule,q123,4pt_1agree,q104,4choice,q131,4pt_1agree,q132,4choice,q139,4pt_1agree,q131,4choice,army_rule,4choice,none,All waves. 4-choice ordinal (1=strongly support to 4=strongly oppose). HIGHER=LESS authoritarian
+1,democracy_scale_current,regime,Democracy scale for country now (1-10),q100,10pt_1low,q96,10pt_1low,q91,10pt_1low,q94,10pt_1low,q101,10pt_1low,q92,10pt_1low,democracy_scale_now,10pt_1high,none,All waves. 10-point scale (1=completely undemocratic to 10=completely democratic). HIGHER=MORE democratic
+1,democracy_scale_future,regime,Expected democracy scale 10 years from now,q102,10pt_1low,,,q93,10pt_1low,q96,10pt_1low,q103,10pt_1low,q94,10pt_1low,democracy_scale_future,10pt_1high,none,All waves. 10-point scale (1=completely undemocratic to 10=completely democratic). HIGHER=MORE democratic
+1,democracy_scale_past,regime,Democracy scale for country 10 years ago,q099,10pt_1low,q95,10pt_1low,q92,10pt_1low,q95,10pt_1low,q102,10pt_1low,q93,10pt_1low,democracy_scale_past,10pt_1high,none,All waves. 10-point scale (1=completely undemocratic to 10=completely democratic). HIGHER=MORE democratic
+1,democracy_suitable,regime,Whether democracy is suitable for our country,q103,10pt_1low,q98,10pt_1low,q94,10pt_1low,q97,10pt_1low,q104,10pt_1low,q95,10pt_1low,democracy_suitable,10pt_1high,none,All waves. 10-point scale (1=completely unsuitable to 10=perfectly suitable). HIGHER=MORE suitable
+1,emergency_disregard_law,regime,OK for govt to disregard law in emergencies,,,,,q148,4pt_1agree,q149,4pt_1agree,,,,,,,,W3+ q148. 4pt agree-disagree. Emergency authoritarianism
+1,emergency_disregard_law_w2,regime,"When the country is facing a difficult situation, it is ok for the government to disregard the law in order to deal with the situation",,,q141,3pt,,,,,,,,,,,,
+1,expert_decide_support,regime,Support for experts making decisions instead of government/elections,q124,4pt_1agree,q105,4choice,q132,4pt_1gree,q133,4choice,q140,4pt_1agree,q132,4choice,expert_decide,4choice,none,All waves. 4-choice ordinal (1=strongly support to 4=strongly oppose). HIGHER=LESS authoritarian
+1,govt_control_ideas,regime,Govt should decide what ideas allowed,,,,,q142,4pt_1agree,q143,4pt_1agree,q150,4pt_1agree,q150,4pt_1agree,dem_prefer,varies,W3+,W3+ q142. 4pt agree-disagree. Authoritarianism
+1,govt_control_ideas_w2,regime,The government should decide whether certain ideas should be allowed to be discussed in society,,,q135,4pt_agree,,,,,,,,,,,,
+1,govt_paternalism_w2,regime,The relationship between the government and the people should be like that between parents and children,,,q64,4pt_agree,,,,,,,,,,,,
+1,govt_satisfaction,regime,Satisfaction with current government,q104,4pt_1low,q99,4pt_1high,q95,4pt_1high,q98,4pt_1high,q105,4pt_1high,q96,4pt_1high,govt_satisfaction,4pt_1high,none,All waves. 4-point scale (1=very satisfied to 4=very dissatisfied). HIGHER=LESS satisfied
+1,judges_follow_executive,regime,Judges should accept executive view,,,,,q144,4pt_1agree,q145,4pt_1agree,q152,4pt_1agree,q152,4pt_1agree,dem_level,varies,W3+,W3+ q144. 4pt agree-disagree. Authoritarianism
+1,judges_follow_executive_w2,regime,"When judges decide important cases, they should accept the view of the executive branch",,,q137,binary_1govern,,,,,,,,,,,,
+1,leaders_ignore_procedure_w2,regime,The most important thing for political leaders is to accomplish their goals even if they have to ignore the established procedure,,,q77,4pt,,,,,,,,,,,,
+1,leaders_like_family_head,regime,Government leaders are like the head of a family; we should all follow their decisions,,,,,q141,4pt_1agree,q142,4pt_1agree,q149,4pt_1agree,q149,4pt_1agree,dem_satisfaction,4pt_1high,W3+,W3+ q141. 4pt agree-disagree. Paternalism/authoritarianism
+1,legislature_check_negative,regime,"If the government is constantly checked by the legislature, it cannot possibly accomplish great things",,,q138,4pt,q145,4pt_1agree,q146,4pt_1agree,q153,4pt_1agree,q153,4pt_1agree,,,,
+1,moral_leaders_can_decide_all,regime,"If we have political leaders who are morally upright, we can let them decide everything",,,q139,5pt,q146,4pt_1agree,q147,4pt_1agree,q154,4pt_1agree,q154,4pt_1agree,,,,
+1,one_party_rule_support,regime,Support for one-party system without opposition,,,q125,4pt_1agree,q130,4pt_1agree,q131,4pt_1agree,q138,4pt_1agree,q130,4pt_1agree,,,,W2+. 4pt agree-disagree (1=strongly agree to 4=strongly disagree). 1=MOST authoritarian
+1,punishment_over_process_w2,regime,Cruel criminals should be punished immediately without regard to time-consuming legal processes,,,q75,4pt,,,,,,,,,,,,
+1,regime_preference_choice_w2,regime,Which of the following statements comes closer to your own view?,,,q122,4pt,,,,,,,,,,,,
+1,regime_statement_choice_w2,regime,Which of these two statements comes closer to your own view,,,q132,4pt,,,,,,,,,,,,
+1,strong_leader_support,regime,Support for strong leader who doesn't bother with elections,q121,4pt_1agree,q103,4choice,,,q130,4choice,q137,4pt_1agree,q129,4pt_1agree,strong_leader,4choice,none,All waves. 4-choice ordinal (1=strongly support to 4=strongly oppose). HIGHER=LESS authoritarian
+1,strongman_support_w2,regime,We should get rid of parliament and elections and have a strong leader decide things,,,q124,4pt,,,,,,,,,,,,
+1,support_govt_always_w2,regime,People should always support the decisions of their government even if they disagree with them,,,q65,4pt_1agree,,,,,,,,,,,,
+1,system_best_own_w2,regime,"Whatever its faults may be, our form of government is still the best for us",,,q129,6pt_daily,,,,,,,,,,,,
+1,system_change_needed,regime,System works fine vs needs change vs should be replaced,,,,,q84,4pt_1fine,q87,4pt_1fine,q90,4pt_1fine,,,,,,W3+ q84. 4pt (1=fine to 4=replace). HIGHER=MORE change wanted
+1,system_deserves_support,regime,System deserves people's support despite problems,,,,,q82,4pt_1agree,q85,4pt_1agree,q88,4pt_1agree,,,,,,W3+ q82. 4pt agree-disagree. System legitimacy
+1,system_prefer_own,regime,Prefer own system to any other,,,,,q83,4pt_1agree,q86,4pt_1agree,q89,4pt_1agree,,,,,,W3+ q83. 4pt agree-disagree. System preference
+1,system_pride,regime,Proud of system of government,,,,,q81,4pt_1agree,q84,4pt_1agree,q87,4pt_1agree,q81,4pt_1agree,,,,W3+ q81. 4pt agree-disagree. System pride
+1,system_solve_problems,regime,System capable of solving country's problems,,,,,q80,4pt_1agree,q83,4pt_1agree,q86,4pt_1agree,q80,4pt_1agree,,,,W3+ q80. 4pt agree-disagree. System efficacy
+1,crime_victim_breakin,safety,Have you been a victim of break-in at your home?,,,q36,"3pt_NA,NY",,,,,,,,,,,,
+1,crime_victim_robbery,safety,Have you been a victim of pick-pocketing/robbery of personal property?,,,q35,"3pt_NA,NY",,,,,,,,,,,,
+1,crime_victim_vehicle_theft,safety,"Have you been a victim of car, motorcycle or bicycle theft?",,,q34,"3pt_NA,NY",,,,,,,,,,,,
+1,crime_victim_violence,safety,Have you been a victim of physical violence?,,,q37,"3pt_NA,NY",,,,,,,,,,,,
+1,safety_comparison_local,safety,Compare safety in your village/town,,,q33,3pt_1more,,,,,,,,,,,,
+1,asked_for_imp_advice,social,How often are you asked to help influence important decisions in other people's favor?,,,q28,4pt_1never,,,,,,,,,,,,
+1,contact_foreigners_w2,social,How often do you have personal contact with foreigners?,,,q69,5pt,,,,,,,,,,,,
+1,contact_frequency,social,People contacted in typical week,,,q27,5pt_ord_1low,q28,continuous,q28,continuous,q28,continuous,q28,continuous,social_contacts,continuous,none,W2-W6. Count variable
+1,have_others_to_influence,social,Have people to ask for important decisions,,,q29,4pt_1nobody,q29,ordinal,q31,ordinal,q31,ordinal,q31,ordinal,social_support,ordinal,none,W2-W6. Ordinal scale (nobody/few/some/lot)
+1,safety_neighborhood,social,How safe is living in this city/town/village,,,q32,4pt_1safe,q42,4pt_1safe,q43,4pt_1safe,q45,4pt_1safe,q46,4pt_1safe,safety_neighborhood,,,W4+ q43. 4pt (1=very safe to 4=very unsafe). HIGHER=LESS safe
+2,community_voice,social_capital,People voice concerns in local affairs,,,,,q114,4pt,,,,,,,,,,W3 q114. 4pt. NEW CONCEPT
+1,friend_for_help,social_capital,I have enough friends to get help,q025,4pt_1high,,,,,,,,,,,,,,
+1,infl_friends_when_trouble,social_capital,I have some friend with influence if trouble,q026,4pt_1high,,,,,,,,,,,,,,
+1,mutual_aid,social_capital,"Helping other today, they will help in future",,,q30,4pt_1agree,,,,,,,,,,,,
+1,network_politics,social_capital,Political views similarity of frequent contacts,,,,,,,,,q30,6cat,q30,6cat,social_network_political,categorical,none,W5-W6 only. Six categories from all similar to don't know their views
+1,network_status,social_capital,Social status of most contacts (higher/lower/equal),,,,,,,,,q29,"3cat1higher,4various",q29,3cat,social_network_status,ordinal,none,W5-W6 only. Three categories comparing social status
+1,org_count_formal,social_capital,Number of formal groups belong to,fgnum,count_0to3,fonum,count_0to3,,,,,,,,,org_count_formal,count,none,W1-W2 only. Count variable 0-3
+1,org_count_private,social_capital,Number of private groups belong to,pgnum,count_0to3,,,,,,,,,,,org_count_private,count,none,W1 only. Count variable 0-3
+1,org_member_1,social_capital,First most important organization belong to,,,q20_1,20cat,q20,21cat,q20,21cat,q18,categorical,q18,21cat,org_import_1,categorical,none,W2 has 20 categories. W3-W6 have 21 categories. Categories mostly align
+1,org_member_2,social_capital,Second most important organization,,,q20_2,20cat,q21,21cat,q21,21cat,q19,21cat,q19,21cat,org_import_2,categorical,none,W2 has 20 categories. W3-W6 have 21 categories
+1,org_member_3,social_capital,Third most important organization,,,q20_3,20cat,q22,21cat,q22,21cat,q20,21cat,q20,21cat,org_import_3,categorical,none,W2 has 20 categories. W3-W6 have 21 categories
+1,org_member_any,social_capital,Member of any organization or group (binary),,,q20,binary_1yes,,,,,,,,,org_member_any,binary,none,W2 only. Binary yes/no question
+1,org_most_active,social_capital,Most actively participated organization in past 12 months,,,,,,,,,q21,21cat,q21,21cat,org_most_active,categorical,none,W5-W6 only. Same 21 categories
+1,political_tolerance,social_capital,Difficulty conversing with those with different political views,,,q31,4pt_1hard,q31,4pt,q32,4pt,q32,4pt,q32,4pt,political_tolerance,4pt_1high,yes_reverse,W2-W6. Four point from very hard to not hard at all. Higher=more tolerant so reverse code
+1,support_give,social_capital,Other people come to you for help,,,,,q30,4pt,q31,4pt,,,,,social_support_give,4pt_1high,none,W3-W4 only. Four point scale from nobody to a lot of people
+1,support_receive,social_capital,Can ask people for help with difficult problems,,,,,q29,4pt,q30,4pt,q31,4pt,q31,4pt,social_support_receive,4pt_1high,none,W3-W6. Four point scale from nobody to a lot of people
+1,trust_fairness,social_capital,People try to take advantage vs be fair,,,,,,,q25,2opt,,,,,trust_fairness,binary,none,W4 only. Binary choice question
+1,trust_first_time,social_capital,Trust in people you meet for the first time,,,,,q27,4pt_1low,,,q27,6pt_1high,q27,6pt_1high,trust_first_time,4pt_1high,W5-W6,W2-W3 and W5-W6. Missing W4. W2-W3 (1=none‚Üí4=great deal) HIGHER=MORE. W5-W6 (1=fully‚Üí6=distrust) HIGHER=LESS. Must reverse W5-W6
+1,trust_gen_binary,social_capital,Most people can be trusted (binary/trichotomous),q024,3opt,q23,2opt_1careful,q23,2opt,q23,2opt,q22,3opt,q22,3opt,trust_general_binary,binary,none,W1 has 3 options (both/it depends). W2-W4 binary. W5-W6 add it depends
+1,trust_gen_trustworthy,social_capital,Most people are trustworthy (agree scale),,,,,q49,4pt,q24,4pt,q23,4pt,q23,4pt,trust_general_scale,4pt_1high,none,W3-W6 only. 1=Strongly agree to 4=Strongly disagree. Need reversal
+1,accommodate_neighbor,traditionalism,Accommodate neighbor in conflict,q066,4pt_1trad,q58,4pt_1agree,,,,,,,,,trad_accommodate,4pt_1high,none,W1-W2 only. Conflict avoidance
+1,avoid_disagreement_conflict,traditionalism,Avoid conflict even with disagreement,,,,,q59,4pt_1agree,q64,4pt_1agree,q66,4pt_1agree,q64,4pt_1agree,trad_avoid_conflict,4pt_1high,none,W3-W6. Interpersonal conflict avoidance
+1,avoid_open_quarrel,traditionalism,Avoid open quarrel to preserve group harmony,,,,,q58,4pt_1agree,q63,4pt_1agree,q65,4pt_1agree,q63,4pt_1agree,trad_harmony_group,4pt_1high,none,W3-W6. Harmony/conflict avoidance
+1,elder_resolve_dispute,traditionalism,Ask elder to resolve quarrels,q071,4pt_1trad,,,,,,,,,,,trad_elder_authority,4pt_1high,none,W1 only. Respect for age/authority
+1,family_over_individual,traditionalism,Put family interests before individual,q069,4pt_1trad,q60,4pt_1agree,q50,4pt_1trad,q55,4pt_1trad,q58,4pt_1trad,q56,4pt_1trad,trad_family_first,4pt_1high,none,All waves. Collectivism - family level
+1,fate_determines_success,traditionalism,Fate determines wealth and success,q067,4pt_1trad,,,q61,4pt_1agree,q66,4pt_1agree,q68,4pt_1agree,q66,4pt_1agree,trad_fate,4pt_1high,none,W1 and W3-W6. Fatalism measure
+1,follow_own_beliefs,traditionalism,Follow own beliefs regardless of others,,,q61,4pt_1agree,,,,,,,,,trad_individualism,4pt_1high,W2,W2 only. REVERSED - agreement=modern/individualistic. Need reversal
+1,future_orientation_w2,traditionalism,We should give up gains in the present for the possibility of larger gains in the future,,,q70,4pt,,,,,,,,,,,,
+1,groups_disrupt_harmony_w2,traditionalism,Harmony of the community will be disrupted if people organize lots of groups,,,q136,4pt,,,,,,,,,,,,
+1,hire_relatives_over_qualified,traditionalism,Hire relatives over qualified stranger,q065,4pt_1trad,,,,,,,,,,,trad_nepotism,4pt_1high,none,W1 only. Measuring nepotism/particularism
+1,immediate_vs_longterm,traditionalism,Long-term relationship over immediate interest,,,q62,4pt_1agree,q53,4pt_1trad,q58,4pt_1trad,q61,4pt_1trad,q59,4pt_1trad,trad_longterm,4pt_1high,none,W2-W6. Relational vs transactional orientation
+1,man_lose_face_female_boss,traditionalism,Man loses face working under female supervisor,q070,4pt_1trad,,,,,,,,,,,trad_gender_hierarchy,4pt_1high,none,W1 only. Gender hierarchy
+1,many_groups_disrupt_harmony,traditionalism,Many groups disrupt community harmony,,,,,q143,4pt_1agree,q144,4pt_1agree,q151,4pt_1agree,q151,4pt_1agree,democracy_scale_future,10pt_1high,W3+,W3+ q143. 4pt agree-disagree. Anti-pluralism
+1,many_ideas_cause_chaos,traditionalism,Too many ways of thinking causes chaos,q139,4pt_1agree,q140,4pt_1agree,q147,4pt_1agree,q148,4pt_1agree,q155,4pt_1agree,q155,4pt_1agree,democracy_scale_past,10pt_1high,W3+,W3+ q147. 4pt agree-disagree. Anti-pluralism
+1,mother_in_law_conflict,traditionalism,Husband should side with mother-in-law over wife,q072,4pt_1trad,,,q56,4pt_1trad,q61,4pt_1trad,q63,4pt_1trad,q61,4pt_1trad,trad_filial_piety,4pt_1high,none,W1 and W3-W6. Filial piety over spousal loyalty
+1,not_insist_opinion_coworkers,traditionalism,Not insist on own opinion if coworkers disagree,q068,4pt_1trad,q59,4pt_1agree,q60,4pt_1agree,q65,4pt_1agree,q67,4pt_1agree,q65,4pt_1agree,trad_conform_work,4pt_1high,none,All waves. Conformity/harmony over individual opinion
+1,not_preoccupied_gains_losses,traditionalism,Not preoccupied with temporary gains and losses,,,,,q63,4pt_1agree,q68,4pt_1agree,,4pt_1agree,,4pt_1agree,trad_not_calculating,4pt_1high,none,W3-W4 only. Long-term orientation variant
+1,not_question_teacher,traditionalism,Students should not question teacher authority,,,q57,4pt_1agree,q57,4pt_1agree,q62,4pt_1agree,q64,4pt_1agree,q62,4pt_1agree,trad_teacher_authority,4pt_1high,none,W2-W6. Hierarchical education
+1,obey_parents_unreasonable,traditionalism,Children should obey parents even if unreasonable,q064,4pt_1trad,q56,4pt_1agree,q55,4pt_1trad,q60,4pt_1trad,q62,4pt_1trad,q60,4pt_1trad,trad_obey_parents,4pt_1high,none,All waves. 1=Strongly agree to 4=Strongly disagree. Higher=less traditional
+1,plan_future_not_immediate,traditionalism,Plan for future not just immediate interest,,,,,q54,4pt_1trad,q59,4pt_1trad,,,,,trad_future_oriented,4pt_1high,none,W3-W4 only. Similar to q53 but slightly different wording
+1,prefer_boy_child,traditionalism,Prefer to have boy over girl if only one child,,,,,q62,4pt_1agree,q67,4pt_1agree,q69,4pt_1agree,q67,4pt_1agree,trad_son_preference,4pt_1high,none,W3-W6. Gender preference/patrilineal values
+1,religious_authorities_laws,traditionalism,Govt should consult religious authorities on laws,,,,,,,q140,4pt_1agree,q147,4pt_1agree,q147,4pt_1agree,trad_religious_auth,4pt_1high,none,W4+ q140. 4pt agree-disagree. Religious traditionalism
+1,sacrifice_for_nation_w2,traditionalism,"For the sake of the national community/society, the individual should be prepared to sacrifice",,,q76,4pt,,,,,,,,,,,,
+1,sacrifice_individual_group,traditionalism,Sacrifice individual for group collective interest,,,,,q51,4pt_1trad,q56,4pt_1trad,q59,4pt_1trad,q57,4pt_1trad,trad_collectivism_group,4pt_1high,none,W3-W6. Collectivism - group level
+1,sacrifice_individual_nation,traditionalism,Sacrifice individual for national interest,,,,,q52,4pt_1trad,q57,4pt_1trad,q60,4pt_1trad,q58,4pt_1trad,trad_collectivism_nation,4pt_1high,none,W3-W6. Collectivism - national level
+1,women_politics_less,traditionalism,Women should not be involved in politics as much as men,,,,,q139,4pt_1agree,q139,4pt_1agree,q146,4pt_1agree,q146,4pt_1agree,democracy_suitable,10pt_1high,W3+,W3+ q139. 4pt agree-disagree. Gender attitudes
+1,gen_trust_scale,trust,Most people are trustworthy (scale),,,,,,,q24,4pt,,,q23,4pt,gen_trust_scale,4pt_1high,none,W4 and W6 only - check exact wording
+1,trust_civil_service,trust,Trust in civil service/bureaucracy,q011,4pt_0low,q12,4pt_1none,q12,4pt_1high,q12,4pt_rev,q12,6pt,q12,4pt,trust_civil_service,4pt_1high,W4,All waves present
+1,trust_const_court_Thai,trust,Trust constitutional courts (Thailand only),q018_8,4pt_1none,,,,,,,,,,,,,,Trust constitutional courts (Thailand only)
+1,trust_corr_comm_Thai,trust,Trust corruption commission (Thailand only,q018_9,4pt_1none,,,,,,,,,,,,,,Trust corruption commission (Thailand only
+1,trust_country_China,trust,Trust our country (China only),q018_5,4pt_1none,,,,,,,,,,,,,,Trust our country (China only)
+1,trust_courts,trust,Trust in courts/judicial system,q007,4pt_0low,q8,4pt_1none,q8,4pt_1high,q8,4pt_rev,q8,6pt,q8,4pt,trust_courts,4pt_1high,W4,All waves present. W3/W5 need collapsing
+1,trust_election_commission,trust,Trust in election commission,q017,4pt_0low,q18 ,4pt_1none,q16,4pt_1high,q16,4pt_rev,q16,6pt_high,q16,4pt,trust_elec_comm,4pt_1high,W4,W2-W5 newspaper/TV; W6 election commission - NOT comparable
+1,trust_executive,trust,Trust in executive/president/PM,,,q7,4pt_1none,q7,4pt_1high,q7,4pt_rev,q7,6pt,q7,4pt,trust_exec,4pt_1high,W4,All waves present. W3/W5 use 6pt scale - need to collapse
+1,trust_first_meet,trust,Trust in people you meet first time,,,,,q27,6pt,,,q27,6pt,q27,6pt,trust_first_meet,6pt_1high,none,W2-W3 and W5-W6. Missing W4
+1,trust_foreign_entr_China,trust,Trust foreign enterprises (China only),q018_4,4pt_1none,,,,,,,,,,,,,,Trust foreign enterprises (China only)
+1,trust_govt_do_right,trust,Trust people who run govt to do what is right,,,,,,,q137,4pt_1agree,q144,4pt_1agree,q136,4pt_1agree,trust_govt_right,4pt_1high,none,W4+ q137. 4pt agree-disagree. Diffuse support
+1,trust_govt_do_right_w2,trust,You can generally trust the people who run our government to do what is right (HK: Hong Kong government),,,q130,4pt,,,,,,,,,,,,
+2,trust_govt_leaders,trust,Trust people who run government to do right,,,,,q136,4pt_1agree,,,,,,,,,,W3 q136. 4pt_1agree. NEW CONCEPT
+1,trust_internet_news,trust,Trust in internet news,,,,,,,,,q55,6pt_1high,,,,,,
+1,trust_local_govt,trust,Trust in local government,q014,4pt_0low,q15,4pt_1none,q15,4pt_1high,q15,4pt_rev,q15,6pt,q15,4pt,trust_local_govt,4pt_1high,W4,*** CRITICAL for Paper 5 - LOCAL TRUST ***
+1,trust_local_officials_w2,trust,"Generally speaking, we can trust the local government officials to do the right things",,,q131,5pt_good,,,,,,,,,,,,
+1,trust_military,trust,Trust in military/armed forces,q012,4pt_0low,q13,4pt_1none,q13,4pt_1high,q13,4pt_rev,q13,6pt,q13,4pt,trust_military,4pt_1high,W4,All waves present
+1,trust_mps_Thai,trust,Trust local MPs (Thailand only),q018_7,4pt_1none,,,,,,,,,,,,,,Trust local MPs (Thailand only)
+1,trust_national_govt,trust,Trust in national government,q008,4pt_0low,q9,4pt_1none,q9,4pt_1high,q9,4pt_rev,q9,6pt,q9,4pt,trust_natl_govt,4pt_1high,W4,All waves present. This is KEY variable for Paper 5
+1,trust_neighbors,trust,Trust in neighbors,,,q25,4pt_1none,q25,4pt_1high,q27,4pt_1high,q25,6pt,q25,6pt,trust_neighbors,6pt_1high,none,W2-W3 and W5-W6. Missing W4
+1,trust_newspapers,trust,Trust in newspapers,q015,4pt_1low,q16 ,4pt_1none,q16,4pt_1high,q16 ,4pt_1high,q54,6pt_1high,,,,,,"W2. 4pt trust scale (1=None at all to 4=Great deal). Note: W2 q18 is newspapers, not NGOs"
+1,trust_ngos,trust,Trust in NGOs/civil society,q018,4pt_0low,q19,4pt_1none,q19,4pt_1high,q19,4pt_1high,q17,6pt_1high,q17,4pt,trust_ngos,4pt_1high,W4,W2-W5 TV; W6 NGOs - W6 comparable only for institutional substitution
+1,trust_others_interact,trust,Trust in people you interact with,,,q26,4pt_1none,q26,4pt_1high,q28,4pt_1high,q26,6pt,q26,6pt,trust_others,6pt_1high,none,W2-W3 and W5-W6. Missing W4
+1,trust_parliament,trust,Trust in parliament/legislature,q010,4pt_0low,q11,4pt_1none,q11,4pt_1high,q11,4pt_rev,q11,6pt,q11,4pt,trust_parliament,4pt_1high,W4,All waves present
+1,trust_parties,trust,Trust in political parties,q009,4pt_0low,q10,4pt_1none,q10,4pt_1high,q10,4pt_rev,q10,6pt,q10,4pt,trust_parties,4pt_1high,W4,All waves present
+1,trust_police,trust,Trust in police,q013,4pt_0low,q14,4pt_1none,q14,4pt_1high,q14,4pt_rev,q14,6pt,q14,4pt,trust_police,4pt_1high,W4,All waves present
+1,trust_police_China,trust,Trust local police station (China only),q018_1,4pt_1none,,,,,,,,,,,,,,Trust local police station (China only)
+1,trust_private_entr_China,trust,Trust private-enterprises (China only),q018_3,4pt_1none,,,,,,,,,,,,,,Trust private-enterprises (China only)
+1,trust_radio_Mong,trust,Trust in radio (Mongolia only),q018_6,4pt_1none,,,,,,,,,,,,,,Trust in radio (Mongolia only)
+1,trust_relatives,trust,Trust in relatives,,,q24,4pt_1none,q24,4pt_1high,q26,4pt_1high,q24,6pt,q24,6pt,trust_relatives,6pt_1high,none,W2-W3 and W5-W6. Missing W4
+1,trust_state_entr_China,trust,Trust state-owned enterprises (China only),q018_2,4pt_1none,,,,,,,,,,,,,,Trust state-owned enterprises (China only)
+1,trust_television,trust,Trust in television,q016,4pt_1low,q17 ,4pt_1none,q17,4pt_1high,q17,4pt_1high,q53,6pt_1high,,,trust_television,,,W2. 4pt trust scale (1=None at all to 4=Great deal). W2 only - distinct media trust
+2,asian_values_battery,values,Asian values agreement battery intro,,,,,q138,4pt_1agree,,,,,,,,,,W3 q138. 4pt_1agree. NEW CONCEPT
+1,govt_ensures_affordable_housing,welfare,Govt ensure affordable housing,,,,,,,,,q160b,4pt_1all_resp,q160b,4pt_1all_resp,govt_assure_afford_housing,,,
+1,govt_ensures_basic_medical_care,welfare,Govt ensures basic medical care,,,,,,,,,q160c,4pt_1all_resp,q160c,4pt_1all_resp,govt_assumer_basic_med,,,
+1,govt_ensures_basic_necessities,welfare,Govt ensure basic like food & shelter,,,,,,,,,q160d,4pt_1all_resp,q160d,4pt_1all_resp,govt_assure_basic_necessities,,,
+1,minority_welfare_equal_w2,welfare,Their basic well-being should be taken care of by the government to the same extent as other citizens,,,q150,binary,,,,,,,,,,,,

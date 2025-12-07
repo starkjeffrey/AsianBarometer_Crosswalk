@@ -3,14 +3,14 @@ library(here)
 
 # Get waves 1-5
 wave_dirs <- list.files(
-  here("data/raw"), 
-  pattern = "^wave[1-5]$", 
+  here("data/raw"),
+  pattern = "^wave[1-5]$",
   full.names = TRUE
 )
 
 wave_files <- map(wave_dirs, ~{
   list.files(.x, pattern = "\\.sav$", full.names = TRUE)
-}) %>% 
+}) %>%
   unlist()
 
 # Add wave 6 Cambodia
@@ -22,3 +22,4 @@ wave_files <- c(wave_files, wave6_cambodia)
 # Check
 length(wave_files)
 wave_files
+
