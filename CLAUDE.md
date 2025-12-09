@@ -41,6 +41,51 @@ source("scripts/verify_harmonization.R")
 source("scripts/05_trust_scale_comparison.R")
 ```
 
+### Automated Crosswalk Extension (Fuzzy + NLP Matching)
+
+The crosswalk can be automatically extended using fuzzy string matching (R) and NLP-based semantic matching (Python).
+
+**Option 1: Shell Script (Recommended)**
+```bash
+# Install Python dependencies first
+pip install -r requirements.txt
+
+# Run full pipeline
+./scripts/run_crosswalk_extension.sh
+
+# Run with options
+./scripts/run_crosswalk_extension.sh --skip-inventory  # Skip variable inventory step
+./scripts/run_crosswalk_extension.sh --python-only     # Only run NLP matching
+./scripts/run_crosswalk_extension.sh --install-deps    # Install Python deps first
+```
+
+**Option 2: R Script**
+```r
+# Run complete pipeline from R
+source("scripts/run_crosswalk_extension_pipeline.R")
+```
+
+**Option 3: Makefile**
+```bash
+make extend        # Run full pipeline
+make nlp           # Only Python NLP matching
+make fuzzy         # Only R fuzzy matching
+make install-deps  # Install Python dependencies
+make help          # Show all targets
+```
+
+**Pipeline Steps:**
+1. `00_create_variable_inventory.R` - Extract variable metadata from SPSS files
+2. `01_fuzzy_label_matching.R` - Find similar variables via Jaro-Winkler string matching
+3. `02_advanced_nlp_matching.py` - Semantic similarity via sentence-transformers
+4. `03_expand_crosswalk_intelligently.R` - Create new crosswalk entries from matches
+
+**Output Files:**
+- `docs/high_similarity_pairs.csv` - Fuzzy matches (85%+ similarity)
+- `docs/crosswalk_nlp_enhanced.csv` - NLP-enhanced crosswalk with domain classification
+- `docs/semantic_similarity_pairs.csv` - Semantic matches (cosine similarity >0.7)
+- `abs_harmonization_crosswalk_EXPANDED.csv` - Expanded crosswalk
+
 ### Interactive Exploration
 ```r
 # Render interactive Quarto dashboard for exploring trust variables

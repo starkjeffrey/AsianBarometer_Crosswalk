@@ -121,15 +121,70 @@ if USE_ADVANCED:
     print("Computing semantic embeddings...")
     print("  (Using sentence-transformers for meaning-based matching)")
 
-    # Load pre-trained model (optimized for semantic similarity)
-    model = SentenceTransformer('all-MiniLM-L6-v2')
+    try:
+        # Load pre-trained model (optimized for semantic similarity)
+        # Try offline mode first in case model is cached
+        import os
+        os.environ['HF_HUB_OFFLINE'] = '1'
+        try:
+            model = SentenceTransformer('all-MiniLM-L6-v2')
+        except Exception:
+            # If offline mode fails, try online
+            os.environ['HF_HUB_OFFLINE'] = '0'
+            model = SentenceTransformer('all-MiniLM-L6-v2')
 
-    # Generate embeddings for all labels
-    labels_list = unique_vars['label_clean'].tolist()
-    embeddings = model.encode(labels_list, show_progress_bar=True)
+        # Generate embeddings for all labels
+        labels_list = unique_vars['label_clean'].tolist()
+        embeddings = model.encode(labels_list, show_progress_bar=True)
 
-    print(f"  ✓ Generated embeddings: {embeddings.shape}\n")
+        print(f"  ✓ Generated embeddings: {embeddings.shape}\n")
+    except Exception as e:
+        print(f"\n  ⚠️  Could not load transformer model: {str(e)[:100]}")
+        print("  Falling back to TF-IDF based matching...\n")
+        USE_ADVANCED = False
 
+        # Use TF-IDF as fallback
+        from sklearn.feature_extraction.text import TfidfVectorizer
+        from sklearn.metrics.pairwise import cosine_similarity as cs
+
+        labels_list = unique_vars['label_clean'].tolist()
+        vectorizer = TfidfVectorizer(ngram_range=(1, 2), min_df=1)
+        tfidf_matrix = vectorizer.fit_transform(labels_list)
+        similarity_matrix = cs(tfidf_matrix)
+
+        # Create similarity dataframe using TF-IDF
+        similarity_df_list = []
+        for i in range(len(unique_vars)):
+            var1 = unique_vars.iloc[i]['variable']
+            label1 = unique_vars.iloc[i]['label_clean']
+            sims = similarity_matrix[i].toarray().flatten() if hasattr(similarity_matrix[i], 'toarray') else similarity_matrix[i]
+            high_sim_indices = np.where((sims > 0.5) & (np.arange(len(sims)) != i))[0]
+            for j in high_sim_indices:
+                var2 = unique_vars.iloc[j]['variable']
+                label2 = unique_vars.iloc[j]['label_clean']
+                sim_score = sims[j]
+                similarity_df_list.append({
+                    'var1': var1, 'var2': var2,
+                    'label1': label1[:100], 'label2': label2[:100],
+                    'similarity': sim_score,
+                    'waves1': unique_vars.iloc[i]['wave'],
+                    'waves2': unique_vars.iloc[j]['wave']
+                })
+        similar_vars = pd.DataFrame(similarity_df_list)
+        if len(similar_vars) > 0:
+            similar_vars = similar_vars.sort_values('similarity', ascending=False)
+            similar_vars['var_pair'] = similar_vars.apply(
+                lambda row: tuple(sorted([row['var1'], row['var2']])), axis=1
+            )
+            similar_vars = similar_vars.drop_duplicates(subset=['var_pair'])
+        print(f"  ✓ TF-IDF matching complete: {len(similar_vars):,} pairs found\n")
+
+        # Skip embedding-based sections since we're using TF-IDF fallback
+        unique_vars['cluster_id'] = -1  # No clustering in fallback mode
+        concept_groups = pd.DataFrame()
+
+# Only run embedding-based analysis if we successfully loaded the model
+if USE_ADVANCED:
     # ---------------------
     # 5. Compute Semantic Similarity
     # ---------------------
@@ -222,9 +277,11 @@ if USE_ADVANCED:
     print(f"  ✓ Created {len(concept_groups):,} multi-variable concept groups\n")
 
 else:
-    print("⚠️  Advanced NLP features unavailable - using basic matching\n")
-    similar_vars = pd.DataFrame()
-    concept_groups = pd.DataFrame()
+    # Only reset if we haven't already done TF-IDF fallback
+    if 'similar_vars' not in dir() or similar_vars is None:
+        print("⚠️  Advanced NLP features unavailable - using basic matching\n")
+        similar_vars = pd.DataFrame()
+        concept_groups = pd.DataFrame()
 
 # ---------------------
 # 8. Domain Classification
@@ -326,10 +383,11 @@ crosswalk_enhanced = crosswalk_enhanced.sort_values(
 crosswalk_enhanced.to_csv(output_dir / "crosswalk_nlp_enhanced.csv", index=False)
 print(f"  ✓ crosswalk_nlp_enhanced.csv ({len(crosswalk_enhanced)} variables)")
 
-# 2. Semantic similarity pairs (if available)
-if USE_ADVANCED and len(similar_vars) > 0:
+# 2. Semantic/TF-IDF similarity pairs (if available)
+if 'similar_vars' in dir() and len(similar_vars) > 0:
     similar_vars.to_csv(output_dir / "semantic_similarity_pairs.csv", index=False)
-    print(f"  ✓ semantic_similarity_pairs.csv ({len(similar_vars)} pairs)")
+    match_type = "semantic" if USE_ADVANCED else "TF-IDF"
+    print(f"  ✓ semantic_similarity_pairs.csv ({len(similar_vars)} {match_type} pairs)")
 
 # 3. Concept clusters (if available)
 if USE_ADVANCED and len(concept_groups) > 0:
@@ -343,14 +401,15 @@ detailed_view.to_csv(output_dir / "variables_by_domain_detailed.csv", index=Fals
 print(f"  ✓ variables_by_domain_detailed.csv ({len(detailed_view)} variables)")
 
 # 5. Summary statistics
+match_type_label = 'Semantic similarity pairs (>0.7)' if USE_ADVANCED else 'TF-IDF similarity pairs (>0.5)'
 summary = pd.DataFrame({
     'metric': [
         'Total q-variables',
         'Unique variables',
         'Variables in 2+ waves',
         'Variables in all 6 waves',
-        'Semantic similarity pairs (>0.7)' if USE_ADVANCED else 'N/A',
-        'Concept clusters identified' if USE_ADVANCED else 'N/A',
+        match_type_label,
+        'Concept clusters identified' if USE_ADVANCED else 'N/A (TF-IDF mode)',
         'Domains identified',
     ],
     'count': [
@@ -358,7 +417,7 @@ summary = pd.DataFrame({
         len(unique_vars),
         len(unique_vars[unique_vars['n_waves'] >= 2]),
         len(unique_vars[unique_vars['n_waves'] == 6]),
-        len(similar_vars) if USE_ADVANCED else 0,
+        len(similar_vars) if 'similar_vars' in dir() else 0,
         unique_vars['cluster_id'].nunique() if USE_ADVANCED else 0,
         len(domain_counts),
     ]
